@@ -4,7 +4,7 @@ Automatically organized collection of LeetCode solutions.
 
 ## 📊 Statistics
 
-- **Total Problems Solved:** 22
+- **Total Problems Solved:** 23
 - **Current Streak:** 1 days
 - **Longest Streak:** 1 days
 
@@ -12,11 +12,11 @@ Automatically organized collection of LeetCode solutions.
 
 #### By Language
 - Sql: 17
-- Java: 5
+- Java: 6
 
 #### By Topic
 - Database: 17
-- Array: 2
+- Array: 3
 - Two-pointers: 1
 - Hash-table: 1
 - String: 1
@@ -39,6 +39,7 @@ Automatically organized collection of LeetCode solutions.
 | 185 | Department Top Three Salaries | database | hard | sql | [Solution](solutions/sql/database/hard/185_department-top-three-salaries_database_hard.sql) |
 | 189 | Rotate Array | array | medium | java | [Solution](solutions/java/array/medium/189_rotate-array_array_medium.java) |
 | 196 | Delete Duplicate Emails | database | easy | sql | [Solution](solutions/sql/database/easy/196_delete-duplicate-emails_database_easy.sql) |
+| 229 | Majority Element Ii | array | medium | java | [Solution](solutions/java/array/medium/229_majority-element-ii_array_medium.java) |
 | 242 | Valid Anagram | hash-table | easy | java | [Solution](solutions/java/hash-table/easy/242_valid-anagram_hash-table_easy.java) |
 | 586 | Customer Placing The Largest Number Of Orders | database | easy | sql | [Solution](solutions/sql/database/easy/586_customer-placing-the-largest-number-of-orders_database_easy.sql) |
 | 595 | Big Countries | database | easy | sql | [Solution](solutions/sql/database/easy/595_big-countries_database_easy.sql) |
@@ -47,23 +48,3 @@ Automatically organized collection of LeetCode solutions.
 | 1724 | Customer Who Visited But Did Not Make Any Transactions | database | easy | sql | [Solution](solutions/sql/database/easy/1724_customer-who-visited-but-did-not-make-any-transactions_database_easy.sql) |
 | 1811 | Fix Names In A Table | database | easy | sql | [Solution](solutions/sql/database/easy/1811_fix-names-in-a-table_database_easy.sql) |
 | 1877 | Find Followers Count | database | easy | sql | [Solution](solutions/sql/database/easy/1877_find-followers-count_database_easy.sql) |
-
-<!---LeetCode Topics Start-->
-# LeetCode Topics
-## Array
-|  |
-| ------- |
-| [0229-majority-element-ii](https://github.com/imrajeevnayan/leetcode-solution/tree/master/0229-majority-element-ii) |
-## Hash Table
-|  |
-| ------- |
-| [0229-majority-element-ii](https://github.com/imrajeevnayan/leetcode-solution/tree/master/0229-majority-element-ii) |
-## Sorting
-|  |
-| ------- |
-| [0229-majority-element-ii](https://github.com/imrajeevnayan/leetcode-solution/tree/master/0229-majority-element-ii) |
-## Counting
-|  |
-| ------- |
-| [0229-majority-element-ii](https://github.com/imrajeevnayan/leetcode-solution/tree/master/0229-majority-element-ii) |
-<!---LeetCode Topics End-->
