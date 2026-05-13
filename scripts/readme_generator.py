@@ -68,14 +68,19 @@ class ReadmeGenerator:
                     # Format: <id>_<name>_<topic>_<diff>.<ext>
                     parts = file.rsplit(".", 1)[0].split("_")
                     if len(parts) >= 4:
+                        # Normalize path to use forward slashes for consistent splitting
+                        path_parts = path.replace("\\", "/").split("/")
+                        lang = path_parts[1] if len(path_parts) > 1 else "other"
+                        
                         problems.append({
                             "id": parts[0],
                             "title": parts[1].replace("-", " ").title(),
                             "topic": parts[2],
                             "difficulty": parts[3],
-                            "lang": root.split(os.sep)[1],
+                            "lang": lang,
                             "path": path
                         })
+
         return problems
 
 if __name__ == "__main__":

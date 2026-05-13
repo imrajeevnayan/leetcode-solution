@@ -22,7 +22,7 @@ class Organizer:
         self.client = LeetCodeClient()
         self.tracker = StreakTracker()
         self.readme = ReadmeGenerator()
-        self.ignored_dirs = {".git", ".github", "scripts", "stats", "solutions", ".gemini"}
+        self.ignored_dirs = {".git", ".github", "scripts", "stats", "solutions", ".gemini", "__pycache__"}
         self.ignored_files = {"README.md", "requirements.txt", "implementation_plan.md", ".gitignore"}
 
     def run(self):
@@ -55,8 +55,10 @@ class Organizer:
             
         metadata = self.client.fetch_problem_metadata(slug)
         if not metadata:
+            print(f"  Could not fetch metadata for {slug}. Skipping folder.")
             return 0
             
+        print(f"  Found metadata for: {metadata['title']}")
         count = 0
         for file in os.listdir(dir_name):
             ext = os.path.splitext(file)[1]
@@ -86,8 +88,10 @@ class Organizer:
             
         metadata = self.client.fetch_problem_metadata(slug)
         if not metadata:
+            print(f"  Could not fetch metadata for {slug}. Skipping file.")
             return 0
             
+        print(f"  Found metadata for: {metadata['title']}")
         if self._move_file(file_name, metadata, ext):
             return 1
         return 0

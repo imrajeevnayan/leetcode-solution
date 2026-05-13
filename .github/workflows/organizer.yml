@@ -4,7 +4,11 @@ on:
   push:
     branches:
       - main
-  workflow_dispatch: # Allow manual trigger
+  workflow_dispatch:
+
+concurrency:
+  group: ${{ github.workflow }}-${{ github.ref }}
+  cancel-in-progress: false
 
 jobs:
   organize:
@@ -40,5 +44,6 @@ jobs:
             echo "No changes to commit"
           else
             git commit -m "Auto-organized solutions and updated stats"
+            git pull --rebase origin main
             git push
           fi
