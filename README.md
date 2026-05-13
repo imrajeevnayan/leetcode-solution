@@ -27,3 +27,11 @@ Automatically organized collection of LeetCode solutions.
 | 182 | Duplicate Emails | database | easy | sql | [Solution](solutions/sql/database/easy/182_duplicate-emails_database_easy.sql) |
 | 185 | Department Top Three Salaries | database | hard | sql | [Solution](solutions/sql/database/hard/185_department-top-three-salaries_database_hard.sql) |
 | 595 | Big Countries | database | easy | sql | [Solution](solutions/sql/database/easy/595_big-countries_database_easy.sql) |
+
+<!---LeetCode Topics Start-->
+# LeetCode Topics
+## Database
+|  |
+| ------- |
+| [0183-customers-who-never-order](https://github.com/imrajeevnayan/leetcode-solution/tree/master/0183-customers-who-never-order) |
+<!---LeetCode Topics End-->
