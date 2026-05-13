@@ -4,7 +4,7 @@ Automatically organized collection of LeetCode solutions.
 
 ## 📊 Statistics
 
-- **Total Problems Solved:** 24
+- **Total Problems Solved:** 25
 - **Current Streak:** 1 days
 - **Longest Streak:** 1 days
 
@@ -12,11 +12,11 @@ Automatically organized collection of LeetCode solutions.
 
 #### By Language
 - Sql: 17
-- Java: 7
+- Java: 8
 
 #### By Topic
 - Database: 17
-- Array: 4
+- Array: 5
 - Two-pointers: 1
 - Hash-table: 1
 - String: 1
@@ -26,6 +26,7 @@ Automatically organized collection of LeetCode solutions.
 | ID | Title | Topic | Difficulty | Language | Link |
 |----|-------|-------|------------|----------|------|
 | 20 | Valid Parentheses | string | easy | java | [Solution](solutions/java/string/easy/20_valid-parentheses_string_easy.java) |
+| 88 | Merge Sorted Array | array | easy | java | [Solution](solutions/java/array/easy/88_merge-sorted-array_array_easy.java) |
 | 125 | Valid Palindrome | two-pointers | easy | java | [Solution](solutions/java/two-pointers/easy/125_valid-palindrome_two-pointers_easy.java) |
 | 169 | Majority Element | array | easy | java | [Solution](solutions/java/array/easy/169_majority-element_array_easy.java) |
 | 175 | Combine Two Tables | database | easy | sql | [Solution](solutions/sql/database/easy/175_combine-two-tables_database_easy.sql) |
