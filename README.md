@@ -39,5 +39,6 @@ Automatically organized collection of LeetCode solutions.
 ## Database
 |  |
 | ------- |
+| [0175-combine-two-tables](https://github.com/imrajeevnayan/leetcode-solution/tree/master/0175-combine-two-tables) |
 | [1581-customer-who-visited-but-did-not-make-any-transactions](https://github.com/imrajeevnayan/leetcode-solution/tree/master/1581-customer-who-visited-but-did-not-make-any-transactions) |
 <!---LeetCode Topics End-->
