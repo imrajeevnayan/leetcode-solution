@@ -42,4 +42,5 @@ Automatically organized collection of LeetCode solutions.
 |  |
 | ------- |
 | [0183-customers-who-never-order](https://github.com/imrajeevnayan/leetcode-solution/tree/master/0183-customers-who-never-order) |
+| [1729-find-followers-count](https://github.com/imrajeevnayan/leetcode-solution/tree/master/1729-find-followers-count) |
 <!---LeetCode Topics End-->
