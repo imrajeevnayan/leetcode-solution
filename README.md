@@ -28,3 +28,11 @@ Automatically organized collection of LeetCode solutions.
 | 183 | Customers Who Never Order | database | easy | sql | [Solution](solutions/sql/database/easy/183_customers-who-never-order_database_easy.sql) |
 | 185 | Department Top Three Salaries | database | hard | sql | [Solution](solutions/sql/database/hard/185_department-top-three-salaries_database_hard.sql) |
 | 595 | Big Countries | database | easy | sql | [Solution](solutions/sql/database/easy/595_big-countries_database_easy.sql) |
+
+<!---LeetCode Topics Start-->
+# LeetCode Topics
+## Database
+|  |
+| ------- |
+| [1148-article-views-i](https://github.com/imrajeevnayan/leetcode-solution/tree/master/1148-article-views-i) |
+<!---LeetCode Topics End-->
