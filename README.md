@@ -30,4 +30,5 @@ Automatically organized collection of LeetCode solutions.
 |  |
 | ------- |
 | [0177-nth-highest-salary](https://github.com/imrajeevnayan/leetcode-solution/tree/master/0177-nth-highest-salary) |
+| [0178-rank-scores](https://github.com/imrajeevnayan/leetcode-solution/tree/master/0178-rank-scores) |
 <!---LeetCode Topics End-->
