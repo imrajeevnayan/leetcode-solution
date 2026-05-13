@@ -4,17 +4,17 @@ Automatically organized collection of LeetCode solutions.
 
 ## 📊 Statistics
 
-- **Total Problems Solved:** 6
+- **Total Problems Solved:** 7
 - **Current Streak:** 1 days
 - **Longest Streak:** 1 days
 
 ### 🧩 Breakdown
 
 #### By Language
-- Sql: 6
+- Sql: 7
 
 #### By Topic
-- Database: 6
+- Database: 7
 
 ## 📂 Solutions
 
@@ -24,13 +24,6 @@ Automatically organized collection of LeetCode solutions.
 | 177 | Nth Highest Salary | database | medium | sql | [Solution](solutions/sql/database/medium/177_nth-highest-salary_database_medium.sql) |
 | 178 | Rank Scores | database | medium | sql | [Solution](solutions/sql/database/medium/178_rank-scores_database_medium.sql) |
 | 181 | Employees Earning More Than Their Managers | database | easy | sql | [Solution](solutions/sql/database/easy/181_employees-earning-more-than-their-managers_database_easy.sql) |
+| 182 | Duplicate Emails | database | easy | sql | [Solution](solutions/sql/database/easy/182_duplicate-emails_database_easy.sql) |
 | 185 | Department Top Three Salaries | database | hard | sql | [Solution](solutions/sql/database/hard/185_department-top-three-salaries_database_hard.sql) |
 | 595 | Big Countries | database | easy | sql | [Solution](solutions/sql/database/easy/595_big-countries_database_easy.sql) |
-
-<!---LeetCode Topics Start-->
-# LeetCode Topics
-## Database
-|  |
-| ------- |
-| [0182-duplicate-emails](https://github.com/imrajeevnayan/leetcode-solution/tree/master/0182-duplicate-emails) |
-<!---LeetCode Topics End-->
