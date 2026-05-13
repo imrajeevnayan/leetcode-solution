@@ -25,3 +25,11 @@ Automatically organized collection of LeetCode solutions.
 | 178 | Rank Scores | database | medium | sql | [Solution](solutions/sql/database/medium/178_rank-scores_database_medium.sql) |
 | 185 | Department Top Three Salaries | database | hard | sql | [Solution](solutions/sql/database/hard/185_department-top-three-salaries_database_hard.sql) |
 | 595 | Big Countries | database | easy | sql | [Solution](solutions/sql/database/easy/595_big-countries_database_easy.sql) |
+
+<!---LeetCode Topics Start-->
+# LeetCode Topics
+## Database
+|  |
+| ------- |
+| [0181-employees-earning-more-than-their-managers](https://github.com/imrajeevnayan/leetcode-solution/tree/master/0181-employees-earning-more-than-their-managers) |
+<!---LeetCode Topics End-->
