@@ -36,3 +36,11 @@ Automatically organized collection of LeetCode solutions.
 | 1258 | Article Views I | database | easy | sql | [Solution](solutions/sql/database/easy/1258_article-views-i_database_easy.sql) |
 | 1724 | Customer Who Visited But Did Not Make Any Transactions | database | easy | sql | [Solution](solutions/sql/database/easy/1724_customer-who-visited-but-did-not-make-any-transactions_database_easy.sql) |
 | 1877 | Find Followers Count | database | easy | sql | [Solution](solutions/sql/database/easy/1877_find-followers-count_database_easy.sql) |
+
+<!---LeetCode Topics Start-->
+# LeetCode Topics
+## Database
+|  |
+| ------- |
+| [1667-fix-names-in-a-table](https://github.com/imrajeevnayan/leetcode-solution/tree/master/1667-fix-names-in-a-table) |
+<!---LeetCode Topics End-->
