@@ -4,17 +4,17 @@ Automatically organized collection of LeetCode solutions.
 
 ## 📊 Statistics
 
-- **Total Problems Solved:** 8
+- **Total Problems Solved:** 9
 - **Current Streak:** 1 days
 - **Longest Streak:** 1 days
 
 ### 🧩 Breakdown
 
 #### By Language
-- Sql: 8
+- Sql: 9
 
 #### By Topic
-- Database: 8
+- Database: 9
 
 ## 📂 Solutions
 
@@ -28,11 +28,4 @@ Automatically organized collection of LeetCode solutions.
 | 183 | Customers Who Never Order | database | easy | sql | [Solution](solutions/sql/database/easy/183_customers-who-never-order_database_easy.sql) |
 | 185 | Department Top Three Salaries | database | hard | sql | [Solution](solutions/sql/database/hard/185_department-top-three-salaries_database_hard.sql) |
 | 595 | Big Countries | database | easy | sql | [Solution](solutions/sql/database/easy/595_big-countries_database_easy.sql) |
-
-<!---LeetCode Topics Start-->
-# LeetCode Topics
-## Database
-|  |
-| ------- |
-| [1148-article-views-i](https://github.com/imrajeevnayan/leetcode-solution/tree/master/1148-article-views-i) |
-<!---LeetCode Topics End-->
+| 1258 | Article Views I | database | easy | sql | [Solution](solutions/sql/database/easy/1258_article-views-i_database_easy.sql) |
