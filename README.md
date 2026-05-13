@@ -4,17 +4,17 @@ Automatically organized collection of LeetCode solutions.
 
 ## 📊 Statistics
 
-- **Total Problems Solved:** 11
+- **Total Problems Solved:** 12
 - **Current Streak:** 1 days
 - **Longest Streak:** 1 days
 
 ### 🧩 Breakdown
 
 #### By Language
-- Sql: 11
+- Sql: 12
 
 #### By Topic
-- Database: 11
+- Database: 12
 
 ## 📂 Solutions
 
@@ -30,12 +30,5 @@ Automatically organized collection of LeetCode solutions.
 | 185 | Department Top Three Salaries | database | hard | sql | [Solution](solutions/sql/database/hard/185_department-top-three-salaries_database_hard.sql) |
 | 196 | Delete Duplicate Emails | database | easy | sql | [Solution](solutions/sql/database/easy/196_delete-duplicate-emails_database_easy.sql) |
 | 595 | Big Countries | database | easy | sql | [Solution](solutions/sql/database/easy/595_big-countries_database_easy.sql) |
+| 596 | Classes With At Least 5 Students | database | easy | sql | [Solution](solutions/sql/database/easy/596_classes-with-at-least-5-students_database_easy.sql) |
 | 1258 | Article Views I | database | easy | sql | [Solution](solutions/sql/database/easy/1258_article-views-i_database_easy.sql) |
-
-<!---LeetCode Topics Start-->
-# LeetCode Topics
-## Database
-|  |
-| ------- |
-| [0596-classes-with-at-least-5-students](https://github.com/imrajeevnayan/leetcode-solution/tree/master/0596-classes-with-at-least-5-students) |
-<!---LeetCode Topics End-->
