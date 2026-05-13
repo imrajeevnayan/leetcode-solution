@@ -4,17 +4,17 @@ Automatically organized collection of LeetCode solutions.
 
 ## 📊 Statistics
 
-- **Total Problems Solved:** 7
+- **Total Problems Solved:** 8
 - **Current Streak:** 1 days
 - **Longest Streak:** 1 days
 
 ### 🧩 Breakdown
 
 #### By Language
-- Sql: 7
+- Sql: 8
 
 #### By Topic
-- Database: 7
+- Database: 8
 
 ## 📂 Solutions
 
@@ -25,13 +25,6 @@ Automatically organized collection of LeetCode solutions.
 | 178 | Rank Scores | database | medium | sql | [Solution](solutions/sql/database/medium/178_rank-scores_database_medium.sql) |
 | 181 | Employees Earning More Than Their Managers | database | easy | sql | [Solution](solutions/sql/database/easy/181_employees-earning-more-than-their-managers_database_easy.sql) |
 | 182 | Duplicate Emails | database | easy | sql | [Solution](solutions/sql/database/easy/182_duplicate-emails_database_easy.sql) |
+| 183 | Customers Who Never Order | database | easy | sql | [Solution](solutions/sql/database/easy/183_customers-who-never-order_database_easy.sql) |
 | 185 | Department Top Three Salaries | database | hard | sql | [Solution](solutions/sql/database/hard/185_department-top-three-salaries_database_hard.sql) |
 | 595 | Big Countries | database | easy | sql | [Solution](solutions/sql/database/easy/595_big-countries_database_easy.sql) |
-
-<!---LeetCode Topics Start-->
-# LeetCode Topics
-## Database
-|  |
-| ------- |
-| [0183-customers-who-never-order](https://github.com/imrajeevnayan/leetcode-solution/tree/master/0183-customers-who-never-order) |
-<!---LeetCode Topics End-->
