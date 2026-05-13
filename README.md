@@ -4,7 +4,7 @@ Automatically organized collection of LeetCode solutions.
 
 ## 📊 Statistics
 
-- **Total Problems Solved:** 27
+- **Total Problems Solved:** 28
 - **Current Streak:** 1 days
 - **Longest Streak:** 1 days
 
@@ -12,11 +12,11 @@ Automatically organized collection of LeetCode solutions.
 
 #### By Language
 - Sql: 17
-- Java: 10
+- Java: 11
 
 #### By Topic
 - Database: 17
-- Array: 7
+- Array: 8
 - Two-pointers: 1
 - Hash-table: 1
 - String: 1
@@ -26,6 +26,7 @@ Automatically organized collection of LeetCode solutions.
 | ID | Title | Topic | Difficulty | Language | Link |
 |----|-------|-------|------------|----------|------|
 | 20 | Valid Parentheses | string | easy | java | [Solution](solutions/java/string/easy/20_valid-parentheses_string_easy.java) |
+| 26 | Remove Duplicates From Sorted Array | array | easy | java | [Solution](solutions/java/array/easy/26_remove-duplicates-from-sorted-array_array_easy.java) |
 | 27 | Remove Element | array | easy | java | [Solution](solutions/java/array/easy/27_remove-element_array_easy.java) |
 | 88 | Merge Sorted Array | array | easy | java | [Solution](solutions/java/array/easy/88_merge-sorted-array_array_easy.java) |
 | 125 | Valid Palindrome | two-pointers | easy | java | [Solution](solutions/java/two-pointers/easy/125_valid-palindrome_two-pointers_easy.java) |
@@ -52,15 +53,3 @@ Automatically organized collection of LeetCode solutions.
 | 1811 | Fix Names In A Table | database | easy | sql | [Solution](solutions/sql/database/easy/1811_fix-names-in-a-table_database_easy.sql) |
 | 1877 | Find Followers Count | database | easy | sql | [Solution](solutions/sql/database/easy/1877_find-followers-count_database_easy.sql) |
 | 4068 | Sum Of Elements With Frequency Divisible By K | array | easy | java | [Solution](solutions/java/array/easy/4068_sum-of-elements-with-frequency-divisible-by-k_array_easy.java) |
-
-<!---LeetCode Topics Start-->
-# LeetCode Topics
-## Array
-|  |
-| ------- |
-| [0026-remove-duplicates-from-sorted-array](https://github.com/imrajeevnayan/leetcode-solution/tree/master/0026-remove-duplicates-from-sorted-array) |
-## Two Pointers
-|  |
-| ------- |
-| [0026-remove-duplicates-from-sorted-array](https://github.com/imrajeevnayan/leetcode-solution/tree/master/0026-remove-duplicates-from-sorted-array) |
-<!---LeetCode Topics End-->
