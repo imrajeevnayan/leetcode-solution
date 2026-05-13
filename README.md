@@ -31,3 +31,11 @@ Automatically organized collection of LeetCode solutions.
 | 196 | Delete Duplicate Emails | database | easy | sql | [Solution](solutions/sql/database/easy/196_delete-duplicate-emails_database_easy.sql) |
 | 595 | Big Countries | database | easy | sql | [Solution](solutions/sql/database/easy/595_big-countries_database_easy.sql) |
 | 1258 | Article Views I | database | easy | sql | [Solution](solutions/sql/database/easy/1258_article-views-i_database_easy.sql) |
+
+<!---LeetCode Topics Start-->
+# LeetCode Topics
+## Database
+|  |
+| ------- |
+| [0596-classes-with-at-least-5-students](https://github.com/imrajeevnayan/leetcode-solution/tree/master/0596-classes-with-at-least-5-students) |
+<!---LeetCode Topics End-->
