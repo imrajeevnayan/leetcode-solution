@@ -4,22 +4,23 @@ Automatically organized collection of LeetCode solutions.
 
 ## 📊 Statistics
 
-- **Total Problems Solved:** 13
+- **Total Problems Solved:** 14
 - **Current Streak:** 1 days
 - **Longest Streak:** 1 days
 
 ### 🧩 Breakdown
 
 #### By Language
-- Sql: 13
+- Sql: 14
 
 #### By Topic
-- Database: 13
+- Database: 14
 
 ## 📂 Solutions
 
 | ID | Title | Topic | Difficulty | Language | Link |
 |----|-------|-------|------------|----------|------|
+| 175 | Combine Two Tables | database | easy | sql | [Solution](solutions/sql/database/easy/175_combine-two-tables_database_easy.sql) |
 | 176 | Second Highest Salary | database | medium | sql | [Solution](solutions/sql/database/medium/176_second-highest-salary_database_medium.sql) |
 | 177 | Nth Highest Salary | database | medium | sql | [Solution](solutions/sql/database/medium/177_nth-highest-salary_database_medium.sql) |
 | 178 | Rank Scores | database | medium | sql | [Solution](solutions/sql/database/medium/178_rank-scores_database_medium.sql) |
@@ -33,12 +34,3 @@ Automatically organized collection of LeetCode solutions.
 | 596 | Classes With At Least 5 Students | database | easy | sql | [Solution](solutions/sql/database/easy/596_classes-with-at-least-5-students_database_easy.sql) |
 | 1258 | Article Views I | database | easy | sql | [Solution](solutions/sql/database/easy/1258_article-views-i_database_easy.sql) |
 | 1724 | Customer Who Visited But Did Not Make Any Transactions | database | easy | sql | [Solution](solutions/sql/database/easy/1724_customer-who-visited-but-did-not-make-any-transactions_database_easy.sql) |
-
-<!---LeetCode Topics Start-->
-# LeetCode Topics
-## Database
-|  |
-| ------- |
-| [0175-combine-two-tables](https://github.com/imrajeevnayan/leetcode-solution/tree/master/0175-combine-two-tables) |
-| [1581-customer-who-visited-but-did-not-make-any-transactions](https://github.com/imrajeevnayan/leetcode-solution/tree/master/1581-customer-who-visited-but-did-not-make-any-transactions) |
-<!---LeetCode Topics End-->
