@@ -29,3 +29,11 @@ Automatically organized collection of LeetCode solutions.
 | 185 | Department Top Three Salaries | database | hard | sql | [Solution](solutions/sql/database/hard/185_department-top-three-salaries_database_hard.sql) |
 | 595 | Big Countries | database | easy | sql | [Solution](solutions/sql/database/easy/595_big-countries_database_easy.sql) |
 | 1258 | Article Views I | database | easy | sql | [Solution](solutions/sql/database/easy/1258_article-views-i_database_easy.sql) |
+
+<!---LeetCode Topics Start-->
+# LeetCode Topics
+## Database
+|  |
+| ------- |
+| [0184-department-highest-salary](https://github.com/imrajeevnayan/leetcode-solution/tree/master/0184-department-highest-salary) |
+<!---LeetCode Topics End-->
