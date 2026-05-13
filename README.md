@@ -4,7 +4,7 @@ Automatically organized collection of LeetCode solutions.
 
 ## 📊 Statistics
 
-- **Total Problems Solved:** 21
+- **Total Problems Solved:** 22
 - **Current Streak:** 1 days
 - **Longest Streak:** 1 days
 
@@ -12,11 +12,11 @@ Automatically organized collection of LeetCode solutions.
 
 #### By Language
 - Sql: 17
-- Java: 4
+- Java: 5
 
 #### By Topic
 - Database: 17
-- Array: 1
+- Array: 2
 - Two-pointers: 1
 - Hash-table: 1
 - String: 1
@@ -27,6 +27,7 @@ Automatically organized collection of LeetCode solutions.
 |----|-------|-------|------------|----------|------|
 | 20 | Valid Parentheses | string | easy | java | [Solution](solutions/java/string/easy/20_valid-parentheses_string_easy.java) |
 | 125 | Valid Palindrome | two-pointers | easy | java | [Solution](solutions/java/two-pointers/easy/125_valid-palindrome_two-pointers_easy.java) |
+| 169 | Majority Element | array | easy | java | [Solution](solutions/java/array/easy/169_majority-element_array_easy.java) |
 | 175 | Combine Two Tables | database | easy | sql | [Solution](solutions/sql/database/easy/175_combine-two-tables_database_easy.sql) |
 | 176 | Second Highest Salary | database | medium | sql | [Solution](solutions/sql/database/medium/176_second-highest-salary_database_medium.sql) |
 | 177 | Nth Highest Salary | database | medium | sql | [Solution](solutions/sql/database/medium/177_nth-highest-salary_database_medium.sql) |
