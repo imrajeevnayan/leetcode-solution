@@ -4,7 +4,7 @@ Automatically organized collection of LeetCode solutions.
 
 ## 📊 Statistics
 
-- **Total Problems Solved:** 26
+- **Total Problems Solved:** 27
 - **Current Streak:** 1 days
 - **Longest Streak:** 1 days
 
@@ -12,11 +12,11 @@ Automatically organized collection of LeetCode solutions.
 
 #### By Language
 - Sql: 17
-- Java: 9
+- Java: 10
 
 #### By Topic
 - Database: 17
-- Array: 6
+- Array: 7
 - Two-pointers: 1
 - Hash-table: 1
 - String: 1
@@ -51,19 +51,4 @@ Automatically organized collection of LeetCode solutions.
 | 1724 | Customer Who Visited But Did Not Make Any Transactions | database | easy | sql | [Solution](solutions/sql/database/easy/1724_customer-who-visited-but-did-not-make-any-transactions_database_easy.sql) |
 | 1811 | Fix Names In A Table | database | easy | sql | [Solution](solutions/sql/database/easy/1811_fix-names-in-a-table_database_easy.sql) |
 | 1877 | Find Followers Count | database | easy | sql | [Solution](solutions/sql/database/easy/1877_find-followers-count_database_easy.sql) |
-
-<!---LeetCode Topics Start-->
-# LeetCode Topics
-## Array
-|  |
-| ------- |
-| [3712-sum-of-elements-with-frequency-divisible-by-k](https://github.com/imrajeevnayan/leetcode-solution/tree/master/3712-sum-of-elements-with-frequency-divisible-by-k) |
-## Hash Table
-|  |
-| ------- |
-| [3712-sum-of-elements-with-frequency-divisible-by-k](https://github.com/imrajeevnayan/leetcode-solution/tree/master/3712-sum-of-elements-with-frequency-divisible-by-k) |
-## Counting
-|  |
-| ------- |
-| [3712-sum-of-elements-with-frequency-divisible-by-k](https://github.com/imrajeevnayan/leetcode-solution/tree/master/3712-sum-of-elements-with-frequency-divisible-by-k) |
-<!---LeetCode Topics End-->
+| 4068 | Sum Of Elements With Frequency Divisible By K | array | easy | java | [Solution](solutions/java/array/easy/4068_sum-of-elements-with-frequency-divisible-by-k_array_easy.java) |
