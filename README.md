@@ -4,17 +4,17 @@ Automatically organized collection of LeetCode solutions.
 
 ## 📊 Statistics
 
-- **Total Problems Solved:** 3
+- **Total Problems Solved:** 4
 - **Current Streak:** 1 days
 - **Longest Streak:** 1 days
 
 ### 🧩 Breakdown
 
 #### By Language
-- Sql: 3
+- Sql: 4
 
 #### By Topic
-- Database: 3
+- Database: 4
 
 ## 📂 Solutions
 
@@ -22,13 +22,5 @@ Automatically organized collection of LeetCode solutions.
 |----|-------|-------|------------|----------|------|
 | 176 | Second Highest Salary | database | medium | sql | [Solution](solutions/sql/database/medium/176_second-highest-salary_database_medium.sql) |
 | 177 | Nth Highest Salary | database | medium | sql | [Solution](solutions/sql/database/medium/177_nth-highest-salary_database_medium.sql) |
+| 178 | Rank Scores | database | medium | sql | [Solution](solutions/sql/database/medium/178_rank-scores_database_medium.sql) |
 | 185 | Department Top Three Salaries | database | hard | sql | [Solution](solutions/sql/database/hard/185_department-top-three-salaries_database_hard.sql) |
-
-<!---LeetCode Topics Start-->
-# LeetCode Topics
-## Database
-|  |
-| ------- |
-| [0177-nth-highest-salary](https://github.com/imrajeevnayan/leetcode-solution/tree/master/0177-nth-highest-salary) |
-| [0178-rank-scores](https://github.com/imrajeevnayan/leetcode-solution/tree/master/0178-rank-scores) |
-<!---LeetCode Topics End-->
