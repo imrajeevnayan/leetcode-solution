@@ -4,7 +4,7 @@ Automatically organized collection of LeetCode solutions.
 
 ## 📊 Statistics
 
-- **Total Problems Solved:** 45
+- **Total Problems Solved:** 46
 - **Current Streak:** 2 days
 - **Longest Streak:** 2 days
 
@@ -13,10 +13,10 @@ Automatically organized collection of LeetCode solutions.
 #### By Language
 - Javascript: 1
 - Sql: 17
-- Java: 27
+- Java: 28
 
 #### By Topic
-- Array: 20
+- Array: 21
 - Database: 17
 - Two-pointers: 3
 - Hash-table: 3
@@ -67,19 +67,8 @@ Automatically organized collection of LeetCode solutions.
 | 596 | Classes With At Least 5 Students | database | easy | sql | [Solution](solutions/sql/database/easy/596_classes-with-at-least-5-students_database_easy.sql) |
 | 628 | Maximum Product Of Three Numbers | array | easy | java | [Solution](solutions/java/array/easy/628_maximum-product-of-three-numbers_array_easy.java) |
 | 1258 | Article Views I | database | easy | sql | [Solution](solutions/sql/database/easy/1258_article-views-i_database_easy.sql) |
+| 1319 | Unique Number Of Occurrences | array | easy | java | [Solution](solutions/java/array/easy/1319_unique-number-of-occurrences_array_easy.java) |
 | 1724 | Customer Who Visited But Did Not Make Any Transactions | database | easy | sql | [Solution](solutions/sql/database/easy/1724_customer-who-visited-but-did-not-make-any-transactions_database_easy.sql) |
 | 1811 | Fix Names In A Table | database | easy | sql | [Solution](solutions/sql/database/easy/1811_fix-names-in-a-table_database_easy.sql) |
 | 1877 | Find Followers Count | database | easy | sql | [Solution](solutions/sql/database/easy/1877_find-followers-count_database_easy.sql) |
 | 4068 | Sum Of Elements With Frequency Divisible By K | array | easy | java | [Solution](solutions/java/array/easy/4068_sum-of-elements-with-frequency-divisible-by-k_array_easy.java) |
-
-<!---LeetCode Topics Start-->
-# LeetCode Topics
-## Array
-|  |
-| ------- |
-| [1207-unique-number-of-occurrences](https://github.com/imrajeevnayan/leetcode-solution/tree/master/1207-unique-number-of-occurrences) |
-## Hash Table
-|  |
-| ------- |
-| [1207-unique-number-of-occurrences](https://github.com/imrajeevnayan/leetcode-solution/tree/master/1207-unique-number-of-occurrences) |
-<!---LeetCode Topics End-->
