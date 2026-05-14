@@ -4,7 +4,7 @@ Automatically organized collection of LeetCode solutions.
 
 ## 📊 Statistics
 
-- **Total Problems Solved:** 46
+- **Total Problems Solved:** 47
 - **Current Streak:** 2 days
 - **Longest Streak:** 2 days
 
@@ -13,11 +13,12 @@ Automatically organized collection of LeetCode solutions.
 #### By Language
 - Javascript: 1
 - Sql: 17
-- Java: 28
+- Java: 29
 
 #### By Topic
 - Array: 21
 - Database: 17
+- Linked-list: 1
 - Two-pointers: 3
 - Hash-table: 3
 - String: 2
@@ -56,6 +57,7 @@ Automatically organized collection of LeetCode solutions.
 | 185 | Department Top Three Salaries | database | hard | sql | [Solution](solutions/sql/database/hard/185_department-top-three-salaries_database_hard.sql) |
 | 189 | Rotate Array | array | medium | java | [Solution](solutions/java/array/medium/189_rotate-array_array_medium.java) |
 | 196 | Delete Duplicate Emails | database | easy | sql | [Solution](solutions/sql/database/easy/196_delete-duplicate-emails_database_easy.sql) |
+| 206 | Reverse Linked List | linked-list | easy | java | [Solution](solutions/java/linked-list/easy/206_reverse-linked-list_linked-list_easy.java) |
 | 229 | Majority Element Ii | array | medium | java | [Solution](solutions/java/array/medium/229_majority-element-ii_array_medium.java) |
 | 238 | Product Of Array Except Self | array | medium | java | [Solution](solutions/java/array/medium/238_product-of-array-except-self_array_medium.java) |
 | 242 | Valid Anagram | hash-table | easy | java | [Solution](solutions/java/hash-table/easy/242_valid-anagram_hash-table_easy.java) |
@@ -72,15 +74,3 @@ Automatically organized collection of LeetCode solutions.
 | 1811 | Fix Names In A Table | database | easy | sql | [Solution](solutions/sql/database/easy/1811_fix-names-in-a-table_database_easy.sql) |
 | 1877 | Find Followers Count | database | easy | sql | [Solution](solutions/sql/database/easy/1877_find-followers-count_database_easy.sql) |
 | 4068 | Sum Of Elements With Frequency Divisible By K | array | easy | java | [Solution](solutions/java/array/easy/4068_sum-of-elements-with-frequency-divisible-by-k_array_easy.java) |
-
-<!---LeetCode Topics Start-->
-# LeetCode Topics
-## Linked List
-|  |
-| ------- |
-| [0206-reverse-linked-list](https://github.com/imrajeevnayan/leetcode-solution/tree/master/0206-reverse-linked-list) |
-## Recursion
-|  |
-| ------- |
-| [0206-reverse-linked-list](https://github.com/imrajeevnayan/leetcode-solution/tree/master/0206-reverse-linked-list) |
-<!---LeetCode Topics End-->
