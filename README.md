@@ -4,7 +4,7 @@ Automatically organized collection of LeetCode solutions.
 
 ## 📊 Statistics
 
-- **Total Problems Solved:** 37
+- **Total Problems Solved:** 38
 - **Current Streak:** 2 days
 - **Longest Streak:** 2 days
 
@@ -13,10 +13,10 @@ Automatically organized collection of LeetCode solutions.
 #### By Language
 - Javascript: 1
 - Sql: 17
-- Java: 19
+- Java: 20
 
 #### By Topic
-- Array: 17
+- Array: 18
 - Database: 17
 - Two-pointers: 1
 - Hash-table: 1
@@ -37,6 +37,7 @@ Automatically organized collection of LeetCode solutions.
 | 121 | Best Time To Buy And Sell Stock | array | easy | java | [Solution](solutions/java/array/easy/121_best-time-to-buy-and-sell-stock_array_easy.java) |
 | 122 | Best Time To Buy And Sell Stock Ii | array | medium | java | [Solution](solutions/java/array/medium/122_best-time-to-buy-and-sell-stock-ii_array_medium.java) |
 | 125 | Valid Palindrome | two-pointers | easy | java | [Solution](solutions/java/two-pointers/easy/125_valid-palindrome_two-pointers_easy.java) |
+| 134 | Gas Station | array | medium | java | [Solution](solutions/java/array/medium/134_gas-station_array_medium.java) |
 | 169 | Majority Element | array | easy | java | [Solution](solutions/java/array/easy/169_majority-element_array_easy.java) |
 | 175 | Combine Two Tables | database | easy | sql | [Solution](solutions/sql/database/easy/175_combine-two-tables_database_easy.sql) |
 | 176 | Second Highest Salary | database | medium | sql | [Solution](solutions/sql/database/medium/176_second-highest-salary_database_medium.sql) |
@@ -63,15 +64,3 @@ Automatically organized collection of LeetCode solutions.
 | 1811 | Fix Names In A Table | database | easy | sql | [Solution](solutions/sql/database/easy/1811_fix-names-in-a-table_database_easy.sql) |
 | 1877 | Find Followers Count | database | easy | sql | [Solution](solutions/sql/database/easy/1877_find-followers-count_database_easy.sql) |
 | 4068 | Sum Of Elements With Frequency Divisible By K | array | easy | java | [Solution](solutions/java/array/easy/4068_sum-of-elements-with-frequency-divisible-by-k_array_easy.java) |
-
-<!---LeetCode Topics Start-->
-# LeetCode Topics
-## Array
-|  |
-| ------- |
-| [0134-gas-station](https://github.com/imrajeevnayan/leetcode-solution/tree/master/0134-gas-station) |
-## Greedy
-|  |
-| ------- |
-| [0134-gas-station](https://github.com/imrajeevnayan/leetcode-solution/tree/master/0134-gas-station) |
-<!---LeetCode Topics End-->
