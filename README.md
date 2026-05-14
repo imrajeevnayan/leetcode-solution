@@ -89,8 +89,10 @@ Automatically organized collection of LeetCode solutions.
 |  |
 | ------- |
 | [0151-reverse-words-in-a-string](https://github.com/imrajeevnayan/leetcode-solution/tree/master/0151-reverse-words-in-a-string) |
+| [0345-reverse-vowels-of-a-string](https://github.com/imrajeevnayan/leetcode-solution/tree/master/0345-reverse-vowels-of-a-string) |
 ## String
 |  |
 | ------- |
 | [0151-reverse-words-in-a-string](https://github.com/imrajeevnayan/leetcode-solution/tree/master/0151-reverse-words-in-a-string) |
+| [0345-reverse-vowels-of-a-string](https://github.com/imrajeevnayan/leetcode-solution/tree/master/0345-reverse-vowels-of-a-string) |
 <!---LeetCode Topics End-->
