@@ -72,3 +72,15 @@ Automatically organized collection of LeetCode solutions.
 | 1811 | Fix Names In A Table | database | easy | sql | [Solution](solutions/sql/database/easy/1811_fix-names-in-a-table_database_easy.sql) |
 | 1877 | Find Followers Count | database | easy | sql | [Solution](solutions/sql/database/easy/1877_find-followers-count_database_easy.sql) |
 | 4068 | Sum Of Elements With Frequency Divisible By K | array | easy | java | [Solution](solutions/java/array/easy/4068_sum-of-elements-with-frequency-divisible-by-k_array_easy.java) |
+
+<!---LeetCode Topics Start-->
+# LeetCode Topics
+## Linked List
+|  |
+| ------- |
+| [0206-reverse-linked-list](https://github.com/imrajeevnayan/leetcode-solution/tree/master/0206-reverse-linked-list) |
+## Recursion
+|  |
+| ------- |
+| [0206-reverse-linked-list](https://github.com/imrajeevnayan/leetcode-solution/tree/master/0206-reverse-linked-list) |
+<!---LeetCode Topics End-->
