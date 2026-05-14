@@ -89,4 +89,8 @@ Automatically organized collection of LeetCode solutions.
 |  |
 | ------- |
 | [0136-single-number](https://github.com/imrajeevnayan/leetcode-solution/tree/master/0136-single-number) |
+## String
+|  |
+| ------- |
+| [3110-score-of-a-string](https://github.com/imrajeevnayan/leetcode-solution/tree/master/3110-score-of-a-string) |
 <!---LeetCode Topics End-->
