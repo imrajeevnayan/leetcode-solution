@@ -4,7 +4,7 @@ Automatically organized collection of LeetCode solutions.
 
 ## 📊 Statistics
 
-- **Total Problems Solved:** 52
+- **Total Problems Solved:** 53
 - **Current Streak:** 2 days
 - **Longest Streak:** 2 days
 
@@ -13,7 +13,7 @@ Automatically organized collection of LeetCode solutions.
 #### By Language
 - Javascript: 1
 - Sql: 17
-- Java: 34
+- Java: 35
 
 #### By Topic
 - Array: 24
@@ -22,6 +22,7 @@ Automatically organized collection of LeetCode solutions.
 - Two-pointers: 4
 - Hash-table: 3
 - String: 3
+- Tree: 1
 
 ## 📂 Solutions
 
@@ -71,6 +72,7 @@ Automatically organized collection of LeetCode solutions.
 | 596 | Classes With At Least 5 Students | database | easy | sql | [Solution](solutions/sql/database/easy/596_classes-with-at-least-5-students_database_easy.sql) |
 | 628 | Maximum Product Of Three Numbers | array | easy | java | [Solution](solutions/java/array/easy/628_maximum-product-of-three-numbers_array_easy.java) |
 | 724 | Find Pivot Index | array | easy | java | [Solution](solutions/java/array/easy/724_find-pivot-index_array_easy.java) |
+| 975 | Range Sum Of Bst | tree | easy | java | [Solution](solutions/java/tree/easy/975_range-sum-of-bst_tree_easy.java) |
 | 1258 | Article Views I | database | easy | sql | [Solution](solutions/sql/database/easy/1258_article-views-i_database_easy.sql) |
 | 1319 | Unique Number Of Occurrences | array | easy | java | [Solution](solutions/java/array/easy/1319_unique-number-of-occurrences_array_easy.java) |
 | 1392 | Find The Difference Of Two Arrays | array | easy | java | [Solution](solutions/java/array/easy/1392_find-the-difference-of-two-arrays_array_easy.java) |
@@ -79,23 +81,3 @@ Automatically organized collection of LeetCode solutions.
 | 1877 | Find Followers Count | database | easy | sql | [Solution](solutions/sql/database/easy/1877_find-followers-count_database_easy.sql) |
 | 3379 | Score Of A String | string | easy | java | [Solution](solutions/java/string/easy/3379_score-of-a-string_string_easy.java) |
 | 4068 | Sum Of Elements With Frequency Divisible By K | array | easy | java | [Solution](solutions/java/array/easy/4068_sum-of-elements-with-frequency-divisible-by-k_array_easy.java) |
-
-<!---LeetCode Topics Start-->
-# LeetCode Topics
-## Tree
-|  |
-| ------- |
-| [0938-range-sum-of-bst](https://github.com/imrajeevnayan/leetcode-solution/tree/master/0938-range-sum-of-bst) |
-## Depth-First Search
-|  |
-| ------- |
-| [0938-range-sum-of-bst](https://github.com/imrajeevnayan/leetcode-solution/tree/master/0938-range-sum-of-bst) |
-## Binary Search Tree
-|  |
-| ------- |
-| [0938-range-sum-of-bst](https://github.com/imrajeevnayan/leetcode-solution/tree/master/0938-range-sum-of-bst) |
-## Binary Tree
-|  |
-| ------- |
-| [0938-range-sum-of-bst](https://github.com/imrajeevnayan/leetcode-solution/tree/master/0938-range-sum-of-bst) |
-<!---LeetCode Topics End-->
