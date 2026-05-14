@@ -4,19 +4,20 @@ Automatically organized collection of LeetCode solutions.
 
 ## 📊 Statistics
 
-- **Total Problems Solved:** 29
+- **Total Problems Solved:** 30
 - **Current Streak:** 2 days
 - **Longest Streak:** 2 days
 
 ### 🧩 Breakdown
 
 #### By Language
+- Javascript: 1
 - Sql: 17
 - Java: 12
 
 #### By Topic
+- Array: 10
 - Database: 17
-- Array: 9
 - Two-pointers: 1
 - Hash-table: 1
 - String: 1
@@ -28,6 +29,7 @@ Automatically organized collection of LeetCode solutions.
 | 20 | Valid Parentheses | string | easy | java | [Solution](solutions/java/string/easy/20_valid-parentheses_string_easy.java) |
 | 26 | Remove Duplicates From Sorted Array | array | easy | java | [Solution](solutions/java/array/easy/26_remove-duplicates-from-sorted-array_array_easy.java) |
 | 27 | Remove Element | array | easy | java | [Solution](solutions/java/array/easy/27_remove-element_array_easy.java) |
+| 80 | Remove Duplicates From Sorted Array Ii | array | medium | javascript | [Solution](solutions/javascript/array/medium/80_remove-duplicates-from-sorted-array-ii_array_medium.js) |
 | 80 | Remove Duplicates From Sorted Array Ii | array | medium | java | [Solution](solutions/java/array/medium/80_remove-duplicates-from-sorted-array-ii_array_medium.java) |
 | 88 | Merge Sorted Array | array | easy | java | [Solution](solutions/java/array/easy/88_merge-sorted-array_array_easy.java) |
 | 125 | Valid Palindrome | two-pointers | easy | java | [Solution](solutions/java/two-pointers/easy/125_valid-palindrome_two-pointers_easy.java) |
