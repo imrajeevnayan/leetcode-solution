@@ -4,7 +4,7 @@ Automatically organized collection of LeetCode solutions.
 
 ## 📊 Statistics
 
-- **Total Problems Solved:** 42
+- **Total Problems Solved:** 43
 - **Current Streak:** 2 days
 - **Longest Streak:** 2 days
 
@@ -13,19 +13,20 @@ Automatically organized collection of LeetCode solutions.
 #### By Language
 - Javascript: 1
 - Sql: 17
-- Java: 24
+- Java: 25
 
 #### By Topic
 - Array: 19
 - Database: 17
 - Two-pointers: 2
-- Hash-table: 2
 - String: 2
+- Hash-table: 3
 
 ## 📂 Solutions
 
 | ID | Title | Topic | Difficulty | Language | Link |
 |----|-------|-------|------------|----------|------|
+| 12 | Integer To Roman | hash-table | medium | java | [Solution](solutions/java/hash-table/medium/12_integer-to-roman_hash-table_medium.java) |
 | 13 | Roman To Integer | hash-table | easy | java | [Solution](solutions/java/hash-table/easy/13_roman-to-integer_hash-table_easy.java) |
 | 20 | Valid Parentheses | string | easy | java | [Solution](solutions/java/string/easy/20_valid-parentheses_string_easy.java) |
 | 26 | Remove Duplicates From Sorted Array | array | easy | java | [Solution](solutions/java/array/easy/26_remove-duplicates-from-sorted-array_array_easy.java) |
@@ -68,19 +69,3 @@ Automatically organized collection of LeetCode solutions.
 | 1811 | Fix Names In A Table | database | easy | sql | [Solution](solutions/sql/database/easy/1811_fix-names-in-a-table_database_easy.sql) |
 | 1877 | Find Followers Count | database | easy | sql | [Solution](solutions/sql/database/easy/1877_find-followers-count_database_easy.sql) |
 | 4068 | Sum Of Elements With Frequency Divisible By K | array | easy | java | [Solution](solutions/java/array/easy/4068_sum-of-elements-with-frequency-divisible-by-k_array_easy.java) |
-
-<!---LeetCode Topics Start-->
-# LeetCode Topics
-## Hash Table
-|  |
-| ------- |
-| [0012-integer-to-roman](https://github.com/imrajeevnayan/leetcode-solution/tree/master/0012-integer-to-roman) |
-## Math
-|  |
-| ------- |
-| [0012-integer-to-roman](https://github.com/imrajeevnayan/leetcode-solution/tree/master/0012-integer-to-roman) |
-## String
-|  |
-| ------- |
-| [0012-integer-to-roman](https://github.com/imrajeevnayan/leetcode-solution/tree/master/0012-integer-to-roman) |
-<!---LeetCode Topics End-->
