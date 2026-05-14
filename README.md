@@ -4,7 +4,7 @@ Automatically organized collection of LeetCode solutions.
 
 ## 📊 Statistics
 
-- **Total Problems Solved:** 50
+- **Total Problems Solved:** 51
 - **Current Streak:** 2 days
 - **Longest Streak:** 2 days
 
@@ -13,15 +13,15 @@ Automatically organized collection of LeetCode solutions.
 #### By Language
 - Javascript: 1
 - Sql: 17
-- Java: 32
+- Java: 33
 
 #### By Topic
-- Array: 23
+- Array: 24
 - Database: 17
 - Linked-list: 1
 - Two-pointers: 4
-- Hash-table: 3
 - String: 2
+- Hash-table: 3
 
 ## 📂 Solutions
 
@@ -44,6 +44,7 @@ Automatically organized collection of LeetCode solutions.
 | 125 | Valid Palindrome | two-pointers | easy | java | [Solution](solutions/java/two-pointers/easy/125_valid-palindrome_two-pointers_easy.java) |
 | 134 | Gas Station | array | medium | java | [Solution](solutions/java/array/medium/134_gas-station_array_medium.java) |
 | 135 | Candy | array | hard | java | [Solution](solutions/java/array/hard/135_candy_array_hard.java) |
+| 136 | Single Number | array | easy | java | [Solution](solutions/java/array/easy/136_single-number_array_easy.java) |
 | 151 | Reverse Words In A String | two-pointers | medium | java | [Solution](solutions/java/two-pointers/medium/151_reverse-words-in-a-string_two-pointers_medium.java) |
 | 169 | Majority Element | array | easy | java | [Solution](solutions/java/array/easy/169_majority-element_array_easy.java) |
 | 175 | Combine Two Tables | database | easy | sql | [Solution](solutions/sql/database/easy/175_combine-two-tables_database_easy.sql) |
