@@ -4,7 +4,7 @@ Automatically organized collection of LeetCode solutions.
 
 ## 📊 Statistics
 
-- **Total Problems Solved:** 47
+- **Total Problems Solved:** 48
 - **Current Streak:** 2 days
 - **Longest Streak:** 2 days
 
@@ -13,13 +13,13 @@ Automatically organized collection of LeetCode solutions.
 #### By Language
 - Javascript: 1
 - Sql: 17
-- Java: 29
+- Java: 30
 
 #### By Topic
 - Array: 21
 - Database: 17
 - Linked-list: 1
-- Two-pointers: 3
+- Two-pointers: 4
 - Hash-table: 3
 - String: 2
 
@@ -63,6 +63,7 @@ Automatically organized collection of LeetCode solutions.
 | 242 | Valid Anagram | hash-table | easy | java | [Solution](solutions/java/hash-table/easy/242_valid-anagram_hash-table_easy.java) |
 | 274 | H Index | array | medium | java | [Solution](solutions/java/array/medium/274_h-index_array_medium.java) |
 | 283 | Move Zeroes | array | easy | java | [Solution](solutions/java/array/easy/283_move-zeroes_array_easy.java) |
+| 345 | Reverse Vowels Of A String | two-pointers | easy | java | [Solution](solutions/java/two-pointers/easy/345_reverse-vowels-of-a-string_two-pointers_easy.java) |
 | 380 | Insert Delete Getrandom O(1) | array | medium | java | [Solution](solutions/java/array/medium/380_insert-delete-getrandom-o(1)_array_medium.java) |
 | 586 | Customer Placing The Largest Number Of Orders | database | easy | sql | [Solution](solutions/sql/database/easy/586_customer-placing-the-largest-number-of-orders_database_easy.sql) |
 | 595 | Big Countries | database | easy | sql | [Solution](solutions/sql/database/easy/595_big-countries_database_easy.sql) |
@@ -74,25 +75,3 @@ Automatically organized collection of LeetCode solutions.
 | 1811 | Fix Names In A Table | database | easy | sql | [Solution](solutions/sql/database/easy/1811_fix-names-in-a-table_database_easy.sql) |
 | 1877 | Find Followers Count | database | easy | sql | [Solution](solutions/sql/database/easy/1877_find-followers-count_database_easy.sql) |
 | 4068 | Sum Of Elements With Frequency Divisible By K | array | easy | java | [Solution](solutions/java/array/easy/4068_sum-of-elements-with-frequency-divisible-by-k_array_easy.java) |
-
-<!---LeetCode Topics Start-->
-# LeetCode Topics
-## Array
-|  |
-| ------- |
-| [0238-product-of-array-except-self](https://github.com/imrajeevnayan/leetcode-solution/tree/master/0238-product-of-array-except-self) |
-## Prefix Sum
-|  |
-| ------- |
-| [0238-product-of-array-except-self](https://github.com/imrajeevnayan/leetcode-solution/tree/master/0238-product-of-array-except-self) |
-## Two Pointers
-|  |
-| ------- |
-| [0151-reverse-words-in-a-string](https://github.com/imrajeevnayan/leetcode-solution/tree/master/0151-reverse-words-in-a-string) |
-| [0345-reverse-vowels-of-a-string](https://github.com/imrajeevnayan/leetcode-solution/tree/master/0345-reverse-vowels-of-a-string) |
-## String
-|  |
-| ------- |
-| [0151-reverse-words-in-a-string](https://github.com/imrajeevnayan/leetcode-solution/tree/master/0151-reverse-words-in-a-string) |
-| [0345-reverse-vowels-of-a-string](https://github.com/imrajeevnayan/leetcode-solution/tree/master/0345-reverse-vowels-of-a-string) |
-<!---LeetCode Topics End-->
