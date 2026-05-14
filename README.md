@@ -4,7 +4,7 @@ Automatically organized collection of LeetCode solutions.
 
 ## 📊 Statistics
 
-- **Total Problems Solved:** 43
+- **Total Problems Solved:** 44
 - **Current Streak:** 2 days
 - **Longest Streak:** 2 days
 
@@ -13,14 +13,14 @@ Automatically organized collection of LeetCode solutions.
 #### By Language
 - Javascript: 1
 - Sql: 17
-- Java: 25
+- Java: 26
 
 #### By Topic
 - Array: 19
 - Database: 17
-- Two-pointers: 2
-- String: 2
+- Two-pointers: 3
 - Hash-table: 3
+- String: 2
 
 ## 📂 Solutions
 
@@ -43,6 +43,7 @@ Automatically organized collection of LeetCode solutions.
 | 125 | Valid Palindrome | two-pointers | easy | java | [Solution](solutions/java/two-pointers/easy/125_valid-palindrome_two-pointers_easy.java) |
 | 134 | Gas Station | array | medium | java | [Solution](solutions/java/array/medium/134_gas-station_array_medium.java) |
 | 135 | Candy | array | hard | java | [Solution](solutions/java/array/hard/135_candy_array_hard.java) |
+| 151 | Reverse Words In A String | two-pointers | medium | java | [Solution](solutions/java/two-pointers/medium/151_reverse-words-in-a-string_two-pointers_medium.java) |
 | 169 | Majority Element | array | easy | java | [Solution](solutions/java/array/easy/169_majority-element_array_easy.java) |
 | 175 | Combine Two Tables | database | easy | sql | [Solution](solutions/sql/database/easy/175_combine-two-tables_database_easy.sql) |
 | 176 | Second Highest Salary | database | medium | sql | [Solution](solutions/sql/database/medium/176_second-highest-salary_database_medium.sql) |
@@ -69,15 +70,3 @@ Automatically organized collection of LeetCode solutions.
 | 1811 | Fix Names In A Table | database | easy | sql | [Solution](solutions/sql/database/easy/1811_fix-names-in-a-table_database_easy.sql) |
 | 1877 | Find Followers Count | database | easy | sql | [Solution](solutions/sql/database/easy/1877_find-followers-count_database_easy.sql) |
 | 4068 | Sum Of Elements With Frequency Divisible By K | array | easy | java | [Solution](solutions/java/array/easy/4068_sum-of-elements-with-frequency-divisible-by-k_array_easy.java) |
-
-<!---LeetCode Topics Start-->
-# LeetCode Topics
-## Two Pointers
-|  |
-| ------- |
-| [0151-reverse-words-in-a-string](https://github.com/imrajeevnayan/leetcode-solution/tree/master/0151-reverse-words-in-a-string) |
-## String
-|  |
-| ------- |
-| [0151-reverse-words-in-a-string](https://github.com/imrajeevnayan/leetcode-solution/tree/master/0151-reverse-words-in-a-string) |
-<!---LeetCode Topics End-->
