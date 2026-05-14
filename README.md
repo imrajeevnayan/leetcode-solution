@@ -4,7 +4,7 @@ Automatically organized collection of LeetCode solutions.
 
 ## 📊 Statistics
 
-- **Total Problems Solved:** 36
+- **Total Problems Solved:** 37
 - **Current Streak:** 2 days
 - **Longest Streak:** 2 days
 
@@ -13,10 +13,10 @@ Automatically organized collection of LeetCode solutions.
 #### By Language
 - Javascript: 1
 - Sql: 17
-- Java: 18
+- Java: 19
 
 #### By Topic
-- Array: 16
+- Array: 17
 - Database: 17
 - Two-pointers: 1
 - Hash-table: 1
@@ -50,6 +50,7 @@ Automatically organized collection of LeetCode solutions.
 | 189 | Rotate Array | array | medium | java | [Solution](solutions/java/array/medium/189_rotate-array_array_medium.java) |
 | 196 | Delete Duplicate Emails | database | easy | sql | [Solution](solutions/sql/database/easy/196_delete-duplicate-emails_database_easy.sql) |
 | 229 | Majority Element Ii | array | medium | java | [Solution](solutions/java/array/medium/229_majority-element-ii_array_medium.java) |
+| 238 | Product Of Array Except Self | array | medium | java | [Solution](solutions/java/array/medium/238_product-of-array-except-self_array_medium.java) |
 | 242 | Valid Anagram | hash-table | easy | java | [Solution](solutions/java/hash-table/easy/242_valid-anagram_hash-table_easy.java) |
 | 274 | H Index | array | medium | java | [Solution](solutions/java/array/medium/274_h-index_array_medium.java) |
 | 380 | Insert Delete Getrandom O(1) | array | medium | java | [Solution](solutions/java/array/medium/380_insert-delete-getrandom-o(1)_array_medium.java) |
@@ -62,15 +63,3 @@ Automatically organized collection of LeetCode solutions.
 | 1811 | Fix Names In A Table | database | easy | sql | [Solution](solutions/sql/database/easy/1811_fix-names-in-a-table_database_easy.sql) |
 | 1877 | Find Followers Count | database | easy | sql | [Solution](solutions/sql/database/easy/1877_find-followers-count_database_easy.sql) |
 | 4068 | Sum Of Elements With Frequency Divisible By K | array | easy | java | [Solution](solutions/java/array/easy/4068_sum-of-elements-with-frequency-divisible-by-k_array_easy.java) |
-
-<!---LeetCode Topics Start-->
-# LeetCode Topics
-## Array
-|  |
-| ------- |
-| [0238-product-of-array-except-self](https://github.com/imrajeevnayan/leetcode-solution/tree/master/0238-product-of-array-except-self) |
-## Prefix Sum
-|  |
-| ------- |
-| [0238-product-of-array-except-self](https://github.com/imrajeevnayan/leetcode-solution/tree/master/0238-product-of-array-except-self) |
-<!---LeetCode Topics End-->
