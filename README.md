@@ -4,7 +4,7 @@ Automatically organized collection of LeetCode solutions.
 
 ## 📊 Statistics
 
-- **Total Problems Solved:** 40
+- **Total Problems Solved:** 41
 - **Current Streak:** 2 days
 - **Longest Streak:** 2 days
 
@@ -13,12 +13,12 @@ Automatically organized collection of LeetCode solutions.
 #### By Language
 - Javascript: 1
 - Sql: 17
-- Java: 22
+- Java: 23
 
 #### By Topic
 - Array: 19
 - Database: 17
-- Two-pointers: 1
+- Two-pointers: 2
 - Hash-table: 1
 - String: 2
 
@@ -29,6 +29,7 @@ Automatically organized collection of LeetCode solutions.
 | 20 | Valid Parentheses | string | easy | java | [Solution](solutions/java/string/easy/20_valid-parentheses_string_easy.java) |
 | 26 | Remove Duplicates From Sorted Array | array | easy | java | [Solution](solutions/java/array/easy/26_remove-duplicates-from-sorted-array_array_easy.java) |
 | 27 | Remove Element | array | easy | java | [Solution](solutions/java/array/easy/27_remove-element_array_easy.java) |
+| 28 | Find The Index Of The First Occurrence In A String | two-pointers | easy | java | [Solution](solutions/java/two-pointers/easy/28_find-the-index-of-the-first-occurrence-in-a-string_two-pointers_easy.java) |
 | 45 | Jump Game Ii | array | medium | java | [Solution](solutions/java/array/medium/45_jump-game-ii_array_medium.java) |
 | 55 | Jump Game | array | medium | java | [Solution](solutions/java/array/medium/55_jump-game_array_medium.java) |
 | 58 | Length Of Last Word | string | easy | java | [Solution](solutions/java/string/easy/58_length-of-last-word_string_easy.java) |
@@ -66,24 +67,3 @@ Automatically organized collection of LeetCode solutions.
 | 1811 | Fix Names In A Table | database | easy | sql | [Solution](solutions/sql/database/easy/1811_fix-names-in-a-table_database_easy.sql) |
 | 1877 | Find Followers Count | database | easy | sql | [Solution](solutions/sql/database/easy/1877_find-followers-count_database_easy.sql) |
 | 4068 | Sum Of Elements With Frequency Divisible By K | array | easy | java | [Solution](solutions/java/array/easy/4068_sum-of-elements-with-frequency-divisible-by-k_array_easy.java) |
-
-<!---LeetCode Topics Start-->
-# LeetCode Topics
-## Array
-|  |
-| ------- |
-| [0080-remove-duplicates-from-sorted-array-ii](https://github.com/imrajeevnayan/leetcode-solution/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
-## Two Pointers
-|  |
-| ------- |
-| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/imrajeevnayan/leetcode-solution/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
-| [0080-remove-duplicates-from-sorted-array-ii](https://github.com/imrajeevnayan/leetcode-solution/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
-## String
-|  |
-| ------- |
-| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/imrajeevnayan/leetcode-solution/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
-## String Matching
-|  |
-| ------- |
-| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/imrajeevnayan/leetcode-solution/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
-<!---LeetCode Topics End-->
