@@ -63,6 +63,7 @@ Automatically organized collection of LeetCode solutions.
 |  |
 | ------- |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/imrajeevnayan/leetcode-solution/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/imrajeevnayan/leetcode-solution/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0169-majority-element](https://github.com/imrajeevnayan/leetcode-solution/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/imrajeevnayan/leetcode-solution/tree/master/0189-rotate-array) |
 ## Two Pointers
@@ -90,4 +91,8 @@ Automatically organized collection of LeetCode solutions.
 |  |
 | ------- |
 | [0189-rotate-array](https://github.com/imrajeevnayan/leetcode-solution/tree/master/0189-rotate-array) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/imrajeevnayan/leetcode-solution/tree/master/0121-best-time-to-buy-and-sell-stock) |
 <!---LeetCode Topics End-->
