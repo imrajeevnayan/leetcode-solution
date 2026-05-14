@@ -4,7 +4,7 @@ Automatically organized collection of LeetCode solutions.
 
 ## 📊 Statistics
 
-- **Total Problems Solved:** 41
+- **Total Problems Solved:** 42
 - **Current Streak:** 2 days
 - **Longest Streak:** 2 days
 
@@ -13,19 +13,20 @@ Automatically organized collection of LeetCode solutions.
 #### By Language
 - Javascript: 1
 - Sql: 17
-- Java: 23
+- Java: 24
 
 #### By Topic
 - Array: 19
 - Database: 17
 - Two-pointers: 2
-- Hash-table: 1
+- Hash-table: 2
 - String: 2
 
 ## 📂 Solutions
 
 | ID | Title | Topic | Difficulty | Language | Link |
 |----|-------|-------|------------|----------|------|
+| 13 | Roman To Integer | hash-table | easy | java | [Solution](solutions/java/hash-table/easy/13_roman-to-integer_hash-table_easy.java) |
 | 20 | Valid Parentheses | string | easy | java | [Solution](solutions/java/string/easy/20_valid-parentheses_string_easy.java) |
 | 26 | Remove Duplicates From Sorted Array | array | easy | java | [Solution](solutions/java/array/easy/26_remove-duplicates-from-sorted-array_array_easy.java) |
 | 27 | Remove Element | array | easy | java | [Solution](solutions/java/array/easy/27_remove-element_array_easy.java) |
@@ -67,28 +68,3 @@ Automatically organized collection of LeetCode solutions.
 | 1811 | Fix Names In A Table | database | easy | sql | [Solution](solutions/sql/database/easy/1811_fix-names-in-a-table_database_easy.sql) |
 | 1877 | Find Followers Count | database | easy | sql | [Solution](solutions/sql/database/easy/1877_find-followers-count_database_easy.sql) |
 | 4068 | Sum Of Elements With Frequency Divisible By K | array | easy | java | [Solution](solutions/java/array/easy/4068_sum-of-elements-with-frequency-divisible-by-k_array_easy.java) |
-
-<!---LeetCode Topics Start-->
-# LeetCode Topics
-## Two Pointers
-|  |
-| ------- |
-| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/imrajeevnayan/leetcode-solution/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
-## String
-|  |
-| ------- |
-| [0013-roman-to-integer](https://github.com/imrajeevnayan/leetcode-solution/tree/master/0013-roman-to-integer) |
-| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/imrajeevnayan/leetcode-solution/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
-## String Matching
-|  |
-| ------- |
-| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/imrajeevnayan/leetcode-solution/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
-## Hash Table
-|  |
-| ------- |
-| [0013-roman-to-integer](https://github.com/imrajeevnayan/leetcode-solution/tree/master/0013-roman-to-integer) |
-## Math
-|  |
-| ------- |
-| [0013-roman-to-integer](https://github.com/imrajeevnayan/leetcode-solution/tree/master/0013-roman-to-integer) |
-<!---LeetCode Topics End-->
