@@ -4,7 +4,7 @@ Automatically organized collection of LeetCode solutions.
 
 ## 📊 Statistics
 
-- **Total Problems Solved:** 58
+- **Total Problems Solved:** 59
 - **Current Streak:** 3 days
 - **Longest Streak:** 3 days
 
@@ -13,13 +13,13 @@ Automatically organized collection of LeetCode solutions.
 #### By Language
 - Javascript: 1
 - Sql: 17
-- Java: 40
+- Java: 41
 
 #### By Topic
 - Array: 24
 - Database: 17
 - Linked-list: 1
-- Two-pointers: 5
+- Two-pointers: 6
 - String: 3
 - Tree: 1
 - Math: 4
@@ -71,6 +71,7 @@ Automatically organized collection of LeetCode solutions.
 | 342 | Power Of Four | math | easy | java | [Solution](solutions/java/math/easy/342_power-of-four_math_easy.java) |
 | 345 | Reverse Vowels Of A String | two-pointers | easy | java | [Solution](solutions/java/two-pointers/easy/345_reverse-vowels-of-a-string_two-pointers_easy.java) |
 | 380 | Insert Delete Getrandom O(1) | array | medium | java | [Solution](solutions/java/array/medium/380_insert-delete-getrandom-o(1)_array_medium.java) |
+| 392 | Is Subsequence | two-pointers | easy | java | [Solution](solutions/java/two-pointers/easy/392_is-subsequence_two-pointers_easy.java) |
 | 586 | Customer Placing The Largest Number Of Orders | database | easy | sql | [Solution](solutions/sql/database/easy/586_customer-placing-the-largest-number-of-orders_database_easy.sql) |
 | 595 | Big Countries | database | easy | sql | [Solution](solutions/sql/database/easy/595_big-countries_database_easy.sql) |
 | 596 | Classes With At Least 5 Students | database | easy | sql | [Solution](solutions/sql/database/easy/596_classes-with-at-least-5-students_database_easy.sql) |
@@ -87,24 +88,3 @@ Automatically organized collection of LeetCode solutions.
 | 1894 | Merge Strings Alternately | two-pointers | easy | java | [Solution](solutions/java/two-pointers/easy/1894_merge-strings-alternately_two-pointers_easy.java) |
 | 3379 | Score Of A String | string | easy | java | [Solution](solutions/java/string/easy/3379_score-of-a-string_string_easy.java) |
 | 4068 | Sum Of Elements With Frequency Divisible By K | array | easy | java | [Solution](solutions/java/array/easy/4068_sum-of-elements-with-frequency-divisible-by-k_array_easy.java) |
-
-<!---LeetCode Topics Start-->
-# LeetCode Topics
-## Math
-|  |
-| ------- |
-| [1071-greatest-common-divisor-of-strings](https://github.com/imrajeevnayan/leetcode-solution/tree/master/1071-greatest-common-divisor-of-strings) |
-## String
-|  |
-| ------- |
-| [0392-is-subsequence](https://github.com/imrajeevnayan/leetcode-solution/tree/master/0392-is-subsequence) |
-| [1071-greatest-common-divisor-of-strings](https://github.com/imrajeevnayan/leetcode-solution/tree/master/1071-greatest-common-divisor-of-strings) |
-## Two Pointers
-|  |
-| ------- |
-| [0392-is-subsequence](https://github.com/imrajeevnayan/leetcode-solution/tree/master/0392-is-subsequence) |
-## Dynamic Programming
-|  |
-| ------- |
-| [0392-is-subsequence](https://github.com/imrajeevnayan/leetcode-solution/tree/master/0392-is-subsequence) |
-<!---LeetCode Topics End-->
