@@ -97,5 +97,14 @@ Automatically organized collection of LeetCode solutions.
 ## String
 |  |
 | ------- |
+| [0392-is-subsequence](https://github.com/imrajeevnayan/leetcode-solution/tree/master/0392-is-subsequence) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/imrajeevnayan/leetcode-solution/tree/master/1071-greatest-common-divisor-of-strings) |
+## Two Pointers
+|  |
+| ------- |
+| [0392-is-subsequence](https://github.com/imrajeevnayan/leetcode-solution/tree/master/0392-is-subsequence) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0392-is-subsequence](https://github.com/imrajeevnayan/leetcode-solution/tree/master/0392-is-subsequence) |
 <!---LeetCode Topics End-->
