@@ -4,20 +4,21 @@ Automatically organized collection of LeetCode solutions.
 
 ## 📊 Statistics
 
-- **Total Problems Solved:** 54
-- **Current Streak:** 2 days
-- **Longest Streak:** 2 days
+- **Total Problems Solved:** 55
+- **Current Streak:** 3 days
+- **Longest Streak:** 3 days
 
 ### 🧩 Breakdown
 
 #### By Language
 - Javascript: 1
 - Sql: 17
-- Java: 36
+- Java: 37
 
 #### By Topic
 - Array: 24
 - Database: 17
+- Math: 1
 - Linked-list: 1
 - Two-pointers: 5
 - Hash-table: 3
@@ -61,6 +62,7 @@ Automatically organized collection of LeetCode solutions.
 | 196 | Delete Duplicate Emails | database | easy | sql | [Solution](solutions/sql/database/easy/196_delete-duplicate-emails_database_easy.sql) |
 | 206 | Reverse Linked List | linked-list | easy | java | [Solution](solutions/java/linked-list/easy/206_reverse-linked-list_linked-list_easy.java) |
 | 229 | Majority Element Ii | array | medium | java | [Solution](solutions/java/array/medium/229_majority-element-ii_array_medium.java) |
+| 231 | Power Of Two | math | easy | java | [Solution](solutions/java/math/easy/231_power-of-two_math_easy.java) |
 | 238 | Product Of Array Except Self | array | medium | java | [Solution](solutions/java/array/medium/238_product-of-array-except-self_array_medium.java) |
 | 242 | Valid Anagram | hash-table | easy | java | [Solution](solutions/java/hash-table/easy/242_valid-anagram_hash-table_easy.java) |
 | 274 | H Index | array | medium | java | [Solution](solutions/java/array/medium/274_h-index_array_medium.java) |
@@ -82,19 +84,3 @@ Automatically organized collection of LeetCode solutions.
 | 1894 | Merge Strings Alternately | two-pointers | easy | java | [Solution](solutions/java/two-pointers/easy/1894_merge-strings-alternately_two-pointers_easy.java) |
 | 3379 | Score Of A String | string | easy | java | [Solution](solutions/java/string/easy/3379_score-of-a-string_string_easy.java) |
 | 4068 | Sum Of Elements With Frequency Divisible By K | array | easy | java | [Solution](solutions/java/array/easy/4068_sum-of-elements-with-frequency-divisible-by-k_array_easy.java) |
-
-<!---LeetCode Topics Start-->
-# LeetCode Topics
-## Math
-|  |
-| ------- |
-| [0231-power-of-two](https://github.com/imrajeevnayan/leetcode-solution/tree/master/0231-power-of-two) |
-## Bit Manipulation
-|  |
-| ------- |
-| [0231-power-of-two](https://github.com/imrajeevnayan/leetcode-solution/tree/master/0231-power-of-two) |
-## Recursion
-|  |
-| ------- |
-| [0231-power-of-two](https://github.com/imrajeevnayan/leetcode-solution/tree/master/0231-power-of-two) |
-<!---LeetCode Topics End-->
