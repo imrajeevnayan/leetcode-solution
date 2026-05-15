@@ -4,7 +4,7 @@ Automatically organized collection of LeetCode solutions.
 
 ## 📊 Statistics
 
-- **Total Problems Solved:** 55
+- **Total Problems Solved:** 56
 - **Current Streak:** 3 days
 - **Longest Streak:** 3 days
 
@@ -13,17 +13,17 @@ Automatically organized collection of LeetCode solutions.
 #### By Language
 - Javascript: 1
 - Sql: 17
-- Java: 37
+- Java: 38
 
 #### By Topic
 - Array: 24
 - Database: 17
-- Math: 1
 - Linked-list: 1
 - Two-pointers: 5
-- Hash-table: 3
 - String: 3
 - Tree: 1
+- Math: 2
+- Hash-table: 3
 
 ## 📂 Solutions
 
@@ -67,6 +67,7 @@ Automatically organized collection of LeetCode solutions.
 | 242 | Valid Anagram | hash-table | easy | java | [Solution](solutions/java/hash-table/easy/242_valid-anagram_hash-table_easy.java) |
 | 274 | H Index | array | medium | java | [Solution](solutions/java/array/medium/274_h-index_array_medium.java) |
 | 283 | Move Zeroes | array | easy | java | [Solution](solutions/java/array/easy/283_move-zeroes_array_easy.java) |
+| 342 | Power Of Four | math | easy | java | [Solution](solutions/java/math/easy/342_power-of-four_math_easy.java) |
 | 345 | Reverse Vowels Of A String | two-pointers | easy | java | [Solution](solutions/java/two-pointers/easy/345_reverse-vowels-of-a-string_two-pointers_easy.java) |
 | 380 | Insert Delete Getrandom O(1) | array | medium | java | [Solution](solutions/java/array/medium/380_insert-delete-getrandom-o(1)_array_medium.java) |
 | 586 | Customer Placing The Largest Number Of Orders | database | easy | sql | [Solution](solutions/sql/database/easy/586_customer-placing-the-largest-number-of-orders_database_easy.sql) |
@@ -84,22 +85,3 @@ Automatically organized collection of LeetCode solutions.
 | 1894 | Merge Strings Alternately | two-pointers | easy | java | [Solution](solutions/java/two-pointers/easy/1894_merge-strings-alternately_two-pointers_easy.java) |
 | 3379 | Score Of A String | string | easy | java | [Solution](solutions/java/string/easy/3379_score-of-a-string_string_easy.java) |
 | 4068 | Sum Of Elements With Frequency Divisible By K | array | easy | java | [Solution](solutions/java/array/easy/4068_sum-of-elements-with-frequency-divisible-by-k_array_easy.java) |
-
-<!---LeetCode Topics Start-->
-# LeetCode Topics
-## Math
-|  |
-| ------- |
-| [0231-power-of-two](https://github.com/imrajeevnayan/leetcode-solution/tree/master/0231-power-of-two) |
-| [0342-power-of-four](https://github.com/imrajeevnayan/leetcode-solution/tree/master/0342-power-of-four) |
-## Bit Manipulation
-|  |
-| ------- |
-| [0231-power-of-two](https://github.com/imrajeevnayan/leetcode-solution/tree/master/0231-power-of-two) |
-| [0342-power-of-four](https://github.com/imrajeevnayan/leetcode-solution/tree/master/0342-power-of-four) |
-## Recursion
-|  |
-| ------- |
-| [0231-power-of-two](https://github.com/imrajeevnayan/leetcode-solution/tree/master/0231-power-of-two) |
-| [0342-power-of-four](https://github.com/imrajeevnayan/leetcode-solution/tree/master/0342-power-of-four) |
-<!---LeetCode Topics End-->
