@@ -4,7 +4,7 @@ Automatically organized collection of LeetCode solutions.
 
 ## 📊 Statistics
 
-- **Total Problems Solved:** 59
+- **Total Problems Solved:** 60
 - **Current Streak:** 3 days
 - **Longest Streak:** 3 days
 
@@ -13,10 +13,10 @@ Automatically organized collection of LeetCode solutions.
 #### By Language
 - Javascript: 1
 - Sql: 17
-- Java: 41
+- Java: 42
 
 #### By Topic
-- Array: 24
+- Array: 25
 - Database: 17
 - Linked-list: 1
 - Two-pointers: 6
@@ -29,6 +29,7 @@ Automatically organized collection of LeetCode solutions.
 
 | ID | Title | Topic | Difficulty | Language | Link |
 |----|-------|-------|------------|----------|------|
+| 11 | Container With Most Water | array | medium | java | [Solution](solutions/java/array/medium/11_container-with-most-water_array_medium.java) |
 | 12 | Integer To Roman | hash-table | medium | java | [Solution](solutions/java/hash-table/medium/12_integer-to-roman_hash-table_medium.java) |
 | 13 | Roman To Integer | hash-table | easy | java | [Solution](solutions/java/hash-table/easy/13_roman-to-integer_hash-table_easy.java) |
 | 20 | Valid Parentheses | string | easy | java | [Solution](solutions/java/string/easy/20_valid-parentheses_string_easy.java) |
@@ -88,19 +89,3 @@ Automatically organized collection of LeetCode solutions.
 | 1894 | Merge Strings Alternately | two-pointers | easy | java | [Solution](solutions/java/two-pointers/easy/1894_merge-strings-alternately_two-pointers_easy.java) |
 | 3379 | Score Of A String | string | easy | java | [Solution](solutions/java/string/easy/3379_score-of-a-string_string_easy.java) |
 | 4068 | Sum Of Elements With Frequency Divisible By K | array | easy | java | [Solution](solutions/java/array/easy/4068_sum-of-elements-with-frequency-divisible-by-k_array_easy.java) |
-
-<!---LeetCode Topics Start-->
-# LeetCode Topics
-## Array
-|  |
-| ------- |
-| [0011-container-with-most-water](https://github.com/imrajeevnayan/leetcode-solution/tree/master/0011-container-with-most-water) |
-## Two Pointers
-|  |
-| ------- |
-| [0011-container-with-most-water](https://github.com/imrajeevnayan/leetcode-solution/tree/master/0011-container-with-most-water) |
-## Greedy
-|  |
-| ------- |
-| [0011-container-with-most-water](https://github.com/imrajeevnayan/leetcode-solution/tree/master/0011-container-with-most-water) |
-<!---LeetCode Topics End-->
