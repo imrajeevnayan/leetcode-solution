@@ -4,7 +4,7 @@ Automatically organized collection of LeetCode solutions.
 
 ## 📊 Statistics
 
-- **Total Problems Solved:** 64
+- **Total Problems Solved:** 65
 - **Current Streak:** 4 days
 - **Longest Streak:** 4 days
 
@@ -13,10 +13,10 @@ Automatically organized collection of LeetCode solutions.
 #### By Language
 - Javascript: 1
 - Sql: 17
-- Java: 46
+- Java: 47
 
 #### By Topic
-- Array: 29
+- Array: 30
 - Database: 17
 - Linked-list: 1
 - Two-pointers: 6
@@ -82,6 +82,7 @@ Automatically organized collection of LeetCode solutions.
 | 596 | Classes With At Least 5 Students | database | easy | sql | [Solution](solutions/sql/database/easy/596_classes-with-at-least-5-students_database_easy.sql) |
 | 628 | Maximum Product Of Three Numbers | array | easy | java | [Solution](solutions/java/array/easy/628_maximum-product-of-three-numbers_array_easy.java) |
 | 724 | Find Pivot Index | array | easy | java | [Solution](solutions/java/array/easy/724_find-pivot-index_array_easy.java) |
+| 941 | Sort Array By Parity | array | easy | java | [Solution](solutions/java/array/easy/941_sort-array-by-parity_array_easy.java) |
 | 975 | Range Sum Of Bst | tree | easy | java | [Solution](solutions/java/tree/easy/975_range-sum-of-bst_tree_easy.java) |
 | 1146 | Greatest Common Divisor Of Strings | math | easy | java | [Solution](solutions/java/math/easy/1146_greatest-common-divisor-of-strings_math_easy.java) |
 | 1258 | Article Views I | database | easy | sql | [Solution](solutions/sql/database/easy/1258_article-views-i_database_easy.sql) |
@@ -93,33 +94,3 @@ Automatically organized collection of LeetCode solutions.
 | 1894 | Merge Strings Alternately | two-pointers | easy | java | [Solution](solutions/java/two-pointers/easy/1894_merge-strings-alternately_two-pointers_easy.java) |
 | 3379 | Score Of A String | string | easy | java | [Solution](solutions/java/string/easy/3379_score-of-a-string_string_easy.java) |
 | 4068 | Sum Of Elements With Frequency Divisible By K | array | easy | java | [Solution](solutions/java/array/easy/4068_sum-of-elements-with-frequency-divisible-by-k_array_easy.java) |
-
-<!---LeetCode Topics Start-->
-# LeetCode Topics
-## Array
-|  |
-| ------- |
-| [0594-longest-harmonious-subsequence](https://github.com/imrajeevnayan/leetcode-solution/tree/master/0594-longest-harmonious-subsequence) |
-| [0905-sort-array-by-parity](https://github.com/imrajeevnayan/leetcode-solution/tree/master/0905-sort-array-by-parity) |
-## Hash Table
-|  |
-| ------- |
-| [0594-longest-harmonious-subsequence](https://github.com/imrajeevnayan/leetcode-solution/tree/master/0594-longest-harmonious-subsequence) |
-## Sliding Window
-|  |
-| ------- |
-| [0594-longest-harmonious-subsequence](https://github.com/imrajeevnayan/leetcode-solution/tree/master/0594-longest-harmonious-subsequence) |
-## Sorting
-|  |
-| ------- |
-| [0594-longest-harmonious-subsequence](https://github.com/imrajeevnayan/leetcode-solution/tree/master/0594-longest-harmonious-subsequence) |
-| [0905-sort-array-by-parity](https://github.com/imrajeevnayan/leetcode-solution/tree/master/0905-sort-array-by-parity) |
-## Counting
-|  |
-| ------- |
-| [0594-longest-harmonious-subsequence](https://github.com/imrajeevnayan/leetcode-solution/tree/master/0594-longest-harmonious-subsequence) |
-## Two Pointers
-|  |
-| ------- |
-| [0905-sort-array-by-parity](https://github.com/imrajeevnayan/leetcode-solution/tree/master/0905-sort-array-by-parity) |
-<!---LeetCode Topics End-->
