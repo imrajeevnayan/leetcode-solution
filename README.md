@@ -115,4 +115,8 @@ Automatically organized collection of LeetCode solutions.
 |  |
 | ------- |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/imrajeevnayan/leetcode-solution/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
+## Database
+|  |
+| ------- |
+| [0610-triangle-judgement](https://github.com/imrajeevnayan/leetcode-solution/tree/master/0610-triangle-judgement) |
 <!---LeetCode Topics End-->
