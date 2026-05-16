@@ -4,7 +4,7 @@ Automatically organized collection of LeetCode solutions.
 
 ## 📊 Statistics
 
-- **Total Problems Solved:** 71
+- **Total Problems Solved:** 72
 - **Current Streak:** 4 days
 - **Longest Streak:** 4 days
 
@@ -12,12 +12,12 @@ Automatically organized collection of LeetCode solutions.
 
 #### By Language
 - Javascript: 1
-- Sql: 21
+- Sql: 22
 - Java: 49
 
 #### By Topic
 - Array: 32
-- Database: 21
+- Database: 22
 - Linked-list: 1
 - Two-pointers: 6
 - String: 3
@@ -81,6 +81,7 @@ Automatically organized collection of LeetCode solutions.
 | 595 | Big Countries | database | easy | sql | [Solution](solutions/sql/database/easy/595_big-countries_database_easy.sql) |
 | 596 | Classes With At Least 5 Students | database | easy | sql | [Solution](solutions/sql/database/easy/596_classes-with-at-least-5-students_database_easy.sql) |
 | 610 | Triangle Judgement | database | easy | sql | [Solution](solutions/sql/database/easy/610_triangle-judgement_database_easy.sql) |
+| 626 | Exchange Seats | database | medium | sql | [Solution](solutions/sql/database/medium/626_exchange-seats_database_medium.sql) |
 | 628 | Maximum Product Of Three Numbers | array | easy | java | [Solution](solutions/java/array/easy/628_maximum-product-of-three-numbers_array_easy.java) |
 | 724 | Find Pivot Index | array | easy | java | [Solution](solutions/java/array/easy/724_find-pivot-index_array_easy.java) |
 | 941 | Sort Array By Parity | array | easy | java | [Solution](solutions/java/array/easy/941_sort-array-by-parity_array_easy.java) |
@@ -100,11 +101,3 @@ Automatically organized collection of LeetCode solutions.
 | 1894 | Merge Strings Alternately | two-pointers | easy | java | [Solution](solutions/java/two-pointers/easy/1894_merge-strings-alternately_two-pointers_easy.java) |
 | 3379 | Score Of A String | string | easy | java | [Solution](solutions/java/string/easy/3379_score-of-a-string_string_easy.java) |
 | 4068 | Sum Of Elements With Frequency Divisible By K | array | easy | java | [Solution](solutions/java/array/easy/4068_sum-of-elements-with-frequency-divisible-by-k_array_easy.java) |
-
-<!---LeetCode Topics Start-->
-# LeetCode Topics
-## Database
-|  |
-| ------- |
-| [0626-exchange-seats](https://github.com/imrajeevnayan/leetcode-solution/tree/master/0626-exchange-seats) |
-<!---LeetCode Topics End-->
