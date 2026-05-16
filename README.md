@@ -100,6 +100,7 @@ Automatically organized collection of LeetCode solutions.
 |  |
 | ------- |
 | [0594-longest-harmonious-subsequence](https://github.com/imrajeevnayan/leetcode-solution/tree/master/0594-longest-harmonious-subsequence) |
+| [0905-sort-array-by-parity](https://github.com/imrajeevnayan/leetcode-solution/tree/master/0905-sort-array-by-parity) |
 ## Hash Table
 |  |
 | ------- |
@@ -112,8 +113,13 @@ Automatically organized collection of LeetCode solutions.
 |  |
 | ------- |
 | [0594-longest-harmonious-subsequence](https://github.com/imrajeevnayan/leetcode-solution/tree/master/0594-longest-harmonious-subsequence) |
+| [0905-sort-array-by-parity](https://github.com/imrajeevnayan/leetcode-solution/tree/master/0905-sort-array-by-parity) |
 ## Counting
 |  |
 | ------- |
 | [0594-longest-harmonious-subsequence](https://github.com/imrajeevnayan/leetcode-solution/tree/master/0594-longest-harmonious-subsequence) |
+## Two Pointers
+|  |
+| ------- |
+| [0905-sort-array-by-parity](https://github.com/imrajeevnayan/leetcode-solution/tree/master/0905-sort-array-by-parity) |
 <!---LeetCode Topics End-->
