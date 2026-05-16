@@ -4,7 +4,7 @@ Automatically organized collection of LeetCode solutions.
 
 ## 📊 Statistics
 
-- **Total Problems Solved:** 62
+- **Total Problems Solved:** 63
 - **Current Streak:** 4 days
 - **Longest Streak:** 4 days
 
@@ -13,10 +13,10 @@ Automatically organized collection of LeetCode solutions.
 #### By Language
 - Javascript: 1
 - Sql: 17
-- Java: 44
+- Java: 45
 
 #### By Topic
-- Array: 27
+- Array: 28
 - Database: 17
 - Linked-list: 1
 - Two-pointers: 6
@@ -75,6 +75,7 @@ Automatically organized collection of LeetCode solutions.
 | 345 | Reverse Vowels Of A String | two-pointers | easy | java | [Solution](solutions/java/two-pointers/easy/345_reverse-vowels-of-a-string_two-pointers_easy.java) |
 | 380 | Insert Delete Getrandom O(1) | array | medium | java | [Solution](solutions/java/array/medium/380_insert-delete-getrandom-o(1)_array_medium.java) |
 | 392 | Is Subsequence | two-pointers | easy | java | [Solution](solutions/java/two-pointers/easy/392_is-subsequence_two-pointers_easy.java) |
+| 561 | Array Partition | array | easy | java | [Solution](solutions/java/array/easy/561_array-partition_array_easy.java) |
 | 586 | Customer Placing The Largest Number Of Orders | database | easy | sql | [Solution](solutions/sql/database/easy/586_customer-placing-the-largest-number-of-orders_database_easy.sql) |
 | 595 | Big Countries | database | easy | sql | [Solution](solutions/sql/database/easy/595_big-countries_database_easy.sql) |
 | 596 | Classes With At Least 5 Students | database | easy | sql | [Solution](solutions/sql/database/easy/596_classes-with-at-least-5-students_database_easy.sql) |
@@ -91,38 +92,3 @@ Automatically organized collection of LeetCode solutions.
 | 1894 | Merge Strings Alternately | two-pointers | easy | java | [Solution](solutions/java/two-pointers/easy/1894_merge-strings-alternately_two-pointers_easy.java) |
 | 3379 | Score Of A String | string | easy | java | [Solution](solutions/java/string/easy/3379_score-of-a-string_string_easy.java) |
 | 4068 | Sum Of Elements With Frequency Divisible By K | array | easy | java | [Solution](solutions/java/array/easy/4068_sum-of-elements-with-frequency-divisible-by-k_array_easy.java) |
-
-<!---LeetCode Topics Start-->
-# LeetCode Topics
-## Array
-|  |
-| ------- |
-| [0015-3sum](https://github.com/imrajeevnayan/leetcode-solution/tree/master/0015-3sum) |
-| [0561-array-partition](https://github.com/imrajeevnayan/leetcode-solution/tree/master/0561-array-partition) |
-## Two Pointers
-|  |
-| ------- |
-| [0015-3sum](https://github.com/imrajeevnayan/leetcode-solution/tree/master/0015-3sum) |
-## Sorting
-|  |
-| ------- |
-| [0015-3sum](https://github.com/imrajeevnayan/leetcode-solution/tree/master/0015-3sum) |
-| [0242-valid-anagram](https://github.com/imrajeevnayan/leetcode-solution/tree/master/0242-valid-anagram) |
-| [0561-array-partition](https://github.com/imrajeevnayan/leetcode-solution/tree/master/0561-array-partition) |
-## Hash Table
-|  |
-| ------- |
-| [0242-valid-anagram](https://github.com/imrajeevnayan/leetcode-solution/tree/master/0242-valid-anagram) |
-## String
-|  |
-| ------- |
-| [0242-valid-anagram](https://github.com/imrajeevnayan/leetcode-solution/tree/master/0242-valid-anagram) |
-## Greedy
-|  |
-| ------- |
-| [0561-array-partition](https://github.com/imrajeevnayan/leetcode-solution/tree/master/0561-array-partition) |
-## Counting Sort
-|  |
-| ------- |
-| [0561-array-partition](https://github.com/imrajeevnayan/leetcode-solution/tree/master/0561-array-partition) |
-<!---LeetCode Topics End-->
