@@ -98,6 +98,7 @@ Automatically organized collection of LeetCode solutions.
 |  |
 | ------- |
 | [0015-3sum](https://github.com/imrajeevnayan/leetcode-solution/tree/master/0015-3sum) |
+| [0561-array-partition](https://github.com/imrajeevnayan/leetcode-solution/tree/master/0561-array-partition) |
 ## Two Pointers
 |  |
 | ------- |
@@ -107,6 +108,7 @@ Automatically organized collection of LeetCode solutions.
 | ------- |
 | [0015-3sum](https://github.com/imrajeevnayan/leetcode-solution/tree/master/0015-3sum) |
 | [0242-valid-anagram](https://github.com/imrajeevnayan/leetcode-solution/tree/master/0242-valid-anagram) |
+| [0561-array-partition](https://github.com/imrajeevnayan/leetcode-solution/tree/master/0561-array-partition) |
 ## Hash Table
 |  |
 | ------- |
@@ -115,4 +117,12 @@ Automatically organized collection of LeetCode solutions.
 |  |
 | ------- |
 | [0242-valid-anagram](https://github.com/imrajeevnayan/leetcode-solution/tree/master/0242-valid-anagram) |
+## Greedy
+|  |
+| ------- |
+| [0561-array-partition](https://github.com/imrajeevnayan/leetcode-solution/tree/master/0561-array-partition) |
+## Counting Sort
+|  |
+| ------- |
+| [0561-array-partition](https://github.com/imrajeevnayan/leetcode-solution/tree/master/0561-array-partition) |
 <!---LeetCode Topics End-->
