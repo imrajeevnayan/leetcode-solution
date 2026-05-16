@@ -4,7 +4,7 @@ Automatically organized collection of LeetCode solutions.
 
 ## 📊 Statistics
 
-- **Total Problems Solved:** 69
+- **Total Problems Solved:** 70
 - **Current Streak:** 4 days
 - **Longest Streak:** 4 days
 
@@ -12,12 +12,12 @@ Automatically organized collection of LeetCode solutions.
 
 #### By Language
 - Javascript: 1
-- Sql: 19
+- Sql: 20
 - Java: 49
 
 #### By Topic
 - Array: 32
-- Database: 19
+- Database: 20
 - Linked-list: 1
 - Two-pointers: 6
 - String: 3
@@ -87,6 +87,7 @@ Automatically organized collection of LeetCode solutions.
 | 975 | Range Sum Of Bst | tree | easy | java | [Solution](solutions/java/tree/easy/975_range-sum-of-bst_tree_easy.java) |
 | 1018 | Largest Perimeter Triangle | array | easy | java | [Solution](solutions/java/array/easy/1018_largest-perimeter-triangle_array_easy.java) |
 | 1146 | Greatest Common Divisor Of Strings | math | easy | java | [Solution](solutions/java/math/easy/1146_greatest-common-divisor-of-strings_math_easy.java) |
+| 1182 | Game Play Analysis Iv | database | medium | sql | [Solution](solutions/sql/database/medium/1182_game-play-analysis-iv_database_medium.sql) |
 | 1258 | Article Views I | database | easy | sql | [Solution](solutions/sql/database/easy/1258_article-views-i_database_easy.sql) |
 | 1278 | Product Price At A Given Date | database | medium | sql | [Solution](solutions/sql/database/medium/1278_product-price-at-a-given-date_database_medium.sql) |
 | 1319 | Unique Number Of Occurrences | array | easy | java | [Solution](solutions/java/array/easy/1319_unique-number-of-occurrences_array_easy.java) |
@@ -98,11 +99,3 @@ Automatically organized collection of LeetCode solutions.
 | 1894 | Merge Strings Alternately | two-pointers | easy | java | [Solution](solutions/java/two-pointers/easy/1894_merge-strings-alternately_two-pointers_easy.java) |
 | 3379 | Score Of A String | string | easy | java | [Solution](solutions/java/string/easy/3379_score-of-a-string_string_easy.java) |
 | 4068 | Sum Of Elements With Frequency Divisible By K | array | easy | java | [Solution](solutions/java/array/easy/4068_sum-of-elements-with-frequency-divisible-by-k_array_easy.java) |
-
-<!---LeetCode Topics Start-->
-# LeetCode Topics
-## Database
-|  |
-| ------- |
-| [0550-game-play-analysis-iv](https://github.com/imrajeevnayan/leetcode-solution/tree/master/0550-game-play-analysis-iv) |
-<!---LeetCode Topics End-->
