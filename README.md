@@ -4,7 +4,7 @@ Automatically organized collection of LeetCode solutions.
 
 ## 📊 Statistics
 
-- **Total Problems Solved:** 63
+- **Total Problems Solved:** 64
 - **Current Streak:** 4 days
 - **Longest Streak:** 4 days
 
@@ -13,10 +13,10 @@ Automatically organized collection of LeetCode solutions.
 #### By Language
 - Javascript: 1
 - Sql: 17
-- Java: 45
+- Java: 46
 
 #### By Topic
-- Array: 28
+- Array: 29
 - Database: 17
 - Linked-list: 1
 - Two-pointers: 6
@@ -77,6 +77,7 @@ Automatically organized collection of LeetCode solutions.
 | 392 | Is Subsequence | two-pointers | easy | java | [Solution](solutions/java/two-pointers/easy/392_is-subsequence_two-pointers_easy.java) |
 | 561 | Array Partition | array | easy | java | [Solution](solutions/java/array/easy/561_array-partition_array_easy.java) |
 | 586 | Customer Placing The Largest Number Of Orders | database | easy | sql | [Solution](solutions/sql/database/easy/586_customer-placing-the-largest-number-of-orders_database_easy.sql) |
+| 594 | Longest Harmonious Subsequence | array | easy | java | [Solution](solutions/java/array/easy/594_longest-harmonious-subsequence_array_easy.java) |
 | 595 | Big Countries | database | easy | sql | [Solution](solutions/sql/database/easy/595_big-countries_database_easy.sql) |
 | 596 | Classes With At Least 5 Students | database | easy | sql | [Solution](solutions/sql/database/easy/596_classes-with-at-least-5-students_database_easy.sql) |
 | 628 | Maximum Product Of Three Numbers | array | easy | java | [Solution](solutions/java/array/easy/628_maximum-product-of-three-numbers_array_easy.java) |
@@ -92,27 +93,3 @@ Automatically organized collection of LeetCode solutions.
 | 1894 | Merge Strings Alternately | two-pointers | easy | java | [Solution](solutions/java/two-pointers/easy/1894_merge-strings-alternately_two-pointers_easy.java) |
 | 3379 | Score Of A String | string | easy | java | [Solution](solutions/java/string/easy/3379_score-of-a-string_string_easy.java) |
 | 4068 | Sum Of Elements With Frequency Divisible By K | array | easy | java | [Solution](solutions/java/array/easy/4068_sum-of-elements-with-frequency-divisible-by-k_array_easy.java) |
-
-<!---LeetCode Topics Start-->
-# LeetCode Topics
-## Array
-|  |
-| ------- |
-| [0594-longest-harmonious-subsequence](https://github.com/imrajeevnayan/leetcode-solution/tree/master/0594-longest-harmonious-subsequence) |
-## Hash Table
-|  |
-| ------- |
-| [0594-longest-harmonious-subsequence](https://github.com/imrajeevnayan/leetcode-solution/tree/master/0594-longest-harmonious-subsequence) |
-## Sliding Window
-|  |
-| ------- |
-| [0594-longest-harmonious-subsequence](https://github.com/imrajeevnayan/leetcode-solution/tree/master/0594-longest-harmonious-subsequence) |
-## Sorting
-|  |
-| ------- |
-| [0594-longest-harmonious-subsequence](https://github.com/imrajeevnayan/leetcode-solution/tree/master/0594-longest-harmonious-subsequence) |
-## Counting
-|  |
-| ------- |
-| [0594-longest-harmonious-subsequence](https://github.com/imrajeevnayan/leetcode-solution/tree/master/0594-longest-harmonious-subsequence) |
-<!---LeetCode Topics End-->
