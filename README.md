@@ -4,7 +4,7 @@ Automatically organized collection of LeetCode solutions.
 
 ## 📊 Statistics
 
-- **Total Problems Solved:** 77
+- **Total Problems Solved:** 78
 - **Current Streak:** 4 days
 - **Longest Streak:** 4 days
 
@@ -13,12 +13,12 @@ Automatically organized collection of LeetCode solutions.
 #### By Language
 - Javascript: 1
 - Sql: 27
-- Java: 49
+- Java: 50
 
 #### By Topic
 - Array: 32
 - Database: 27
-- Linked-list: 1
+- Linked-list: 2
 - Two-pointers: 6
 - String: 3
 - Tree: 1
@@ -29,6 +29,7 @@ Automatically organized collection of LeetCode solutions.
 
 | ID | Title | Topic | Difficulty | Language | Link |
 |----|-------|-------|------------|----------|------|
+| 2 | Add Two Numbers | linked-list | medium | java | [Solution](solutions/java/linked-list/medium/2_add-two-numbers_linked-list_medium.java) |
 | 11 | Container With Most Water | array | medium | java | [Solution](solutions/java/array/medium/11_container-with-most-water_array_medium.java) |
 | 12 | Integer To Roman | hash-table | medium | java | [Solution](solutions/java/hash-table/medium/12_integer-to-roman_hash-table_medium.java) |
 | 13 | Roman To Integer | hash-table | easy | java | [Solution](solutions/java/hash-table/easy/13_roman-to-integer_hash-table_easy.java) |
@@ -106,19 +107,3 @@ Automatically organized collection of LeetCode solutions.
 | 1894 | Merge Strings Alternately | two-pointers | easy | java | [Solution](solutions/java/two-pointers/easy/1894_merge-strings-alternately_two-pointers_easy.java) |
 | 3379 | Score Of A String | string | easy | java | [Solution](solutions/java/string/easy/3379_score-of-a-string_string_easy.java) |
 | 4068 | Sum Of Elements With Frequency Divisible By K | array | easy | java | [Solution](solutions/java/array/easy/4068_sum-of-elements-with-frequency-divisible-by-k_array_easy.java) |
-
-<!---LeetCode Topics Start-->
-# LeetCode Topics
-## Linked List
-|  |
-| ------- |
-| [0002-add-two-numbers](https://github.com/imrajeevnayan/leetcode-solution/tree/master/0002-add-two-numbers) |
-## Math
-|  |
-| ------- |
-| [0002-add-two-numbers](https://github.com/imrajeevnayan/leetcode-solution/tree/master/0002-add-two-numbers) |
-## Recursion
-|  |
-| ------- |
-| [0002-add-two-numbers](https://github.com/imrajeevnayan/leetcode-solution/tree/master/0002-add-two-numbers) |
-<!---LeetCode Topics End-->
