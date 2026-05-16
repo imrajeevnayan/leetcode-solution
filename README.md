@@ -4,19 +4,19 @@ Automatically organized collection of LeetCode solutions.
 
 ## 📊 Statistics
 
-- **Total Problems Solved:** 60
-- **Current Streak:** 3 days
-- **Longest Streak:** 3 days
+- **Total Problems Solved:** 61
+- **Current Streak:** 4 days
+- **Longest Streak:** 4 days
 
 ### 🧩 Breakdown
 
 #### By Language
 - Javascript: 1
 - Sql: 17
-- Java: 42
+- Java: 43
 
 #### By Topic
-- Array: 25
+- Array: 26
 - Database: 17
 - Linked-list: 1
 - Two-pointers: 6
@@ -49,6 +49,7 @@ Automatically organized collection of LeetCode solutions.
 | 135 | Candy | array | hard | java | [Solution](solutions/java/array/hard/135_candy_array_hard.java) |
 | 136 | Single Number | array | easy | java | [Solution](solutions/java/array/easy/136_single-number_array_easy.java) |
 | 151 | Reverse Words In A String | two-pointers | medium | java | [Solution](solutions/java/two-pointers/medium/151_reverse-words-in-a-string_two-pointers_medium.java) |
+| 167 | Two Sum Ii   Input Array Is Sorted | array | medium | java | [Solution](solutions/java/array/medium/167_two-sum-ii---input-array-is-sorted_array_medium.java) |
 | 169 | Majority Element | array | easy | java | [Solution](solutions/java/array/easy/169_majority-element_array_easy.java) |
 | 175 | Combine Two Tables | database | easy | sql | [Solution](solutions/sql/database/easy/175_combine-two-tables_database_easy.sql) |
 | 176 | Second Highest Salary | database | medium | sql | [Solution](solutions/sql/database/medium/176_second-highest-salary_database_medium.sql) |
@@ -89,30 +90,3 @@ Automatically organized collection of LeetCode solutions.
 | 1894 | Merge Strings Alternately | two-pointers | easy | java | [Solution](solutions/java/two-pointers/easy/1894_merge-strings-alternately_two-pointers_easy.java) |
 | 3379 | Score Of A String | string | easy | java | [Solution](solutions/java/string/easy/3379_score-of-a-string_string_easy.java) |
 | 4068 | Sum Of Elements With Frequency Divisible By K | array | easy | java | [Solution](solutions/java/array/easy/4068_sum-of-elements-with-frequency-divisible-by-k_array_easy.java) |
-
-<!---LeetCode Topics Start-->
-# LeetCode Topics
-## Two Pointers
-|  |
-| ------- |
-| [0125-valid-palindrome](https://github.com/imrajeevnayan/leetcode-solution/tree/master/0125-valid-palindrome) |
-| [0167-two-sum-ii-input-array-is-sorted](https://github.com/imrajeevnayan/leetcode-solution/tree/master/0167-two-sum-ii-input-array-is-sorted) |
-| [0392-is-subsequence](https://github.com/imrajeevnayan/leetcode-solution/tree/master/0392-is-subsequence) |
-## String
-|  |
-| ------- |
-| [0125-valid-palindrome](https://github.com/imrajeevnayan/leetcode-solution/tree/master/0125-valid-palindrome) |
-| [0392-is-subsequence](https://github.com/imrajeevnayan/leetcode-solution/tree/master/0392-is-subsequence) |
-## Dynamic Programming
-|  |
-| ------- |
-| [0392-is-subsequence](https://github.com/imrajeevnayan/leetcode-solution/tree/master/0392-is-subsequence) |
-## Array
-|  |
-| ------- |
-| [0167-two-sum-ii-input-array-is-sorted](https://github.com/imrajeevnayan/leetcode-solution/tree/master/0167-two-sum-ii-input-array-is-sorted) |
-## Binary Search
-|  |
-| ------- |
-| [0167-two-sum-ii-input-array-is-sorted](https://github.com/imrajeevnayan/leetcode-solution/tree/master/0167-two-sum-ii-input-array-is-sorted) |
-<!---LeetCode Topics End-->
