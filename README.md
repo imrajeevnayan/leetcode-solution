@@ -4,7 +4,7 @@ Automatically organized collection of LeetCode solutions.
 
 ## 📊 Statistics
 
-- **Total Problems Solved:** 68
+- **Total Problems Solved:** 69
 - **Current Streak:** 4 days
 - **Longest Streak:** 4 days
 
@@ -12,12 +12,12 @@ Automatically organized collection of LeetCode solutions.
 
 #### By Language
 - Javascript: 1
-- Sql: 18
+- Sql: 19
 - Java: 49
 
 #### By Topic
 - Array: 32
-- Database: 18
+- Database: 19
 - Linked-list: 1
 - Two-pointers: 6
 - String: 3
@@ -88,6 +88,7 @@ Automatically organized collection of LeetCode solutions.
 | 1018 | Largest Perimeter Triangle | array | easy | java | [Solution](solutions/java/array/easy/1018_largest-perimeter-triangle_array_easy.java) |
 | 1146 | Greatest Common Divisor Of Strings | math | easy | java | [Solution](solutions/java/math/easy/1146_greatest-common-divisor-of-strings_math_easy.java) |
 | 1258 | Article Views I | database | easy | sql | [Solution](solutions/sql/database/easy/1258_article-views-i_database_easy.sql) |
+| 1278 | Product Price At A Given Date | database | medium | sql | [Solution](solutions/sql/database/medium/1278_product-price-at-a-given-date_database_medium.sql) |
 | 1319 | Unique Number Of Occurrences | array | easy | java | [Solution](solutions/java/array/easy/1319_unique-number-of-occurrences_array_easy.java) |
 | 1392 | Find The Difference Of Two Arrays | array | easy | java | [Solution](solutions/java/array/easy/1392_find-the-difference-of-two-arrays_array_easy.java) |
 | 1482 | How Many Numbers Are Smaller Than The Current Number | array | easy | java | [Solution](solutions/java/array/easy/1482_how-many-numbers-are-smaller-than-the-current-number_array_easy.java) |
@@ -97,11 +98,3 @@ Automatically organized collection of LeetCode solutions.
 | 1894 | Merge Strings Alternately | two-pointers | easy | java | [Solution](solutions/java/two-pointers/easy/1894_merge-strings-alternately_two-pointers_easy.java) |
 | 3379 | Score Of A String | string | easy | java | [Solution](solutions/java/string/easy/3379_score-of-a-string_string_easy.java) |
 | 4068 | Sum Of Elements With Frequency Divisible By K | array | easy | java | [Solution](solutions/java/array/easy/4068_sum-of-elements-with-frequency-divisible-by-k_array_easy.java) |
-
-<!---LeetCode Topics Start-->
-# LeetCode Topics
-## Database
-|  |
-| ------- |
-| [1164-product-price-at-a-given-date](https://github.com/imrajeevnayan/leetcode-solution/tree/master/1164-product-price-at-a-given-date) |
-<!---LeetCode Topics End-->
