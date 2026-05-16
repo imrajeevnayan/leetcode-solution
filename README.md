@@ -96,6 +96,7 @@ Automatically organized collection of LeetCode solutions.
 |  |
 | ------- |
 | [0125-valid-palindrome](https://github.com/imrajeevnayan/leetcode-solution/tree/master/0125-valid-palindrome) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/imrajeevnayan/leetcode-solution/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0392-is-subsequence](https://github.com/imrajeevnayan/leetcode-solution/tree/master/0392-is-subsequence) |
 ## String
 |  |
@@ -106,4 +107,12 @@ Automatically organized collection of LeetCode solutions.
 |  |
 | ------- |
 | [0392-is-subsequence](https://github.com/imrajeevnayan/leetcode-solution/tree/master/0392-is-subsequence) |
+## Array
+|  |
+| ------- |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/imrajeevnayan/leetcode-solution/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+## Binary Search
+|  |
+| ------- |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/imrajeevnayan/leetcode-solution/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 <!---LeetCode Topics End-->
