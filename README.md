@@ -4,7 +4,7 @@ Automatically organized collection of LeetCode solutions.
 
 ## 📊 Statistics
 
-- **Total Problems Solved:** 93
+- **Total Problems Solved:** 94
 - **Current Streak:** 1 days
 - **Longest Streak:** 4 days
 
@@ -13,10 +13,10 @@ Automatically organized collection of LeetCode solutions.
 #### By Language
 - Javascript: 1
 - Sql: 27
-- Java: 65
+- Java: 66
 
 #### By Topic
-- Array: 38
+- Array: 39
 - Database: 27
 - Linked-list: 5
 - Two-pointers: 7
@@ -49,6 +49,7 @@ Automatically organized collection of LeetCode solutions.
 | 41 | First Missing Positive | array | hard | java | [Solution](solutions/java/array/hard/41_first-missing-positive_array_hard.java) |
 | 45 | Jump Game Ii | array | medium | java | [Solution](solutions/java/array/medium/45_jump-game-ii_array_medium.java) |
 | 48 | Rotate Image | array | medium | java | [Solution](solutions/java/array/medium/48_rotate-image_array_medium.java) |
+| 49 | Group Anagrams | array | medium | java | [Solution](solutions/java/array/medium/49_group-anagrams_array_medium.java) |
 | 53 | Maximum Subarray | array | medium | java | [Solution](solutions/java/array/medium/53_maximum-subarray_array_medium.java) |
 | 55 | Jump Game | array | medium | java | [Solution](solutions/java/array/medium/55_jump-game_array_medium.java) |
 | 58 | Length Of Last Word | string | easy | java | [Solution](solutions/java/string/easy/58_length-of-last-word_string_easy.java) |
@@ -122,56 +123,3 @@ Automatically organized collection of LeetCode solutions.
 | 1894 | Merge Strings Alternately | two-pointers | easy | java | [Solution](solutions/java/two-pointers/easy/1894_merge-strings-alternately_two-pointers_easy.java) |
 | 3379 | Score Of A String | string | easy | java | [Solution](solutions/java/string/easy/3379_score-of-a-string_string_easy.java) |
 | 4068 | Sum Of Elements With Frequency Divisible By K | array | easy | java | [Solution](solutions/java/array/easy/4068_sum-of-elements-with-frequency-divisible-by-k_array_easy.java) |
-
-<!---LeetCode Topics Start-->
-# LeetCode Topics
-## Array
-| Problem Name | Difficulty |
-| ------- | ------- |
-| [0049-group-anagrams](https://github.com/imrajeevnayan/leetcode-solution/tree/main/0049-group-anagrams/) | Medium |
-| [0088-merge-sorted-array](https://github.com/imrajeevnayan/leetcode-solution/tree/master/0088-merge-sorted-array) |
-| [0169-majority-element](https://github.com/imrajeevnayan/leetcode-solution/tree/master/0169-majority-element) |
-| [0189-rotate-array](https://github.com/imrajeevnayan/leetcode-solution/tree/master/0189-rotate-array) |
-| [0283-move-zeroes](https://github.com/imrajeevnayan/leetcode-solution/tree/master/0283-move-zeroes) |
-## Two Pointers
-| Problem Name | Difficulty |
-| ------- | ------- |
-| [0088-merge-sorted-array](https://github.com/imrajeevnayan/leetcode-solution/tree/master/0088-merge-sorted-array) |
-| [0189-rotate-array](https://github.com/imrajeevnayan/leetcode-solution/tree/master/0189-rotate-array) |
-| [0283-move-zeroes](https://github.com/imrajeevnayan/leetcode-solution/tree/master/0283-move-zeroes) |
-## Hash Table
-| Problem Name | Difficulty |
-| ------- | ------- |
-| [0049-group-anagrams](https://github.com/imrajeevnayan/leetcode-solution/tree/main/0049-group-anagrams/) | Medium |
-| [0169-majority-element](https://github.com/imrajeevnayan/leetcode-solution/tree/master/0169-majority-element) |
-## Divide and Conquer
-| Problem Name | Difficulty |
-| ------- | ------- |
-| [0169-majority-element](https://github.com/imrajeevnayan/leetcode-solution/tree/master/0169-majority-element) |
-## Sorting
-| Problem Name | Difficulty |
-| ------- | ------- |
-| [0049-group-anagrams](https://github.com/imrajeevnayan/leetcode-solution/tree/main/0049-group-anagrams/) | Medium |
-| [0088-merge-sorted-array](https://github.com/imrajeevnayan/leetcode-solution/tree/master/0088-merge-sorted-array) |
-| [0169-majority-element](https://github.com/imrajeevnayan/leetcode-solution/tree/master/0169-majority-element) |
-## Counting
-| Problem Name | Difficulty |
-| ------- | ------- |
-| [0169-majority-element](https://github.com/imrajeevnayan/leetcode-solution/tree/master/0169-majority-element) |
-## Math
-| Problem Name | Difficulty |
-| ------- | ------- |
-| [0189-rotate-array](https://github.com/imrajeevnayan/leetcode-solution/tree/master/0189-rotate-array) |
-## Linked List
-| Problem Name | Difficulty |
-| ------- | ------- |
-| [0206-reverse-linked-list](https://github.com/imrajeevnayan/leetcode-solution/tree/main/0206-reverse-linked-list/) | Easy |
-## Recursion
-| Problem Name | Difficulty |
-| ------- | ------- |
-| [0206-reverse-linked-list](https://github.com/imrajeevnayan/leetcode-solution/tree/main/0206-reverse-linked-list/) | Easy |
-## String
-| Problem Name | Difficulty |
-| ------- | ------- |
-| [0049-group-anagrams](https://github.com/imrajeevnayan/leetcode-solution/tree/main/0049-group-anagrams/) | Medium |
-<!---LeetCode Topics End-->
