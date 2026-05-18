@@ -4,7 +4,7 @@ Automatically organized collection of LeetCode solutions.
 
 ## 📊 Statistics
 
-- **Total Problems Solved:** 91
+- **Total Problems Solved:** 92
 - **Current Streak:** 1 days
 - **Longest Streak:** 4 days
 
@@ -13,12 +13,12 @@ Automatically organized collection of LeetCode solutions.
 #### By Language
 - Javascript: 1
 - Sql: 27
-- Java: 63
+- Java: 64
 
 #### By Topic
 - Array: 37
 - Database: 27
-- Linked-list: 4
+- Linked-list: 5
 - Two-pointers: 7
 - String: 5
 - Tree: 1
@@ -39,6 +39,7 @@ Automatically organized collection of LeetCode solutions.
 | 15 | 3Sum | array | medium | java | [Solution](solutions/java/array/medium/15_3sum_array_medium.java) |
 | 19 | Remove Nth Node From End Of List | linked-list | medium | java | [Solution](solutions/java/linked-list/medium/19_remove-nth-node-from-end-of-list_linked-list_medium.java) |
 | 20 | Valid Parentheses | string | easy | java | [Solution](solutions/java/string/easy/20_valid-parentheses_string_easy.java) |
+| 21 | Merge Two Sorted Lists | linked-list | easy | java | [Solution](solutions/java/linked-list/easy/21_merge-two-sorted-lists_linked-list_easy.java) |
 | 23 | Merge K Sorted Lists | linked-list | hard | java | [Solution](solutions/java/linked-list/hard/23_merge-k-sorted-lists_linked-list_hard.java) |
 | 26 | Remove Duplicates From Sorted Array | array | easy | java | [Solution](solutions/java/array/easy/26_remove-duplicates-from-sorted-array_array_easy.java) |
 | 27 | Remove Element | array | easy | java | [Solution](solutions/java/array/easy/27_remove-element_array_easy.java) |
@@ -120,15 +121,3 @@ Automatically organized collection of LeetCode solutions.
 | 1894 | Merge Strings Alternately | two-pointers | easy | java | [Solution](solutions/java/two-pointers/easy/1894_merge-strings-alternately_two-pointers_easy.java) |
 | 3379 | Score Of A String | string | easy | java | [Solution](solutions/java/string/easy/3379_score-of-a-string_string_easy.java) |
 | 4068 | Sum Of Elements With Frequency Divisible By K | array | easy | java | [Solution](solutions/java/array/easy/4068_sum-of-elements-with-frequency-divisible-by-k_array_easy.java) |
-
-<!---LeetCode Topics Start-->
-# LeetCode Topics
-## Linked List
-|  |
-| ------- |
-| [0021-merge-two-sorted-lists](https://github.com/imrajeevnayan/leetcode-solution/tree/master/0021-merge-two-sorted-lists) |
-## Recursion
-|  |
-| ------- |
-| [0021-merge-two-sorted-lists](https://github.com/imrajeevnayan/leetcode-solution/tree/master/0021-merge-two-sorted-lists) |
-<!---LeetCode Topics End-->
