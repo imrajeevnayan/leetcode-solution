@@ -4,7 +4,7 @@ Automatically organized collection of LeetCode solutions.
 
 ## 📊 Statistics
 
-- **Total Problems Solved:** 81
+- **Total Problems Solved:** 82
 - **Current Streak:** 1 days
 - **Longest Streak:** 4 days
 
@@ -13,10 +13,10 @@ Automatically organized collection of LeetCode solutions.
 #### By Language
 - Javascript: 1
 - Sql: 27
-- Java: 53
+- Java: 54
 
 #### By Topic
-- Array: 34
+- Array: 35
 - Database: 27
 - Linked-list: 3
 - Two-pointers: 6
@@ -42,6 +42,7 @@ Automatically organized collection of LeetCode solutions.
 | 33 | Search In Rotated Sorted Array | array | medium | java | [Solution](solutions/java/array/medium/33_search-in-rotated-sorted-array_array_medium.java) |
 | 39 | Combination Sum | array | medium | java | [Solution](solutions/java/array/medium/39_combination-sum_array_medium.java) |
 | 45 | Jump Game Ii | array | medium | java | [Solution](solutions/java/array/medium/45_jump-game-ii_array_medium.java) |
+| 48 | Rotate Image | array | medium | java | [Solution](solutions/java/array/medium/48_rotate-image_array_medium.java) |
 | 55 | Jump Game | array | medium | java | [Solution](solutions/java/array/medium/55_jump-game_array_medium.java) |
 | 58 | Length Of Last Word | string | easy | java | [Solution](solutions/java/string/easy/58_length-of-last-word_string_easy.java) |
 | 80 | Remove Duplicates From Sorted Array Ii | array | medium | javascript | [Solution](solutions/javascript/array/medium/80_remove-duplicates-from-sorted-array-ii_array_medium.js) |
@@ -110,19 +111,3 @@ Automatically organized collection of LeetCode solutions.
 | 1894 | Merge Strings Alternately | two-pointers | easy | java | [Solution](solutions/java/two-pointers/easy/1894_merge-strings-alternately_two-pointers_easy.java) |
 | 3379 | Score Of A String | string | easy | java | [Solution](solutions/java/string/easy/3379_score-of-a-string_string_easy.java) |
 | 4068 | Sum Of Elements With Frequency Divisible By K | array | easy | java | [Solution](solutions/java/array/easy/4068_sum-of-elements-with-frequency-divisible-by-k_array_easy.java) |
-
-<!---LeetCode Topics Start-->
-# LeetCode Topics
-## Array
-|  |
-| ------- |
-| [0048-rotate-image](https://github.com/imrajeevnayan/leetcode-solution/tree/master/0048-rotate-image) |
-## Math
-|  |
-| ------- |
-| [0048-rotate-image](https://github.com/imrajeevnayan/leetcode-solution/tree/master/0048-rotate-image) |
-## Matrix
-|  |
-| ------- |
-| [0048-rotate-image](https://github.com/imrajeevnayan/leetcode-solution/tree/master/0048-rotate-image) |
-<!---LeetCode Topics End-->
