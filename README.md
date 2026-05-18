@@ -19,8 +19,21 @@
 | ------- | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/imrajeevnayan/leetcode-solution/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
 | [0189-rotate-array](https://github.com/imrajeevnayan/leetcode-solution/tree/main/0189-rotate-array/) | Medium |
+| [2248-intersection-of-multiple-arrays](https://github.com/imrajeevnayan/leetcode-solution/tree/main/2248-intersection-of-multiple-arrays/) | Easy |
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0189-rotate-array](https://github.com/imrajeevnayan/leetcode-solution/tree/main/0189-rotate-array/) | Medium |
+## Hash Table
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [2248-intersection-of-multiple-arrays](https://github.com/imrajeevnayan/leetcode-solution/tree/main/2248-intersection-of-multiple-arrays/) | Easy |
+## Sorting
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [2248-intersection-of-multiple-arrays](https://github.com/imrajeevnayan/leetcode-solution/tree/main/2248-intersection-of-multiple-arrays/) | Easy |
+## Counting
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [2248-intersection-of-multiple-arrays](https://github.com/imrajeevnayan/leetcode-solution/tree/main/2248-intersection-of-multiple-arrays/) | Easy |
 <!---LeetCode Topics End-->
