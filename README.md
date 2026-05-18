@@ -126,37 +126,45 @@ Automatically organized collection of LeetCode solutions.
 <!---LeetCode Topics Start-->
 # LeetCode Topics
 ## Array
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0088-merge-sorted-array](https://github.com/imrajeevnayan/leetcode-solution/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/imrajeevnayan/leetcode-solution/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/imrajeevnayan/leetcode-solution/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/imrajeevnayan/leetcode-solution/tree/master/0283-move-zeroes) |
 ## Two Pointers
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0088-merge-sorted-array](https://github.com/imrajeevnayan/leetcode-solution/tree/master/0088-merge-sorted-array) |
 | [0189-rotate-array](https://github.com/imrajeevnayan/leetcode-solution/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/imrajeevnayan/leetcode-solution/tree/master/0283-move-zeroes) |
 ## Hash Table
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0169-majority-element](https://github.com/imrajeevnayan/leetcode-solution/tree/master/0169-majority-element) |
 ## Divide and Conquer
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0169-majority-element](https://github.com/imrajeevnayan/leetcode-solution/tree/master/0169-majority-element) |
 ## Sorting
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0088-merge-sorted-array](https://github.com/imrajeevnayan/leetcode-solution/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/imrajeevnayan/leetcode-solution/tree/master/0169-majority-element) |
 ## Counting
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0169-majority-element](https://github.com/imrajeevnayan/leetcode-solution/tree/master/0169-majority-element) |
 ## Math
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0189-rotate-array](https://github.com/imrajeevnayan/leetcode-solution/tree/master/0189-rotate-array) |
+## Linked List
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0206-reverse-linked-list](https://github.com/imrajeevnayan/leetcode-solution/tree/main/0206-reverse-linked-list/) | Easy |
+## Recursion
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0206-reverse-linked-list](https://github.com/imrajeevnayan/leetcode-solution/tree/main/0206-reverse-linked-list/) | Easy |
 <!---LeetCode Topics End-->
