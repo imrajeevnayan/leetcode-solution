@@ -1,21 +1,18 @@
-import java.util.*;
-
 class Solution {
     public List<Integer> intersection(int[][] nums) {
-        Map<Integer, Integer> countMap = new HashMap<>();
-        int n = nums.length;
+        int[] freq = new int[1001];
+        int totalArrays = nums.length;
         for (int[] arr : nums) {
             for (int num : arr) {
-                countMap.put(num, countMap.getOrDefault(num, 0) + 1);
+                freq[num]++;
             }
         }
-        List<Integer> result = new ArrayList<>();
-        for (Map.Entry<Integer, Integer> entry : countMap.entrySet()) {
-            if (entry.getValue() == n) {
-                result.add(entry.getKey());
+    List<Integer> result = new ArrayList<>();
+        for (int i = 1; i <= 1000; i++) {
+            if (freq[i] == totalArrays) {
+                result.add(i);
             }
         }
-        Collections.sort(result);
         return result;
     }
 }
