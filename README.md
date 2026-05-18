@@ -129,10 +129,12 @@ Automatically organized collection of LeetCode solutions.
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/imrajeevnayan/leetcode-solution/tree/master/0169-majority-element) |
+| [0189-rotate-array](https://github.com/imrajeevnayan/leetcode-solution/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/imrajeevnayan/leetcode-solution/tree/master/0283-move-zeroes) |
 ## Two Pointers
 |  |
 | ------- |
+| [0189-rotate-array](https://github.com/imrajeevnayan/leetcode-solution/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/imrajeevnayan/leetcode-solution/tree/master/0283-move-zeroes) |
 ## Hash Table
 |  |
@@ -150,4 +152,8 @@ Automatically organized collection of LeetCode solutions.
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/imrajeevnayan/leetcode-solution/tree/master/0169-majority-element) |
+## Math
+|  |
+| ------- |
+| [0189-rotate-array](https://github.com/imrajeevnayan/leetcode-solution/tree/master/0189-rotate-array) |
 <!---LeetCode Topics End-->
