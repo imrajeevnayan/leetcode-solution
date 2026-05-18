@@ -4,7 +4,7 @@ Automatically organized collection of LeetCode solutions.
 
 ## 📊 Statistics
 
-- **Total Problems Solved:** 89
+- **Total Problems Solved:** 90
 - **Current Streak:** 1 days
 - **Longest Streak:** 4 days
 
@@ -13,14 +13,14 @@ Automatically organized collection of LeetCode solutions.
 #### By Language
 - Javascript: 1
 - Sql: 27
-- Java: 61
+- Java: 62
 
 #### By Topic
 - Array: 37
 - Database: 27
 - Linked-list: 4
 - Two-pointers: 7
-- String: 3
+- String: 4
 - Tree: 1
 - Math: 6
 - Hash-table: 4
@@ -96,6 +96,7 @@ Automatically organized collection of LeetCode solutions.
 | 610 | Triangle Judgement | database | easy | sql | [Solution](solutions/sql/database/easy/610_triangle-judgement_database_easy.sql) |
 | 626 | Exchange Seats | database | medium | sql | [Solution](solutions/sql/database/medium/626_exchange-seats_database_medium.sql) |
 | 628 | Maximum Product Of Three Numbers | array | easy | java | [Solution](solutions/java/array/easy/628_maximum-product-of-three-numbers_array_easy.java) |
+| 678 | Valid Parenthesis String | string | medium | java | [Solution](solutions/java/string/medium/678_valid-parenthesis-string_string_medium.java) |
 | 724 | Find Pivot Index | array | easy | java | [Solution](solutions/java/array/easy/724_find-pivot-index_array_easy.java) |
 | 941 | Sort Array By Parity | array | easy | java | [Solution](solutions/java/array/easy/941_sort-array-by-parity_array_easy.java) |
 | 975 | Range Sum Of Bst | tree | easy | java | [Solution](solutions/java/tree/easy/975_range-sum-of-bst_tree_easy.java) |
@@ -118,23 +119,3 @@ Automatically organized collection of LeetCode solutions.
 | 1894 | Merge Strings Alternately | two-pointers | easy | java | [Solution](solutions/java/two-pointers/easy/1894_merge-strings-alternately_two-pointers_easy.java) |
 | 3379 | Score Of A String | string | easy | java | [Solution](solutions/java/string/easy/3379_score-of-a-string_string_easy.java) |
 | 4068 | Sum Of Elements With Frequency Divisible By K | array | easy | java | [Solution](solutions/java/array/easy/4068_sum-of-elements-with-frequency-divisible-by-k_array_easy.java) |
-
-<!---LeetCode Topics Start-->
-# LeetCode Topics
-## String
-|  |
-| ------- |
-| [0678-valid-parenthesis-string](https://github.com/imrajeevnayan/leetcode-solution/tree/master/0678-valid-parenthesis-string) |
-## Dynamic Programming
-|  |
-| ------- |
-| [0678-valid-parenthesis-string](https://github.com/imrajeevnayan/leetcode-solution/tree/master/0678-valid-parenthesis-string) |
-## Stack
-|  |
-| ------- |
-| [0678-valid-parenthesis-string](https://github.com/imrajeevnayan/leetcode-solution/tree/master/0678-valid-parenthesis-string) |
-## Greedy
-|  |
-| ------- |
-| [0678-valid-parenthesis-string](https://github.com/imrajeevnayan/leetcode-solution/tree/master/0678-valid-parenthesis-string) |
-<!---LeetCode Topics End-->
