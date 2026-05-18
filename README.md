@@ -4,7 +4,7 @@ Automatically organized collection of LeetCode solutions.
 
 ## 📊 Statistics
 
-- **Total Problems Solved:** 88
+- **Total Problems Solved:** 89
 - **Current Streak:** 1 days
 - **Longest Streak:** 4 days
 
@@ -13,13 +13,13 @@ Automatically organized collection of LeetCode solutions.
 #### By Language
 - Javascript: 1
 - Sql: 27
-- Java: 60
+- Java: 61
 
 #### By Topic
 - Array: 37
 - Database: 27
 - Linked-list: 4
-- Two-pointers: 6
+- Two-pointers: 7
 - String: 3
 - Tree: 1
 - Math: 6
@@ -30,6 +30,7 @@ Automatically organized collection of LeetCode solutions.
 | ID | Title | Topic | Difficulty | Language | Link |
 |----|-------|-------|------------|----------|------|
 | 2 | Add Two Numbers | linked-list | medium | java | [Solution](solutions/java/linked-list/medium/2_add-two-numbers_linked-list_medium.java) |
+| 5 | Longest Palindromic Substring | two-pointers | medium | java | [Solution](solutions/java/two-pointers/medium/5_longest-palindromic-substring_two-pointers_medium.java) |
 | 7 | Reverse Integer | math | medium | java | [Solution](solutions/java/math/medium/7_reverse-integer_math_medium.java) |
 | 11 | Container With Most Water | array | medium | java | [Solution](solutions/java/array/medium/11_container-with-most-water_array_medium.java) |
 | 12 | Integer To Roman | hash-table | medium | java | [Solution](solutions/java/hash-table/medium/12_integer-to-roman_hash-table_medium.java) |
