@@ -1,11 +1,12 @@
 {
-    "currentStreak": 4,
+    "currentStreak": 1,
     "longestStreak": 4,
-    "lastSolvedDate": "2026-05-16",
+    "lastSolvedDate": "2026-05-18",
     "dailyCount": {
         "2026-05-13": 28,
         "2026-05-14": 26,
         "2026-05-15": 6,
-        "2026-05-16": 18
+        "2026-05-16": 18,
+        "2026-05-18": 1
     }
 }

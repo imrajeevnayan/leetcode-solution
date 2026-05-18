@@ -4,8 +4,8 @@ Automatically organized collection of LeetCode solutions.
 
 ## 📊 Statistics
 
-- **Total Problems Solved:** 78
-- **Current Streak:** 4 days
+- **Total Problems Solved:** 79
+- **Current Streak:** 1 days
 - **Longest Streak:** 4 days
 
 ### 🧩 Breakdown
@@ -13,12 +13,12 @@ Automatically organized collection of LeetCode solutions.
 #### By Language
 - Javascript: 1
 - Sql: 27
-- Java: 50
+- Java: 51
 
 #### By Topic
 - Array: 32
 - Database: 27
-- Linked-list: 2
+- Linked-list: 3
 - Two-pointers: 6
 - String: 3
 - Tree: 1
@@ -35,6 +35,7 @@ Automatically organized collection of LeetCode solutions.
 | 13 | Roman To Integer | hash-table | easy | java | [Solution](solutions/java/hash-table/easy/13_roman-to-integer_hash-table_easy.java) |
 | 15 | 3Sum | array | medium | java | [Solution](solutions/java/array/medium/15_3sum_array_medium.java) |
 | 20 | Valid Parentheses | string | easy | java | [Solution](solutions/java/string/easy/20_valid-parentheses_string_easy.java) |
+| 23 | Merge K Sorted Lists | linked-list | hard | java | [Solution](solutions/java/linked-list/hard/23_merge-k-sorted-lists_linked-list_hard.java) |
 | 26 | Remove Duplicates From Sorted Array | array | easy | java | [Solution](solutions/java/array/easy/26_remove-duplicates-from-sorted-array_array_easy.java) |
 | 27 | Remove Element | array | easy | java | [Solution](solutions/java/array/easy/27_remove-element_array_easy.java) |
 | 28 | Find The Index Of The First Occurrence In A String | two-pointers | easy | java | [Solution](solutions/java/two-pointers/easy/28_find-the-index-of-the-first-occurrence-in-a-string_two-pointers_easy.java) |
@@ -107,35 +108,3 @@ Automatically organized collection of LeetCode solutions.
 | 1894 | Merge Strings Alternately | two-pointers | easy | java | [Solution](solutions/java/two-pointers/easy/1894_merge-strings-alternately_two-pointers_easy.java) |
 | 3379 | Score Of A String | string | easy | java | [Solution](solutions/java/string/easy/3379_score-of-a-string_string_easy.java) |
 | 4068 | Sum Of Elements With Frequency Divisible By K | array | easy | java | [Solution](solutions/java/array/easy/4068_sum-of-elements-with-frequency-divisible-by-k_array_easy.java) |
-
-<!---LeetCode Topics Start-->
-# LeetCode Topics
-## Array
-|  |
-| ------- |
-| [0088-merge-sorted-array](https://github.com/imrajeevnayan/leetcode-solution/tree/master/0088-merge-sorted-array) |
-## Two Pointers
-|  |
-| ------- |
-| [0088-merge-sorted-array](https://github.com/imrajeevnayan/leetcode-solution/tree/master/0088-merge-sorted-array) |
-## Sorting
-|  |
-| ------- |
-| [0088-merge-sorted-array](https://github.com/imrajeevnayan/leetcode-solution/tree/master/0088-merge-sorted-array) |
-## Linked List
-|  |
-| ------- |
-| [0023-merge-k-sorted-lists](https://github.com/imrajeevnayan/leetcode-solution/tree/master/0023-merge-k-sorted-lists) |
-## Divide and Conquer
-|  |
-| ------- |
-| [0023-merge-k-sorted-lists](https://github.com/imrajeevnayan/leetcode-solution/tree/master/0023-merge-k-sorted-lists) |
-## Heap (Priority Queue)
-|  |
-| ------- |
-| [0023-merge-k-sorted-lists](https://github.com/imrajeevnayan/leetcode-solution/tree/master/0023-merge-k-sorted-lists) |
-## Merge Sort
-|  |
-| ------- |
-| [0023-merge-k-sorted-lists](https://github.com/imrajeevnayan/leetcode-solution/tree/master/0023-merge-k-sorted-lists) |
-<!---LeetCode Topics End-->
