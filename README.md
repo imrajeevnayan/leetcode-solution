@@ -4,7 +4,7 @@ Automatically organized collection of LeetCode solutions.
 
 ## 📊 Statistics
 
-- **Total Problems Solved:** 90
+- **Total Problems Solved:** 91
 - **Current Streak:** 1 days
 - **Longest Streak:** 4 days
 
@@ -13,14 +13,14 @@ Automatically organized collection of LeetCode solutions.
 #### By Language
 - Javascript: 1
 - Sql: 27
-- Java: 62
+- Java: 63
 
 #### By Topic
 - Array: 37
 - Database: 27
 - Linked-list: 4
 - Two-pointers: 7
-- String: 4
+- String: 5
 - Tree: 1
 - Math: 6
 - Hash-table: 4
@@ -32,6 +32,7 @@ Automatically organized collection of LeetCode solutions.
 | 2 | Add Two Numbers | linked-list | medium | java | [Solution](solutions/java/linked-list/medium/2_add-two-numbers_linked-list_medium.java) |
 | 5 | Longest Palindromic Substring | two-pointers | medium | java | [Solution](solutions/java/two-pointers/medium/5_longest-palindromic-substring_two-pointers_medium.java) |
 | 7 | Reverse Integer | math | medium | java | [Solution](solutions/java/math/medium/7_reverse-integer_math_medium.java) |
+| 10 | Regular Expression Matching | string | hard | java | [Solution](solutions/java/string/hard/10_regular-expression-matching_string_hard.java) |
 | 11 | Container With Most Water | array | medium | java | [Solution](solutions/java/array/medium/11_container-with-most-water_array_medium.java) |
 | 12 | Integer To Roman | hash-table | medium | java | [Solution](solutions/java/hash-table/medium/12_integer-to-roman_hash-table_medium.java) |
 | 13 | Roman To Integer | hash-table | easy | java | [Solution](solutions/java/hash-table/easy/13_roman-to-integer_hash-table_easy.java) |
@@ -119,19 +120,3 @@ Automatically organized collection of LeetCode solutions.
 | 1894 | Merge Strings Alternately | two-pointers | easy | java | [Solution](solutions/java/two-pointers/easy/1894_merge-strings-alternately_two-pointers_easy.java) |
 | 3379 | Score Of A String | string | easy | java | [Solution](solutions/java/string/easy/3379_score-of-a-string_string_easy.java) |
 | 4068 | Sum Of Elements With Frequency Divisible By K | array | easy | java | [Solution](solutions/java/array/easy/4068_sum-of-elements-with-frequency-divisible-by-k_array_easy.java) |
-
-<!---LeetCode Topics Start-->
-# LeetCode Topics
-## String
-|  |
-| ------- |
-| [0010-regular-expression-matching](https://github.com/imrajeevnayan/leetcode-solution/tree/master/0010-regular-expression-matching) |
-## Dynamic Programming
-|  |
-| ------- |
-| [0010-regular-expression-matching](https://github.com/imrajeevnayan/leetcode-solution/tree/master/0010-regular-expression-matching) |
-## Recursion
-|  |
-| ------- |
-| [0010-regular-expression-matching](https://github.com/imrajeevnayan/leetcode-solution/tree/master/0010-regular-expression-matching) |
-<!---LeetCode Topics End-->
