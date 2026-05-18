@@ -4,7 +4,7 @@ Automatically organized collection of LeetCode solutions.
 
 ## 📊 Statistics
 
-- **Total Problems Solved:** 92
+- **Total Problems Solved:** 93
 - **Current Streak:** 1 days
 - **Longest Streak:** 4 days
 
@@ -13,10 +13,10 @@ Automatically organized collection of LeetCode solutions.
 #### By Language
 - Javascript: 1
 - Sql: 27
-- Java: 64
+- Java: 65
 
 #### By Topic
-- Array: 37
+- Array: 38
 - Database: 27
 - Linked-list: 5
 - Two-pointers: 7
@@ -46,6 +46,7 @@ Automatically organized collection of LeetCode solutions.
 | 28 | Find The Index Of The First Occurrence In A String | two-pointers | easy | java | [Solution](solutions/java/two-pointers/easy/28_find-the-index-of-the-first-occurrence-in-a-string_two-pointers_easy.java) |
 | 33 | Search In Rotated Sorted Array | array | medium | java | [Solution](solutions/java/array/medium/33_search-in-rotated-sorted-array_array_medium.java) |
 | 39 | Combination Sum | array | medium | java | [Solution](solutions/java/array/medium/39_combination-sum_array_medium.java) |
+| 41 | First Missing Positive | array | hard | java | [Solution](solutions/java/array/hard/41_first-missing-positive_array_hard.java) |
 | 45 | Jump Game Ii | array | medium | java | [Solution](solutions/java/array/medium/45_jump-game-ii_array_medium.java) |
 | 48 | Rotate Image | array | medium | java | [Solution](solutions/java/array/medium/48_rotate-image_array_medium.java) |
 | 53 | Maximum Subarray | array | medium | java | [Solution](solutions/java/array/medium/53_maximum-subarray_array_medium.java) |
@@ -121,15 +122,3 @@ Automatically organized collection of LeetCode solutions.
 | 1894 | Merge Strings Alternately | two-pointers | easy | java | [Solution](solutions/java/two-pointers/easy/1894_merge-strings-alternately_two-pointers_easy.java) |
 | 3379 | Score Of A String | string | easy | java | [Solution](solutions/java/string/easy/3379_score-of-a-string_string_easy.java) |
 | 4068 | Sum Of Elements With Frequency Divisible By K | array | easy | java | [Solution](solutions/java/array/easy/4068_sum-of-elements-with-frequency-divisible-by-k_array_easy.java) |
-
-<!---LeetCode Topics Start-->
-# LeetCode Topics
-## Array
-|  |
-| ------- |
-| [0041-first-missing-positive](https://github.com/imrajeevnayan/leetcode-solution/tree/master/0041-first-missing-positive) |
-## Hash Table
-|  |
-| ------- |
-| [0041-first-missing-positive](https://github.com/imrajeevnayan/leetcode-solution/tree/master/0041-first-missing-positive) |
-<!---LeetCode Topics End-->
