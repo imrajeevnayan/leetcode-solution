@@ -1,0 +1,21 @@
+class Solution {
+    public int characterReplacement(String s, int k) {
+        int i = 0, j = 0, maxLength = 0;
+        HashMap<Character, Integer> map = new HashMap<>();
+
+        int maxCount = 0;
+        while (j < s.length()) {
+            char ch = s.charAt(j);
+            map.put(ch, map.getOrDefault(ch, 0) + 1);
+
+            maxCount = Math.max(maxCount, map.get(ch));
+            if (j - i + 1 - maxCount > k) {
+                map.put(s.charAt(i), map.get(s.charAt(i)) - 1);
+                i++;
+            }
+            maxLength = Math.max(maxLength, j - i + 1);
+            j++;
+        }
+        return maxLength;
+    }
+}
