@@ -9,7 +9,6 @@ class Solution {
            else if(num==candidate)count++;
            else count--;
         }
-        return candidate;
-        
+        return candidate;  
     }
 }
