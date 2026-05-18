@@ -4,7 +4,7 @@ Automatically organized collection of LeetCode solutions.
 
 ## 📊 Statistics
 
-- **Total Problems Solved:** 86
+- **Total Problems Solved:** 87
 - **Current Streak:** 1 days
 - **Longest Streak:** 4 days
 
@@ -13,10 +13,10 @@ Automatically organized collection of LeetCode solutions.
 #### By Language
 - Javascript: 1
 - Sql: 27
-- Java: 58
+- Java: 59
 
 #### By Topic
-- Array: 36
+- Array: 37
 - Database: 27
 - Linked-list: 4
 - Two-pointers: 6
@@ -98,6 +98,7 @@ Automatically organized collection of LeetCode solutions.
 | 941 | Sort Array By Parity | array | easy | java | [Solution](solutions/java/array/easy/941_sort-array-by-parity_array_easy.java) |
 | 975 | Range Sum Of Bst | tree | easy | java | [Solution](solutions/java/tree/easy/975_range-sum-of-bst_tree_easy.java) |
 | 1018 | Largest Perimeter Triangle | array | easy | java | [Solution](solutions/java/array/easy/1018_largest-perimeter-triangle_array_easy.java) |
+| 1046 | Max Consecutive Ones Iii | array | medium | java | [Solution](solutions/java/array/medium/1046_max-consecutive-ones-iii_array_medium.java) |
 | 1146 | Greatest Common Divisor Of Strings | math | easy | java | [Solution](solutions/java/math/easy/1146_greatest-common-divisor-of-strings_math_easy.java) |
 | 1155 | Product Sales Analysis Iii | database | medium | sql | [Solution](solutions/sql/database/medium/1155_product-sales-analysis-iii_database_medium.sql) |
 | 1182 | Game Play Analysis Iv | database | medium | sql | [Solution](solutions/sql/database/medium/1182_game-play-analysis-iv_database_medium.sql) |
@@ -115,23 +116,3 @@ Automatically organized collection of LeetCode solutions.
 | 1894 | Merge Strings Alternately | two-pointers | easy | java | [Solution](solutions/java/two-pointers/easy/1894_merge-strings-alternately_two-pointers_easy.java) |
 | 3379 | Score Of A String | string | easy | java | [Solution](solutions/java/string/easy/3379_score-of-a-string_string_easy.java) |
 | 4068 | Sum Of Elements With Frequency Divisible By K | array | easy | java | [Solution](solutions/java/array/easy/4068_sum-of-elements-with-frequency-divisible-by-k_array_easy.java) |
-
-<!---LeetCode Topics Start-->
-# LeetCode Topics
-## Array
-|  |
-| ------- |
-| [1004-max-consecutive-ones-iii](https://github.com/imrajeevnayan/leetcode-solution/tree/master/1004-max-consecutive-ones-iii) |
-## Binary Search
-|  |
-| ------- |
-| [1004-max-consecutive-ones-iii](https://github.com/imrajeevnayan/leetcode-solution/tree/master/1004-max-consecutive-ones-iii) |
-## Sliding Window
-|  |
-| ------- |
-| [1004-max-consecutive-ones-iii](https://github.com/imrajeevnayan/leetcode-solution/tree/master/1004-max-consecutive-ones-iii) |
-## Prefix Sum
-|  |
-| ------- |
-| [1004-max-consecutive-ones-iii](https://github.com/imrajeevnayan/leetcode-solution/tree/master/1004-max-consecutive-ones-iii) |
-<!---LeetCode Topics End-->
