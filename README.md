@@ -4,7 +4,7 @@ Automatically organized collection of LeetCode solutions.
 
 ## 📊 Statistics
 
-- **Total Problems Solved:** 84
+- **Total Problems Solved:** 85
 - **Current Streak:** 1 days
 - **Longest Streak:** 4 days
 
@@ -13,7 +13,7 @@ Automatically organized collection of LeetCode solutions.
 #### By Language
 - Javascript: 1
 - Sql: 27
-- Java: 56
+- Java: 57
 
 #### By Topic
 - Array: 36
@@ -23,7 +23,7 @@ Automatically organized collection of LeetCode solutions.
 - String: 3
 - Tree: 1
 - Math: 5
-- Hash-table: 3
+- Hash-table: 4
 
 ## 📂 Solutions
 
@@ -82,6 +82,7 @@ Automatically organized collection of LeetCode solutions.
 | 371 | Sum Of Two Integers | math | medium | java | [Solution](solutions/java/math/medium/371_sum-of-two-integers_math_medium.java) |
 | 380 | Insert Delete Getrandom O(1) | array | medium | java | [Solution](solutions/java/array/medium/380_insert-delete-getrandom-o(1)_array_medium.java) |
 | 392 | Is Subsequence | two-pointers | easy | java | [Solution](solutions/java/two-pointers/easy/392_is-subsequence_two-pointers_easy.java) |
+| 424 | Longest Repeating Character Replacement | hash-table | medium | java | [Solution](solutions/java/hash-table/medium/424_longest-repeating-character-replacement_hash-table_medium.java) |
 | 561 | Array Partition | array | easy | java | [Solution](solutions/java/array/easy/561_array-partition_array_easy.java) |
 | 585 | Investments In 2016 | database | medium | sql | [Solution](solutions/sql/database/medium/585_investments-in-2016_database_medium.sql) |
 | 586 | Customer Placing The Largest Number Of Orders | database | easy | sql | [Solution](solutions/sql/database/easy/586_customer-placing-the-largest-number-of-orders_database_easy.sql) |
@@ -113,27 +114,3 @@ Automatically organized collection of LeetCode solutions.
 | 1894 | Merge Strings Alternately | two-pointers | easy | java | [Solution](solutions/java/two-pointers/easy/1894_merge-strings-alternately_two-pointers_easy.java) |
 | 3379 | Score Of A String | string | easy | java | [Solution](solutions/java/string/easy/3379_score-of-a-string_string_easy.java) |
 | 4068 | Sum Of Elements With Frequency Divisible By K | array | easy | java | [Solution](solutions/java/array/easy/4068_sum-of-elements-with-frequency-divisible-by-k_array_easy.java) |
-
-<!---LeetCode Topics Start-->
-# LeetCode Topics
-## Math
-|  |
-| ------- |
-| [0371-sum-of-two-integers](https://github.com/imrajeevnayan/leetcode-solution/tree/master/0371-sum-of-two-integers) |
-## Bit Manipulation
-|  |
-| ------- |
-| [0371-sum-of-two-integers](https://github.com/imrajeevnayan/leetcode-solution/tree/master/0371-sum-of-two-integers) |
-## Hash Table
-|  |
-| ------- |
-| [0424-longest-repeating-character-replacement](https://github.com/imrajeevnayan/leetcode-solution/tree/master/0424-longest-repeating-character-replacement) |
-## String
-|  |
-| ------- |
-| [0424-longest-repeating-character-replacement](https://github.com/imrajeevnayan/leetcode-solution/tree/master/0424-longest-repeating-character-replacement) |
-## Sliding Window
-|  |
-| ------- |
-| [0424-longest-repeating-character-replacement](https://github.com/imrajeevnayan/leetcode-solution/tree/master/0424-longest-repeating-character-replacement) |
-<!---LeetCode Topics End-->
