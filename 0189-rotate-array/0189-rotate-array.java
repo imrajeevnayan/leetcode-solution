@@ -1,9 +1,9 @@
 class Solution {
-   static void reverse(int []arr,int start,int end){
-        while(start<end){
-            int temp=arr[start];
-            arr[start++]=arr[end];
-            arr[end--]=temp;
+    static void reverse(int nums[],int i,int j){
+        while(i < j){
+            int temp=nums[i];
+            nums[i++]=nums[j];
+            nums[j--]=temp;
         }
     }
     public void rotate(int[] nums, int k) {
