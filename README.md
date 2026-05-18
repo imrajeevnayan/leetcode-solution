@@ -124,4 +124,16 @@ Automatically organized collection of LeetCode solutions.
 |  |
 | ------- |
 | [0371-sum-of-two-integers](https://github.com/imrajeevnayan/leetcode-solution/tree/master/0371-sum-of-two-integers) |
+## Hash Table
+|  |
+| ------- |
+| [0424-longest-repeating-character-replacement](https://github.com/imrajeevnayan/leetcode-solution/tree/master/0424-longest-repeating-character-replacement) |
+## String
+|  |
+| ------- |
+| [0424-longest-repeating-character-replacement](https://github.com/imrajeevnayan/leetcode-solution/tree/master/0424-longest-repeating-character-replacement) |
+## Sliding Window
+|  |
+| ------- |
+| [0424-longest-repeating-character-replacement](https://github.com/imrajeevnayan/leetcode-solution/tree/master/0424-longest-repeating-character-replacement) |
 <!---LeetCode Topics End-->
