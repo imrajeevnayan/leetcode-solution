@@ -4,7 +4,7 @@ Automatically organized collection of LeetCode solutions.
 
 ## 📊 Statistics
 
-- **Total Problems Solved:** 80
+- **Total Problems Solved:** 81
 - **Current Streak:** 1 days
 - **Longest Streak:** 4 days
 
@@ -13,10 +13,10 @@ Automatically organized collection of LeetCode solutions.
 #### By Language
 - Javascript: 1
 - Sql: 27
-- Java: 52
+- Java: 53
 
 #### By Topic
-- Array: 33
+- Array: 34
 - Database: 27
 - Linked-list: 3
 - Two-pointers: 6
@@ -40,6 +40,7 @@ Automatically organized collection of LeetCode solutions.
 | 27 | Remove Element | array | easy | java | [Solution](solutions/java/array/easy/27_remove-element_array_easy.java) |
 | 28 | Find The Index Of The First Occurrence In A String | two-pointers | easy | java | [Solution](solutions/java/two-pointers/easy/28_find-the-index-of-the-first-occurrence-in-a-string_two-pointers_easy.java) |
 | 33 | Search In Rotated Sorted Array | array | medium | java | [Solution](solutions/java/array/medium/33_search-in-rotated-sorted-array_array_medium.java) |
+| 39 | Combination Sum | array | medium | java | [Solution](solutions/java/array/medium/39_combination-sum_array_medium.java) |
 | 45 | Jump Game Ii | array | medium | java | [Solution](solutions/java/array/medium/45_jump-game-ii_array_medium.java) |
 | 55 | Jump Game | array | medium | java | [Solution](solutions/java/array/medium/55_jump-game_array_medium.java) |
 | 58 | Length Of Last Word | string | easy | java | [Solution](solutions/java/string/easy/58_length-of-last-word_string_easy.java) |
@@ -109,15 +110,3 @@ Automatically organized collection of LeetCode solutions.
 | 1894 | Merge Strings Alternately | two-pointers | easy | java | [Solution](solutions/java/two-pointers/easy/1894_merge-strings-alternately_two-pointers_easy.java) |
 | 3379 | Score Of A String | string | easy | java | [Solution](solutions/java/string/easy/3379_score-of-a-string_string_easy.java) |
 | 4068 | Sum Of Elements With Frequency Divisible By K | array | easy | java | [Solution](solutions/java/array/easy/4068_sum-of-elements-with-frequency-divisible-by-k_array_easy.java) |
-
-<!---LeetCode Topics Start-->
-# LeetCode Topics
-## Array
-|  |
-| ------- |
-| [0039-combination-sum](https://github.com/imrajeevnayan/leetcode-solution/tree/master/0039-combination-sum) |
-## Backtracking
-|  |
-| ------- |
-| [0039-combination-sum](https://github.com/imrajeevnayan/leetcode-solution/tree/master/0039-combination-sum) |
-<!---LeetCode Topics End-->
