@@ -4,7 +4,7 @@ Automatically organized collection of LeetCode solutions.
 
 ## 📊 Statistics
 
-- **Total Problems Solved:** 83
+- **Total Problems Solved:** 84
 - **Current Streak:** 1 days
 - **Longest Streak:** 4 days
 
@@ -13,7 +13,7 @@ Automatically organized collection of LeetCode solutions.
 #### By Language
 - Javascript: 1
 - Sql: 27
-- Java: 55
+- Java: 56
 
 #### By Topic
 - Array: 36
@@ -22,7 +22,7 @@ Automatically organized collection of LeetCode solutions.
 - Two-pointers: 6
 - String: 3
 - Tree: 1
-- Math: 4
+- Math: 5
 - Hash-table: 3
 
 ## 📂 Solutions
@@ -79,6 +79,7 @@ Automatically organized collection of LeetCode solutions.
 | 326 | Power Of Three | math | easy | java | [Solution](solutions/java/math/easy/326_power-of-three_math_easy.java) |
 | 342 | Power Of Four | math | easy | java | [Solution](solutions/java/math/easy/342_power-of-four_math_easy.java) |
 | 345 | Reverse Vowels Of A String | two-pointers | easy | java | [Solution](solutions/java/two-pointers/easy/345_reverse-vowels-of-a-string_two-pointers_easy.java) |
+| 371 | Sum Of Two Integers | math | medium | java | [Solution](solutions/java/math/medium/371_sum-of-two-integers_math_medium.java) |
 | 380 | Insert Delete Getrandom O(1) | array | medium | java | [Solution](solutions/java/array/medium/380_insert-delete-getrandom-o(1)_array_medium.java) |
 | 392 | Is Subsequence | two-pointers | easy | java | [Solution](solutions/java/two-pointers/easy/392_is-subsequence_two-pointers_easy.java) |
 | 561 | Array Partition | array | easy | java | [Solution](solutions/java/array/easy/561_array-partition_array_easy.java) |
@@ -112,15 +113,3 @@ Automatically organized collection of LeetCode solutions.
 | 1894 | Merge Strings Alternately | two-pointers | easy | java | [Solution](solutions/java/two-pointers/easy/1894_merge-strings-alternately_two-pointers_easy.java) |
 | 3379 | Score Of A String | string | easy | java | [Solution](solutions/java/string/easy/3379_score-of-a-string_string_easy.java) |
 | 4068 | Sum Of Elements With Frequency Divisible By K | array | easy | java | [Solution](solutions/java/array/easy/4068_sum-of-elements-with-frequency-divisible-by-k_array_easy.java) |
-
-<!---LeetCode Topics Start-->
-# LeetCode Topics
-## Math
-|  |
-| ------- |
-| [0371-sum-of-two-integers](https://github.com/imrajeevnayan/leetcode-solution/tree/master/0371-sum-of-two-integers) |
-## Bit Manipulation
-|  |
-| ------- |
-| [0371-sum-of-two-integers](https://github.com/imrajeevnayan/leetcode-solution/tree/master/0371-sum-of-two-integers) |
-<!---LeetCode Topics End-->
