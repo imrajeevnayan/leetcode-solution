@@ -128,12 +128,14 @@ Automatically organized collection of LeetCode solutions.
 ## Array
 |  |
 | ------- |
+| [0088-merge-sorted-array](https://github.com/imrajeevnayan/leetcode-solution/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/imrajeevnayan/leetcode-solution/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/imrajeevnayan/leetcode-solution/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/imrajeevnayan/leetcode-solution/tree/master/0283-move-zeroes) |
 ## Two Pointers
 |  |
 | ------- |
+| [0088-merge-sorted-array](https://github.com/imrajeevnayan/leetcode-solution/tree/master/0088-merge-sorted-array) |
 | [0189-rotate-array](https://github.com/imrajeevnayan/leetcode-solution/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/imrajeevnayan/leetcode-solution/tree/master/0283-move-zeroes) |
 ## Hash Table
@@ -147,6 +149,7 @@ Automatically organized collection of LeetCode solutions.
 ## Sorting
 |  |
 | ------- |
+| [0088-merge-sorted-array](https://github.com/imrajeevnayan/leetcode-solution/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/imrajeevnayan/leetcode-solution/tree/master/0169-majority-element) |
 ## Counting
 |  |
