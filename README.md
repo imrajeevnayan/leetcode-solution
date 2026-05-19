@@ -4,8 +4,8 @@ Automatically organized collection of LeetCode solutions.
 
 ## 📊 Statistics
 
-- **Total Problems Solved:** 96
-- **Current Streak:** 1 days
+- **Total Problems Solved:** 97
+- **Current Streak:** 2 days
 - **Longest Streak:** 4 days
 
 ### 🧩 Breakdown
@@ -13,10 +13,10 @@ Automatically organized collection of LeetCode solutions.
 #### By Language
 - Javascript: 1
 - Sql: 27
-- Java: 68
+- Java: 69
 
 #### By Topic
-- Array: 40
+- Array: 41
 - Database: 27
 - Linked-list: 5
 - Two-pointers: 7
@@ -54,6 +54,7 @@ Automatically organized collection of LeetCode solutions.
 | 53 | Maximum Subarray | array | medium | java | [Solution](solutions/java/array/medium/53_maximum-subarray_array_medium.java) |
 | 55 | Jump Game | array | medium | java | [Solution](solutions/java/array/medium/55_jump-game_array_medium.java) |
 | 58 | Length Of Last Word | string | easy | java | [Solution](solutions/java/string/easy/58_length-of-last-word_string_easy.java) |
+| 75 | Sort Colors | array | medium | java | [Solution](solutions/java/array/medium/75_sort-colors_array_medium.java) |
 | 80 | Remove Duplicates From Sorted Array Ii | array | medium | javascript | [Solution](solutions/javascript/array/medium/80_remove-duplicates-from-sorted-array-ii_array_medium.js) |
 | 80 | Remove Duplicates From Sorted Array Ii | array | medium | java | [Solution](solutions/java/array/medium/80_remove-duplicates-from-sorted-array-ii_array_medium.java) |
 | 88 | Merge Sorted Array | array | easy | java | [Solution](solutions/java/array/easy/88_merge-sorted-array_array_easy.java) |
@@ -125,24 +126,3 @@ Automatically organized collection of LeetCode solutions.
 | 2331 | Intersection Of Multiple Arrays | array | easy | java | [Solution](solutions/java/array/easy/2331_intersection-of-multiple-arrays_array_easy.java) |
 | 3379 | Score Of A String | string | easy | java | [Solution](solutions/java/string/easy/3379_score-of-a-string_string_easy.java) |
 | 4068 | Sum Of Elements With Frequency Divisible By K | array | easy | java | [Solution](solutions/java/array/easy/4068_sum-of-elements-with-frequency-divisible-by-k_array_easy.java) |
-
-<!---LeetCode Topics Start-->
-# LeetCode Topics
-## Array
-| Problem Name | Difficulty |
-| ------- | ------- |
-| [0075-sort-colors](https://github.com/imrajeevnayan/leetcode-solution/tree/main/0075-sort-colors/) | Medium |
-| [0238-product-of-array-except-self](https://github.com/imrajeevnayan/leetcode-solution/tree/main/0238-product-of-array-except-self/) | Medium |
-## Prefix Sum
-| Problem Name | Difficulty |
-| ------- | ------- |
-| [0238-product-of-array-except-self](https://github.com/imrajeevnayan/leetcode-solution/tree/main/0238-product-of-array-except-self/) | Medium |
-## Two Pointers
-| Problem Name | Difficulty |
-| ------- | ------- |
-| [0075-sort-colors](https://github.com/imrajeevnayan/leetcode-solution/tree/main/0075-sort-colors/) | Medium |
-## Sorting
-| Problem Name | Difficulty |
-| ------- | ------- |
-| [0075-sort-colors](https://github.com/imrajeevnayan/leetcode-solution/tree/main/0075-sort-colors/) | Medium |
-<!---LeetCode Topics End-->
