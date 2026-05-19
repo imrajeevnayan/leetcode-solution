@@ -473,23 +473,25 @@
     "solved": 91
   },
   "syncedProblems": {
-    "GeeksForGeeks_Most_Frequent_Character": true
+    "GeeksForGeeks_Most_Frequent_Character": true,
+    "GeeksForGeeks_Product_array_puzzle": true
   },
-  "totalSolved": 1,
+  "totalSolved": 2,
   "difficultyCounts": {
-    "easy": 0,
+    "easy": 1,
     "medium": 1,
     "hard": 0,
     "basic": 0
   },
   "currentStreak": 1,
-  "todayCount": 1,
+  "todayCount": 2,
   "lastSyncDate": "2026-05-19",
   "maxStreak": 1,
   "activityHistory": {
-    "2026-05-19": 1
+    "2026-05-19": 2
   },
   "todayProblems": [
-    "Most Frequent Character"
+    "Most Frequent Character",
+    "Product array puzzle"
   ]
 }
