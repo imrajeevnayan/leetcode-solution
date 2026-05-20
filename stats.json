@@ -475,26 +475,28 @@
   "syncedProblems": {
     "GeeksForGeeks_Most_Frequent_Character": true,
     "GeeksForGeeks_Product_array_puzzle": true,
-    "GeeksForGeeks_Move_All_Zeroes_to_End": true
+    "GeeksForGeeks_Move_All_Zeroes_to_End": true,
+    "GeeksForGeeks_Zeros_count": true
   },
-  "totalSolved": 3,
+  "totalSolved": 4,
   "difficultyCounts": {
-    "easy": 2,
+    "easy": 3,
     "medium": 1,
     "hard": 0,
     "basic": 0
   },
   "currentStreak": 2,
-  "todayCount": 1,
+  "todayCount": 2,
   "lastSyncDate": "2026-05-20",
   "maxStreak": 2,
   "activityHistory": {
     "2026-05-19": 2,
-    "2026-05-20": 1
+    "2026-05-20": 2
   },
   "todayProblems": [
     "Most Frequent Character",
     "Product array puzzle",
-    "Move All Zeroes to End"
+    "Move All Zeroes to End",
+    "Zeros count"
   ]
 }
