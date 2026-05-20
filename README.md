@@ -7,3 +7,4 @@
 | 5 | [Array Traversal](https://www.geeksforgeeks.org/problems/array-traversal/1?page=1&difficulty=Basic&status=unsolved&sortBy=submissions) | GeeksForGeeks | Basic | 20 May 2026 | 03:31 pm |
 | 6 | [Last Digit of a number](https://www.geeksforgeeks.org/problems/last-digit-of-a-number--145429/1?page=2&difficulty=Basic&status=unsolved&sortBy=submissions) | GeeksForGeeks | Basic | 20 May 2026 | 03:34 pm |
 | 7 | [Count Odd and Even](https://www.geeksforgeeks.org/problems/count-odd-even/1?page=2&difficulty=Basic&status=unsolved&sortBy=submissions) | GeeksForGeeks | Basic | 20 May 2026 | 03:37 pm |
+| 8 | [Count Odd Even - Java](https://www.geeksforgeeks.org/problems/count-odd-even-java/1?page=2&difficulty=Basic&status=unsolved&sortBy=submissions) | GeeksForGeeks | Basic | 20 May 2026 | 03:41 pm |
