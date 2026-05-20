@@ -4,3 +4,4 @@
 | 2 | [Minimum Jumps](https://www.geeksforgeeks.org/problems/minimum-number-of-jumps-1587115620/1?utm=codolio) | GeeksForGeeks | Medium | 20 May 2026 | 03:22 pm |
 | 3 | [Print 1 To N Without Loop](https://www.geeksforgeeks.org/problems/print-1-to-n-without-using-loops-1587115620/1?page=1&difficulty=Basic&status=unsolved&sortBy=submissions) | GeeksForGeeks | Basic | 20 May 2026 | 03:28 pm |
 | 4 | [Swap The Numbers](https://www.geeksforgeeks.org/problems/swap-the-numbers/1?page=1&difficulty=Basic&status=unsolved&sortBy=submissions) | GeeksForGeeks | Basic | 20 May 2026 | 03:29 pm |
+| 5 | [Array Traversal](https://www.geeksforgeeks.org/problems/array-traversal/1?page=1&difficulty=Basic&status=unsolved&sortBy=submissions) | GeeksForGeeks | Basic | 20 May 2026 | 03:31 pm |

@@ -479,22 +479,23 @@
     "GeeksForGeeks_Zeros_count": true,
     "GeeksForGeeks_Minimum_Jumps": true,
     "GeeksForGeeks_Print_1_To_N_Without_Loop": true,
-    "GeeksForGeeks_Swap_The_Numbers": true
+    "GeeksForGeeks_Swap_The_Numbers": true,
+    "GeeksForGeeks_Array_Traversal": true
   },
-  "totalSolved": 7,
+  "totalSolved": 8,
   "difficultyCounts": {
     "easy": 3,
     "medium": 2,
     "hard": 0,
-    "basic": 2
+    "basic": 3
   },
   "currentStreak": 2,
-  "todayCount": 5,
+  "todayCount": 6,
   "lastSyncDate": "2026-05-20",
   "maxStreak": 2,
   "activityHistory": {
     "2026-05-19": 2,
-    "2026-05-20": 5
+    "2026-05-20": 6
   },
   "todayProblems": [
     "Most Frequent Character",
@@ -503,6 +504,7 @@
     "Zeros count",
     "Minimum Jumps",
     "Print 1 To N Without Loop",
-    "Swap The Numbers"
+    "Swap The Numbers",
+    "Array Traversal"
   ]
 }
