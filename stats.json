@@ -477,28 +477,30 @@
     "GeeksForGeeks_Product_array_puzzle": true,
     "GeeksForGeeks_Move_All_Zeroes_to_End": true,
     "GeeksForGeeks_Zeros_count": true,
-    "GeeksForGeeks_Minimum_Jumps": true
+    "GeeksForGeeks_Minimum_Jumps": true,
+    "GeeksForGeeks_Print_1_To_N_Without_Loop": true
   },
-  "totalSolved": 5,
+  "totalSolved": 6,
   "difficultyCounts": {
     "easy": 3,
     "medium": 2,
     "hard": 0,
-    "basic": 0
+    "basic": 1
   },
   "currentStreak": 2,
-  "todayCount": 3,
+  "todayCount": 4,
   "lastSyncDate": "2026-05-20",
   "maxStreak": 2,
   "activityHistory": {
     "2026-05-19": 2,
-    "2026-05-20": 3
+    "2026-05-20": 4
   },
   "todayProblems": [
     "Most Frequent Character",
     "Product array puzzle",
     "Move All Zeroes to End",
     "Zeros count",
-    "Minimum Jumps"
+    "Minimum Jumps",
+    "Print 1 To N Without Loop"
   ]
 }
