@@ -19,3 +19,4 @@
 | [0015-3sum](https://github.com/imrajeevnayan/leetcode-solution/tree/main/0015-3sum/) | Medium |
 <!---LeetCode Topics End-->
 | 3 | [Triplet Sum in Array](https://www.geeksforgeeks.org/problems/triplet-sum-in-array-1587115621/1) | GeeksForGeeks | Medium | 20 May 2026 | 05:24 pm |
+| 4 | [Three Sum](https://www.geeksforgeeks.org/problems/three-sum/1) | GeeksForGeeks | Medium | 20 May 2026 | 05:40 pm |
