@@ -9,3 +9,19 @@
 | 7 | [Count Odd and Even](https://www.geeksforgeeks.org/problems/count-odd-even/1?page=2&difficulty=Basic&status=unsolved&sortBy=submissions) | GeeksForGeeks | Basic | 20 May 2026 | 03:37 pm |
 | 8 | [Count Odd Even - Java](https://www.geeksforgeeks.org/problems/count-odd-even-java/1?page=2&difficulty=Basic&status=unsolved&sortBy=submissions) | GeeksForGeeks | Basic | 20 May 2026 | 03:41 pm |
 | 9 | [Sum of Digits](https://www.geeksforgeeks.org/problems/sum-of-digits-of-a-number/1?page=3&difficulty=Basic&status=unsolved&sortBy=submissions) | GeeksForGeeks | Basic | 20 May 2026 | 03:43 pm |
+
+<!---LeetCode Topics Start-->
+# LeetCode Topics
+## Array
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0977-squares-of-a-sorted-array](https://github.com/imrajeevnayan/leetcode-solution/tree/main/0977-squares-of-a-sorted-array/) | Easy |
+## Two Pointers
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0977-squares-of-a-sorted-array](https://github.com/imrajeevnayan/leetcode-solution/tree/main/0977-squares-of-a-sorted-array/) | Easy |
+## Sorting
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0977-squares-of-a-sorted-array](https://github.com/imrajeevnayan/leetcode-solution/tree/main/0977-squares-of-a-sorted-array/) | Easy |
+<!---LeetCode Topics End-->
