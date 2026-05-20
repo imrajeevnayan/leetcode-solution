@@ -5,3 +5,4 @@
 | 3 | [Print 1 To N Without Loop](https://www.geeksforgeeks.org/problems/print-1-to-n-without-using-loops-1587115620/1?page=1&difficulty=Basic&status=unsolved&sortBy=submissions) | GeeksForGeeks | Basic | 20 May 2026 | 03:28 pm |
 | 4 | [Swap The Numbers](https://www.geeksforgeeks.org/problems/swap-the-numbers/1?page=1&difficulty=Basic&status=unsolved&sortBy=submissions) | GeeksForGeeks | Basic | 20 May 2026 | 03:29 pm |
 | 5 | [Array Traversal](https://www.geeksforgeeks.org/problems/array-traversal/1?page=1&difficulty=Basic&status=unsolved&sortBy=submissions) | GeeksForGeeks | Basic | 20 May 2026 | 03:31 pm |
+| 6 | [Last Digit of a number](https://www.geeksforgeeks.org/problems/last-digit-of-a-number--145429/1?page=2&difficulty=Basic&status=unsolved&sortBy=submissions) | GeeksForGeeks | Basic | 20 May 2026 | 03:34 pm |
