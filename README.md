@@ -2,3 +2,19 @@
 |---|---------|----------|------------|-------------|------|
 | 100 | [Segregate 0s and 1s](https://www.geeksforgeeks.org/problems/segregate-0s-and-1s5106/1) | GeeksForGeeks | Easy | 20 May 2026 | 04:38 pm |
 | 2 | [3Sum](https://leetcode.com/problems/3sum/) | LeetCode | Medium | 20 May 2026 | 04:52 pm |
+
+<!---LeetCode Topics Start-->
+# LeetCode Topics
+## Array
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0015-3sum](https://github.com/imrajeevnayan/leetcode-solution/tree/main/0015-3sum/) | Medium |
+## Two Pointers
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0015-3sum](https://github.com/imrajeevnayan/leetcode-solution/tree/main/0015-3sum/) | Medium |
+## Sorting
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0015-3sum](https://github.com/imrajeevnayan/leetcode-solution/tree/main/0015-3sum/) | Medium |
+<!---LeetCode Topics End-->
