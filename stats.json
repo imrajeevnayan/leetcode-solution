@@ -484,22 +484,23 @@
     "GeeksForGeeks_Last_Digit_of_a_number": true,
     "GeeksForGeeks_Count_Odd_and_Even": true,
     "GeeksForGeeks_Count_Odd_Even_-_Java": true,
-    "GeeksForGeeks_Sum_of_Digits": true
+    "GeeksForGeeks_Sum_of_Digits": true,
+    "GeeksForGeeks_Segregate_0s_and_1s": true
   },
-  "totalSolved": 12,
+  "totalSolved": 13,
   "difficultyCounts": {
-    "easy": 3,
+    "easy": 4,
     "medium": 2,
     "hard": 0,
     "basic": 7
   },
   "currentStreak": 2,
-  "todayCount": 10,
+  "todayCount": 11,
   "lastSyncDate": "2026-05-20",
   "maxStreak": 2,
   "activityHistory": {
     "2026-05-19": 2,
-    "2026-05-20": 10
+    "2026-05-20": 11
   },
   "todayProblems": [
     "Most Frequent Character",
@@ -513,6 +514,7 @@
     "Last Digit of a number",
     "Count Odd and Even",
     "Count Odd Even - Java",
-    "Sum of Digits"
+    "Sum of Digits",
+    "Segregate 0s and 1s"
   ]
 }
