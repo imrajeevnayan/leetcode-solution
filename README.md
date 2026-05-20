@@ -6,3 +6,4 @@
 | 4 | [Swap The Numbers](https://www.geeksforgeeks.org/problems/swap-the-numbers/1?page=1&difficulty=Basic&status=unsolved&sortBy=submissions) | GeeksForGeeks | Basic | 20 May 2026 | 03:29 pm |
 | 5 | [Array Traversal](https://www.geeksforgeeks.org/problems/array-traversal/1?page=1&difficulty=Basic&status=unsolved&sortBy=submissions) | GeeksForGeeks | Basic | 20 May 2026 | 03:31 pm |
 | 6 | [Last Digit of a number](https://www.geeksforgeeks.org/problems/last-digit-of-a-number--145429/1?page=2&difficulty=Basic&status=unsolved&sortBy=submissions) | GeeksForGeeks | Basic | 20 May 2026 | 03:34 pm |
+| 7 | [Count Odd and Even](https://www.geeksforgeeks.org/problems/count-odd-even/1?page=2&difficulty=Basic&status=unsolved&sortBy=submissions) | GeeksForGeeks | Basic | 20 May 2026 | 03:37 pm |

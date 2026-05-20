@@ -481,22 +481,23 @@
     "GeeksForGeeks_Print_1_To_N_Without_Loop": true,
     "GeeksForGeeks_Swap_The_Numbers": true,
     "GeeksForGeeks_Array_Traversal": true,
-    "GeeksForGeeks_Last_Digit_of_a_number": true
+    "GeeksForGeeks_Last_Digit_of_a_number": true,
+    "GeeksForGeeks_Count_Odd_and_Even": true
   },
-  "totalSolved": 9,
+  "totalSolved": 10,
   "difficultyCounts": {
     "easy": 3,
     "medium": 2,
     "hard": 0,
-    "basic": 4
+    "basic": 5
   },
   "currentStreak": 2,
-  "todayCount": 7,
+  "todayCount": 8,
   "lastSyncDate": "2026-05-20",
   "maxStreak": 2,
   "activityHistory": {
     "2026-05-19": 2,
-    "2026-05-20": 7
+    "2026-05-20": 8
   },
   "todayProblems": [
     "Most Frequent Character",
@@ -507,6 +508,7 @@
     "Print 1 To N Without Loop",
     "Swap The Numbers",
     "Array Traversal",
-    "Last Digit of a number"
+    "Last Digit of a number",
+    "Count Odd and Even"
   ]
 }
