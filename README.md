@@ -4,7 +4,7 @@ Automatically organized collection of LeetCode solutions.
 
 ## 📊 Statistics
 
-- **Total Problems Solved:** 102
+- **Total Problems Solved:** 103
 - **Current Streak:** 4 days
 - **Longest Streak:** 4 days
 
@@ -13,7 +13,7 @@ Automatically organized collection of LeetCode solutions.
 #### By Language
 - Javascript: 1
 - Sql: 27
-- Java: 74
+- Java: 75
 
 #### By Topic
 - Array: 45
@@ -23,7 +23,7 @@ Automatically organized collection of LeetCode solutions.
 - String: 5
 - Tree: 1
 - Math: 6
-- Hash-table: 6
+- Hash-table: 7
 
 ## 📂 Solutions
 
@@ -122,6 +122,7 @@ Automatically organized collection of LeetCode solutions.
 | 1327 | Last Person To Fit In The Bus | database | medium | sql | [Solution](solutions/sql/database/medium/1327_last-person-to-fit-in-the-bus_database_medium.sql) |
 | 1392 | Find The Difference Of Two Arrays | array | easy | java | [Solution](solutions/java/array/easy/1392_find-the-difference-of-two-arrays_array_easy.java) |
 | 1452 | Restaurant Growth | database | medium | sql | [Solution](solutions/sql/database/medium/1452_restaurant-growth_database_medium.sql) |
+| 1470 | Tweet Counts Per Frequency | hash-table | medium | java | [Solution](solutions/java/hash-table/medium/1470_tweet-counts-per-frequency_hash-table_medium.java) |
 | 1480 | Movie Rating | database | medium | sql | [Solution](solutions/sql/database/medium/1480_movie-rating_database_medium.sql) |
 | 1482 | How Many Numbers Are Smaller Than The Current Number | array | easy | java | [Solution](solutions/java/array/easy/1482_how-many-numbers-are-smaller-than-the-current-number_array_easy.java) |
 | 1724 | Customer Who Visited But Did Not Make Any Transactions | database | easy | sql | [Solution](solutions/sql/database/easy/1724_customer-who-visited-but-did-not-make-any-transactions_database_easy.sql) |
@@ -131,46 +132,3 @@ Automatically organized collection of LeetCode solutions.
 | 2331 | Intersection Of Multiple Arrays | array | easy | java | [Solution](solutions/java/array/easy/2331_intersection-of-multiple-arrays_array_easy.java) |
 | 3379 | Score Of A String | string | easy | java | [Solution](solutions/java/string/easy/3379_score-of-a-string_string_easy.java) |
 | 4068 | Sum Of Elements With Frequency Divisible By K | array | easy | java | [Solution](solutions/java/array/easy/4068_sum-of-elements-with-frequency-divisible-by-k_array_easy.java) |
-
-<!---LeetCode Topics Start-->
-# LeetCode Topics
-## Hash Table
-| Problem Name | Difficulty |
-| ------- | ------- |
-| [0451-sort-characters-by-frequency](https://github.com/imrajeevnayan/leetcode-solution/tree/main/0451-sort-characters-by-frequency/) | Medium |
-| [1348-tweet-counts-per-frequency](https://github.com/imrajeevnayan/leetcode-solution/tree/main/1348-tweet-counts-per-frequency/) | Medium |
-## String
-| Problem Name | Difficulty |
-| ------- | ------- |
-| [0451-sort-characters-by-frequency](https://github.com/imrajeevnayan/leetcode-solution/tree/main/0451-sort-characters-by-frequency/) | Medium |
-| [1348-tweet-counts-per-frequency](https://github.com/imrajeevnayan/leetcode-solution/tree/main/1348-tweet-counts-per-frequency/) | Medium |
-## Sorting
-| Problem Name | Difficulty |
-| ------- | ------- |
-| [0451-sort-characters-by-frequency](https://github.com/imrajeevnayan/leetcode-solution/tree/main/0451-sort-characters-by-frequency/) | Medium |
-| [1348-tweet-counts-per-frequency](https://github.com/imrajeevnayan/leetcode-solution/tree/main/1348-tweet-counts-per-frequency/) | Medium |
-## Heap (Priority Queue)
-| Problem Name | Difficulty |
-| ------- | ------- |
-| [0451-sort-characters-by-frequency](https://github.com/imrajeevnayan/leetcode-solution/tree/main/0451-sort-characters-by-frequency/) | Medium |
-## Bucket Sort
-| Problem Name | Difficulty |
-| ------- | ------- |
-| [0451-sort-characters-by-frequency](https://github.com/imrajeevnayan/leetcode-solution/tree/main/0451-sort-characters-by-frequency/) | Medium |
-## Counting
-| Problem Name | Difficulty |
-| ------- | ------- |
-| [0451-sort-characters-by-frequency](https://github.com/imrajeevnayan/leetcode-solution/tree/main/0451-sort-characters-by-frequency/) | Medium |
-## Binary Search
-| Problem Name | Difficulty |
-| ------- | ------- |
-| [1348-tweet-counts-per-frequency](https://github.com/imrajeevnayan/leetcode-solution/tree/main/1348-tweet-counts-per-frequency/) | Medium |
-## Design
-| Problem Name | Difficulty |
-| ------- | ------- |
-| [1348-tweet-counts-per-frequency](https://github.com/imrajeevnayan/leetcode-solution/tree/main/1348-tweet-counts-per-frequency/) | Medium |
-## Ordered Set
-| Problem Name | Difficulty |
-| ------- | ------- |
-| [1348-tweet-counts-per-frequency](https://github.com/imrajeevnayan/leetcode-solution/tree/main/1348-tweet-counts-per-frequency/) | Medium |
-<!---LeetCode Topics End-->
