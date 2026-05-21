@@ -138,14 +138,17 @@ Automatically organized collection of LeetCode solutions.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0451-sort-characters-by-frequency](https://github.com/imrajeevnayan/leetcode-solution/tree/main/0451-sort-characters-by-frequency/) | Medium |
+| [1348-tweet-counts-per-frequency](https://github.com/imrajeevnayan/leetcode-solution/tree/main/1348-tweet-counts-per-frequency/) | Medium |
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0451-sort-characters-by-frequency](https://github.com/imrajeevnayan/leetcode-solution/tree/main/0451-sort-characters-by-frequency/) | Medium |
+| [1348-tweet-counts-per-frequency](https://github.com/imrajeevnayan/leetcode-solution/tree/main/1348-tweet-counts-per-frequency/) | Medium |
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0451-sort-characters-by-frequency](https://github.com/imrajeevnayan/leetcode-solution/tree/main/0451-sort-characters-by-frequency/) | Medium |
+| [1348-tweet-counts-per-frequency](https://github.com/imrajeevnayan/leetcode-solution/tree/main/1348-tweet-counts-per-frequency/) | Medium |
 ## Heap (Priority Queue)
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -158,4 +161,16 @@ Automatically organized collection of LeetCode solutions.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0451-sort-characters-by-frequency](https://github.com/imrajeevnayan/leetcode-solution/tree/main/0451-sort-characters-by-frequency/) | Medium |
+## Binary Search
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1348-tweet-counts-per-frequency](https://github.com/imrajeevnayan/leetcode-solution/tree/main/1348-tweet-counts-per-frequency/) | Medium |
+## Design
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1348-tweet-counts-per-frequency](https://github.com/imrajeevnayan/leetcode-solution/tree/main/1348-tweet-counts-per-frequency/) | Medium |
+## Ordered Set
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1348-tweet-counts-per-frequency](https://github.com/imrajeevnayan/leetcode-solution/tree/main/1348-tweet-counts-per-frequency/) | Medium |
 <!---LeetCode Topics End-->
