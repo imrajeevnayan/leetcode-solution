@@ -4,7 +4,7 @@ Automatically organized collection of LeetCode solutions.
 
 ## 📊 Statistics
 
-- **Total Problems Solved:** 104
+- **Total Problems Solved:** 105
 - **Current Streak:** 4 days
 - **Longest Streak:** 4 days
 
@@ -13,10 +13,10 @@ Automatically organized collection of LeetCode solutions.
 #### By Language
 - Javascript: 1
 - Sql: 27
-- Java: 76
+- Java: 77
 
 #### By Topic
-- Array: 46
+- Array: 47
 - Database: 27
 - Linked-list: 5
 - Two-pointers: 7
@@ -130,34 +130,7 @@ Automatically organized collection of LeetCode solutions.
 | 1811 | Fix Names In A Table | database | easy | sql | [Solution](solutions/sql/database/easy/1811_fix-names-in-a-table_database_easy.sql) |
 | 1877 | Find Followers Count | database | easy | sql | [Solution](solutions/sql/database/easy/1877_find-followers-count_database_easy.sql) |
 | 1894 | Merge Strings Alternately | two-pointers | easy | java | [Solution](solutions/java/two-pointers/easy/1894_merge-strings-alternately_two-pointers_easy.java) |
+| 2113 | Find The Kth Largest Integer In The Array | array | medium | java | [Solution](solutions/java/array/medium/2113_find-the-kth-largest-integer-in-the-array_array_medium.java) |
 | 2331 | Intersection Of Multiple Arrays | array | easy | java | [Solution](solutions/java/array/easy/2331_intersection-of-multiple-arrays_array_easy.java) |
 | 3379 | Score Of A String | string | easy | java | [Solution](solutions/java/string/easy/3379_score-of-a-string_string_easy.java) |
 | 4068 | Sum Of Elements With Frequency Divisible By K | array | easy | java | [Solution](solutions/java/array/easy/4068_sum-of-elements-with-frequency-divisible-by-k_array_easy.java) |
-
-<!---LeetCode Topics Start-->
-# LeetCode Topics
-## Array
-| Problem Name | Difficulty |
-| ------- | ------- |
-| [1985-find-the-kth-largest-integer-in-the-array](https://github.com/imrajeevnayan/leetcode-solution/tree/main/1985-find-the-kth-largest-integer-in-the-array/) | Medium |
-## String
-| Problem Name | Difficulty |
-| ------- | ------- |
-| [1985-find-the-kth-largest-integer-in-the-array](https://github.com/imrajeevnayan/leetcode-solution/tree/main/1985-find-the-kth-largest-integer-in-the-array/) | Medium |
-## Divide and Conquer
-| Problem Name | Difficulty |
-| ------- | ------- |
-| [1985-find-the-kth-largest-integer-in-the-array](https://github.com/imrajeevnayan/leetcode-solution/tree/main/1985-find-the-kth-largest-integer-in-the-array/) | Medium |
-## Sorting
-| Problem Name | Difficulty |
-| ------- | ------- |
-| [1985-find-the-kth-largest-integer-in-the-array](https://github.com/imrajeevnayan/leetcode-solution/tree/main/1985-find-the-kth-largest-integer-in-the-array/) | Medium |
-## Heap (Priority Queue)
-| Problem Name | Difficulty |
-| ------- | ------- |
-| [1985-find-the-kth-largest-integer-in-the-array](https://github.com/imrajeevnayan/leetcode-solution/tree/main/1985-find-the-kth-largest-integer-in-the-array/) | Medium |
-## Quickselect
-| Problem Name | Difficulty |
-| ------- | ------- |
-| [1985-find-the-kth-largest-integer-in-the-array](https://github.com/imrajeevnayan/leetcode-solution/tree/main/1985-find-the-kth-largest-integer-in-the-array/) | Medium |
-<!---LeetCode Topics End-->
