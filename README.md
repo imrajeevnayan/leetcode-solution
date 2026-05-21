@@ -133,3 +133,31 @@ Automatically organized collection of LeetCode solutions.
 | 2331 | Intersection Of Multiple Arrays | array | easy | java | [Solution](solutions/java/array/easy/2331_intersection-of-multiple-arrays_array_easy.java) |
 | 3379 | Score Of A String | string | easy | java | [Solution](solutions/java/string/easy/3379_score-of-a-string_string_easy.java) |
 | 4068 | Sum Of Elements With Frequency Divisible By K | array | easy | java | [Solution](solutions/java/array/easy/4068_sum-of-elements-with-frequency-divisible-by-k_array_easy.java) |
+
+<!---LeetCode Topics Start-->
+# LeetCode Topics
+## Array
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1985-find-the-kth-largest-integer-in-the-array](https://github.com/imrajeevnayan/leetcode-solution/tree/main/1985-find-the-kth-largest-integer-in-the-array/) | Medium |
+## String
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1985-find-the-kth-largest-integer-in-the-array](https://github.com/imrajeevnayan/leetcode-solution/tree/main/1985-find-the-kth-largest-integer-in-the-array/) | Medium |
+## Divide and Conquer
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1985-find-the-kth-largest-integer-in-the-array](https://github.com/imrajeevnayan/leetcode-solution/tree/main/1985-find-the-kth-largest-integer-in-the-array/) | Medium |
+## Sorting
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1985-find-the-kth-largest-integer-in-the-array](https://github.com/imrajeevnayan/leetcode-solution/tree/main/1985-find-the-kth-largest-integer-in-the-array/) | Medium |
+## Heap (Priority Queue)
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1985-find-the-kth-largest-integer-in-the-array](https://github.com/imrajeevnayan/leetcode-solution/tree/main/1985-find-the-kth-largest-integer-in-the-array/) | Medium |
+## Quickselect
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1985-find-the-kth-largest-integer-in-the-array](https://github.com/imrajeevnayan/leetcode-solution/tree/main/1985-find-the-kth-largest-integer-in-the-array/) | Medium |
+<!---LeetCode Topics End-->
