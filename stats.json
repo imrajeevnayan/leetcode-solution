@@ -490,23 +490,25 @@
     "GeeksForGeeks_Triplet_Sum_in_Array": true,
     "GeeksForGeeks_Three_Sum": true,
     "GeeksForGeeks_Top_K_Frequent_in_Array": true,
-    "GeeksForGeeks_Missing_And_Repeating": true
+    "GeeksForGeeks_Missing_And_Repeating": true,
+    "GeeksForGeeks_Kth_Smallest": true
   },
-  "totalSolved": 18,
+  "totalSolved": 19,
   "difficultyCounts": {
     "easy": 5,
-    "medium": 6,
+    "medium": 7,
     "hard": 0,
     "basic": 7
   },
-  "currentStreak": 3,
-  "todayCount": 2,
-  "lastSyncDate": "2026-05-21",
-  "maxStreak": 3,
+  "currentStreak": 4,
+  "todayCount": 1,
+  "lastSyncDate": "2026-05-22",
+  "maxStreak": 4,
   "activityHistory": {
     "2026-05-19": 2,
     "2026-05-20": 14,
-    "2026-05-21": 2
+    "2026-05-21": 2,
+    "2026-05-22": 1
   },
   "todayProblems": [
     "Most Frequent Character",
@@ -526,6 +528,7 @@
     "Triplet Sum in Array",
     "Three Sum",
     "Top K Frequent in Array",
-    "Missing And Repeating"
+    "Missing And Repeating",
+    "Kth Smallest"
   ]
 }
