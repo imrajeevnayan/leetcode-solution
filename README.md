@@ -4,7 +4,7 @@ Automatically organized collection of LeetCode solutions.
 
 ## 📊 Statistics
 
-- **Total Problems Solved:** 100
+- **Total Problems Solved:** 101
 - **Current Streak:** 4 days
 - **Longest Streak:** 4 days
 
@@ -13,10 +13,10 @@ Automatically organized collection of LeetCode solutions.
 #### By Language
 - Javascript: 1
 - Sql: 27
-- Java: 72
+- Java: 73
 
 #### By Topic
-- Array: 44
+- Array: 45
 - Database: 27
 - Linked-list: 5
 - Two-pointers: 7
@@ -105,6 +105,7 @@ Automatically organized collection of LeetCode solutions.
 | 628 | Maximum Product Of Three Numbers | array | easy | java | [Solution](solutions/java/array/easy/628_maximum-product-of-three-numbers_array_easy.java) |
 | 645 | Set Mismatch | array | easy | java | [Solution](solutions/java/array/easy/645_set-mismatch_array_easy.java) |
 | 678 | Valid Parenthesis String | string | medium | java | [Solution](solutions/java/string/medium/678_valid-parenthesis-string_string_medium.java) |
+| 692 | Top K Frequent Words | array | medium | java | [Solution](solutions/java/array/medium/692_top-k-frequent-words_array_medium.java) |
 | 724 | Find Pivot Index | array | easy | java | [Solution](solutions/java/array/easy/724_find-pivot-index_array_easy.java) |
 | 941 | Sort Array By Parity | array | easy | java | [Solution](solutions/java/array/easy/941_sort-array-by-parity_array_easy.java) |
 | 975 | Range Sum Of Bst | tree | easy | java | [Solution](solutions/java/tree/easy/975_range-sum-of-bst_tree_easy.java) |
@@ -129,39 +130,3 @@ Automatically organized collection of LeetCode solutions.
 | 2331 | Intersection Of Multiple Arrays | array | easy | java | [Solution](solutions/java/array/easy/2331_intersection-of-multiple-arrays_array_easy.java) |
 | 3379 | Score Of A String | string | easy | java | [Solution](solutions/java/string/easy/3379_score-of-a-string_string_easy.java) |
 | 4068 | Sum Of Elements With Frequency Divisible By K | array | easy | java | [Solution](solutions/java/array/easy/4068_sum-of-elements-with-frequency-divisible-by-k_array_easy.java) |
-
-<!---LeetCode Topics Start-->
-# LeetCode Topics
-## Array
-| Problem Name | Difficulty |
-| ------- | ------- |
-| [0692-top-k-frequent-words](https://github.com/imrajeevnayan/leetcode-solution/tree/main/0692-top-k-frequent-words/) | Medium |
-## Hash Table
-| Problem Name | Difficulty |
-| ------- | ------- |
-| [0692-top-k-frequent-words](https://github.com/imrajeevnayan/leetcode-solution/tree/main/0692-top-k-frequent-words/) | Medium |
-## String
-| Problem Name | Difficulty |
-| ------- | ------- |
-| [0692-top-k-frequent-words](https://github.com/imrajeevnayan/leetcode-solution/tree/main/0692-top-k-frequent-words/) | Medium |
-## Trie
-| Problem Name | Difficulty |
-| ------- | ------- |
-| [0692-top-k-frequent-words](https://github.com/imrajeevnayan/leetcode-solution/tree/main/0692-top-k-frequent-words/) | Medium |
-## Sorting
-| Problem Name | Difficulty |
-| ------- | ------- |
-| [0692-top-k-frequent-words](https://github.com/imrajeevnayan/leetcode-solution/tree/main/0692-top-k-frequent-words/) | Medium |
-## Heap (Priority Queue)
-| Problem Name | Difficulty |
-| ------- | ------- |
-| [0692-top-k-frequent-words](https://github.com/imrajeevnayan/leetcode-solution/tree/main/0692-top-k-frequent-words/) | Medium |
-## Bucket Sort
-| Problem Name | Difficulty |
-| ------- | ------- |
-| [0692-top-k-frequent-words](https://github.com/imrajeevnayan/leetcode-solution/tree/main/0692-top-k-frequent-words/) | Medium |
-## Counting
-| Problem Name | Difficulty |
-| ------- | ------- |
-| [0692-top-k-frequent-words](https://github.com/imrajeevnayan/leetcode-solution/tree/main/0692-top-k-frequent-words/) | Medium |
-<!---LeetCode Topics End-->
