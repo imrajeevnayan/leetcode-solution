@@ -489,23 +489,24 @@
     "LeetCode_3Sum": true,
     "GeeksForGeeks_Triplet_Sum_in_Array": true,
     "GeeksForGeeks_Three_Sum": true,
-    "GeeksForGeeks_Top_K_Frequent_in_Array": true
+    "GeeksForGeeks_Top_K_Frequent_in_Array": true,
+    "GeeksForGeeks_Missing_And_Repeating": true
   },
-  "totalSolved": 17,
+  "totalSolved": 18,
   "difficultyCounts": {
-    "easy": 4,
+    "easy": 5,
     "medium": 6,
     "hard": 0,
     "basic": 7
   },
   "currentStreak": 3,
-  "todayCount": 1,
+  "todayCount": 2,
   "lastSyncDate": "2026-05-21",
   "maxStreak": 3,
   "activityHistory": {
     "2026-05-19": 2,
     "2026-05-20": 14,
-    "2026-05-21": 1
+    "2026-05-21": 2
   },
   "todayProblems": [
     "Most Frequent Character",
@@ -524,6 +525,7 @@
     "3Sum",
     "Triplet Sum in Array",
     "Three Sum",
-    "Top K Frequent in Array"
+    "Top K Frequent in Array",
+    "Missing And Repeating"
   ]
 }
