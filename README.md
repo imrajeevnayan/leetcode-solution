@@ -4,7 +4,7 @@ Automatically organized collection of LeetCode solutions.
 
 ## 📊 Statistics
 
-- **Total Problems Solved:** 107
+- **Total Problems Solved:** 108
 - **Current Streak:** 5 days
 - **Longest Streak:** 5 days
 
@@ -13,10 +13,10 @@ Automatically organized collection of LeetCode solutions.
 #### By Language
 - Javascript: 1
 - Sql: 27
-- Java: 79
+- Java: 80
 
 #### By Topic
-- Array: 48
+- Array: 49
 - Database: 27
 - Linked-list: 5
 - Two-pointers: 7
@@ -96,6 +96,7 @@ Automatically organized collection of LeetCode solutions.
 | 424 | Longest Repeating Character Replacement | hash-table | medium | java | [Solution](solutions/java/hash-table/medium/424_longest-repeating-character-replacement_hash-table_medium.java) |
 | 451 | Sort Characters By Frequency | hash-table | medium | java | [Solution](solutions/java/hash-table/medium/451_sort-characters-by-frequency_hash-table_medium.java) |
 | 496 | Next Greater Element I | array | easy | java | [Solution](solutions/java/array/easy/496_next-greater-element-i_array_easy.java) |
+| 503 | Next Greater Element Ii | array | medium | java | [Solution](solutions/java/array/medium/503_next-greater-element-ii_array_medium.java) |
 | 561 | Array Partition | array | easy | java | [Solution](solutions/java/array/easy/561_array-partition_array_easy.java) |
 | 585 | Investments In 2016 | database | medium | sql | [Solution](solutions/sql/database/medium/585_investments-in-2016_database_medium.sql) |
 | 586 | Customer Placing The Largest Number Of Orders | database | easy | sql | [Solution](solutions/sql/database/easy/586_customer-placing-the-largest-number-of-orders_database_easy.sql) |
@@ -136,19 +137,3 @@ Automatically organized collection of LeetCode solutions.
 | 2646 | Kth Largest Sum In A Binary Tree | tree | medium | java | [Solution](solutions/java/tree/medium/2646_kth-largest-sum-in-a-binary-tree_tree_medium.java) |
 | 3379 | Score Of A String | string | easy | java | [Solution](solutions/java/string/easy/3379_score-of-a-string_string_easy.java) |
 | 4068 | Sum Of Elements With Frequency Divisible By K | array | easy | java | [Solution](solutions/java/array/easy/4068_sum-of-elements-with-frequency-divisible-by-k_array_easy.java) |
-
-<!---LeetCode Topics Start-->
-# LeetCode Topics
-## Array
-| Problem Name | Difficulty |
-| ------- | ------- |
-| [0503-next-greater-element-ii](https://github.com/imrajeevnayan/leetcode-solution/tree/main/0503-next-greater-element-ii/) | Medium |
-## Stack
-| Problem Name | Difficulty |
-| ------- | ------- |
-| [0503-next-greater-element-ii](https://github.com/imrajeevnayan/leetcode-solution/tree/main/0503-next-greater-element-ii/) | Medium |
-## Monotonic Stack
-| Problem Name | Difficulty |
-| ------- | ------- |
-| [0503-next-greater-element-ii](https://github.com/imrajeevnayan/leetcode-solution/tree/main/0503-next-greater-element-ii/) | Medium |
-<!---LeetCode Topics End-->
