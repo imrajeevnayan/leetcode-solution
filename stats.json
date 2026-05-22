@@ -492,24 +492,25 @@
     "GeeksForGeeks_Top_K_Frequent_in_Array": true,
     "GeeksForGeeks_Missing_And_Repeating": true,
     "GeeksForGeeks_Kth_Smallest": true,
-    "GeeksForGeeks_Next_Greater_Element": true
+    "GeeksForGeeks_Next_Greater_Element": true,
+    "GeeksForGeeks_Next_Smaller_Element": true
   },
-  "totalSolved": 20,
+  "totalSolved": 21,
   "difficultyCounts": {
     "easy": 5,
-    "medium": 8,
+    "medium": 9,
     "hard": 0,
     "basic": 7
   },
   "currentStreak": 4,
-  "todayCount": 2,
+  "todayCount": 3,
   "lastSyncDate": "2026-05-22",
   "maxStreak": 4,
   "activityHistory": {
     "2026-05-19": 2,
     "2026-05-20": 14,
     "2026-05-21": 2,
-    "2026-05-22": 2
+    "2026-05-22": 3
   },
   "todayProblems": [
     "Most Frequent Character",
@@ -531,6 +532,7 @@
     "Top K Frequent in Array",
     "Missing And Repeating",
     "Kth Smallest",
-    "Next Greater Element"
+    "Next Greater Element",
+    "Next Smaller Element"
   ]
 }
