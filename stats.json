@@ -498,24 +498,25 @@
     "GeeksForGeeks_Merge_k_Sorted_Arrays": true,
     "GeeksForGeeks_K-th_Largest_Sum_Contiguous_Subarray": true,
     "GeeksForGeeks_Nearly_sorted": true,
-    "GeeksForGeeks_Rat_in_a_Maze": true
+    "GeeksForGeeks_Rat_in_a_Maze": true,
+    "GeeksForGeeks_N-Queen_Problem": true
   },
-  "totalSolved": 26,
+  "totalSolved": 27,
   "difficultyCounts": {
     "easy": 5,
     "medium": 14,
-    "hard": 0,
+    "hard": 1,
     "basic": 7
   },
   "currentStreak": 4,
-  "todayCount": 8,
+  "todayCount": 9,
   "lastSyncDate": "2026-05-22",
   "maxStreak": 4,
   "activityHistory": {
     "2026-05-19": 2,
     "2026-05-20": 14,
     "2026-05-21": 2,
-    "2026-05-22": 8
+    "2026-05-22": 9
   },
   "todayProblems": [
     "Most Frequent Character",
@@ -543,6 +544,7 @@
     "Merge k Sorted Arrays",
     "K-th Largest Sum Contiguous Subarray",
     "Nearly sorted",
-    "Rat in a Maze"
+    "Rat in a Maze",
+    "N-Queen Problem"
   ]
 }
