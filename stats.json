@@ -501,24 +501,25 @@
     "GeeksForGeeks_Rat_in_a_Maze": true,
     "GeeksForGeeks_N-Queen_Problem": true,
     "GeeksForGeeks_Check_if_All_Bits_Set": true,
-    "GeeksForGeeks_Nth_Fibonacci_Number": true
+    "GeeksForGeeks_Nth_Fibonacci_Number": true,
+    "GeeksForGeeks_Coin_Change_(Count_Ways)": true
   },
-  "totalSolved": 29,
+  "totalSolved": 30,
   "difficultyCounts": {
     "easy": 6,
-    "medium": 14,
+    "medium": 15,
     "hard": 1,
     "basic": 8
   },
   "currentStreak": 4,
-  "todayCount": 11,
+  "todayCount": 12,
   "lastSyncDate": "2026-05-22",
   "maxStreak": 4,
   "activityHistory": {
     "2026-05-19": 2,
     "2026-05-20": 14,
     "2026-05-21": 2,
-    "2026-05-22": 11
+    "2026-05-22": 12
   },
   "todayProblems": [
     "Most Frequent Character",
@@ -549,6 +550,7 @@
     "Rat in a Maze",
     "N-Queen Problem",
     "Check if All Bits Set",
-    "Nth Fibonacci Number"
+    "Nth Fibonacci Number",
+    "Coin Change (Count Ways)"
   ]
 }
