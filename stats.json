@@ -502,24 +502,25 @@
     "GeeksForGeeks_N-Queen_Problem": true,
     "GeeksForGeeks_Check_if_All_Bits_Set": true,
     "GeeksForGeeks_Nth_Fibonacci_Number": true,
-    "GeeksForGeeks_Coin_Change_(Count_Ways)": true
+    "GeeksForGeeks_Coin_Change_(Count_Ways)": true,
+    "GeeksForGeeks_Ways_to_Reach_the_n'th_Stair": true
   },
-  "totalSolved": 30,
+  "totalSolved": 31,
   "difficultyCounts": {
     "easy": 6,
-    "medium": 15,
+    "medium": 16,
     "hard": 1,
     "basic": 8
   },
   "currentStreak": 4,
-  "todayCount": 12,
+  "todayCount": 13,
   "lastSyncDate": "2026-05-22",
   "maxStreak": 4,
   "activityHistory": {
     "2026-05-19": 2,
     "2026-05-20": 14,
     "2026-05-21": 2,
-    "2026-05-22": 12
+    "2026-05-22": 13
   },
   "todayProblems": [
     "Most Frequent Character",
@@ -551,6 +552,7 @@
     "N-Queen Problem",
     "Check if All Bits Set",
     "Nth Fibonacci Number",
-    "Coin Change (Count Ways)"
+    "Coin Change (Count Ways)",
+    "Ways to Reach the n'th Stair"
   ]
 }
