@@ -495,24 +495,25 @@
     "GeeksForGeeks_Next_Greater_Element": true,
     "GeeksForGeeks_Next_Smaller_Element": true,
     "GeeksForGeeks_k_largest_elements": true,
-    "GeeksForGeeks_Merge_k_Sorted_Arrays": true
+    "GeeksForGeeks_Merge_k_Sorted_Arrays": true,
+    "GeeksForGeeks_K-th_Largest_Sum_Contiguous_Subarray": true
   },
-  "totalSolved": 23,
+  "totalSolved": 24,
   "difficultyCounts": {
     "easy": 5,
-    "medium": 11,
+    "medium": 12,
     "hard": 0,
     "basic": 7
   },
   "currentStreak": 4,
-  "todayCount": 5,
+  "todayCount": 6,
   "lastSyncDate": "2026-05-22",
   "maxStreak": 4,
   "activityHistory": {
     "2026-05-19": 2,
     "2026-05-20": 14,
     "2026-05-21": 2,
-    "2026-05-22": 5
+    "2026-05-22": 6
   },
   "todayProblems": [
     "Most Frequent Character",
@@ -537,6 +538,7 @@
     "Next Greater Element",
     "Next Smaller Element",
     "k largest elements",
-    "Merge k Sorted Arrays"
+    "Merge k Sorted Arrays",
+    "K-th Largest Sum Contiguous Subarray"
   ]
 }
