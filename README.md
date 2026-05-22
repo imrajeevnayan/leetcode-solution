@@ -4,16 +4,16 @@ Automatically organized collection of LeetCode solutions.
 
 ## 📊 Statistics
 
-- **Total Problems Solved:** 105
-- **Current Streak:** 4 days
-- **Longest Streak:** 4 days
+- **Total Problems Solved:** 106
+- **Current Streak:** 5 days
+- **Longest Streak:** 5 days
 
 ### 🧩 Breakdown
 
 #### By Language
 - Javascript: 1
 - Sql: 27
-- Java: 77
+- Java: 78
 
 #### By Topic
 - Array: 47
@@ -21,7 +21,7 @@ Automatically organized collection of LeetCode solutions.
 - Linked-list: 5
 - Two-pointers: 7
 - String: 5
-- Tree: 1
+- Tree: 2
 - Math: 6
 - Hash-table: 7
 
@@ -132,25 +132,6 @@ Automatically organized collection of LeetCode solutions.
 | 1894 | Merge Strings Alternately | two-pointers | easy | java | [Solution](solutions/java/two-pointers/easy/1894_merge-strings-alternately_two-pointers_easy.java) |
 | 2113 | Find The Kth Largest Integer In The Array | array | medium | java | [Solution](solutions/java/array/medium/2113_find-the-kth-largest-integer-in-the-array_array_medium.java) |
 | 2331 | Intersection Of Multiple Arrays | array | easy | java | [Solution](solutions/java/array/easy/2331_intersection-of-multiple-arrays_array_easy.java) |
+| 2646 | Kth Largest Sum In A Binary Tree | tree | medium | java | [Solution](solutions/java/tree/medium/2646_kth-largest-sum-in-a-binary-tree_tree_medium.java) |
 | 3379 | Score Of A String | string | easy | java | [Solution](solutions/java/string/easy/3379_score-of-a-string_string_easy.java) |
 | 4068 | Sum Of Elements With Frequency Divisible By K | array | easy | java | [Solution](solutions/java/array/easy/4068_sum-of-elements-with-frequency-divisible-by-k_array_easy.java) |
-
-<!---LeetCode Topics Start-->
-# LeetCode Topics
-## Tree
-| Problem Name | Difficulty |
-| ------- | ------- |
-| [2583-kth-largest-sum-in-a-binary-tree](https://github.com/imrajeevnayan/leetcode-solution/tree/main/2583-kth-largest-sum-in-a-binary-tree/) | Medium |
-## Breadth-First Search
-| Problem Name | Difficulty |
-| ------- | ------- |
-| [2583-kth-largest-sum-in-a-binary-tree](https://github.com/imrajeevnayan/leetcode-solution/tree/main/2583-kth-largest-sum-in-a-binary-tree/) | Medium |
-## Sorting
-| Problem Name | Difficulty |
-| ------- | ------- |
-| [2583-kth-largest-sum-in-a-binary-tree](https://github.com/imrajeevnayan/leetcode-solution/tree/main/2583-kth-largest-sum-in-a-binary-tree/) | Medium |
-## Binary Tree
-| Problem Name | Difficulty |
-| ------- | ------- |
-| [2583-kth-largest-sum-in-a-binary-tree](https://github.com/imrajeevnayan/leetcode-solution/tree/main/2583-kth-largest-sum-in-a-binary-tree/) | Medium |
-<!---LeetCode Topics End-->
