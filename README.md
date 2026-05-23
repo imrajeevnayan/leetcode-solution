@@ -4,7 +4,7 @@ Automatically organized collection of LeetCode solutions.
 
 ## 📊 Statistics
 
-- **Total Problems Solved:** 120
+- **Total Problems Solved:** 121
 - **Current Streak:** 6 days
 - **Longest Streak:** 6 days
 
@@ -13,7 +13,7 @@ Automatically organized collection of LeetCode solutions.
 #### By Language
 - Javascript: 1
 - Sql: 27
-- Java: 92
+- Java: 93
 
 #### By Topic
 - Array: 57
@@ -22,7 +22,7 @@ Automatically organized collection of LeetCode solutions.
 - Two-pointers: 7
 - String: 5
 - Tree: 2
-- Math: 8
+- Math: 9
 - Hash-table: 9
 
 ## 📂 Solutions
@@ -34,6 +34,7 @@ Automatically organized collection of LeetCode solutions.
 | 3 | Longest Substring Without Repeating Characters | hash-table | medium | java | [Solution](solutions/java/hash-table/medium/3_longest-substring-without-repeating-characters_hash-table_medium.java) |
 | 5 | Longest Palindromic Substring | two-pointers | medium | java | [Solution](solutions/java/two-pointers/medium/5_longest-palindromic-substring_two-pointers_medium.java) |
 | 7 | Reverse Integer | math | medium | java | [Solution](solutions/java/math/medium/7_reverse-integer_math_medium.java) |
+| 9 | Palindrome Number | math | easy | java | [Solution](solutions/java/math/easy/9_palindrome-number_math_easy.java) |
 | 10 | Regular Expression Matching | string | hard | java | [Solution](solutions/java/string/hard/10_regular-expression-matching_string_hard.java) |
 | 11 | Container With Most Water | array | medium | java | [Solution](solutions/java/array/medium/11_container-with-most-water_array_medium.java) |
 | 12 | Integer To Roman | hash-table | medium | java | [Solution](solutions/java/hash-table/medium/12_integer-to-roman_hash-table_medium.java) |
@@ -149,35 +150,3 @@ Automatically organized collection of LeetCode solutions.
 | 2646 | Kth Largest Sum In A Binary Tree | tree | medium | java | [Solution](solutions/java/tree/medium/2646_kth-largest-sum-in-a-binary-tree_tree_medium.java) |
 | 3379 | Score Of A String | string | easy | java | [Solution](solutions/java/string/easy/3379_score-of-a-string_string_easy.java) |
 | 4068 | Sum Of Elements With Frequency Divisible By K | array | easy | java | [Solution](solutions/java/array/easy/4068_sum-of-elements-with-frequency-divisible-by-k_array_easy.java) |
-
-<!---LeetCode Topics Start-->
-# LeetCode Topics
-## Array
-| Problem Name | Difficulty |
-| ------- | ------- |
-| [0016-3sum-closest](https://github.com/imrajeevnayan/leetcode-solution/tree/main/0016-3sum-closest/) | Medium |
-## Two Pointers
-| Problem Name | Difficulty |
-| ------- | ------- |
-| [0016-3sum-closest](https://github.com/imrajeevnayan/leetcode-solution/tree/main/0016-3sum-closest/) | Medium |
-## Sorting
-| Problem Name | Difficulty |
-| ------- | ------- |
-| [0016-3sum-closest](https://github.com/imrajeevnayan/leetcode-solution/tree/main/0016-3sum-closest/) | Medium |
-## Hash Table
-| Problem Name | Difficulty |
-| ------- | ------- |
-| [0003-longest-substring-without-repeating-characters](https://github.com/imrajeevnayan/leetcode-solution/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
-## String
-| Problem Name | Difficulty |
-| ------- | ------- |
-| [0003-longest-substring-without-repeating-characters](https://github.com/imrajeevnayan/leetcode-solution/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
-## Sliding Window
-| Problem Name | Difficulty |
-| ------- | ------- |
-| [0003-longest-substring-without-repeating-characters](https://github.com/imrajeevnayan/leetcode-solution/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
-## Math
-| Problem Name | Difficulty |
-| ------- | ------- |
-| [0009-palindrome-number](https://github.com/imrajeevnayan/leetcode-solution/tree/main/0009-palindrome-number/) | Easy |
-<!---LeetCode Topics End-->
