@@ -4,7 +4,7 @@ Automatically organized collection of LeetCode solutions.
 
 ## 📊 Statistics
 
-- **Total Problems Solved:** 115
+- **Total Problems Solved:** 116
 - **Current Streak:** 6 days
 - **Longest Streak:** 6 days
 
@@ -13,7 +13,7 @@ Automatically organized collection of LeetCode solutions.
 #### By Language
 - Javascript: 1
 - Sql: 27
-- Java: 87
+- Java: 88
 
 #### By Topic
 - Array: 53
@@ -23,7 +23,7 @@ Automatically organized collection of LeetCode solutions.
 - String: 5
 - Tree: 2
 - Math: 8
-- Hash-table: 8
+- Hash-table: 9
 
 ## 📂 Solutions
 
@@ -67,6 +67,7 @@ Automatically organized collection of LeetCode solutions.
 | 134 | Gas Station | array | medium | java | [Solution](solutions/java/array/medium/134_gas-station_array_medium.java) |
 | 135 | Candy | array | hard | java | [Solution](solutions/java/array/hard/135_candy_array_hard.java) |
 | 136 | Single Number | array | easy | java | [Solution](solutions/java/array/easy/136_single-number_array_easy.java) |
+| 146 | Lru Cache | hash-table | medium | java | [Solution](solutions/java/hash-table/medium/146_lru-cache_hash-table_medium.java) |
 | 151 | Reverse Words In A String | two-pointers | medium | java | [Solution](solutions/java/two-pointers/medium/151_reverse-words-in-a-string_two-pointers_medium.java) |
 | 167 | Two Sum Ii   Input Array Is Sorted | array | medium | java | [Solution](solutions/java/array/medium/167_two-sum-ii---input-array-is-sorted_array_medium.java) |
 | 169 | Majority Element | array | easy | java | [Solution](solutions/java/array/easy/169_majority-element_array_easy.java) |
@@ -144,23 +145,3 @@ Automatically organized collection of LeetCode solutions.
 | 2646 | Kth Largest Sum In A Binary Tree | tree | medium | java | [Solution](solutions/java/tree/medium/2646_kth-largest-sum-in-a-binary-tree_tree_medium.java) |
 | 3379 | Score Of A String | string | easy | java | [Solution](solutions/java/string/easy/3379_score-of-a-string_string_easy.java) |
 | 4068 | Sum Of Elements With Frequency Divisible By K | array | easy | java | [Solution](solutions/java/array/easy/4068_sum-of-elements-with-frequency-divisible-by-k_array_easy.java) |
-
-<!---LeetCode Topics Start-->
-# LeetCode Topics
-## Hash Table
-| Problem Name | Difficulty |
-| ------- | ------- |
-| [0146-lru-cache](https://github.com/imrajeevnayan/leetcode-solution/tree/main/0146-lru-cache/) | Medium |
-## Linked List
-| Problem Name | Difficulty |
-| ------- | ------- |
-| [0146-lru-cache](https://github.com/imrajeevnayan/leetcode-solution/tree/main/0146-lru-cache/) | Medium |
-## Design
-| Problem Name | Difficulty |
-| ------- | ------- |
-| [0146-lru-cache](https://github.com/imrajeevnayan/leetcode-solution/tree/main/0146-lru-cache/) | Medium |
-## Doubly-Linked List
-| Problem Name | Difficulty |
-| ------- | ------- |
-| [0146-lru-cache](https://github.com/imrajeevnayan/leetcode-solution/tree/main/0146-lru-cache/) | Medium |
-<!---LeetCode Topics End-->
