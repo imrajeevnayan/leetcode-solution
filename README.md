@@ -4,19 +4,19 @@ Automatically organized collection of LeetCode solutions.
 
 ## 📊 Statistics
 
-- **Total Problems Solved:** 114
-- **Current Streak:** 5 days
-- **Longest Streak:** 5 days
+- **Total Problems Solved:** 115
+- **Current Streak:** 6 days
+- **Longest Streak:** 6 days
 
 ### 🧩 Breakdown
 
 #### By Language
 - Javascript: 1
 - Sql: 27
-- Java: 86
+- Java: 87
 
 #### By Topic
-- Array: 52
+- Array: 53
 - Database: 27
 - Linked-list: 5
 - Two-pointers: 7
@@ -29,6 +29,7 @@ Automatically organized collection of LeetCode solutions.
 
 | ID | Title | Topic | Difficulty | Language | Link |
 |----|-------|-------|------------|----------|------|
+| 1 | Two Sum | array | easy | java | [Solution](solutions/java/array/easy/1_two-sum_array_easy.java) |
 | 2 | Add Two Numbers | linked-list | medium | java | [Solution](solutions/java/linked-list/medium/2_add-two-numbers_linked-list_medium.java) |
 | 3 | Longest Substring Without Repeating Characters | hash-table | medium | java | [Solution](solutions/java/hash-table/medium/3_longest-substring-without-repeating-characters_hash-table_medium.java) |
 | 5 | Longest Palindromic Substring | two-pointers | medium | java | [Solution](solutions/java/two-pointers/medium/5_longest-palindromic-substring_two-pointers_medium.java) |
@@ -143,15 +144,3 @@ Automatically organized collection of LeetCode solutions.
 | 2646 | Kth Largest Sum In A Binary Tree | tree | medium | java | [Solution](solutions/java/tree/medium/2646_kth-largest-sum-in-a-binary-tree_tree_medium.java) |
 | 3379 | Score Of A String | string | easy | java | [Solution](solutions/java/string/easy/3379_score-of-a-string_string_easy.java) |
 | 4068 | Sum Of Elements With Frequency Divisible By K | array | easy | java | [Solution](solutions/java/array/easy/4068_sum-of-elements-with-frequency-divisible-by-k_array_easy.java) |
-
-<!---LeetCode Topics Start-->
-# LeetCode Topics
-## Array
-| Problem Name | Difficulty |
-| ------- | ------- |
-| [0001-two-sum](https://github.com/imrajeevnayan/leetcode-solution/tree/main/0001-two-sum/) | Easy |
-## Hash Table
-| Problem Name | Difficulty |
-| ------- | ------- |
-| [0001-two-sum](https://github.com/imrajeevnayan/leetcode-solution/tree/main/0001-two-sum/) | Easy |
-<!---LeetCode Topics End-->
