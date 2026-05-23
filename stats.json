@@ -503,24 +503,26 @@
     "GeeksForGeeks_Check_if_All_Bits_Set": true,
     "GeeksForGeeks_Nth_Fibonacci_Number": true,
     "GeeksForGeeks_Coin_Change_(Count_Ways)": true,
-    "GeeksForGeeks_Ways_to_Reach_the_n'th_Stair": true
+    "GeeksForGeeks_Ways_to_Reach_the_n'th_Stair": true,
+    "LeetCode_Product_of_Array_Except_Self": true
   },
-  "totalSolved": 31,
+  "totalSolved": 32,
   "difficultyCounts": {
     "easy": 6,
-    "medium": 16,
+    "medium": 17,
     "hard": 1,
     "basic": 8
   },
-  "currentStreak": 4,
-  "todayCount": 13,
-  "lastSyncDate": "2026-05-22",
-  "maxStreak": 4,
+  "currentStreak": 5,
+  "todayCount": 1,
+  "lastSyncDate": "2026-05-23",
+  "maxStreak": 5,
   "activityHistory": {
     "2026-05-19": 2,
     "2026-05-20": 14,
     "2026-05-21": 2,
-    "2026-05-22": 13
+    "2026-05-22": 13,
+    "2026-05-23": 1
   },
   "todayProblems": [
     "Most Frequent Character",
@@ -553,6 +555,7 @@
     "Check if All Bits Set",
     "Nth Fibonacci Number",
     "Coin Change (Count Ways)",
-    "Ways to Reach the n'th Stair"
+    "Ways to Reach the n'th Stair",
+    "Product of Array Except Self"
   ]
 }
