@@ -4,7 +4,7 @@ Automatically organized collection of LeetCode solutions.
 
 ## 📊 Statistics
 
-- **Total Problems Solved:** 117
+- **Total Problems Solved:** 118
 - **Current Streak:** 6 days
 - **Longest Streak:** 6 days
 
@@ -13,10 +13,10 @@ Automatically organized collection of LeetCode solutions.
 #### By Language
 - Javascript: 1
 - Sql: 27
-- Java: 89
+- Java: 90
 
 #### By Topic
-- Array: 54
+- Array: 55
 - Database: 27
 - Linked-list: 5
 - Two-pointers: 7
@@ -85,6 +85,7 @@ Automatically organized collection of LeetCode solutions.
 | 198 | House Robber | array | medium | java | [Solution](solutions/java/array/medium/198_house-robber_array_medium.java) |
 | 206 | Reverse Linked List | linked-list | easy | java | [Solution](solutions/java/linked-list/easy/206_reverse-linked-list_linked-list_easy.java) |
 | 215 | Kth Largest Element In An Array | array | medium | java | [Solution](solutions/java/array/medium/215_kth-largest-element-in-an-array_array_medium.java) |
+| 217 | Contains Duplicate | array | easy | java | [Solution](solutions/java/array/easy/217_contains-duplicate_array_easy.java) |
 | 229 | Majority Element Ii | array | medium | java | [Solution](solutions/java/array/medium/229_majority-element-ii_array_medium.java) |
 | 231 | Power Of Two | math | easy | java | [Solution](solutions/java/math/easy/231_power-of-two_math_easy.java) |
 | 238 | Product Of Array Except Self | array | medium | java | [Solution](solutions/java/array/medium/238_product-of-array-except-self_array_medium.java) |
@@ -146,28 +147,3 @@ Automatically organized collection of LeetCode solutions.
 | 2646 | Kth Largest Sum In A Binary Tree | tree | medium | java | [Solution](solutions/java/tree/medium/2646_kth-largest-sum-in-a-binary-tree_tree_medium.java) |
 | 3379 | Score Of A String | string | easy | java | [Solution](solutions/java/string/easy/3379_score-of-a-string_string_easy.java) |
 | 4068 | Sum Of Elements With Frequency Divisible By K | array | easy | java | [Solution](solutions/java/array/easy/4068_sum-of-elements-with-frequency-divisible-by-k_array_easy.java) |
-
-<!---LeetCode Topics Start-->
-# LeetCode Topics
-## Array
-| Problem Name | Difficulty |
-| ------- | ------- |
-| [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/imrajeevnayan/leetcode-solution/tree/main/0122-best-time-to-buy-and-sell-stock-ii/) | Medium |
-| [0217-contains-duplicate](https://github.com/imrajeevnayan/leetcode-solution/tree/main/0217-contains-duplicate/) | Easy |
-## Dynamic Programming
-| Problem Name | Difficulty |
-| ------- | ------- |
-| [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/imrajeevnayan/leetcode-solution/tree/main/0122-best-time-to-buy-and-sell-stock-ii/) | Medium |
-## Greedy
-| Problem Name | Difficulty |
-| ------- | ------- |
-| [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/imrajeevnayan/leetcode-solution/tree/main/0122-best-time-to-buy-and-sell-stock-ii/) | Medium |
-## Hash Table
-| Problem Name | Difficulty |
-| ------- | ------- |
-| [0217-contains-duplicate](https://github.com/imrajeevnayan/leetcode-solution/tree/main/0217-contains-duplicate/) | Easy |
-## Sorting
-| Problem Name | Difficulty |
-| ------- | ------- |
-| [0217-contains-duplicate](https://github.com/imrajeevnayan/leetcode-solution/tree/main/0217-contains-duplicate/) | Easy |
-<!---LeetCode Topics End-->
