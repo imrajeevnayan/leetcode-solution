@@ -157,6 +157,7 @@ Automatically organized collection of LeetCode solutions.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0055-jump-game](https://github.com/imrajeevnayan/leetcode-solution/tree/main/0055-jump-game/) | Medium |
+| [0560-subarray-sum-equals-k](https://github.com/imrajeevnayan/leetcode-solution/tree/main/0560-subarray-sum-equals-k/) | Medium |
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -165,4 +166,12 @@ Automatically organized collection of LeetCode solutions.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0055-jump-game](https://github.com/imrajeevnayan/leetcode-solution/tree/main/0055-jump-game/) | Medium |
+## Hash Table
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0560-subarray-sum-equals-k](https://github.com/imrajeevnayan/leetcode-solution/tree/main/0560-subarray-sum-equals-k/) | Medium |
+## Prefix Sum
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0560-subarray-sum-equals-k](https://github.com/imrajeevnayan/leetcode-solution/tree/main/0560-subarray-sum-equals-k/) | Medium |
 <!---LeetCode Topics End-->
