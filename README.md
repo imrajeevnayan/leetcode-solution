@@ -4,7 +4,7 @@ Automatically organized collection of LeetCode solutions.
 
 ## 📊 Statistics
 
-- **Total Problems Solved:** 116
+- **Total Problems Solved:** 117
 - **Current Streak:** 6 days
 - **Longest Streak:** 6 days
 
@@ -13,10 +13,10 @@ Automatically organized collection of LeetCode solutions.
 #### By Language
 - Javascript: 1
 - Sql: 27
-- Java: 88
+- Java: 89
 
 #### By Topic
-- Array: 53
+- Array: 54
 - Database: 27
 - Linked-list: 5
 - Two-pointers: 7
@@ -82,6 +82,7 @@ Automatically organized collection of LeetCode solutions.
 | 185 | Department Top Three Salaries | database | hard | sql | [Solution](solutions/sql/database/hard/185_department-top-three-salaries_database_hard.sql) |
 | 189 | Rotate Array | array | medium | java | [Solution](solutions/java/array/medium/189_rotate-array_array_medium.java) |
 | 196 | Delete Duplicate Emails | database | easy | sql | [Solution](solutions/sql/database/easy/196_delete-duplicate-emails_database_easy.sql) |
+| 198 | House Robber | array | medium | java | [Solution](solutions/java/array/medium/198_house-robber_array_medium.java) |
 | 206 | Reverse Linked List | linked-list | easy | java | [Solution](solutions/java/linked-list/easy/206_reverse-linked-list_linked-list_easy.java) |
 | 215 | Kth Largest Element In An Array | array | medium | java | [Solution](solutions/java/array/medium/215_kth-largest-element-in-an-array_array_medium.java) |
 | 229 | Majority Element Ii | array | medium | java | [Solution](solutions/java/array/medium/229_majority-element-ii_array_medium.java) |
@@ -145,28 +146,3 @@ Automatically organized collection of LeetCode solutions.
 | 2646 | Kth Largest Sum In A Binary Tree | tree | medium | java | [Solution](solutions/java/tree/medium/2646_kth-largest-sum-in-a-binary-tree_tree_medium.java) |
 | 3379 | Score Of A String | string | easy | java | [Solution](solutions/java/string/easy/3379_score-of-a-string_string_easy.java) |
 | 4068 | Sum Of Elements With Frequency Divisible By K | array | easy | java | [Solution](solutions/java/array/easy/4068_sum-of-elements-with-frequency-divisible-by-k_array_easy.java) |
-
-<!---LeetCode Topics Start-->
-# LeetCode Topics
-## Math
-| Problem Name | Difficulty |
-| ------- | ------- |
-| [0070-climbing-stairs](https://github.com/imrajeevnayan/leetcode-solution/tree/main/0070-climbing-stairs/) | Easy |
-## Dynamic Programming
-| Problem Name | Difficulty |
-| ------- | ------- |
-| [0070-climbing-stairs](https://github.com/imrajeevnayan/leetcode-solution/tree/main/0070-climbing-stairs/) | Easy |
-| [0121-best-time-to-buy-and-sell-stock](https://github.com/imrajeevnayan/leetcode-solution/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
-| [0198-house-robber](https://github.com/imrajeevnayan/leetcode-solution/tree/main/0198-house-robber/) | Medium |
-| [0746-min-cost-climbing-stairs](https://github.com/imrajeevnayan/leetcode-solution/tree/main/0746-min-cost-climbing-stairs/) | Easy |
-## Memoization
-| Problem Name | Difficulty |
-| ------- | ------- |
-| [0070-climbing-stairs](https://github.com/imrajeevnayan/leetcode-solution/tree/main/0070-climbing-stairs/) | Easy |
-## Array
-| Problem Name | Difficulty |
-| ------- | ------- |
-| [0121-best-time-to-buy-and-sell-stock](https://github.com/imrajeevnayan/leetcode-solution/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
-| [0198-house-robber](https://github.com/imrajeevnayan/leetcode-solution/tree/main/0198-house-robber/) | Medium |
-| [0746-min-cost-climbing-stairs](https://github.com/imrajeevnayan/leetcode-solution/tree/main/0746-min-cost-climbing-stairs/) | Easy |
-<!---LeetCode Topics End-->
