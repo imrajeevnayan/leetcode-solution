@@ -155,12 +155,15 @@ Automatically organized collection of LeetCode solutions.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0015-3sum](https://github.com/imrajeevnayan/leetcode-solution/tree/main/0015-3sum/) | Medium |
+| [0016-3sum-closest](https://github.com/imrajeevnayan/leetcode-solution/tree/main/0016-3sum-closest/) | Medium |
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0015-3sum](https://github.com/imrajeevnayan/leetcode-solution/tree/main/0015-3sum/) | Medium |
+| [0016-3sum-closest](https://github.com/imrajeevnayan/leetcode-solution/tree/main/0016-3sum-closest/) | Medium |
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0015-3sum](https://github.com/imrajeevnayan/leetcode-solution/tree/main/0015-3sum/) | Medium |
+| [0016-3sum-closest](https://github.com/imrajeevnayan/leetcode-solution/tree/main/0016-3sum-closest/) | Medium |
 <!---LeetCode Topics End-->
