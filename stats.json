@@ -518,17 +518,18 @@
     "GeeksForGeeks_Frequency_of_Elements": true,
     "GeeksForGeeks_Indexes_of_Subarray_Sum": true,
     "GeeksForGeeks_Linked_List_End_Insertion": true,
-    "GeeksForGeeks_Selection_Sort": true
+    "GeeksForGeeks_Selection_Sort": true,
+    "GeeksForGeeks_Bubble_Sort": true
   },
-  "totalSolved": 46,
+  "totalSolved": 47,
   "difficultyCounts": {
     "easy": 10,
-    "medium": 24,
+    "medium": 25,
     "hard": 1,
     "basic": 11
   },
   "currentStreak": 7,
-  "todayCount": 4,
+  "todayCount": 5,
   "lastSyncDate": "2026-05-25",
   "maxStreak": 7,
   "activityHistory": {
@@ -538,7 +539,7 @@
     "2026-05-22": 13,
     "2026-05-23": 1,
     "2026-05-24": 10,
-    "2026-05-25": 4
+    "2026-05-25": 5
   },
   "todayProblems": [
     "Most Frequent Character",
@@ -586,6 +587,7 @@
     "Frequency of Elements",
     "Indexes of Subarray Sum",
     "Linked List End Insertion",
-    "Selection Sort"
+    "Selection Sort",
+    "Bubble Sort"
   ]
 }
