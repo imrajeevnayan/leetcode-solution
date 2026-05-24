@@ -28,3 +28,4 @@
 | 5 | [Frequency of Elements](https://www.geeksforgeeks.org/problems/frequency-of-elements--111353/1) | GeeksForGeeks | Easy | 25 May 2026 | 12:03 am |
 | 6 | [Indexes of Subarray Sum](https://www.geeksforgeeks.org/problems/subarray-with-given-sum-1587115621/1) | GeeksForGeeks | Medium | 25 May 2026 | 12:04 am |
 | 7 | [Linked List End Insertion](https://www.geeksforgeeks.org/problems/linked-list-insertion-1587115620/1) | GeeksForGeeks | Medium | 25 May 2026 | 12:11 am |
+| 8 | [Selection Sort](https://www.geeksforgeeks.org/problems/selection-sort/1) | GeeksForGeeks | Medium | 25 May 2026 | 12:16 am |
