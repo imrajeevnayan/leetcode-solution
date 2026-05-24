@@ -507,17 +507,18 @@
     "LeetCode_Product_of_Array_Except_Self": true,
     "GeeksForGeeks_First_n_Fibonacci_using_Recursion": true,
     "GeeksForGeeks_Count_numbers_containing_4": true,
-    "GeeksForGeeks_Stock_buy_and_sell": true
+    "GeeksForGeeks_Stock_buy_and_sell": true,
+    "GeeksForGeeks_Count_ways_with_3_moves": true
   },
-  "totalSolved": 35,
+  "totalSolved": 36,
   "difficultyCounts": {
-    "easy": 7,
+    "easy": 8,
     "medium": 18,
     "hard": 1,
     "basic": 9
   },
   "currentStreak": 6,
-  "todayCount": 3,
+  "todayCount": 4,
   "lastSyncDate": "2026-05-24",
   "maxStreak": 6,
   "activityHistory": {
@@ -526,7 +527,7 @@
     "2026-05-21": 2,
     "2026-05-22": 13,
     "2026-05-23": 1,
-    "2026-05-24": 3
+    "2026-05-24": 4
   },
   "todayProblems": [
     "Most Frequent Character",
@@ -563,6 +564,7 @@
     "Product of Array Except Self",
     "First n Fibonacci using Recursion",
     "Count numbers containing 4",
-    "Stock buy and sell"
+    "Stock buy and sell",
+    "Count ways with 3 moves"
   ]
 }
