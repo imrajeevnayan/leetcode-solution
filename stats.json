@@ -513,17 +513,18 @@
     "GeeksForGeeks_Coin_Change_(Minimum_Coins)": true,
     "GeeksForGeeks_Sort_a_linked_list_of_0s,_1s_and_2s": true,
     "GeeksForGeeks_Check_Equal_Arrays": true,
-    "GeeksForGeeks_Rotate_Array_by_One": true
+    "GeeksForGeeks_Rotate_Array_by_One": true,
+    "GeeksForGeeks_Min_and_Max_in_Array": true
   },
-  "totalSolved": 41,
+  "totalSolved": 42,
   "difficultyCounts": {
     "easy": 9,
     "medium": 21,
     "hard": 1,
-    "basic": 10
+    "basic": 11
   },
   "currentStreak": 6,
-  "todayCount": 9,
+  "todayCount": 10,
   "lastSyncDate": "2026-05-24",
   "maxStreak": 6,
   "activityHistory": {
@@ -532,7 +533,7 @@
     "2026-05-21": 2,
     "2026-05-22": 13,
     "2026-05-23": 1,
-    "2026-05-24": 9
+    "2026-05-24": 10
   },
   "todayProblems": [
     "Most Frequent Character",
@@ -575,6 +576,7 @@
     "Coin Change (Minimum Coins)",
     "Sort a linked list of 0s, 1s and 2s",
     "Check Equal Arrays",
-    "Rotate Array by One"
+    "Rotate Array by One",
+    "Min and Max in Array"
   ]
 }
