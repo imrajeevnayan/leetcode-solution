@@ -509,17 +509,18 @@
     "GeeksForGeeks_Count_numbers_containing_4": true,
     "GeeksForGeeks_Stock_buy_and_sell": true,
     "GeeksForGeeks_Count_ways_with_3_moves": true,
-    "GeeksForGeeks_Zero_Sum_Subarrays": true
+    "GeeksForGeeks_Zero_Sum_Subarrays": true,
+    "GeeksForGeeks_Coin_Change_(Minimum_Coins)": true
   },
-  "totalSolved": 37,
+  "totalSolved": 38,
   "difficultyCounts": {
     "easy": 8,
-    "medium": 19,
+    "medium": 20,
     "hard": 1,
     "basic": 9
   },
   "currentStreak": 6,
-  "todayCount": 5,
+  "todayCount": 6,
   "lastSyncDate": "2026-05-24",
   "maxStreak": 6,
   "activityHistory": {
@@ -528,7 +529,7 @@
     "2026-05-21": 2,
     "2026-05-22": 13,
     "2026-05-23": 1,
-    "2026-05-24": 5
+    "2026-05-24": 6
   },
   "todayProblems": [
     "Most Frequent Character",
@@ -567,6 +568,7 @@
     "Count numbers containing 4",
     "Stock buy and sell",
     "Count ways with 3 moves",
-    "Zero Sum Subarrays"
+    "Zero Sum Subarrays",
+    "Coin Change (Minimum Coins)"
   ]
 }
