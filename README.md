@@ -4,7 +4,7 @@ Automatically organized collection of LeetCode solutions.
 
 ## 📊 Statistics
 
-- **Total Problems Solved:** 126
+- **Total Problems Solved:** 127
 - **Current Streak:** 7 days
 - **Longest Streak:** 7 days
 
@@ -13,13 +13,13 @@ Automatically organized collection of LeetCode solutions.
 #### By Language
 - Javascript: 1
 - Sql: 27
-- Java: 98
+- Java: 99
 
 #### By Topic
 - Array: 62
 - Database: 27
 - Linked-list: 5
-- Two-pointers: 7
+- Two-pointers: 8
 - String: 5
 - Tree: 2
 - Math: 9
@@ -121,6 +121,7 @@ Automatically organized collection of LeetCode solutions.
 | 628 | Maximum Product Of Three Numbers | array | easy | java | [Solution](solutions/java/array/easy/628_maximum-product-of-three-numbers_array_easy.java) |
 | 645 | Set Mismatch | array | easy | java | [Solution](solutions/java/array/easy/645_set-mismatch_array_easy.java) |
 | 678 | Valid Parenthesis String | string | medium | java | [Solution](solutions/java/string/medium/678_valid-parenthesis-string_string_medium.java) |
+| 680 | Valid Palindrome Ii | two-pointers | easy | java | [Solution](solutions/java/two-pointers/easy/680_valid-palindrome-ii_two-pointers_easy.java) |
 | 692 | Top K Frequent Words | array | medium | java | [Solution](solutions/java/array/medium/692_top-k-frequent-words_array_medium.java) |
 | 724 | Find Pivot Index | array | easy | java | [Solution](solutions/java/array/easy/724_find-pivot-index_array_easy.java) |
 | 747 | Min Cost Climbing Stairs | array | easy | java | [Solution](solutions/java/array/easy/747_min-cost-climbing-stairs_array_easy.java) |
@@ -155,19 +156,3 @@ Automatically organized collection of LeetCode solutions.
 | 2646 | Kth Largest Sum In A Binary Tree | tree | medium | java | [Solution](solutions/java/tree/medium/2646_kth-largest-sum-in-a-binary-tree_tree_medium.java) |
 | 3379 | Score Of A String | string | easy | java | [Solution](solutions/java/string/easy/3379_score-of-a-string_string_easy.java) |
 | 4068 | Sum Of Elements With Frequency Divisible By K | array | easy | java | [Solution](solutions/java/array/easy/4068_sum-of-elements-with-frequency-divisible-by-k_array_easy.java) |
-
-<!---LeetCode Topics Start-->
-# LeetCode Topics
-## Two Pointers
-| Problem Name | Difficulty |
-| ------- | ------- |
-| [0680-valid-palindrome-ii](https://github.com/imrajeevnayan/leetcode-solution/tree/main/0680-valid-palindrome-ii/) | Easy |
-## String
-| Problem Name | Difficulty |
-| ------- | ------- |
-| [0680-valid-palindrome-ii](https://github.com/imrajeevnayan/leetcode-solution/tree/main/0680-valid-palindrome-ii/) | Easy |
-## Greedy
-| Problem Name | Difficulty |
-| ------- | ------- |
-| [0680-valid-palindrome-ii](https://github.com/imrajeevnayan/leetcode-solution/tree/main/0680-valid-palindrome-ii/) | Easy |
-<!---LeetCode Topics End-->
