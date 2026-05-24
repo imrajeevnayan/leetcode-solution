@@ -511,17 +511,18 @@
     "GeeksForGeeks_Count_ways_with_3_moves": true,
     "GeeksForGeeks_Zero_Sum_Subarrays": true,
     "GeeksForGeeks_Coin_Change_(Minimum_Coins)": true,
-    "GeeksForGeeks_Sort_a_linked_list_of_0s,_1s_and_2s": true
+    "GeeksForGeeks_Sort_a_linked_list_of_0s,_1s_and_2s": true,
+    "GeeksForGeeks_Check_Equal_Arrays": true
   },
-  "totalSolved": 39,
+  "totalSolved": 40,
   "difficultyCounts": {
-    "easy": 8,
+    "easy": 9,
     "medium": 21,
     "hard": 1,
     "basic": 9
   },
   "currentStreak": 6,
-  "todayCount": 7,
+  "todayCount": 8,
   "lastSyncDate": "2026-05-24",
   "maxStreak": 6,
   "activityHistory": {
@@ -530,7 +531,7 @@
     "2026-05-21": 2,
     "2026-05-22": 13,
     "2026-05-23": 1,
-    "2026-05-24": 7
+    "2026-05-24": 8
   },
   "todayProblems": [
     "Most Frequent Character",
@@ -571,6 +572,7 @@
     "Count ways with 3 moves",
     "Zero Sum Subarrays",
     "Coin Change (Minimum Coins)",
-    "Sort a linked list of 0s, 1s and 2s"
+    "Sort a linked list of 0s, 1s and 2s",
+    "Check Equal Arrays"
   ]
 }

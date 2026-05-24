@@ -22,3 +22,4 @@
 | ------- | ------- |
 | [0151-reverse-words-in-a-string](https://github.com/imrajeevnayan/leetcode-solution/tree/main/0151-reverse-words-in-a-string/) | Medium |
 <!---LeetCode Topics End-->
+| 2 | [Check Equal Arrays](https://www.geeksforgeeks.org/problems/check-if-two-arrays-are-equal-or-not3847/1) | GeeksForGeeks | Easy | 24 May 2026 | 08:26 pm |
