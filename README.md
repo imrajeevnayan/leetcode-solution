@@ -4,7 +4,7 @@ Automatically organized collection of LeetCode solutions.
 
 ## 📊 Statistics
 
-- **Total Problems Solved:** 124
+- **Total Problems Solved:** 125
 - **Current Streak:** 7 days
 - **Longest Streak:** 7 days
 
@@ -13,10 +13,10 @@ Automatically organized collection of LeetCode solutions.
 #### By Language
 - Javascript: 1
 - Sql: 27
-- Java: 96
+- Java: 97
 
 #### By Topic
-- Array: 60
+- Array: 61
 - Database: 27
 - Linked-list: 5
 - Two-pointers: 7
@@ -128,6 +128,7 @@ Automatically organized collection of LeetCode solutions.
 | 941 | Sort Array By Parity | array | easy | java | [Solution](solutions/java/array/easy/941_sort-array-by-parity_array_easy.java) |
 | 975 | Range Sum Of Bst | tree | easy | java | [Solution](solutions/java/tree/easy/975_range-sum-of-bst_tree_easy.java) |
 | 1013 | Fibonacci Number | math | easy | java | [Solution](solutions/java/math/easy/1013_fibonacci-number_math_easy.java) |
+| 1016 | Subarray Sums Divisible By K | array | medium | java | [Solution](solutions/java/array/medium/1016_subarray-sums-divisible-by-k_array_medium.java) |
 | 1018 | Largest Perimeter Triangle | array | easy | java | [Solution](solutions/java/array/easy/1018_largest-perimeter-triangle_array_easy.java) |
 | 1019 | Squares Of A Sorted Array | array | easy | java | [Solution](solutions/java/array/easy/1019_squares-of-a-sorted-array_array_easy.java) |
 | 1046 | Max Consecutive Ones Iii | array | medium | java | [Solution](solutions/java/array/medium/1046_max-consecutive-ones-iii_array_medium.java) |
@@ -153,22 +154,3 @@ Automatically organized collection of LeetCode solutions.
 | 2646 | Kth Largest Sum In A Binary Tree | tree | medium | java | [Solution](solutions/java/tree/medium/2646_kth-largest-sum-in-a-binary-tree_tree_medium.java) |
 | 3379 | Score Of A String | string | easy | java | [Solution](solutions/java/string/easy/3379_score-of-a-string_string_easy.java) |
 | 4068 | Sum Of Elements With Frequency Divisible By K | array | easy | java | [Solution](solutions/java/array/easy/4068_sum-of-elements-with-frequency-divisible-by-k_array_easy.java) |
-
-<!---LeetCode Topics Start-->
-# LeetCode Topics
-## Array
-| Problem Name | Difficulty |
-| ------- | ------- |
-| [0560-subarray-sum-equals-k](https://github.com/imrajeevnayan/leetcode-solution/tree/main/0560-subarray-sum-equals-k/) | Medium |
-| [0974-subarray-sums-divisible-by-k](https://github.com/imrajeevnayan/leetcode-solution/tree/main/0974-subarray-sums-divisible-by-k/) | Medium |
-## Hash Table
-| Problem Name | Difficulty |
-| ------- | ------- |
-| [0560-subarray-sum-equals-k](https://github.com/imrajeevnayan/leetcode-solution/tree/main/0560-subarray-sum-equals-k/) | Medium |
-| [0974-subarray-sums-divisible-by-k](https://github.com/imrajeevnayan/leetcode-solution/tree/main/0974-subarray-sums-divisible-by-k/) | Medium |
-## Prefix Sum
-| Problem Name | Difficulty |
-| ------- | ------- |
-| [0560-subarray-sum-equals-k](https://github.com/imrajeevnayan/leetcode-solution/tree/main/0560-subarray-sum-equals-k/) | Medium |
-| [0974-subarray-sums-divisible-by-k](https://github.com/imrajeevnayan/leetcode-solution/tree/main/0974-subarray-sums-divisible-by-k/) | Medium |
-<!---LeetCode Topics End-->
