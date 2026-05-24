@@ -4,7 +4,7 @@ Automatically organized collection of LeetCode solutions.
 
 ## 📊 Statistics
 
-- **Total Problems Solved:** 123
+- **Total Problems Solved:** 124
 - **Current Streak:** 7 days
 - **Longest Streak:** 7 days
 
@@ -13,10 +13,10 @@ Automatically organized collection of LeetCode solutions.
 #### By Language
 - Javascript: 1
 - Sql: 27
-- Java: 95
+- Java: 96
 
 #### By Topic
-- Array: 59
+- Array: 60
 - Database: 27
 - Linked-list: 5
 - Two-pointers: 7
@@ -124,6 +124,7 @@ Automatically organized collection of LeetCode solutions.
 | 724 | Find Pivot Index | array | easy | java | [Solution](solutions/java/array/easy/724_find-pivot-index_array_easy.java) |
 | 747 | Min Cost Climbing Stairs | array | easy | java | [Solution](solutions/java/array/easy/747_min-cost-climbing-stairs_array_easy.java) |
 | 778 | Reorganize String | hash-table | medium | java | [Solution](solutions/java/hash-table/medium/778_reorganize-string_hash-table_medium.java) |
+| 917 | Boats To Save People | array | medium | java | [Solution](solutions/java/array/medium/917_boats-to-save-people_array_medium.java) |
 | 941 | Sort Array By Parity | array | easy | java | [Solution](solutions/java/array/easy/941_sort-array-by-parity_array_easy.java) |
 | 975 | Range Sum Of Bst | tree | easy | java | [Solution](solutions/java/tree/easy/975_range-sum-of-bst_tree_easy.java) |
 | 1013 | Fibonacci Number | math | easy | java | [Solution](solutions/java/math/easy/1013_fibonacci-number_math_easy.java) |
@@ -152,23 +153,3 @@ Automatically organized collection of LeetCode solutions.
 | 2646 | Kth Largest Sum In A Binary Tree | tree | medium | java | [Solution](solutions/java/tree/medium/2646_kth-largest-sum-in-a-binary-tree_tree_medium.java) |
 | 3379 | Score Of A String | string | easy | java | [Solution](solutions/java/string/easy/3379_score-of-a-string_string_easy.java) |
 | 4068 | Sum Of Elements With Frequency Divisible By K | array | easy | java | [Solution](solutions/java/array/easy/4068_sum-of-elements-with-frequency-divisible-by-k_array_easy.java) |
-
-<!---LeetCode Topics Start-->
-# LeetCode Topics
-## Array
-| Problem Name | Difficulty |
-| ------- | ------- |
-| [0881-boats-to-save-people](https://github.com/imrajeevnayan/leetcode-solution/tree/main/0881-boats-to-save-people/) | Medium |
-## Two Pointers
-| Problem Name | Difficulty |
-| ------- | ------- |
-| [0881-boats-to-save-people](https://github.com/imrajeevnayan/leetcode-solution/tree/main/0881-boats-to-save-people/) | Medium |
-## Greedy
-| Problem Name | Difficulty |
-| ------- | ------- |
-| [0881-boats-to-save-people](https://github.com/imrajeevnayan/leetcode-solution/tree/main/0881-boats-to-save-people/) | Medium |
-## Sorting
-| Problem Name | Difficulty |
-| ------- | ------- |
-| [0881-boats-to-save-people](https://github.com/imrajeevnayan/leetcode-solution/tree/main/0881-boats-to-save-people/) | Medium |
-<!---LeetCode Topics End-->
