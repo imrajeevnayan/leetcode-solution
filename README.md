@@ -26,3 +26,4 @@
 | 3 | [Rotate Array by One](https://www.geeksforgeeks.org/problems/cyclically-rotate-an-array-by-one2614/1) | GeeksForGeeks | Basic | 24 May 2026 | 08:31 pm |
 | 4 | [Min and Max in Array](https://www.geeksforgeeks.org/problems/find-minimum-and-maximum-element-in-an-array4428/1) | GeeksForGeeks | Basic | 24 May 2026 | 08:39 pm |
 | 5 | [Frequency of Elements](https://www.geeksforgeeks.org/problems/frequency-of-elements--111353/1) | GeeksForGeeks | Easy | 25 May 2026 | 12:03 am |
+| 6 | [Indexes of Subarray Sum](https://www.geeksforgeeks.org/problems/subarray-with-given-sum-1587115621/1) | GeeksForGeeks | Medium | 25 May 2026 | 12:04 am |

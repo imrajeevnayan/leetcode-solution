@@ -515,17 +515,18 @@
     "GeeksForGeeks_Check_Equal_Arrays": true,
     "GeeksForGeeks_Rotate_Array_by_One": true,
     "GeeksForGeeks_Min_and_Max_in_Array": true,
-    "GeeksForGeeks_Frequency_of_Elements": true
+    "GeeksForGeeks_Frequency_of_Elements": true,
+    "GeeksForGeeks_Indexes_of_Subarray_Sum": true
   },
-  "totalSolved": 43,
+  "totalSolved": 44,
   "difficultyCounts": {
     "easy": 10,
-    "medium": 21,
+    "medium": 22,
     "hard": 1,
     "basic": 11
   },
   "currentStreak": 7,
-  "todayCount": 1,
+  "todayCount": 2,
   "lastSyncDate": "2026-05-25",
   "maxStreak": 7,
   "activityHistory": {
@@ -535,7 +536,7 @@
     "2026-05-22": 13,
     "2026-05-23": 1,
     "2026-05-24": 10,
-    "2026-05-25": 1
+    "2026-05-25": 2
   },
   "todayProblems": [
     "Most Frequent Character",
@@ -580,6 +581,7 @@
     "Check Equal Arrays",
     "Rotate Array by One",
     "Min and Max in Array",
-    "Frequency of Elements"
+    "Frequency of Elements",
+    "Indexes of Subarray Sum"
   ]
 }
