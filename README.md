@@ -17,4 +17,12 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0345-reverse-vowels-of-a-string](https://github.com/imrajeevnayan/leetcode-solution/tree/main/0345-reverse-vowels-of-a-string/) | Easy |
+## Array
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0152-maximum-product-subarray](https://github.com/imrajeevnayan/leetcode-solution/tree/main/0152-maximum-product-subarray/) | Medium |
+## Dynamic Programming
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0152-maximum-product-subarray](https://github.com/imrajeevnayan/leetcode-solution/tree/main/0152-maximum-product-subarray/) | Medium |
 <!---LeetCode Topics End-->
