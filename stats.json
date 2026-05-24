@@ -504,25 +504,27 @@
     "GeeksForGeeks_Nth_Fibonacci_Number": true,
     "GeeksForGeeks_Coin_Change_(Count_Ways)": true,
     "GeeksForGeeks_Ways_to_Reach_the_n'th_Stair": true,
-    "LeetCode_Product_of_Array_Except_Self": true
+    "LeetCode_Product_of_Array_Except_Self": true,
+    "GeeksForGeeks_First_n_Fibonacci_using_Recursion": true
   },
-  "totalSolved": 32,
+  "totalSolved": 33,
   "difficultyCounts": {
     "easy": 6,
     "medium": 17,
     "hard": 1,
-    "basic": 8
+    "basic": 9
   },
-  "currentStreak": 5,
+  "currentStreak": 6,
   "todayCount": 1,
-  "lastSyncDate": "2026-05-23",
-  "maxStreak": 5,
+  "lastSyncDate": "2026-05-24",
+  "maxStreak": 6,
   "activityHistory": {
     "2026-05-19": 2,
     "2026-05-20": 14,
     "2026-05-21": 2,
     "2026-05-22": 13,
-    "2026-05-23": 1
+    "2026-05-23": 1,
+    "2026-05-24": 1
   },
   "todayProblems": [
     "Most Frequent Character",
@@ -556,6 +558,7 @@
     "Nth Fibonacci Number",
     "Coin Change (Count Ways)",
     "Ways to Reach the n'th Stair",
-    "Product of Array Except Self"
+    "Product of Array Except Self",
+    "First n Fibonacci using Recursion"
   ]
 }
