@@ -41,3 +41,4 @@
 | 18 | [Factorials Less than or Equal to n](https://www.geeksforgeeks.org/problems/find-all-factorial-numbers-less-than-or-equal-to-n3548/1?problemType=functional&query=problemTypefunctionaldifficulty%5B%5D-1page1&page=1&difficulty%5B%5D=-1) | GeeksForGeeks | Easy | 25 May 2026 | 10:44 am |
 | 19 | [Reverse an Array](https://www.geeksforgeeks.org/problems/reverse-an-array/1) | GeeksForGeeks | Easy | 25 May 2026 | 10:45 am |
 | 20 | [Palindrome String](https://www.geeksforgeeks.org/problems/palindrome-string0817/1) | GeeksForGeeks | Medium | 25 May 2026 | 10:47 am |
+| 21 | [Largest in Array](https://www.geeksforgeeks.org/problems/largest-element-in-array4009/1) | GeeksForGeeks | Basic | 25 May 2026 | 11:20 am |
