@@ -35,3 +35,4 @@
 | 12 | [LCM And GCD](https://www.geeksforgeeks.org/problems/lcm-and-gcd4516/1) | GeeksForGeeks | Basic | 25 May 2026 | 10:25 am |
 | 13 | [Armstrong Numbers](https://www.geeksforgeeks.org/problems/armstrong-numbers2727/1) | GeeksForGeeks | Medium | 25 May 2026 | 10:34 am |
 | 14 | [Sum 1 to n Divisors](https://www.geeksforgeeks.org/problems/sum-of-all-divisors-from-1-to-n4738/1) | GeeksForGeeks | Easy | 25 May 2026 | 10:35 am |
+| 15 | [Print GFG n times](https://www.geeksforgeeks.org/problems/print-gfg-n-times/1) | GeeksForGeeks | Easy | 25 May 2026 | 10:39 am |
