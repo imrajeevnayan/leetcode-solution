@@ -32,3 +32,4 @@
 | 9 | [Bubble Sort](https://www.geeksforgeeks.org/problems/bubble-sort/1?utm=codolio) | GeeksForGeeks | Medium | 25 May 2026 | 12:18 am |
 | 10 | [Count Digits that Divide](https://www.geeksforgeeks.org/problems/count-digits5716/1) | GeeksForGeeks | Medium | 25 May 2026 | 10:16 am |
 | 11 | [Reverse Bits](https://www.geeksforgeeks.org/problems/reverse-bits-1611130171/1) | GeeksForGeeks | Easy | 25 May 2026 | 10:18 am |
+| 12 | [LCM And GCD](https://www.geeksforgeeks.org/problems/lcm-and-gcd4516/1) | GeeksForGeeks | Basic | 25 May 2026 | 10:25 am |
