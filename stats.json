@@ -533,17 +533,18 @@
     "GeeksForGeeks_Palindrome_String": true,
     "GeeksForGeeks_Largest_in_Array": true,
     "GeeksForGeeks_Second_Largest": true,
-    "GeeksForGeeks_Check_if_array_is_sorted": true
+    "GeeksForGeeks_Check_if_array_is_sorted": true,
+    "GeeksForGeeks_Remove_Duplicates_Sorted_Array": true
   },
-  "totalSolved": 61,
+  "totalSolved": 62,
   "difficultyCounts": {
     "easy": 17,
-    "medium": 29,
+    "medium": 30,
     "hard": 1,
     "basic": 14
   },
   "currentStreak": 7,
-  "todayCount": 19,
+  "todayCount": 20,
   "lastSyncDate": "2026-05-25",
   "maxStreak": 7,
   "activityHistory": {
@@ -553,7 +554,7 @@
     "2026-05-22": 13,
     "2026-05-23": 1,
     "2026-05-24": 10,
-    "2026-05-25": 19
+    "2026-05-25": 20
   },
   "todayProblems": [
     "Most Frequent Character",
@@ -616,6 +617,7 @@
     "Palindrome String",
     "Largest in Array",
     "Second Largest",
-    "Check if array is sorted"
+    "Check if array is sorted",
+    "Remove Duplicates Sorted Array"
   ]
 }
