@@ -43,3 +43,4 @@
 | 20 | [Palindrome String](https://www.geeksforgeeks.org/problems/palindrome-string0817/1) | GeeksForGeeks | Medium | 25 May 2026 | 10:47 am |
 | 21 | [Largest in Array](https://www.geeksforgeeks.org/problems/largest-element-in-array4009/1) | GeeksForGeeks | Basic | 25 May 2026 | 11:20 am |
 | 22 | [Second Largest](https://www.geeksforgeeks.org/problems/second-largest3735/1) | GeeksForGeeks | Easy | 25 May 2026 | 11:35 am |
+| 23 | [Check if array is sorted](https://www.geeksforgeeks.org/problems/check-if-an-array-is-sorted0701/1) | GeeksForGeeks | Medium | 25 May 2026 | 11:36 am |
