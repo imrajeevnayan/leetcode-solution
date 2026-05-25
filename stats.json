@@ -523,17 +523,18 @@
     "GeeksForGeeks_Count_Digits_that_Divide": true,
     "GeeksForGeeks_Reverse_Bits": true,
     "GeeksForGeeks_LCM_And_GCD": true,
-    "GeeksForGeeks_Armstrong_Numbers": true
+    "GeeksForGeeks_Armstrong_Numbers": true,
+    "GeeksForGeeks_Sum_1_to_n_Divisors": true
   },
-  "totalSolved": 51,
+  "totalSolved": 52,
   "difficultyCounts": {
-    "easy": 11,
+    "easy": 12,
     "medium": 27,
     "hard": 1,
     "basic": 12
   },
   "currentStreak": 7,
-  "todayCount": 9,
+  "todayCount": 10,
   "lastSyncDate": "2026-05-25",
   "maxStreak": 7,
   "activityHistory": {
@@ -543,7 +544,7 @@
     "2026-05-22": 13,
     "2026-05-23": 1,
     "2026-05-24": 10,
-    "2026-05-25": 9
+    "2026-05-25": 10
   },
   "todayProblems": [
     "Most Frequent Character",
@@ -596,6 +597,7 @@
     "Count Digits that Divide",
     "Reverse Bits",
     "LCM And GCD",
-    "Armstrong Numbers"
+    "Armstrong Numbers",
+    "Sum 1 to n Divisors"
   ]
 }
