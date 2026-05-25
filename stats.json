@@ -526,17 +526,18 @@
     "GeeksForGeeks_Armstrong_Numbers": true,
     "GeeksForGeeks_Sum_1_to_n_Divisors": true,
     "GeeksForGeeks_Print_GFG_n_times": true,
-    "GeeksForGeeks_Print_n_to_1_without_loop": true
+    "GeeksForGeeks_Print_n_to_1_without_loop": true,
+    "GeeksForGeeks_Sum_of_Natural_Number_Cubes": true
   },
-  "totalSolved": 54,
+  "totalSolved": 55,
   "difficultyCounts": {
     "easy": 14,
     "medium": 27,
     "hard": 1,
-    "basic": 12
+    "basic": 13
   },
   "currentStreak": 7,
-  "todayCount": 12,
+  "todayCount": 13,
   "lastSyncDate": "2026-05-25",
   "maxStreak": 7,
   "activityHistory": {
@@ -546,7 +547,7 @@
     "2026-05-22": 13,
     "2026-05-23": 1,
     "2026-05-24": 10,
-    "2026-05-25": 12
+    "2026-05-25": 13
   },
   "todayProblems": [
     "Most Frequent Character",
@@ -602,6 +603,7 @@
     "Armstrong Numbers",
     "Sum 1 to n Divisors",
     "Print GFG n times",
-    "Print n to 1 without loop"
+    "Print n to 1 without loop",
+    "Sum of Natural Number Cubes"
   ]
 }

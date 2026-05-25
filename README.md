@@ -37,3 +37,4 @@
 | 14 | [Sum 1 to n Divisors](https://www.geeksforgeeks.org/problems/sum-of-all-divisors-from-1-to-n4738/1) | GeeksForGeeks | Easy | 25 May 2026 | 10:35 am |
 | 15 | [Print GFG n times](https://www.geeksforgeeks.org/problems/print-gfg-n-times/1) | GeeksForGeeks | Easy | 25 May 2026 | 10:39 am |
 | 16 | [Print n to 1 without loop](https://www.geeksforgeeks.org/problems/print-n-to-1-without-loop/1) | GeeksForGeeks | Easy | 25 May 2026 | 10:40 am |
+| 17 | [Sum of Natural Number Cubes](https://www.geeksforgeeks.org/problems/sum-of-first-n-terms5843/1) | GeeksForGeeks | Basic | 25 May 2026 | 10:43 am |
