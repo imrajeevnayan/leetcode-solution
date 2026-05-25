@@ -30,3 +30,4 @@
 | 7 | [Linked List End Insertion](https://www.geeksforgeeks.org/problems/linked-list-insertion-1587115620/1) | GeeksForGeeks | Medium | 25 May 2026 | 12:11 am |
 | 8 | [Selection Sort](https://www.geeksforgeeks.org/problems/selection-sort/1) | GeeksForGeeks | Medium | 25 May 2026 | 12:16 am |
 | 9 | [Bubble Sort](https://www.geeksforgeeks.org/problems/bubble-sort/1?utm=codolio) | GeeksForGeeks | Medium | 25 May 2026 | 12:18 am |
+| 10 | [Count Digits that Divide](https://www.geeksforgeeks.org/problems/count-digits5716/1) | GeeksForGeeks | Medium | 25 May 2026 | 10:16 am |

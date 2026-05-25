@@ -519,17 +519,18 @@
     "GeeksForGeeks_Indexes_of_Subarray_Sum": true,
     "GeeksForGeeks_Linked_List_End_Insertion": true,
     "GeeksForGeeks_Selection_Sort": true,
-    "GeeksForGeeks_Bubble_Sort": true
+    "GeeksForGeeks_Bubble_Sort": true,
+    "GeeksForGeeks_Count_Digits_that_Divide": true
   },
-  "totalSolved": 47,
+  "totalSolved": 48,
   "difficultyCounts": {
     "easy": 10,
-    "medium": 25,
+    "medium": 26,
     "hard": 1,
     "basic": 11
   },
   "currentStreak": 7,
-  "todayCount": 5,
+  "todayCount": 6,
   "lastSyncDate": "2026-05-25",
   "maxStreak": 7,
   "activityHistory": {
@@ -539,7 +540,7 @@
     "2026-05-22": 13,
     "2026-05-23": 1,
     "2026-05-24": 10,
-    "2026-05-25": 5
+    "2026-05-25": 6
   },
   "todayProblems": [
     "Most Frequent Character",
@@ -588,6 +589,7 @@
     "Indexes of Subarray Sum",
     "Linked List End Insertion",
     "Selection Sort",
-    "Bubble Sort"
+    "Bubble Sort",
+    "Count Digits that Divide"
   ]
 }
