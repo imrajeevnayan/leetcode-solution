@@ -56,3 +56,4 @@
 | 25 | [Quick Left Rotation](https://www.geeksforgeeks.org/problems/quick-left-rotation3806/1) | GeeksForGeeks | Basic | 25 May 2026 | 12:20 pm |
 | 26 | [Binary Search](https://www.geeksforgeeks.org/problems/who-will-win-1587115621/1) | GeeksForGeeks | Basic | 25 May 2026 | 12:36 pm |
 | 27 | [Union of 2 Sorted Arrays](https://www.geeksforgeeks.org/problems/union-of-two-sorted-arrays-1587115621/1) | GeeksForGeeks | Medium | 25 May 2026 | 12:47 pm |
+| 28 | [Palindrome Sentence](https://www.geeksforgeeks.org/problems/string-palindromic-ignoring-spaces4723/1) | GeeksForGeeks | Medium | 25 May 2026 | 04:10 pm |

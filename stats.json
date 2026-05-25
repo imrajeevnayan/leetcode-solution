@@ -537,17 +537,18 @@
     "GeeksForGeeks_Remove_Duplicates_Sorted_Array": true,
     "GeeksForGeeks_Quick_Left_Rotation": true,
     "GeeksForGeeks_Binary_Search": true,
-    "GeeksForGeeks_Union_of_2_Sorted_Arrays": true
+    "GeeksForGeeks_Union_of_2_Sorted_Arrays": true,
+    "GeeksForGeeks_Palindrome_Sentence": true
   },
-  "totalSolved": 65,
+  "totalSolved": 66,
   "difficultyCounts": {
     "easy": 17,
-    "medium": 31,
+    "medium": 32,
     "hard": 1,
     "basic": 16
   },
   "currentStreak": 7,
-  "todayCount": 23,
+  "todayCount": 24,
   "lastSyncDate": "2026-05-25",
   "maxStreak": 7,
   "activityHistory": {
@@ -557,7 +558,7 @@
     "2026-05-22": 13,
     "2026-05-23": 1,
     "2026-05-24": 10,
-    "2026-05-25": 23
+    "2026-05-25": 24
   },
   "todayProblems": [
     "Most Frequent Character",
@@ -624,6 +625,7 @@
     "Remove Duplicates Sorted Array",
     "Quick Left Rotation",
     "Binary Search",
-    "Union of 2 Sorted Arrays"
+    "Union of 2 Sorted Arrays",
+    "Palindrome Sentence"
   ]
 }
