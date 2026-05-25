@@ -11,6 +11,7 @@
 | [0053-maximum-subarray](https://github.com/imrajeevnayan/leetcode-solution/tree/main/0053-maximum-subarray/) | Medium |
 | [0075-sort-colors](https://github.com/imrajeevnayan/leetcode-solution/tree/main/0075-sort-colors/) | Medium |
 | [0136-single-number](https://github.com/imrajeevnayan/leetcode-solution/tree/main/0136-single-number/) | Easy |
+| [0334-increasing-triplet-subsequence](https://github.com/imrajeevnayan/leetcode-solution/tree/main/0334-increasing-triplet-subsequence/) | Medium |
 ## Bit Manipulation
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -35,6 +36,10 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0053-maximum-subarray](https://github.com/imrajeevnayan/leetcode-solution/tree/main/0053-maximum-subarray/) | Medium |
+## Greedy
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0334-increasing-triplet-subsequence](https://github.com/imrajeevnayan/leetcode-solution/tree/main/0334-increasing-triplet-subsequence/) | Medium |
 <!---LeetCode Topics End-->
 | 2 | [Unique Number I](https://www.geeksforgeeks.org/problems/find-unique-number/1?utm=codolio) | GeeksForGeeks | Easy | 25 May 2026 | 04:24 pm |
 | 3 | [Longest Subarray with Sum K](https://www.geeksforgeeks.org/problems/longest-sub-array-with-sum-k0809/1) | GeeksForGeeks | Medium | 25 May 2026 | 04:33 pm |
