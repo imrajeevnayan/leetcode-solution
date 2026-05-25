@@ -14,3 +14,4 @@
 | ------- | ------- |
 | [0125-valid-palindrome](https://github.com/imrajeevnayan/leetcode-solution/tree/main/0125-valid-palindrome/) | Easy |
 <!---LeetCode Topics End-->
+| 3 | [Panagram Checking](https://www.geeksforgeeks.org/problems/pangram-checking-1587115620/1?utm=codolio) | GeeksForGeeks | Easy | 25 May 2026 | 10:11 pm |
