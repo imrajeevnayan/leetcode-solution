@@ -4,7 +4,7 @@ Automatically organized collection of LeetCode solutions.
 
 ## 📊 Statistics
 
-- **Total Problems Solved:** 128
+- **Total Problems Solved:** 129
 - **Current Streak:** 8 days
 - **Longest Streak:** 8 days
 
@@ -13,10 +13,10 @@ Automatically organized collection of LeetCode solutions.
 #### By Language
 - Javascript: 1
 - Sql: 27
-- Java: 100
+- Java: 101
 
 #### By Topic
-- Array: 63
+- Array: 64
 - Database: 27
 - Linked-list: 5
 - Two-pointers: 8
@@ -107,6 +107,7 @@ Automatically organized collection of LeetCode solutions.
 | 392 | Is Subsequence | two-pointers | easy | java | [Solution](solutions/java/two-pointers/easy/392_is-subsequence_two-pointers_easy.java) |
 | 424 | Longest Repeating Character Replacement | hash-table | medium | java | [Solution](solutions/java/hash-table/medium/424_longest-repeating-character-replacement_hash-table_medium.java) |
 | 451 | Sort Characters By Frequency | hash-table | medium | java | [Solution](solutions/java/hash-table/medium/451_sort-characters-by-frequency_hash-table_medium.java) |
+| 485 | Max Consecutive Ones | array | easy | java | [Solution](solutions/java/array/easy/485_max-consecutive-ones_array_easy.java) |
 | 496 | Next Greater Element I | array | easy | java | [Solution](solutions/java/array/easy/496_next-greater-element-i_array_easy.java) |
 | 503 | Next Greater Element Ii | array | medium | java | [Solution](solutions/java/array/medium/503_next-greater-element-ii_array_medium.java) |
 | 560 | Subarray Sum Equals K | array | medium | java | [Solution](solutions/java/array/medium/560_subarray-sum-equals-k_array_medium.java) |
@@ -157,11 +158,3 @@ Automatically organized collection of LeetCode solutions.
 | 2646 | Kth Largest Sum In A Binary Tree | tree | medium | java | [Solution](solutions/java/tree/medium/2646_kth-largest-sum-in-a-binary-tree_tree_medium.java) |
 | 3379 | Score Of A String | string | easy | java | [Solution](solutions/java/string/easy/3379_score-of-a-string_string_easy.java) |
 | 4068 | Sum Of Elements With Frequency Divisible By K | array | easy | java | [Solution](solutions/java/array/easy/4068_sum-of-elements-with-frequency-divisible-by-k_array_easy.java) |
-
-<!---LeetCode Topics Start-->
-# LeetCode Topics
-## Array
-| Problem Name | Difficulty |
-| ------- | ------- |
-| [0485-max-consecutive-ones](https://github.com/imrajeevnayan/leetcode-solution/tree/main/0485-max-consecutive-ones/) | Easy |
-<!---LeetCode Topics End-->
