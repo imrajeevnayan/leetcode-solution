@@ -540,17 +540,18 @@
     "GeeksForGeeks_Union_of_2_Sorted_Arrays": true,
     "GeeksForGeeks_Palindrome_Sentence": true,
     "GeeksForGeeks_Maximize_Number_of_1's": true,
-    "GeeksForGeeks_Unique_Number_I": true
+    "GeeksForGeeks_Unique_Number_I": true,
+    "GeeksForGeeks_Longest_Subarray_with_Sum_K": true
   },
-  "totalSolved": 68,
+  "totalSolved": 69,
   "difficultyCounts": {
     "easy": 18,
-    "medium": 33,
+    "medium": 34,
     "hard": 1,
     "basic": 16
   },
   "currentStreak": 7,
-  "todayCount": 26,
+  "todayCount": 27,
   "lastSyncDate": "2026-05-25",
   "maxStreak": 7,
   "activityHistory": {
@@ -560,7 +561,7 @@
     "2026-05-22": 13,
     "2026-05-23": 1,
     "2026-05-24": 10,
-    "2026-05-25": 26
+    "2026-05-25": 27
   },
   "todayProblems": [
     "Most Frequent Character",
@@ -630,6 +631,7 @@
     "Union of 2 Sorted Arrays",
     "Palindrome Sentence",
     "Maximize Number of 1's",
-    "Unique Number I"
+    "Unique Number I",
+    "Longest Subarray with Sum K"
   ]
 }
