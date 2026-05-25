@@ -543,17 +543,18 @@
     "GeeksForGeeks_Unique_Number_I": true,
     "GeeksForGeeks_Longest_Subarray_with_Sum_K": true,
     "GeeksForGeeks_Sorted_subsequence_of_size_3": true,
-    "GeeksForGeeks_Longest_Common_Prefix_of_Strings": true
+    "GeeksForGeeks_Longest_Common_Prefix_of_Strings": true,
+    "GeeksForGeeks_Check_for_Subsequence": true
   },
-  "totalSolved": 71,
+  "totalSolved": 72,
   "difficultyCounts": {
-    "easy": 19,
+    "easy": 20,
     "medium": 35,
     "hard": 1,
     "basic": 16
   },
   "currentStreak": 7,
-  "todayCount": 29,
+  "todayCount": 30,
   "lastSyncDate": "2026-05-25",
   "maxStreak": 7,
   "activityHistory": {
@@ -563,7 +564,7 @@
     "2026-05-22": 13,
     "2026-05-23": 1,
     "2026-05-24": 10,
-    "2026-05-25": 29
+    "2026-05-25": 30
   },
   "todayProblems": [
     "Most Frequent Character",
@@ -636,6 +637,7 @@
     "Unique Number I",
     "Longest Subarray with Sum K",
     "Sorted subsequence of size 3",
-    "Longest Common Prefix of Strings"
+    "Longest Common Prefix of Strings",
+    "Check for Subsequence"
   ]
 }
