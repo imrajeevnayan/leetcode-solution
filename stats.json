@@ -525,17 +525,18 @@
     "GeeksForGeeks_LCM_And_GCD": true,
     "GeeksForGeeks_Armstrong_Numbers": true,
     "GeeksForGeeks_Sum_1_to_n_Divisors": true,
-    "GeeksForGeeks_Print_GFG_n_times": true
+    "GeeksForGeeks_Print_GFG_n_times": true,
+    "GeeksForGeeks_Print_n_to_1_without_loop": true
   },
-  "totalSolved": 53,
+  "totalSolved": 54,
   "difficultyCounts": {
-    "easy": 13,
+    "easy": 14,
     "medium": 27,
     "hard": 1,
     "basic": 12
   },
   "currentStreak": 7,
-  "todayCount": 11,
+  "todayCount": 12,
   "lastSyncDate": "2026-05-25",
   "maxStreak": 7,
   "activityHistory": {
@@ -545,7 +546,7 @@
     "2026-05-22": 13,
     "2026-05-23": 1,
     "2026-05-24": 10,
-    "2026-05-25": 11
+    "2026-05-25": 12
   },
   "todayProblems": [
     "Most Frequent Character",
@@ -600,6 +601,7 @@
     "LCM And GCD",
     "Armstrong Numbers",
     "Sum 1 to n Divisors",
-    "Print GFG n times"
+    "Print GFG n times",
+    "Print n to 1 without loop"
   ]
 }
