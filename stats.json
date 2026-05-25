@@ -545,19 +545,20 @@
     "GeeksForGeeks_Sorted_subsequence_of_size_3": true,
     "GeeksForGeeks_Longest_Common_Prefix_of_Strings": true,
     "GeeksForGeeks_Check_for_Subsequence": true,
-    "GeeksForGeeks_Panagram_Checking": true
+    "GeeksForGeeks_Panagram_Checking": true,
+    "GeeksForGeeks_Single_Number": true
   },
-  "totalSolved": 73,
+  "totalSolved": 74,
   "difficultyCounts": {
-    "easy": 21,
+    "easy": 22,
     "medium": 35,
     "hard": 1,
     "basic": 16
   },
-  "currentStreak": 7,
-  "todayCount": 31,
-  "lastSyncDate": "2026-05-25",
-  "maxStreak": 7,
+  "currentStreak": 8,
+  "todayCount": 1,
+  "lastSyncDate": "2026-05-26",
+  "maxStreak": 8,
   "activityHistory": {
     "2026-05-19": 2,
     "2026-05-20": 14,
@@ -565,7 +566,8 @@
     "2026-05-22": 13,
     "2026-05-23": 1,
     "2026-05-24": 10,
-    "2026-05-25": 31
+    "2026-05-25": 31,
+    "2026-05-26": 1
   },
   "todayProblems": [
     "Most Frequent Character",
@@ -640,6 +642,7 @@
     "Sorted subsequence of size 3",
     "Longest Common Prefix of Strings",
     "Check for Subsequence",
-    "Panagram Checking"
+    "Panagram Checking",
+    "Single Number"
   ]
 }
