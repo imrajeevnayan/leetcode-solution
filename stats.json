@@ -520,17 +520,18 @@
     "GeeksForGeeks_Linked_List_End_Insertion": true,
     "GeeksForGeeks_Selection_Sort": true,
     "GeeksForGeeks_Bubble_Sort": true,
-    "GeeksForGeeks_Count_Digits_that_Divide": true
+    "GeeksForGeeks_Count_Digits_that_Divide": true,
+    "GeeksForGeeks_Reverse_Bits": true
   },
-  "totalSolved": 48,
+  "totalSolved": 49,
   "difficultyCounts": {
-    "easy": 10,
+    "easy": 11,
     "medium": 26,
     "hard": 1,
     "basic": 11
   },
   "currentStreak": 7,
-  "todayCount": 6,
+  "todayCount": 7,
   "lastSyncDate": "2026-05-25",
   "maxStreak": 7,
   "activityHistory": {
@@ -540,7 +541,7 @@
     "2026-05-22": 13,
     "2026-05-23": 1,
     "2026-05-24": 10,
-    "2026-05-25": 6
+    "2026-05-25": 7
   },
   "todayProblems": [
     "Most Frequent Character",
@@ -590,6 +591,7 @@
     "Linked List End Insertion",
     "Selection Sort",
     "Bubble Sort",
-    "Count Digits that Divide"
+    "Count Digits that Divide",
+    "Reverse Bits"
   ]
 }
