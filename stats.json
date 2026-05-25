@@ -528,17 +528,18 @@
     "GeeksForGeeks_Print_GFG_n_times": true,
     "GeeksForGeeks_Print_n_to_1_without_loop": true,
     "GeeksForGeeks_Sum_of_Natural_Number_Cubes": true,
-    "GeeksForGeeks_Factorials_Less_than_or_Equal_to_n": true
+    "GeeksForGeeks_Factorials_Less_than_or_Equal_to_n": true,
+    "GeeksForGeeks_Reverse_an_Array": true
   },
-  "totalSolved": 56,
+  "totalSolved": 57,
   "difficultyCounts": {
-    "easy": 15,
+    "easy": 16,
     "medium": 27,
     "hard": 1,
     "basic": 13
   },
   "currentStreak": 7,
-  "todayCount": 14,
+  "todayCount": 15,
   "lastSyncDate": "2026-05-25",
   "maxStreak": 7,
   "activityHistory": {
@@ -548,7 +549,7 @@
     "2026-05-22": 13,
     "2026-05-23": 1,
     "2026-05-24": 10,
-    "2026-05-25": 14
+    "2026-05-25": 15
   },
   "todayProblems": [
     "Most Frequent Character",
@@ -606,6 +607,7 @@
     "Print GFG n times",
     "Print n to 1 without loop",
     "Sum of Natural Number Cubes",
-    "Factorials Less than or Equal to n"
+    "Factorials Less than or Equal to n",
+    "Reverse an Array"
   ]
 }
