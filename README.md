@@ -53,3 +53,4 @@
 | 22 | [Second Largest](https://www.geeksforgeeks.org/problems/second-largest3735/1) | GeeksForGeeks | Easy | 25 May 2026 | 11:35 am |
 | 23 | [Check if array is sorted](https://www.geeksforgeeks.org/problems/check-if-an-array-is-sorted0701/1) | GeeksForGeeks | Medium | 25 May 2026 | 11:36 am |
 | 24 | [Remove Duplicates Sorted Array](https://www.geeksforgeeks.org/problems/remove-duplicate-elements-from-sorted-array/1) | GeeksForGeeks | Medium | 25 May 2026 | 12:08 pm |
+| 25 | [Quick Left Rotation](https://www.geeksforgeeks.org/problems/quick-left-rotation3806/1) | GeeksForGeeks | Basic | 25 May 2026 | 12:20 pm |
