@@ -38,3 +38,4 @@
 | 15 | [Print GFG n times](https://www.geeksforgeeks.org/problems/print-gfg-n-times/1) | GeeksForGeeks | Easy | 25 May 2026 | 10:39 am |
 | 16 | [Print n to 1 without loop](https://www.geeksforgeeks.org/problems/print-n-to-1-without-loop/1) | GeeksForGeeks | Easy | 25 May 2026 | 10:40 am |
 | 17 | [Sum of Natural Number Cubes](https://www.geeksforgeeks.org/problems/sum-of-first-n-terms5843/1) | GeeksForGeeks | Basic | 25 May 2026 | 10:43 am |
+| 18 | [Factorials Less than or Equal to n](https://www.geeksforgeeks.org/problems/find-all-factorial-numbers-less-than-or-equal-to-n3548/1?problemType=functional&query=problemTypefunctionaldifficulty%5B%5D-1page1&page=1&difficulty%5B%5D=-1) | GeeksForGeeks | Easy | 25 May 2026 | 10:44 am |
