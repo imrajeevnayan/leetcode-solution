@@ -539,17 +539,18 @@
     "GeeksForGeeks_Binary_Search": true,
     "GeeksForGeeks_Union_of_2_Sorted_Arrays": true,
     "GeeksForGeeks_Palindrome_Sentence": true,
-    "GeeksForGeeks_Maximize_Number_of_1's": true
+    "GeeksForGeeks_Maximize_Number_of_1's": true,
+    "GeeksForGeeks_Unique_Number_I": true
   },
-  "totalSolved": 67,
+  "totalSolved": 68,
   "difficultyCounts": {
-    "easy": 17,
+    "easy": 18,
     "medium": 33,
     "hard": 1,
     "basic": 16
   },
   "currentStreak": 7,
-  "todayCount": 25,
+  "todayCount": 26,
   "lastSyncDate": "2026-05-25",
   "maxStreak": 7,
   "activityHistory": {
@@ -559,7 +560,7 @@
     "2026-05-22": 13,
     "2026-05-23": 1,
     "2026-05-24": 10,
-    "2026-05-25": 25
+    "2026-05-25": 26
   },
   "todayProblems": [
     "Most Frequent Character",
@@ -628,6 +629,7 @@
     "Binary Search",
     "Union of 2 Sorted Arrays",
     "Palindrome Sentence",
-    "Maximize Number of 1's"
+    "Maximize Number of 1's",
+    "Unique Number I"
   ]
 }
