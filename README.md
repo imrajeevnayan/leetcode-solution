@@ -12,6 +12,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0012-integer-to-roman](https://github.com/imrajeevnayan/leetcode-solution/tree/main/0012-integer-to-roman/) | Medium |
+| [0189-rotate-array](https://github.com/imrajeevnayan/leetcode-solution/tree/main/0189-rotate-array/) | Medium |
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -22,10 +23,12 @@
 | ------- | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/imrajeevnayan/leetcode-solution/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
 | [0151-reverse-words-in-a-string](https://github.com/imrajeevnayan/leetcode-solution/tree/main/0151-reverse-words-in-a-string/) | Medium |
+| [0189-rotate-array](https://github.com/imrajeevnayan/leetcode-solution/tree/main/0189-rotate-array/) | Medium |
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/imrajeevnayan/leetcode-solution/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
+| [0189-rotate-array](https://github.com/imrajeevnayan/leetcode-solution/tree/main/0189-rotate-array/) | Medium |
 <!---LeetCode Topics End-->
 | 2 | [Check Equal Arrays](https://www.geeksforgeeks.org/problems/check-if-two-arrays-are-equal-or-not3847/1) | GeeksForGeeks | Easy | 24 May 2026 | 08:26 pm |
 | 3 | [Rotate Array by One](https://www.geeksforgeeks.org/problems/cyclically-rotate-an-array-by-one2614/1) | GeeksForGeeks | Basic | 24 May 2026 | 08:31 pm |
