@@ -554,17 +554,18 @@
     "GeeksForGeeks_Median_of_2_Sorted_Arrays_of_Different_Sizes": true,
     "GeeksForGeeks_Median_of_an_Array": true,
     "GeeksForGeeks_Trapping_Rain_Water": true,
-    "GeeksForGeeks_Spirally_traversing_a_matrix": true
+    "GeeksForGeeks_Spirally_traversing_a_matrix": true,
+    "GeeksForGeeks_Reverse_array_in_groups": true
   },
-  "totalSolved": 82,
+  "totalSolved": 83,
   "difficultyCounts": {
     "easy": 24,
-    "medium": 40,
+    "medium": 41,
     "hard": 2,
     "basic": 16
   },
   "currentStreak": 8,
-  "todayCount": 9,
+  "todayCount": 10,
   "lastSyncDate": "2026-05-26",
   "maxStreak": 8,
   "activityHistory": {
@@ -575,7 +576,7 @@
     "2026-05-23": 1,
     "2026-05-24": 10,
     "2026-05-25": 31,
-    "2026-05-26": 9
+    "2026-05-26": 10
   },
   "todayProblems": [
     "Most Frequent Character",
@@ -659,6 +660,7 @@
     "Median of 2 Sorted Arrays of Different Sizes",
     "Median of an Array",
     "Trapping Rain Water",
-    "Spirally traversing a matrix"
+    "Spirally traversing a matrix",
+    "Reverse array in groups"
   ]
 }
