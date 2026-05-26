@@ -4,19 +4,19 @@ Automatically organized collection of LeetCode solutions.
 
 ## 📊 Statistics
 
-- **Total Problems Solved:** 134
-- **Current Streak:** 8 days
-- **Longest Streak:** 8 days
+- **Total Problems Solved:** 135
+- **Current Streak:** 9 days
+- **Longest Streak:** 9 days
 
 ### 🧩 Breakdown
 
 #### By Language
 - Javascript: 1
 - Sql: 27
-- Java: 106
+- Java: 107
 
 #### By Topic
-- Array: 66
+- Array: 67
 - Database: 27
 - Linked-list: 5
 - Two-pointers: 8
@@ -155,6 +155,7 @@ Automatically organized collection of LeetCode solutions.
 | 1470 | Tweet Counts Per Frequency | hash-table | medium | java | [Solution](solutions/java/hash-table/medium/1470_tweet-counts-per-frequency_hash-table_medium.java) |
 | 1480 | Movie Rating | database | medium | sql | [Solution](solutions/sql/database/medium/1480_movie-rating_database_medium.sql) |
 | 1482 | How Many Numbers Are Smaller Than The Current Number | array | easy | java | [Solution](solutions/java/array/easy/1482_how-many-numbers-are-smaller-than-the-current-number_array_easy.java) |
+| 1631 | Number Of Sub Arrays With Odd Sum | array | medium | java | [Solution](solutions/java/array/medium/1631_number-of-sub-arrays-with-odd-sum_array_medium.java) |
 | 1724 | Customer Who Visited But Did Not Make Any Transactions | database | easy | sql | [Solution](solutions/sql/database/easy/1724_customer-who-visited-but-did-not-make-any-transactions_database_easy.sql) |
 | 1811 | Fix Names In A Table | database | easy | sql | [Solution](solutions/sql/database/easy/1811_fix-names-in-a-table_database_easy.sql) |
 | 1877 | Find Followers Count | database | easy | sql | [Solution](solutions/sql/database/easy/1877_find-followers-count_database_easy.sql) |
@@ -165,23 +166,3 @@ Automatically organized collection of LeetCode solutions.
 | 2646 | Kth Largest Sum In A Binary Tree | tree | medium | java | [Solution](solutions/java/tree/medium/2646_kth-largest-sum-in-a-binary-tree_tree_medium.java) |
 | 3379 | Score Of A String | string | easy | java | [Solution](solutions/java/string/easy/3379_score-of-a-string_string_easy.java) |
 | 4068 | Sum Of Elements With Frequency Divisible By K | array | easy | java | [Solution](solutions/java/array/easy/4068_sum-of-elements-with-frequency-divisible-by-k_array_easy.java) |
-
-<!---LeetCode Topics Start-->
-# LeetCode Topics
-## Array
-| Problem Name | Difficulty |
-| ------- | ------- |
-| [1524-number-of-sub-arrays-with-odd-sum](https://github.com/imrajeevnayan/leetcode-solution/tree/main/1524-number-of-sub-arrays-with-odd-sum/) | Medium |
-## Math
-| Problem Name | Difficulty |
-| ------- | ------- |
-| [1524-number-of-sub-arrays-with-odd-sum](https://github.com/imrajeevnayan/leetcode-solution/tree/main/1524-number-of-sub-arrays-with-odd-sum/) | Medium |
-## Dynamic Programming
-| Problem Name | Difficulty |
-| ------- | ------- |
-| [1524-number-of-sub-arrays-with-odd-sum](https://github.com/imrajeevnayan/leetcode-solution/tree/main/1524-number-of-sub-arrays-with-odd-sum/) | Medium |
-## Prefix Sum
-| Problem Name | Difficulty |
-| ------- | ------- |
-| [1524-number-of-sub-arrays-with-odd-sum](https://github.com/imrajeevnayan/leetcode-solution/tree/main/1524-number-of-sub-arrays-with-odd-sum/) | Medium |
-<!---LeetCode Topics End-->
