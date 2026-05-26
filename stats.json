@@ -556,17 +556,18 @@
     "GeeksForGeeks_Trapping_Rain_Water": true,
     "GeeksForGeeks_Spirally_traversing_a_matrix": true,
     "GeeksForGeeks_Reverse_array_in_groups": true,
-    "GeeksForGeeks_Sum_All_Array_Elements": true
+    "GeeksForGeeks_Sum_All_Array_Elements": true,
+    "GeeksForGeeks_Smallest_subarray_with_sum_greater_than_x": true
   },
-  "totalSolved": 84,
+  "totalSolved": 85,
   "difficultyCounts": {
-    "easy": 24,
+    "easy": 25,
     "medium": 42,
     "hard": 2,
     "basic": 16
   },
   "currentStreak": 8,
-  "todayCount": 11,
+  "todayCount": 12,
   "lastSyncDate": "2026-05-26",
   "maxStreak": 8,
   "activityHistory": {
@@ -577,7 +578,7 @@
     "2026-05-23": 1,
     "2026-05-24": 10,
     "2026-05-25": 31,
-    "2026-05-26": 11
+    "2026-05-26": 12
   },
   "todayProblems": [
     "Most Frequent Character",
@@ -663,6 +664,7 @@
     "Trapping Rain Water",
     "Spirally traversing a matrix",
     "Reverse array in groups",
-    "Sum All Array Elements"
+    "Sum All Array Elements",
+    "Smallest subarray with sum greater than x"
   ]
 }
