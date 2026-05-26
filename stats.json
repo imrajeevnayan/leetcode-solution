@@ -548,17 +548,18 @@
     "GeeksForGeeks_Panagram_Checking": true,
     "GeeksForGeeks_Single_Number": true,
     "GeeksForGeeks_Count_Set_Bits": true,
-    "GeeksForGeeks_Array_Leaders": true
+    "GeeksForGeeks_Array_Leaders": true,
+    "GeeksForGeeks_1-D_prefix_sum": true
   },
-  "totalSolved": 76,
+  "totalSolved": 77,
   "difficultyCounts": {
     "easy": 23,
-    "medium": 36,
+    "medium": 37,
     "hard": 1,
     "basic": 16
   },
   "currentStreak": 8,
-  "todayCount": 3,
+  "todayCount": 4,
   "lastSyncDate": "2026-05-26",
   "maxStreak": 8,
   "activityHistory": {
@@ -569,7 +570,7 @@
     "2026-05-23": 1,
     "2026-05-24": 10,
     "2026-05-25": 31,
-    "2026-05-26": 3
+    "2026-05-26": 4
   },
   "todayProblems": [
     "Most Frequent Character",
@@ -647,6 +648,7 @@
     "Panagram Checking",
     "Single Number",
     "Count Set Bits",
-    "Array Leaders"
+    "Array Leaders",
+    "1-D prefix sum"
   ]
 }
