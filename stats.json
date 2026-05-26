@@ -550,17 +550,18 @@
     "GeeksForGeeks_Count_Set_Bits": true,
     "GeeksForGeeks_Array_Leaders": true,
     "GeeksForGeeks_1-D_prefix_sum": true,
-    "GeeksForGeeks_BFS_of_graph": true
+    "GeeksForGeeks_BFS_of_graph": true,
+    "GeeksForGeeks_Median_of_2_Sorted_Arrays_of_Different_Sizes": true
   },
-  "totalSolved": 78,
+  "totalSolved": 79,
   "difficultyCounts": {
     "easy": 24,
     "medium": 37,
-    "hard": 1,
+    "hard": 2,
     "basic": 16
   },
   "currentStreak": 8,
-  "todayCount": 5,
+  "todayCount": 6,
   "lastSyncDate": "2026-05-26",
   "maxStreak": 8,
   "activityHistory": {
@@ -571,7 +572,7 @@
     "2026-05-23": 1,
     "2026-05-24": 10,
     "2026-05-25": 31,
-    "2026-05-26": 5
+    "2026-05-26": 6
   },
   "todayProblems": [
     "Most Frequent Character",
@@ -651,6 +652,7 @@
     "Count Set Bits",
     "Array Leaders",
     "1-D prefix sum",
-    "BFS of graph"
+    "BFS of graph",
+    "Median of 2 Sorted Arrays of Different Sizes"
   ]
 }
