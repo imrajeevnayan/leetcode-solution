@@ -6,3 +6,4 @@
 | 4 | [Trapping Rain Water](https://www.geeksforgeeks.org/problems/trapping-rain-water-1587115621/1) | GeeksForGeeks | Medium | 26 May 2026 | 05:55 pm |
 | 5 | [Spirally traversing a matrix](https://www.geeksforgeeks.org/problems/spirally-traversing-a-matrix-1587115621/1) | GeeksForGeeks | Medium | 26 May 2026 | 05:57 pm |
 | 6 | [Reverse array in groups](https://www.geeksforgeeks.org/problems/reverse-array-in-groups0255/1?page=1&category=Arrays&status=unsolved&sortBy=submissions) | GeeksForGeeks | Medium | 26 May 2026 | 06:13 pm |
+| 7 | [Sum All Array Elements](https://www.geeksforgeeks.org/problems/sum-all-array-elements/1) | GeeksForGeeks | Medium | 26 May 2026 | 06:16 pm |
