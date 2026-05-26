@@ -557,17 +557,18 @@
     "GeeksForGeeks_Spirally_traversing_a_matrix": true,
     "GeeksForGeeks_Reverse_array_in_groups": true,
     "GeeksForGeeks_Sum_All_Array_Elements": true,
-    "GeeksForGeeks_Smallest_subarray_with_sum_greater_than_x": true
+    "GeeksForGeeks_Smallest_subarray_with_sum_greater_than_x": true,
+    "GeeksForGeeks_Pascal_Triangle": true
   },
-  "totalSolved": 85,
+  "totalSolved": 86,
   "difficultyCounts": {
     "easy": 25,
-    "medium": 42,
+    "medium": 43,
     "hard": 2,
     "basic": 16
   },
   "currentStreak": 8,
-  "todayCount": 12,
+  "todayCount": 13,
   "lastSyncDate": "2026-05-26",
   "maxStreak": 8,
   "activityHistory": {
@@ -578,7 +579,7 @@
     "2026-05-23": 1,
     "2026-05-24": 10,
     "2026-05-25": 31,
-    "2026-05-26": 12
+    "2026-05-26": 13
   },
   "todayProblems": [
     "Most Frequent Character",
@@ -665,6 +666,7 @@
     "Spirally traversing a matrix",
     "Reverse array in groups",
     "Sum All Array Elements",
-    "Smallest subarray with sum greater than x"
+    "Smallest subarray with sum greater than x",
+    "Pascal Triangle"
   ]
 }
