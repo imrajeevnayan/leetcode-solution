@@ -7,10 +7,16 @@
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0303-range-sum-query-immutable](https://github.com/imrajeevnayan/leetcode-solution/tree/main/0303-range-sum-query-immutable/) | Easy |
 | [0724-find-pivot-index](https://github.com/imrajeevnayan/leetcode-solution/tree/main/0724-find-pivot-index/) | Easy |
 ## Prefix Sum
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0303-range-sum-query-immutable](https://github.com/imrajeevnayan/leetcode-solution/tree/main/0303-range-sum-query-immutable/) | Easy |
 | [0724-find-pivot-index](https://github.com/imrajeevnayan/leetcode-solution/tree/main/0724-find-pivot-index/) | Easy |
+## Design
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0303-range-sum-query-immutable](https://github.com/imrajeevnayan/leetcode-solution/tree/main/0303-range-sum-query-immutable/) | Easy |
 <!---LeetCode Topics End-->
 | 2 | [1-D prefix sum](https://www.geeksforgeeks.org/problems/1-d-prefix-sum/1) | GeeksForGeeks | Medium | 26 May 2026 | 03:43 pm |
