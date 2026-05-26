@@ -552,17 +552,18 @@
     "GeeksForGeeks_1-D_prefix_sum": true,
     "GeeksForGeeks_BFS_of_graph": true,
     "GeeksForGeeks_Median_of_2_Sorted_Arrays_of_Different_Sizes": true,
-    "GeeksForGeeks_Median_of_an_Array": true
+    "GeeksForGeeks_Median_of_an_Array": true,
+    "GeeksForGeeks_Trapping_Rain_Water": true
   },
-  "totalSolved": 80,
+  "totalSolved": 81,
   "difficultyCounts": {
     "easy": 24,
-    "medium": 38,
+    "medium": 39,
     "hard": 2,
     "basic": 16
   },
   "currentStreak": 8,
-  "todayCount": 7,
+  "todayCount": 8,
   "lastSyncDate": "2026-05-26",
   "maxStreak": 8,
   "activityHistory": {
@@ -573,7 +574,7 @@
     "2026-05-23": 1,
     "2026-05-24": 10,
     "2026-05-25": 31,
-    "2026-05-26": 7
+    "2026-05-26": 8
   },
   "todayProblems": [
     "Most Frequent Character",
@@ -655,6 +656,7 @@
     "1-D prefix sum",
     "BFS of graph",
     "Median of 2 Sorted Arrays of Different Sizes",
-    "Median of an Array"
+    "Median of an Array",
+    "Trapping Rain Water"
   ]
 }
