@@ -177,8 +177,10 @@ Automatically organized collection of LeetCode solutions.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0072-edit-distance](https://github.com/imrajeevnayan/leetcode-solution/tree/main/0072-edit-distance/) | Medium |
+| [1143-longest-common-subsequence](https://github.com/imrajeevnayan/leetcode-solution/tree/main/1143-longest-common-subsequence/) | Medium |
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0072-edit-distance](https://github.com/imrajeevnayan/leetcode-solution/tree/main/0072-edit-distance/) | Medium |
+| [1143-longest-common-subsequence](https://github.com/imrajeevnayan/leetcode-solution/tree/main/1143-longest-common-subsequence/) | Medium |
 <!---LeetCode Topics End-->
