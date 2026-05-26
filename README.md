@@ -4,7 +4,7 @@ Automatically organized collection of LeetCode solutions.
 
 ## 📊 Statistics
 
-- **Total Problems Solved:** 143
+- **Total Problems Solved:** 144
 - **Current Streak:** 9 days
 - **Longest Streak:** 9 days
 
@@ -13,10 +13,10 @@ Automatically organized collection of LeetCode solutions.
 #### By Language
 - Javascript: 2
 - Sql: 27
-- Java: 114
+- Java: 115
 
 #### By Topic
-- Array: 72
+- Array: 73
 - General: 1
 - Database: 27
 - Linked-list: 5
@@ -35,6 +35,7 @@ Automatically organized collection of LeetCode solutions.
 | 1 | Two Sum | array | easy | java | [Solution](solutions/java/array/easy/1_two-sum_array_easy.java) |
 | 2 | Add Two Numbers | linked-list | medium | java | [Solution](solutions/java/linked-list/medium/2_add-two-numbers_linked-list_medium.java) |
 | 3 | Longest Substring Without Repeating Characters | hash-table | medium | java | [Solution](solutions/java/hash-table/medium/3_longest-substring-without-repeating-characters_hash-table_medium.java) |
+| 4 | Median Of Two Sorted Arrays | array | hard | java | [Solution](solutions/java/array/hard/4_median-of-two-sorted-arrays_array_hard.java) |
 | 5 | Longest Palindromic Substring | two-pointers | medium | java | [Solution](solutions/java/two-pointers/medium/5_longest-palindromic-substring_two-pointers_medium.java) |
 | 6 | Zigzag Conversion | string | medium | java | [Solution](solutions/java/string/medium/6_zigzag-conversion_string_medium.java) |
 | 7 | Reverse Integer | math | medium | java | [Solution](solutions/java/math/medium/7_reverse-integer_math_medium.java) |
@@ -175,19 +176,3 @@ Automatically organized collection of LeetCode solutions.
 | 2809 | Create Hello World Function | general | easy | javascript | [Solution](solutions/javascript/general/easy/2809_create-hello-world-function_general_easy.js) |
 | 3379 | Score Of A String | string | easy | java | [Solution](solutions/java/string/easy/3379_score-of-a-string_string_easy.java) |
 | 4068 | Sum Of Elements With Frequency Divisible By K | array | easy | java | [Solution](solutions/java/array/easy/4068_sum-of-elements-with-frequency-divisible-by-k_array_easy.java) |
-
-<!---LeetCode Topics Start-->
-# LeetCode Topics
-## Array
-| Problem Name | Difficulty |
-| ------- | ------- |
-| [0004-median-of-two-sorted-arrays](https://github.com/imrajeevnayan/leetcode-solution/tree/main/0004-median-of-two-sorted-arrays/) | Hard |
-## Binary Search
-| Problem Name | Difficulty |
-| ------- | ------- |
-| [0004-median-of-two-sorted-arrays](https://github.com/imrajeevnayan/leetcode-solution/tree/main/0004-median-of-two-sorted-arrays/) | Hard |
-## Divide and Conquer
-| Problem Name | Difficulty |
-| ------- | ------- |
-| [0004-median-of-two-sorted-arrays](https://github.com/imrajeevnayan/leetcode-solution/tree/main/0004-median-of-two-sorted-arrays/) | Hard |
-<!---LeetCode Topics End-->
