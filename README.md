@@ -181,6 +181,23 @@ Automatically organized collection of LeetCode solutions.
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0042-trapping-rain-water](https://github.com/imrajeevnayan/leetcode-solution/tree/main/0042-trapping-rain-water/) | Hard |
 | [0072-edit-distance](https://github.com/imrajeevnayan/leetcode-solution/tree/main/0072-edit-distance/) | Medium |
 | [1143-longest-common-subsequence](https://github.com/imrajeevnayan/leetcode-solution/tree/main/1143-longest-common-subsequence/) | Medium |
+## Array
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0042-trapping-rain-water](https://github.com/imrajeevnayan/leetcode-solution/tree/main/0042-trapping-rain-water/) | Hard |
+## Two Pointers
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0042-trapping-rain-water](https://github.com/imrajeevnayan/leetcode-solution/tree/main/0042-trapping-rain-water/) | Hard |
+## Stack
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0042-trapping-rain-water](https://github.com/imrajeevnayan/leetcode-solution/tree/main/0042-trapping-rain-water/) | Hard |
+## Monotonic Stack
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0042-trapping-rain-water](https://github.com/imrajeevnayan/leetcode-solution/tree/main/0042-trapping-rain-water/) | Hard |
 <!---LeetCode Topics End-->
