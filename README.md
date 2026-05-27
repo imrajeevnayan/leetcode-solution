@@ -184,10 +184,12 @@ Automatically organized collection of LeetCode solutions.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0042-trapping-rain-water](https://github.com/imrajeevnayan/leetcode-solution/tree/main/0042-trapping-rain-water/) | Hard |
+| [0977-squares-of-a-sorted-array](https://github.com/imrajeevnayan/leetcode-solution/tree/main/0977-squares-of-a-sorted-array/) | Easy |
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0042-trapping-rain-water](https://github.com/imrajeevnayan/leetcode-solution/tree/main/0042-trapping-rain-water/) | Hard |
+| [0977-squares-of-a-sorted-array](https://github.com/imrajeevnayan/leetcode-solution/tree/main/0977-squares-of-a-sorted-array/) | Easy |
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -200,4 +202,8 @@ Automatically organized collection of LeetCode solutions.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0042-trapping-rain-water](https://github.com/imrajeevnayan/leetcode-solution/tree/main/0042-trapping-rain-water/) | Hard |
+## Sorting
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0977-squares-of-a-sorted-array](https://github.com/imrajeevnayan/leetcode-solution/tree/main/0977-squares-of-a-sorted-array/) | Easy |
 <!---LeetCode Topics End-->
