@@ -1,13 +1,26 @@
-class Solution {
+public class Solution {
     public int[] sortedSquares(int[] nums) {
-        int ans[]=new int[nums.length];
-        int j=0;
-        for(int i=0;i<nums.length;i++){
-            ans[j++]=nums[i]*nums[i];
+        int n = nums.length;
+        int[] result = new int[n];
+        
+        int i = 0;
+        int j = n - 1;   
+        int index = n - 1; 
+        
+        while (i <= j) {
+            int leftSquare = nums[i] * nums[i];
+            int rightSquare = nums[j] * nums[j];
+            
+            if (leftSquare > rightSquare) {
+                result[index] = leftSquare;
+                i++;
+            } else {
+                result[index] = rightSquare;
+                j--;
+            }
+            index--;
         }
-        Arrays.sort(ans);
-        return ans;
-        // time complixity 0(n log n) due to sorting
+        
+        return result;
     }
-
 }
