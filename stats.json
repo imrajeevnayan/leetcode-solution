@@ -565,17 +565,18 @@
     "GeeksForGeeks_Reverse_a_String": true,
     "GeeksForGeeks_Anagram": true,
     "GeeksForGeeks_Reverse_Words": true,
-    "GeeksForGeeks_Non_Repeating_Character": true
+    "GeeksForGeeks_Non_Repeating_Character": true,
+    "GeeksForGeeks_Longest_Common_Substring": true
   },
-  "totalSolved": 93,
+  "totalSolved": 94,
   "difficultyCounts": {
     "easy": 27,
-    "medium": 47,
+    "medium": 48,
     "hard": 2,
     "basic": 17
   },
   "currentStreak": 9,
-  "todayCount": 7,
+  "todayCount": 8,
   "lastSyncDate": "2026-05-27",
   "maxStreak": 9,
   "activityHistory": {
@@ -587,7 +588,7 @@
     "2026-05-24": 10,
     "2026-05-25": 31,
     "2026-05-26": 13,
-    "2026-05-27": 7
+    "2026-05-27": 8
   },
   "todayProblems": [
     "Most Frequent Character",
@@ -682,6 +683,7 @@
     "Reverse a String",
     "Anagram",
     "Reverse Words",
-    "Non Repeating Character"
+    "Non Repeating Character",
+    "Longest Common Substring"
   ]
 }
