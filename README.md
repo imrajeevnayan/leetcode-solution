@@ -20,3 +20,4 @@
 | ------- | ------- |
 | [2810-faulty-keyboard](https://github.com/imrajeevnayan/leetcode-solution/tree/main/2810-faulty-keyboard/) | Easy |
 <!---LeetCode Topics End-->
+| 9 | [Container With Most Water](https://leetcode.com/problems/container-with-most-water/) | LeetCode | Medium | 27 May 2026 | 05:18 pm |
