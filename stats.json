@@ -567,17 +567,18 @@
     "GeeksForGeeks_Reverse_Words": true,
     "GeeksForGeeks_Non_Repeating_Character": true,
     "GeeksForGeeks_Longest_Common_Substring": true,
-    "LeetCode_Container_With_Most_Water": true
+    "LeetCode_Container_With_Most_Water": true,
+    "LeetCode_Find_All_Duplicates_in_an_Array": true
   },
-  "totalSolved": 95,
+  "totalSolved": 96,
   "difficultyCounts": {
     "easy": 27,
-    "medium": 49,
+    "medium": 50,
     "hard": 2,
     "basic": 17
   },
   "currentStreak": 9,
-  "todayCount": 9,
+  "todayCount": 10,
   "lastSyncDate": "2026-05-27",
   "maxStreak": 9,
   "activityHistory": {
@@ -589,7 +590,7 @@
     "2026-05-24": 10,
     "2026-05-25": 31,
     "2026-05-26": 13,
-    "2026-05-27": 9
+    "2026-05-27": 10
   },
   "todayProblems": [
     "Most Frequent Character",
@@ -686,6 +687,7 @@
     "Reverse Words",
     "Non Repeating Character",
     "Longest Common Substring",
-    "Container With Most Water"
+    "Container With Most Water",
+    "Find All Duplicates in an Array"
   ]
 }
