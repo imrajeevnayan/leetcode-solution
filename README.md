@@ -5,3 +5,4 @@
 | 3 | [Parenthesis Checker](https://www.geeksforgeeks.org/problems/parenthesis-checker2744/1?page=1&category=Strings&sortBy=submissions) | GeeksForGeeks | Easy | 27 May 2026 | 12:32 pm |
 | 4 | [Reverse a String](https://www.geeksforgeeks.org/problems/reverse-a-string/1?page=1&category=Strings&sortBy=submissions) | GeeksForGeeks | Basic | 27 May 2026 | 12:36 pm |
 | 5 | [Anagram](https://www.geeksforgeeks.org/problems/anagram-1587115620/1?page=1&category=Strings&sortBy=submissions) | GeeksForGeeks | Easy | 27 May 2026 | 12:38 pm |
+| 6 | [Reverse Words](https://www.geeksforgeeks.org/problems/reverse-words-in-a-given-string5459/1?page=1&category=Strings&sortBy=submissions) | GeeksForGeeks | Medium | 27 May 2026 | 02:44 pm |
