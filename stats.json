@@ -561,17 +561,18 @@
     "GeeksForGeeks_Pascal_Triangle": true,
     "GeeksForGeeks_Run_Length_Encoding": true,
     "GeeksForGeeks_Frog_Jump": true,
-    "GeeksForGeeks_Parenthesis_Checker": true
+    "GeeksForGeeks_Parenthesis_Checker": true,
+    "GeeksForGeeks_Reverse_a_String": true
   },
-  "totalSolved": 89,
+  "totalSolved": 90,
   "difficultyCounts": {
     "easy": 26,
     "medium": 45,
     "hard": 2,
-    "basic": 16
+    "basic": 17
   },
   "currentStreak": 9,
-  "todayCount": 3,
+  "todayCount": 4,
   "lastSyncDate": "2026-05-27",
   "maxStreak": 9,
   "activityHistory": {
@@ -583,7 +584,7 @@
     "2026-05-24": 10,
     "2026-05-25": 31,
     "2026-05-26": 13,
-    "2026-05-27": 3
+    "2026-05-27": 4
   },
   "todayProblems": [
     "Most Frequent Character",
@@ -674,6 +675,7 @@
     "Pascal Triangle",
     "Run Length Encoding",
     "Frog Jump",
-    "Parenthesis Checker"
+    "Parenthesis Checker",
+    "Reverse a String"
   ]
 }
