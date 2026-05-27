@@ -559,17 +559,18 @@
     "GeeksForGeeks_Sum_All_Array_Elements": true,
     "GeeksForGeeks_Smallest_subarray_with_sum_greater_than_x": true,
     "GeeksForGeeks_Pascal_Triangle": true,
-    "GeeksForGeeks_Run_Length_Encoding": true
+    "GeeksForGeeks_Run_Length_Encoding": true,
+    "GeeksForGeeks_Frog_Jump": true
   },
-  "totalSolved": 87,
+  "totalSolved": 88,
   "difficultyCounts": {
     "easy": 25,
-    "medium": 44,
+    "medium": 45,
     "hard": 2,
     "basic": 16
   },
   "currentStreak": 9,
-  "todayCount": 1,
+  "todayCount": 2,
   "lastSyncDate": "2026-05-27",
   "maxStreak": 9,
   "activityHistory": {
@@ -581,7 +582,7 @@
     "2026-05-24": 10,
     "2026-05-25": 31,
     "2026-05-26": 13,
-    "2026-05-27": 1
+    "2026-05-27": 2
   },
   "todayProblems": [
     "Most Frequent Character",
@@ -670,6 +671,7 @@
     "Sum All Array Elements",
     "Smallest subarray with sum greater than x",
     "Pascal Triangle",
-    "Run Length Encoding"
+    "Run Length Encoding",
+    "Frog Jump"
   ]
 }
