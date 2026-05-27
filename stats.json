@@ -562,17 +562,18 @@
     "GeeksForGeeks_Run_Length_Encoding": true,
     "GeeksForGeeks_Frog_Jump": true,
     "GeeksForGeeks_Parenthesis_Checker": true,
-    "GeeksForGeeks_Reverse_a_String": true
+    "GeeksForGeeks_Reverse_a_String": true,
+    "GeeksForGeeks_Anagram": true
   },
-  "totalSolved": 90,
+  "totalSolved": 91,
   "difficultyCounts": {
-    "easy": 26,
+    "easy": 27,
     "medium": 45,
     "hard": 2,
     "basic": 17
   },
   "currentStreak": 9,
-  "todayCount": 4,
+  "todayCount": 5,
   "lastSyncDate": "2026-05-27",
   "maxStreak": 9,
   "activityHistory": {
@@ -584,7 +585,7 @@
     "2026-05-24": 10,
     "2026-05-25": 31,
     "2026-05-26": 13,
-    "2026-05-27": 4
+    "2026-05-27": 5
   },
   "todayProblems": [
     "Most Frequent Character",
@@ -676,6 +677,7 @@
     "Run Length Encoding",
     "Frog Jump",
     "Parenthesis Checker",
-    "Reverse a String"
+    "Reverse a String",
+    "Anagram"
   ]
 }
