@@ -571,17 +571,18 @@
     "LeetCode_Find_All_Duplicates_in_an_Array": true,
     "GeeksForGeeks_First_Occurrence_in_Sorted": true,
     "LeetCode_Binary_Search": true,
-    "GeeksForGeeks_First_and_Last_in_Sorted": true
+    "GeeksForGeeks_First_and_Last_in_Sorted": true,
+    "GeeksForGeeks_First_1_in_a_Sorted_Binary_Array": true
   },
-  "totalSolved": 99,
+  "totalSolved": 100,
   "difficultyCounts": {
     "easy": 29,
     "medium": 51,
     "hard": 2,
-    "basic": 17
+    "basic": 18
   },
   "currentStreak": 10,
-  "todayCount": 3,
+  "todayCount": 4,
   "lastSyncDate": "2026-05-28",
   "maxStreak": 10,
   "activityHistory": {
@@ -594,7 +595,7 @@
     "2026-05-25": 31,
     "2026-05-26": 13,
     "2026-05-27": 10,
-    "2026-05-28": 3
+    "2026-05-28": 4
   },
   "todayProblems": [
     "Most Frequent Character",
@@ -694,6 +695,7 @@
     "Container With Most Water",
     "Find All Duplicates in an Array",
     "First Occurrence in Sorted",
-    "First and Last in Sorted"
+    "First and Last in Sorted",
+    "First 1 in a Sorted Binary Array"
   ]
 }
