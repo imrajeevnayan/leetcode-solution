@@ -575,17 +575,18 @@
     "GeeksForGeeks_First_1_in_a_Sorted_Binary_Array": true,
     "GeeksForGeeks_Two_Arrays_with_Same_Elements": true,
     "GeeksForGeeks_Bitonic_Point": true,
-    "GeeksForGeeks_Implement_Lower_Bound": true
+    "GeeksForGeeks_Implement_Lower_Bound": true,
+    "GeeksForGeeks_Missing_Number_in_Sorted_Array_of_Natural_Numbers": true
   },
-  "totalSolved": 103,
+  "totalSolved": 104,
   "difficultyCounts": {
-    "easy": 31,
+    "easy": 32,
     "medium": 51,
     "hard": 2,
     "basic": 19
   },
   "currentStreak": 10,
-  "todayCount": 7,
+  "todayCount": 8,
   "lastSyncDate": "2026-05-28",
   "maxStreak": 10,
   "activityHistory": {
@@ -598,7 +599,7 @@
     "2026-05-25": 31,
     "2026-05-26": 13,
     "2026-05-27": 10,
-    "2026-05-28": 7
+    "2026-05-28": 8
   },
   "todayProblems": [
     "Most Frequent Character",
@@ -702,6 +703,7 @@
     "First 1 in a Sorted Binary Array",
     "Two Arrays with Same Elements",
     "Bitonic Point",
-    "Implement Lower Bound"
+    "Implement Lower Bound",
+    "Missing Number in Sorted Array of Natural Numbers"
   ]
 }

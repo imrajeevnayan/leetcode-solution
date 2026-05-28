@@ -4,3 +4,4 @@
 | 2 | [Two Arrays with Same Elements](https://www.geeksforgeeks.org/problems/the-problem-of-identical-arrays3229/1?page=1&category=Binary%20Search&sortBy=difficulty) | GeeksForGeeks | Basic | 28 May 2026 | 05:17 pm |
 | 3 | [Bitonic Point](https://www.geeksforgeeks.org/problems/maximum-value-in-a-bitonic-array3001/1?page=1&category=Binary%20Search&sortBy=difficulty) | GeeksForGeeks | Easy | 28 May 2026 | 05:23 pm |
 | 4 | [Implement Lower Bound](https://www.geeksforgeeks.org/problems/implement-lower-bound/1?page=1&category=Binary%20Search&sortBy=difficulty) | GeeksForGeeks | Easy | 28 May 2026 | 05:25 pm |
+| 5 | [Missing Number in Sorted Array of Natural Numbers](https://www.geeksforgeeks.org/problems/missing-number-in-sorted-array-of-natural-numbers/1?page=1&category=Binary%20Search&sortBy=difficulty) | GeeksForGeeks | Easy | 28 May 2026 | 05:27 pm |
