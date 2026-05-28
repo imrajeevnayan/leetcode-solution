@@ -572,17 +572,18 @@
     "GeeksForGeeks_First_Occurrence_in_Sorted": true,
     "LeetCode_Binary_Search": true,
     "GeeksForGeeks_First_and_Last_in_Sorted": true,
-    "GeeksForGeeks_First_1_in_a_Sorted_Binary_Array": true
+    "GeeksForGeeks_First_1_in_a_Sorted_Binary_Array": true,
+    "GeeksForGeeks_Two_Arrays_with_Same_Elements": true
   },
-  "totalSolved": 100,
+  "totalSolved": 101,
   "difficultyCounts": {
     "easy": 29,
     "medium": 51,
     "hard": 2,
-    "basic": 18
+    "basic": 19
   },
   "currentStreak": 10,
-  "todayCount": 4,
+  "todayCount": 5,
   "lastSyncDate": "2026-05-28",
   "maxStreak": 10,
   "activityHistory": {
@@ -595,7 +596,7 @@
     "2026-05-25": 31,
     "2026-05-26": 13,
     "2026-05-27": 10,
-    "2026-05-28": 4
+    "2026-05-28": 5
   },
   "todayProblems": [
     "Most Frequent Character",
@@ -696,6 +697,7 @@
     "Find All Duplicates in an Array",
     "First Occurrence in Sorted",
     "First and Last in Sorted",
-    "First 1 in a Sorted Binary Array"
+    "First 1 in a Sorted Binary Array",
+    "Two Arrays with Same Elements"
   ]
 }
