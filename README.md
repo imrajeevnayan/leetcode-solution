@@ -18,3 +18,4 @@
 | ------- | ------- |
 | [0035-search-insert-position](https://github.com/imrajeevnayan/leetcode-solution/tree/main/0035-search-insert-position/) | Easy |
 <!---LeetCode Topics End-->
+| 7 | [Sqrt(x)](https://leetcode.com/problems/sqrtx/) | LeetCode | Easy | 29 May 2026 | 11:54 am |
