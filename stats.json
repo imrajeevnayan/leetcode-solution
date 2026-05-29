@@ -582,17 +582,18 @@
     "LeetCode_Peak_Index_in_a_Mountain_Array": true,
     "GeeksForGeeks_Peak_element": true,
     "LeetCode_Find_Minimum_in_Rotated_Sorted_Array": true,
-    "GeeksForGeeks_Smallest_Missing_Number": true
+    "GeeksForGeeks_Smallest_Missing_Number": true,
+    "GeeksForGeeks_Kth_Missing_Positive_Number_in_a_Sorted_Array": true
   },
-  "totalSolved": 110,
+  "totalSolved": 111,
   "difficultyCounts": {
     "easy": 35,
-    "medium": 54,
+    "medium": 55,
     "hard": 2,
     "basic": 19
   },
   "currentStreak": 12,
-  "todayCount": 1,
+  "todayCount": 2,
   "lastSyncDate": "2026-05-30",
   "maxStreak": 12,
   "activityHistory": {
@@ -607,7 +608,7 @@
     "2026-05-27": 10,
     "2026-05-28": 9,
     "2026-05-29": 4,
-    "2026-05-30": 1
+    "2026-05-30": 2
   },
   "todayProblems": [
     "Most Frequent Character",
@@ -718,6 +719,7 @@
     "Peak Index in a Mountain Array",
     "Peak element",
     "Find Minimum in Rotated Sorted Array",
-    "Smallest Missing Number"
+    "Smallest Missing Number",
+    "Kth Missing Positive Number in a Sorted Array"
   ]
 }
