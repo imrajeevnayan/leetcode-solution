@@ -587,17 +587,18 @@
     "LeetCode_House_Robber": true,
     "GeeksForGeeks_Stickler_Thief": true,
     "GeeksForGeeks_Reverse_Array_Using_Stack": true,
-    "GeeksForGeeks_Remove_Two_Consecutive_Same": true
+    "GeeksForGeeks_Remove_Two_Consecutive_Same": true,
+    "GeeksForGeeks_Insertion_in_deque": true
   },
-  "totalSolved": 115,
+  "totalSolved": 116,
   "difficultyCounts": {
     "easy": 36,
     "medium": 57,
     "hard": 2,
-    "basic": 20
+    "basic": 21
   },
   "currentStreak": 12,
-  "todayCount": 6,
+  "todayCount": 7,
   "lastSyncDate": "2026-05-30",
   "maxStreak": 12,
   "activityHistory": {
@@ -612,7 +613,7 @@
     "2026-05-27": 10,
     "2026-05-28": 9,
     "2026-05-29": 4,
-    "2026-05-30": 6
+    "2026-05-30": 7
   },
   "todayProblems": [
     "Most Frequent Character",
@@ -728,6 +729,7 @@
     "House Robber",
     "Stickler Thief",
     "Reverse Array Using Stack",
-    "Remove Two Consecutive Same"
+    "Remove Two Consecutive Same",
+    "Insertion in deque"
   ]
 }
