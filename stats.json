@@ -579,17 +579,18 @@
     "GeeksForGeeks_Missing_Number_in_Sorted_Array_of_Natural_Numbers": true,
     "GeeksForGeeks_Implement_Upper_Bound": true,
     "LeetCode_Sqrt(x)": true,
-    "LeetCode_Peak_Index_in_a_Mountain_Array": true
+    "LeetCode_Peak_Index_in_a_Mountain_Array": true,
+    "GeeksForGeeks_Peak_element": true
   },
-  "totalSolved": 107,
+  "totalSolved": 108,
   "difficultyCounts": {
     "easy": 34,
-    "medium": 52,
+    "medium": 53,
     "hard": 2,
     "basic": 19
   },
   "currentStreak": 11,
-  "todayCount": 2,
+  "todayCount": 3,
   "lastSyncDate": "2026-05-29",
   "maxStreak": 11,
   "activityHistory": {
@@ -603,7 +604,7 @@
     "2026-05-26": 13,
     "2026-05-27": 10,
     "2026-05-28": 9,
-    "2026-05-29": 2
+    "2026-05-29": 3
   },
   "todayProblems": [
     "Most Frequent Character",
@@ -711,6 +712,7 @@
     "Missing Number in Sorted Array of Natural Numbers",
     "Implement Upper Bound",
     "Sqrt(x)",
-    "Peak Index in a Mountain Array"
+    "Peak Index in a Mountain Array",
+    "Peak element"
   ]
 }
