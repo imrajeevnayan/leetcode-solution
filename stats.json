@@ -586,17 +586,18 @@
     "GeeksForGeeks_Kth_Missing_Positive_Number_in_a_Sorted_Array": true,
     "LeetCode_House_Robber": true,
     "GeeksForGeeks_Stickler_Thief": true,
-    "GeeksForGeeks_Reverse_Array_Using_Stack": true
+    "GeeksForGeeks_Reverse_Array_Using_Stack": true,
+    "GeeksForGeeks_Remove_Two_Consecutive_Same": true
   },
-  "totalSolved": 114,
+  "totalSolved": 115,
   "difficultyCounts": {
-    "easy": 35,
+    "easy": 36,
     "medium": 57,
     "hard": 2,
     "basic": 20
   },
   "currentStreak": 12,
-  "todayCount": 5,
+  "todayCount": 6,
   "lastSyncDate": "2026-05-30",
   "maxStreak": 12,
   "activityHistory": {
@@ -611,7 +612,7 @@
     "2026-05-27": 10,
     "2026-05-28": 9,
     "2026-05-29": 4,
-    "2026-05-30": 5
+    "2026-05-30": 6
   },
   "todayProblems": [
     "Most Frequent Character",
@@ -726,6 +727,7 @@
     "Kth Missing Positive Number in a Sorted Array",
     "House Robber",
     "Stickler Thief",
-    "Reverse Array Using Stack"
+    "Reverse Array Using Stack",
+    "Remove Two Consecutive Same"
   ]
 }
