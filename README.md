@@ -191,8 +191,10 @@ Automatically organized collection of LeetCode solutions.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/imrajeevnayan/leetcode-solution/tree/main/0033-search-in-rotated-sorted-array/) | Medium |
+| [1539-kth-missing-positive-number](https://github.com/imrajeevnayan/leetcode-solution/tree/main/1539-kth-missing-positive-number/) | Easy |
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/imrajeevnayan/leetcode-solution/tree/main/0033-search-in-rotated-sorted-array/) | Medium |
+| [1539-kth-missing-positive-number](https://github.com/imrajeevnayan/leetcode-solution/tree/main/1539-kth-missing-positive-number/) | Easy |
 <!---LeetCode Topics End-->
