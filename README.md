@@ -10,9 +10,14 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0198-house-robber](https://github.com/imrajeevnayan/leetcode-solution/tree/main/0198-house-robber/) | Medium |
+| [0448-find-all-numbers-disappeared-in-an-array](https://github.com/imrajeevnayan/leetcode-solution/tree/main/0448-find-all-numbers-disappeared-in-an-array/) | Easy |
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0198-house-robber](https://github.com/imrajeevnayan/leetcode-solution/tree/main/0198-house-robber/) | Medium |
+## Hash Table
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0448-find-all-numbers-disappeared-in-an-array](https://github.com/imrajeevnayan/leetcode-solution/tree/main/0448-find-all-numbers-disappeared-in-an-array/) | Easy |
 <!---LeetCode Topics End-->
 | 4 | [Stickler Thief](https://www.geeksforgeeks.org/problems/stickler-theif-1587115621/1) | GeeksForGeeks | Medium | 30 May 2026 | 01:41 am |
