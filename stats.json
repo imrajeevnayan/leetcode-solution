@@ -583,17 +583,18 @@
     "GeeksForGeeks_Peak_element": true,
     "LeetCode_Find_Minimum_in_Rotated_Sorted_Array": true,
     "GeeksForGeeks_Smallest_Missing_Number": true,
-    "GeeksForGeeks_Kth_Missing_Positive_Number_in_a_Sorted_Array": true
+    "GeeksForGeeks_Kth_Missing_Positive_Number_in_a_Sorted_Array": true,
+    "LeetCode_House_Robber": true
   },
-  "totalSolved": 111,
+  "totalSolved": 112,
   "difficultyCounts": {
     "easy": 35,
-    "medium": 55,
+    "medium": 56,
     "hard": 2,
     "basic": 19
   },
   "currentStreak": 12,
-  "todayCount": 2,
+  "todayCount": 3,
   "lastSyncDate": "2026-05-30",
   "maxStreak": 12,
   "activityHistory": {
@@ -608,7 +609,7 @@
     "2026-05-27": 10,
     "2026-05-28": 9,
     "2026-05-29": 4,
-    "2026-05-30": 2
+    "2026-05-30": 3
   },
   "todayProblems": [
     "Most Frequent Character",
@@ -720,6 +721,7 @@
     "Peak element",
     "Find Minimum in Rotated Sorted Array",
     "Smallest Missing Number",
-    "Kth Missing Positive Number in a Sorted Array"
+    "Kth Missing Positive Number in a Sorted Array",
+    "House Robber"
   ]
 }
