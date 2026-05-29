@@ -17,5 +17,10 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0035-search-insert-position](https://github.com/imrajeevnayan/leetcode-solution/tree/main/0035-search-insert-position/) | Easy |
+| [0069-sqrtx](https://github.com/imrajeevnayan/leetcode-solution/tree/main/0069-sqrtx/) | Easy |
+## Math
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0069-sqrtx](https://github.com/imrajeevnayan/leetcode-solution/tree/main/0069-sqrtx/) | Easy |
 <!---LeetCode Topics End-->
 | 7 | [Sqrt(x)](https://leetcode.com/problems/sqrtx/) | LeetCode | Easy | 29 May 2026 | 11:54 am |
