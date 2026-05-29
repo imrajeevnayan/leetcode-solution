@@ -15,3 +15,4 @@
 | ------- | ------- |
 | [0198-house-robber](https://github.com/imrajeevnayan/leetcode-solution/tree/main/0198-house-robber/) | Medium |
 <!---LeetCode Topics End-->
+| 4 | [Stickler Thief](https://www.geeksforgeeks.org/problems/stickler-theif-1587115621/1) | GeeksForGeeks | Medium | 30 May 2026 | 01:41 am |
