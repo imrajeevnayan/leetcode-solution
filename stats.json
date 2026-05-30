@@ -590,17 +590,18 @@
     "GeeksForGeeks_Remove_Two_Consecutive_Same": true,
     "GeeksForGeeks_Insertion_in_deque": true,
     "GeeksForGeeks_Floor_and_Ceil_in_Unsorted": true,
-    "GeeksForGeeks_Preorder_Traversal": true
+    "GeeksForGeeks_Preorder_Traversal": true,
+    "GeeksForGeeks_Count_Non-Leaf_Nodes_in_Tree": true
   },
-  "totalSolved": 118,
+  "totalSolved": 119,
   "difficultyCounts": {
     "easy": 37,
-    "medium": 57,
+    "medium": 58,
     "hard": 2,
     "basic": 22
   },
   "currentStreak": 12,
-  "todayCount": 9,
+  "todayCount": 10,
   "lastSyncDate": "2026-05-30",
   "maxStreak": 12,
   "activityHistory": {
@@ -615,7 +616,7 @@
     "2026-05-27": 10,
     "2026-05-28": 9,
     "2026-05-29": 4,
-    "2026-05-30": 9
+    "2026-05-30": 10
   },
   "todayProblems": [
     "Most Frequent Character",
@@ -734,6 +735,7 @@
     "Remove Two Consecutive Same",
     "Insertion in deque",
     "Floor and Ceil in Unsorted",
-    "Preorder Traversal"
+    "Preorder Traversal",
+    "Count Non-Leaf Nodes in Tree"
   ]
 }
