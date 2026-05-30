@@ -4,7 +4,7 @@ Automatically organized collection of LeetCode solutions.
 
 ## 📊 Statistics
 
-- **Total Problems Solved:** 157
+- **Total Problems Solved:** 158
 - **Current Streak:** 13 days
 - **Longest Streak:** 13 days
 
@@ -13,7 +13,7 @@ Automatically organized collection of LeetCode solutions.
 #### By Language
 - Sql: 27
 - Javascript: 2
-- Java: 128
+- Java: 129
 
 #### By Topic
 - Database: 27
@@ -21,7 +21,7 @@ Automatically organized collection of LeetCode solutions.
 - General: 1
 - Dynamic-programming: 1
 - Linked-list: 5
-- Math: 11
+- Math: 12
 - Two-pointers: 8
 - String: 9
 - Divide-and-conquer: 1
@@ -167,6 +167,7 @@ Automatically organized collection of LeetCode solutions.
 | 1319 | Unique Number Of Occurrences | array | easy | java | [Solution](solutions/java/array/easy/1319_unique-number-of-occurrences_array_easy.java) |
 | 1327 | Last Person To Fit In The Bus | database | medium | sql | [Solution](solutions/sql/database/medium/1327_last-person-to-fit-in-the-bus_database_medium.sql) |
 | 1392 | Find The Difference Of Two Arrays | array | easy | java | [Solution](solutions/java/array/easy/1392_find-the-difference-of-two-arrays_array_easy.java) |
+| 1440 | Convert Integer To The Sum Of Two No Zero Integers | math | easy | java | [Solution](solutions/java/math/easy/1440_convert-integer-to-the-sum-of-two-no-zero-integers_math_easy.java) |
 | 1452 | Restaurant Growth | database | medium | sql | [Solution](solutions/sql/database/medium/1452_restaurant-growth_database_medium.sql) |
 | 1470 | Tweet Counts Per Frequency | hash-table | medium | java | [Solution](solutions/java/hash-table/medium/1470_tweet-counts-per-frequency_hash-table_medium.java) |
 | 1480 | Movie Rating | database | medium | sql | [Solution](solutions/sql/database/medium/1480_movie-rating_database_medium.sql) |
@@ -189,11 +190,3 @@ Automatically organized collection of LeetCode solutions.
 | 2886 | Faulty Keyboard | string | easy | java | [Solution](solutions/java/string/easy/2886_faulty-keyboard_string_easy.java) |
 | 3379 | Score Of A String | string | easy | java | [Solution](solutions/java/string/easy/3379_score-of-a-string_string_easy.java) |
 | 4068 | Sum Of Elements With Frequency Divisible By K | array | easy | java | [Solution](solutions/java/array/easy/4068_sum-of-elements-with-frequency-divisible-by-k_array_easy.java) |
-
-<!---LeetCode Topics Start-->
-# LeetCode Topics
-## Math
-| Problem Name | Difficulty |
-| ------- | ------- |
-| [1317-convert-integer-to-the-sum-of-two-no-zero-integers](https://github.com/imrajeevnayan/leetcode-solution/tree/main/1317-convert-integer-to-the-sum-of-two-no-zero-integers/) | Easy |
-<!---LeetCode Topics End-->
