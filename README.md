@@ -4,7 +4,7 @@ Automatically organized collection of LeetCode solutions.
 
 ## 📊 Statistics
 
-- **Total Problems Solved:** 156
+- **Total Problems Solved:** 157
 - **Current Streak:** 13 days
 - **Longest Streak:** 13 days
 
@@ -13,11 +13,11 @@ Automatically organized collection of LeetCode solutions.
 #### By Language
 - Sql: 27
 - Javascript: 2
-- Java: 127
+- Java: 128
 
 #### By Topic
 - Database: 27
-- Array: 82
+- Array: 83
 - General: 1
 - Dynamic-programming: 1
 - Linked-list: 5
@@ -147,6 +147,7 @@ Automatically organized collection of LeetCode solutions.
 | 747 | Min Cost Climbing Stairs | array | easy | java | [Solution](solutions/java/array/easy/747_min-cost-climbing-stairs_array_easy.java) |
 | 778 | Reorganize String | hash-table | medium | java | [Solution](solutions/java/hash-table/medium/778_reorganize-string_hash-table_medium.java) |
 | 792 | Binary Search | array | easy | java | [Solution](solutions/java/array/easy/792_binary-search_array_easy.java) |
+| 816 | Design Hashset | array | easy | java | [Solution](solutions/java/array/easy/816_design-hashset_array_easy.java) |
 | 882 | Peak Index In A Mountain Array | array | medium | java | [Solution](solutions/java/array/medium/882_peak-index-in-a-mountain-array_array_medium.java) |
 | 917 | Boats To Save People | array | medium | java | [Solution](solutions/java/array/medium/917_boats-to-save-people_array_medium.java) |
 | 941 | Sort Array By Parity | array | easy | java | [Solution](solutions/java/array/easy/941_sort-array-by-parity_array_easy.java) |
@@ -188,31 +189,3 @@ Automatically organized collection of LeetCode solutions.
 | 2886 | Faulty Keyboard | string | easy | java | [Solution](solutions/java/string/easy/2886_faulty-keyboard_string_easy.java) |
 | 3379 | Score Of A String | string | easy | java | [Solution](solutions/java/string/easy/3379_score-of-a-string_string_easy.java) |
 | 4068 | Sum Of Elements With Frequency Divisible By K | array | easy | java | [Solution](solutions/java/array/easy/4068_sum-of-elements-with-frequency-divisible-by-k_array_easy.java) |
-
-<!---LeetCode Topics Start-->
-# LeetCode Topics
-## Math
-| Problem Name | Difficulty |
-| ------- | ------- |
-| [0507-perfect-number](https://github.com/imrajeevnayan/leetcode-solution/tree/main/0507-perfect-number/) | Easy |
-## Array
-| Problem Name | Difficulty |
-| ------- | ------- |
-| [0705-design-hashset](https://github.com/imrajeevnayan/leetcode-solution/tree/main/0705-design-hashset/) | Easy |
-## Hash Table
-| Problem Name | Difficulty |
-| ------- | ------- |
-| [0705-design-hashset](https://github.com/imrajeevnayan/leetcode-solution/tree/main/0705-design-hashset/) | Easy |
-## Linked List
-| Problem Name | Difficulty |
-| ------- | ------- |
-| [0705-design-hashset](https://github.com/imrajeevnayan/leetcode-solution/tree/main/0705-design-hashset/) | Easy |
-## Design
-| Problem Name | Difficulty |
-| ------- | ------- |
-| [0705-design-hashset](https://github.com/imrajeevnayan/leetcode-solution/tree/main/0705-design-hashset/) | Easy |
-## Hash Function
-| Problem Name | Difficulty |
-| ------- | ------- |
-| [0705-design-hashset](https://github.com/imrajeevnayan/leetcode-solution/tree/main/0705-design-hashset/) | Easy |
-<!---LeetCode Topics End-->
