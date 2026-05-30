@@ -4,7 +4,7 @@ Automatically organized collection of LeetCode solutions.
 
 ## 📊 Statistics
 
-- **Total Problems Solved:** 158
+- **Total Problems Solved:** 159
 - **Current Streak:** 13 days
 - **Longest Streak:** 13 days
 
@@ -13,7 +13,7 @@ Automatically organized collection of LeetCode solutions.
 #### By Language
 - Sql: 27
 - Javascript: 2
-- Java: 129
+- Java: 130
 
 #### By Topic
 - Database: 27
@@ -22,7 +22,7 @@ Automatically organized collection of LeetCode solutions.
 - Dynamic-programming: 1
 - Linked-list: 5
 - Math: 12
-- Two-pointers: 8
+- Two-pointers: 9
 - String: 9
 - Divide-and-conquer: 1
 - Hash-table: 9
@@ -128,6 +128,7 @@ Automatically organized collection of LeetCode solutions.
 | 496 | Next Greater Element I | array | easy | java | [Solution](solutions/java/array/easy/496_next-greater-element-i_array_easy.java) |
 | 503 | Next Greater Element Ii | array | medium | java | [Solution](solutions/java/array/medium/503_next-greater-element-ii_array_medium.java) |
 | 507 | Perfect Number | math | easy | java | [Solution](solutions/java/math/easy/507_perfect-number_math_easy.java) |
+| 557 | Reverse Words In A String Iii | two-pointers | easy | java | [Solution](solutions/java/two-pointers/easy/557_reverse-words-in-a-string-iii_two-pointers_easy.java) |
 | 560 | Subarray Sum Equals K | array | medium | java | [Solution](solutions/java/array/medium/560_subarray-sum-equals-k_array_medium.java) |
 | 561 | Array Partition | array | easy | java | [Solution](solutions/java/array/easy/561_array-partition_array_easy.java) |
 | 585 | Investments In 2016 | database | medium | sql | [Solution](solutions/sql/database/medium/585_investments-in-2016_database_medium.sql) |
@@ -190,15 +191,3 @@ Automatically organized collection of LeetCode solutions.
 | 2886 | Faulty Keyboard | string | easy | java | [Solution](solutions/java/string/easy/2886_faulty-keyboard_string_easy.java) |
 | 3379 | Score Of A String | string | easy | java | [Solution](solutions/java/string/easy/3379_score-of-a-string_string_easy.java) |
 | 4068 | Sum Of Elements With Frequency Divisible By K | array | easy | java | [Solution](solutions/java/array/easy/4068_sum-of-elements-with-frequency-divisible-by-k_array_easy.java) |
-
-<!---LeetCode Topics Start-->
-# LeetCode Topics
-## Two Pointers
-| Problem Name | Difficulty |
-| ------- | ------- |
-| [0557-reverse-words-in-a-string-iii](https://github.com/imrajeevnayan/leetcode-solution/tree/main/0557-reverse-words-in-a-string-iii/) | Easy |
-## String
-| Problem Name | Difficulty |
-| ------- | ------- |
-| [0557-reverse-words-in-a-string-iii](https://github.com/imrajeevnayan/leetcode-solution/tree/main/0557-reverse-words-in-a-string-iii/) | Easy |
-<!---LeetCode Topics End-->
