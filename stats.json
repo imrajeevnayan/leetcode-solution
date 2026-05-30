@@ -592,17 +592,18 @@
     "GeeksForGeeks_Floor_and_Ceil_in_Unsorted": true,
     "GeeksForGeeks_Preorder_Traversal": true,
     "GeeksForGeeks_Count_Non-Leaf_Nodes_in_Tree": true,
-    "GeeksForGeeks_Sum_of_Binary_Tree": true
+    "GeeksForGeeks_Sum_of_Binary_Tree": true,
+    "GeeksForGeeks_Count_Leaves_in_Binary_Tree": true
   },
-  "totalSolved": 120,
+  "totalSolved": 121,
   "difficultyCounts": {
     "easy": 37,
-    "medium": 58,
+    "medium": 59,
     "hard": 2,
     "basic": 23
   },
   "currentStreak": 13,
-  "todayCount": 1,
+  "todayCount": 2,
   "lastSyncDate": "2026-05-31",
   "maxStreak": 13,
   "activityHistory": {
@@ -618,7 +619,7 @@
     "2026-05-28": 9,
     "2026-05-29": 4,
     "2026-05-30": 10,
-    "2026-05-31": 1
+    "2026-05-31": 2
   },
   "todayProblems": [
     "Most Frequent Character",
@@ -739,6 +740,7 @@
     "Floor and Ceil in Unsorted",
     "Preorder Traversal",
     "Count Non-Leaf Nodes in Tree",
-    "Sum of Binary Tree"
+    "Sum of Binary Tree",
+    "Count Leaves in Binary Tree"
   ]
 }
