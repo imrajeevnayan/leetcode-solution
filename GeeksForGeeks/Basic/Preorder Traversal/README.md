@@ -1,0 +1,20 @@
+# Preorder Traversal
+
+## Difficulty: Basic
+
+## Platform: GeeksForGeeks
+
+## Problem Link
+[View Problem](https://www.geeksforgeeks.org/problems/preorder-traversal/1?page=1&category=Tree&sortBy=difficulty)
+
+## Solved On
+30 May 2026 at 10:24 pm
+
+<h2><a href="https://www.geeksforgeeks.org/problems/preorder-traversal/1?page=1&category=Tree&sortBy=difficulty">Preorder Traversal</a></h2><h3>Difficulty Level: Basic</h3><hr><p><span style="font-size: 18px;">Given the <strong>root </strong>of a binary tree, your task is to return its <strong>Preorder traversal</strong><strong>.</strong></span></p>
+<p><strong><span style="font-size: 18px;">Note:&nbsp;</span></strong><span style="font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif; font-size: 14pt;">A <strong>preorder traversal</strong> first visits the node, then visits the left child (including its entire subtree), and finally visits the right child (including its entire subtree).</span></p>
+<p><span style="font-size: 18px;"><strong>Examples:</strong></span></p>
+<pre><span style="font-size: 18px;"><strong>Input: </strong>root = [</span><span style="font-size: 14pt;">1, 4, N, 4, 2]<br></span><span style="font-size: 18px;"><strong>   <img src="https://media.geeksforgeeks.org/img-practice/prod/addEditProblem/912455/Web/Other/blobid0_1758798513.webp" width="214" height="241"></strong>
+<strong>Output: </strong>[1, 4, 4, 2]</span><span style="font-size: 22px;"><br></span><strong><span style="font-size: 14pt;">Explanation: </span></strong><span style="font-size: 14pt;">The preorder traversal of the given binary tree is [1, 4, 4, 2]</span></pre>
+<pre><span style="font-size: 18px;"><strong>Input: </strong>root = [6, 3, 2, N, 1, 2, N]<strong><br></strong>   <img src="https://media.geeksforgeeks.org/img-practice/prod/addEditProblem/912455/Web/Other/blobid1_1758797018.webp" width="229" height="221">&nbsp;
+<strong>Output: </strong>[6, 3, 1, 2, 2] <br><strong>Explanation:</strong> </span><span style="font-size: 14pt;">The preorder traversal of the given binary tree is [6, 3, 1, 2, 2] </span></pre>
+<p><span style="font-size: 18px;"><strong>Constraints:</strong><br>1 ≤ number of nodes ≤ 3*10<sup>4</sup><br>0 ≤ node-&gt;data ≤ 10<sup>5</sup></span></p>
