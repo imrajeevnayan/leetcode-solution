@@ -605,17 +605,18 @@
     "GeeksForGeeks_Intersection_Sorted_Linked_Lists": true,
     "GeeksForGeeks_Frequency_in_a_Linked_List": true,
     "GeeksForGeeks_Remove_duplicates_from_a_sorted_DLL": true,
-    "GeeksForGeeks_Delete_Head_of_Linked_List": true
+    "GeeksForGeeks_Delete_Head_of_Linked_List": true,
+    "GeeksForGeeks_Size_of_Doubly_Linked_List": true
   },
-  "totalSolved": 133,
+  "totalSolved": 134,
   "difficultyCounts": {
-    "easy": 45,
+    "easy": 46,
     "medium": 62,
     "hard": 2,
     "basic": 24
   },
   "currentStreak": 13,
-  "todayCount": 14,
+  "todayCount": 15,
   "lastSyncDate": "2026-05-31",
   "maxStreak": 13,
   "activityHistory": {
@@ -631,7 +632,7 @@
     "2026-05-28": 9,
     "2026-05-29": 4,
     "2026-05-30": 10,
-    "2026-05-31": 14
+    "2026-05-31": 15
   },
   "todayProblems": [
     "Most Frequent Character",
@@ -765,6 +766,7 @@
     "Intersection Sorted Linked Lists",
     "Frequency in a Linked List",
     "Remove duplicates from a sorted DLL",
-    "Delete Head of Linked List"
+    "Delete Head of Linked List",
+    "Size of Doubly Linked List"
   ]
 }
