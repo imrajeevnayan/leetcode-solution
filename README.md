@@ -5,3 +5,4 @@
 | 3 | [Size of Binary Tree](https://www.geeksforgeeks.org/problems/size-of-binary-tree/1?page=1&category=Tree&sortBy=difficulty) | GeeksForGeeks | Medium | 31 May 2026 | 12:29 am |
 | 4 | [Root to leaf path sum](https://www.geeksforgeeks.org/problems/root-to-leaf-path-sum/1?page=1&category=Tree&sortBy=difficulty) | GeeksForGeeks | Easy | 31 May 2026 | 12:34 am |
 | 5 | [Sum of Right Leaf Nodes](https://www.geeksforgeeks.org/problems/sum-of-right-leaf-nodes/1?page=1&category=Tree&sortBy=difficulty) | GeeksForGeeks | Easy | 31 May 2026 | 12:36 am |
+| 6 | [Power Using Recursion](https://www.geeksforgeeks.org/problems/power-using-recursion/1?page=1&category=Recursion&sortBy=difficulty) | GeeksForGeeks | Basic | 31 May 2026 | 12:47 am |
