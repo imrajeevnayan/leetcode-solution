@@ -8,3 +8,4 @@
 | 6 | [Power Using Recursion](https://www.geeksforgeeks.org/problems/power-using-recursion/1?page=1&category=Recursion&sortBy=difficulty) | GeeksForGeeks | Basic | 31 May 2026 | 12:47 am |
 | 7 | [Digital Root](https://www.geeksforgeeks.org/problems/digital-root/1?page=1&category=Recursion&sortBy=difficulty) | GeeksForGeeks | Easy | 31 May 2026 | 12:56 am |
 | 8 | [Count Digits in a Number](https://www.geeksforgeeks.org/problems/count-total-digits-in-a-number/1?page=1&category=Recursion&sortBy=difficulty) | GeeksForGeeks | Easy | 31 May 2026 | 12:58 am |
+| 9 | [Reverse a Stack](https://www.geeksforgeeks.org/problems/reverse-a-stack/1?page=3&category=Recursion&sortBy=difficulty) | GeeksForGeeks | Medium | 31 May 2026 | 12:59 am |
