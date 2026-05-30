@@ -13,3 +13,4 @@
 | 11 | [Intersection Sorted Linked Lists](https://www.geeksforgeeks.org/problems/intersection-of-two-sorted-linked-lists/1?page=1&category=Linked%20List&status=unsolved&sortBy=difficulty) | GeeksForGeeks | Easy | 31 May 2026 | 01:05 am |
 | 12 | [Frequency in a Linked List](https://www.geeksforgeeks.org/problems/occurence-of-an-integer-in-a-linked-list/1?page=1&category=Linked%20List&status=unsolved&sortBy=difficulty) | GeeksForGeeks | Easy | 31 May 2026 | 01:07 am |
 | 13 | [Remove duplicates from a sorted DLL](https://www.geeksforgeeks.org/problems/remove-duplicates-from-a-sorted-doubly-linked-list/1?page=2&category=Linked%20List&status=unsolved&sortBy=difficulty) | GeeksForGeeks | Easy | 31 May 2026 | 01:09 am |
+| 14 | [Delete Head of Linked List](https://www.geeksforgeeks.org/problems/delete-head-of-linked-list/1?page=2&category=Linked%20List&status=unsolved&sortBy=difficulty) | GeeksForGeeks | Easy | 31 May 2026 | 01:10 am |
