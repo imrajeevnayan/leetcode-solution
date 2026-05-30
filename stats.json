@@ -601,17 +601,18 @@
     "GeeksForGeeks_Digital_Root": true,
     "GeeksForGeeks_Count_Digits_in_a_Number": true,
     "GeeksForGeeks_Reverse_a_Stack": true,
-    "GeeksForGeeks_Length_of_Circular_Linked_List": true
+    "GeeksForGeeks_Length_of_Circular_Linked_List": true,
+    "GeeksForGeeks_Intersection_Sorted_Linked_Lists": true
   },
-  "totalSolved": 129,
+  "totalSolved": 130,
   "difficultyCounts": {
-    "easy": 41,
+    "easy": 42,
     "medium": 62,
     "hard": 2,
     "basic": 24
   },
   "currentStreak": 13,
-  "todayCount": 10,
+  "todayCount": 11,
   "lastSyncDate": "2026-05-31",
   "maxStreak": 13,
   "activityHistory": {
@@ -627,7 +628,7 @@
     "2026-05-28": 9,
     "2026-05-29": 4,
     "2026-05-30": 10,
-    "2026-05-31": 10
+    "2026-05-31": 11
   },
   "todayProblems": [
     "Most Frequent Character",
@@ -757,6 +758,7 @@
     "Digital Root",
     "Count Digits in a Number",
     "Reverse a Stack",
-    "Length of Circular Linked List"
+    "Length of Circular Linked List",
+    "Intersection Sorted Linked Lists"
   ]
 }
