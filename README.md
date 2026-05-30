@@ -15,3 +15,11 @@
 | 13 | [Remove duplicates from a sorted DLL](https://www.geeksforgeeks.org/problems/remove-duplicates-from-a-sorted-doubly-linked-list/1?page=2&category=Linked%20List&status=unsolved&sortBy=difficulty) | GeeksForGeeks | Easy | 31 May 2026 | 01:09 am |
 | 14 | [Delete Head of Linked List](https://www.geeksforgeeks.org/problems/delete-head-of-linked-list/1?page=2&category=Linked%20List&status=unsolved&sortBy=difficulty) | GeeksForGeeks | Easy | 31 May 2026 | 01:10 am |
 | 15 | [Size of Doubly Linked List](https://www.geeksforgeeks.org/problems/size-of-doubly-linked-list--114556/1?page=1&category=Linked%20List&status=unsolved&sortBy=difficulty) | GeeksForGeeks | Easy | 31 May 2026 | 01:15 am |
+
+<!---LeetCode Topics Start-->
+# LeetCode Topics
+## Math
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [2520-count-the-digits-that-divide-a-number](https://github.com/imrajeevnayan/leetcode-solution/tree/main/2520-count-the-digits-that-divide-a-number/) | Easy |
+<!---LeetCode Topics End-->
