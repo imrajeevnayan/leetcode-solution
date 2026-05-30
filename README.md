@@ -195,4 +195,24 @@ Automatically organized collection of LeetCode solutions.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0507-perfect-number](https://github.com/imrajeevnayan/leetcode-solution/tree/main/0507-perfect-number/) | Easy |
+## Array
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0705-design-hashset](https://github.com/imrajeevnayan/leetcode-solution/tree/main/0705-design-hashset/) | Easy |
+## Hash Table
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0705-design-hashset](https://github.com/imrajeevnayan/leetcode-solution/tree/main/0705-design-hashset/) | Easy |
+## Linked List
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0705-design-hashset](https://github.com/imrajeevnayan/leetcode-solution/tree/main/0705-design-hashset/) | Easy |
+## Design
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0705-design-hashset](https://github.com/imrajeevnayan/leetcode-solution/tree/main/0705-design-hashset/) | Easy |
+## Hash Function
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0705-design-hashset](https://github.com/imrajeevnayan/leetcode-solution/tree/main/0705-design-hashset/) | Easy |
 <!---LeetCode Topics End-->
