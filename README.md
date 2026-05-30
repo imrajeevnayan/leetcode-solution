@@ -11,3 +11,4 @@
 | 9 | [Reverse a Stack](https://www.geeksforgeeks.org/problems/reverse-a-stack/1?page=3&category=Recursion&sortBy=difficulty) | GeeksForGeeks | Medium | 31 May 2026 | 12:59 am |
 | 10 | [Length of Circular Linked List](https://www.geeksforgeeks.org/problems/length-of-circular-linked-list/1?page=1&category=Linked%20List&status=unsolved&sortBy=difficulty) | GeeksForGeeks | Medium | 31 May 2026 | 01:04 am |
 | 11 | [Intersection Sorted Linked Lists](https://www.geeksforgeeks.org/problems/intersection-of-two-sorted-linked-lists/1?page=1&category=Linked%20List&status=unsolved&sortBy=difficulty) | GeeksForGeeks | Easy | 31 May 2026 | 01:05 am |
+| 12 | [Frequency in a Linked List](https://www.geeksforgeeks.org/problems/occurence-of-an-integer-in-a-linked-list/1?page=1&category=Linked%20List&status=unsolved&sortBy=difficulty) | GeeksForGeeks | Easy | 31 May 2026 | 01:07 am |
