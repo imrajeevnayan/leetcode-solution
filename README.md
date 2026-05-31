@@ -4,20 +4,20 @@ Automatically organized collection of LeetCode solutions.
 
 ## 📊 Statistics
 
-- **Total Problems Solved:** 160
-- **Current Streak:** 13 days
-- **Longest Streak:** 13 days
+- **Total Problems Solved:** 161
+- **Current Streak:** 14 days
+- **Longest Streak:** 14 days
 
 ### 🧩 Breakdown
 
 #### By Language
 - Sql: 27
 - Javascript: 2
-- Java: 131
+- Java: 132
 
 #### By Topic
 - Database: 27
-- Array: 83
+- Array: 84
 - General: 1
 - Dynamic-programming: 1
 - Linked-list: 5
@@ -165,6 +165,7 @@ Automatically organized collection of LeetCode solutions.
 | 1250 | Longest Common Subsequence | string | medium | java | [Solution](solutions/java/string/medium/1250_longest-common-subsequence_string_medium.java) |
 | 1258 | Article Views I | database | easy | sql | [Solution](solutions/sql/database/easy/1258_article-views-i_database_easy.sql) |
 | 1278 | Product Price At A Given Date | database | medium | sql | [Solution](solutions/sql/database/medium/1278_product-price-at-a-given-date_database_medium.sql) |
+| 1284 | Four Divisors | array | medium | java | [Solution](solutions/java/array/medium/1284_four-divisors_array_medium.java) |
 | 1319 | Unique Number Of Occurrences | array | easy | java | [Solution](solutions/java/array/easy/1319_unique-number-of-occurrences_array_easy.java) |
 | 1327 | Last Person To Fit In The Bus | database | medium | sql | [Solution](solutions/sql/database/medium/1327_last-person-to-fit-in-the-bus_database_medium.sql) |
 | 1392 | Find The Difference Of Two Arrays | array | easy | java | [Solution](solutions/java/array/easy/1392_find-the-difference-of-two-arrays_array_easy.java) |
@@ -192,15 +193,3 @@ Automatically organized collection of LeetCode solutions.
 | 2886 | Faulty Keyboard | string | easy | java | [Solution](solutions/java/string/easy/2886_faulty-keyboard_string_easy.java) |
 | 3379 | Score Of A String | string | easy | java | [Solution](solutions/java/string/easy/3379_score-of-a-string_string_easy.java) |
 | 4068 | Sum Of Elements With Frequency Divisible By K | array | easy | java | [Solution](solutions/java/array/easy/4068_sum-of-elements-with-frequency-divisible-by-k_array_easy.java) |
-
-<!---LeetCode Topics Start-->
-# LeetCode Topics
-## Array
-| Problem Name | Difficulty |
-| ------- | ------- |
-| [1390-four-divisors](https://github.com/imrajeevnayan/leetcode-solution/tree/main/1390-four-divisors/) | Medium |
-## Math
-| Problem Name | Difficulty |
-| ------- | ------- |
-| [1390-four-divisors](https://github.com/imrajeevnayan/leetcode-solution/tree/main/1390-four-divisors/) | Medium |
-<!---LeetCode Topics End-->
