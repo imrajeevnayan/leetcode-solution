@@ -1,0 +1,25 @@
+class Solution {
+    public int sumFourDivisors(int[] nums) {
+        int totalSum =0;
+        for(int n:nums){
+            List<Integer>div=new ArrayList<>();
+             for(int i=1;i*i <=n;i++) {
+                if(n % i==0){
+                     div.add(i);
+                if(i !=n/i){
+                    div.add(n/i);
+                }
+             }
+           }
+            if(div.size()==4){
+            int sum=0;
+            for(int n1:div){
+                sum+=n1;
+            }
+            totalSum +=sum;
+           }
+        }     
+        return totalSum;
+        
+    }
+}
