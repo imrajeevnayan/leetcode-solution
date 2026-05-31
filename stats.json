@@ -608,17 +608,18 @@
     "GeeksForGeeks_Delete_Head_of_Linked_List": true,
     "GeeksForGeeks_Size_of_Doubly_Linked_List": true,
     "GeeksForGeeks_Number_of_Connected_Components": true,
-    "GeeksForGeeks_Maximum_Weight_Node": true
+    "GeeksForGeeks_Maximum_Weight_Node": true,
+    "GeeksForGeeks_DFS_of_Graph": true
   },
-  "totalSolved": 136,
+  "totalSolved": 137,
   "difficultyCounts": {
-    "easy": 47,
+    "easy": 48,
     "medium": 63,
     "hard": 2,
     "basic": 24
   },
   "currentStreak": 13,
-  "todayCount": 17,
+  "todayCount": 18,
   "lastSyncDate": "2026-05-31",
   "maxStreak": 13,
   "activityHistory": {
@@ -634,7 +635,7 @@
     "2026-05-28": 9,
     "2026-05-29": 4,
     "2026-05-30": 10,
-    "2026-05-31": 17
+    "2026-05-31": 18
   },
   "todayProblems": [
     "Most Frequent Character",
@@ -771,6 +772,7 @@
     "Delete Head of Linked List",
     "Size of Doubly Linked List",
     "Number of Connected Components",
-    "Maximum Weight Node"
+    "Maximum Weight Node",
+    "DFS of Graph"
   ]
 }
