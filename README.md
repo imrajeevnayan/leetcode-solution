@@ -4,8 +4,8 @@ Automatically organized collection of LeetCode solutions.
 
 ## 📊 Statistics
 
-- **Total Problems Solved:** 162
-- **Current Streak:** 14 days
+- **Total Problems Solved:** 163
+- **Current Streak:** 1 days
 - **Longest Streak:** 14 days
 
 ### 🧩 Breakdown
@@ -13,7 +13,7 @@ Automatically organized collection of LeetCode solutions.
 #### By Language
 - Sql: 27
 - Javascript: 2
-- Java: 133
+- Java: 134
 
 #### By Topic
 - Database: 27
@@ -23,7 +23,7 @@ Automatically organized collection of LeetCode solutions.
 - Linked-list: 5
 - Math: 13
 - Two-pointers: 9
-- String: 9
+- String: 10
 - Divide-and-conquer: 1
 - Hash-table: 9
 - Tree: 2
@@ -160,6 +160,7 @@ Automatically organized collection of LeetCode solutions.
 | 1019 | Squares Of A Sorted Array | array | easy | java | [Solution](solutions/java/array/easy/1019_squares-of-a-sorted-array_array_easy.java) |
 | 1046 | Max Consecutive Ones Iii | array | medium | java | [Solution](solutions/java/array/medium/1046_max-consecutive-ones-iii_array_medium.java) |
 | 1127 | Last Stone Weight | array | easy | java | [Solution](solutions/java/array/easy/1127_last-stone-weight_array_easy.java) |
+| 1128 | Remove All Adjacent Duplicates In String | string | easy | java | [Solution](solutions/java/string/easy/1128_remove-all-adjacent-duplicates-in-string_string_easy.java) |
 | 1146 | Greatest Common Divisor Of Strings | math | easy | java | [Solution](solutions/java/math/easy/1146_greatest-common-divisor-of-strings_math_easy.java) |
 | 1155 | Product Sales Analysis Iii | database | medium | sql | [Solution](solutions/sql/database/medium/1155_product-sales-analysis-iii_database_medium.sql) |
 | 1182 | Game Play Analysis Iv | database | medium | sql | [Solution](solutions/sql/database/medium/1182_game-play-analysis-iv_database_medium.sql) |
@@ -194,41 +195,3 @@ Automatically organized collection of LeetCode solutions.
 | 2886 | Faulty Keyboard | string | easy | java | [Solution](solutions/java/string/easy/2886_faulty-keyboard_string_easy.java) |
 | 3379 | Score Of A String | string | easy | java | [Solution](solutions/java/string/easy/3379_score-of-a-string_string_easy.java) |
 | 4068 | Sum Of Elements With Frequency Divisible By K | array | easy | java | [Solution](solutions/java/array/easy/4068_sum-of-elements-with-frequency-divisible-by-k_array_easy.java) |
-
-<!---LeetCode Topics Start-->
-# LeetCode Topics
-## Hash Table
-| Problem Name | Difficulty |
-| ------- | ------- |
-| [0003-longest-substring-without-repeating-characters](https://github.com/imrajeevnayan/leetcode-solution/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
-## String
-| Problem Name | Difficulty |
-| ------- | ------- |
-| [0003-longest-substring-without-repeating-characters](https://github.com/imrajeevnayan/leetcode-solution/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
-| [1047-remove-all-adjacent-duplicates-in-string](https://github.com/imrajeevnayan/leetcode-solution/tree/main/1047-remove-all-adjacent-duplicates-in-string/) | Easy |
-## Sliding Window
-| Problem Name | Difficulty |
-| ------- | ------- |
-| [0003-longest-substring-without-repeating-characters](https://github.com/imrajeevnayan/leetcode-solution/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
-## Array
-| Problem Name | Difficulty |
-| ------- | ------- |
-| [0042-trapping-rain-water](https://github.com/imrajeevnayan/leetcode-solution/tree/main/0042-trapping-rain-water/) | Hard |
-## Two Pointers
-| Problem Name | Difficulty |
-| ------- | ------- |
-| [0042-trapping-rain-water](https://github.com/imrajeevnayan/leetcode-solution/tree/main/0042-trapping-rain-water/) | Hard |
-## Dynamic Programming
-| Problem Name | Difficulty |
-| ------- | ------- |
-| [0042-trapping-rain-water](https://github.com/imrajeevnayan/leetcode-solution/tree/main/0042-trapping-rain-water/) | Hard |
-## Stack
-| Problem Name | Difficulty |
-| ------- | ------- |
-| [0042-trapping-rain-water](https://github.com/imrajeevnayan/leetcode-solution/tree/main/0042-trapping-rain-water/) | Hard |
-| [1047-remove-all-adjacent-duplicates-in-string](https://github.com/imrajeevnayan/leetcode-solution/tree/main/1047-remove-all-adjacent-duplicates-in-string/) | Easy |
-## Monotonic Stack
-| Problem Name | Difficulty |
-| ------- | ------- |
-| [0042-trapping-rain-water](https://github.com/imrajeevnayan/leetcode-solution/tree/main/0042-trapping-rain-water/) | Hard |
-<!---LeetCode Topics End-->
