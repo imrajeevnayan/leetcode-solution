@@ -615,17 +615,18 @@
     "GeeksForGeeks_Remove_Consecutive_Two_Same": true,
     "GeeksForGeeks_Implement_stack_using_array": true,
     "GeeksForGeeks_Stock_span_problem": true,
-    "GeeksForGeeks_Make_the_array_beautiful": true
+    "GeeksForGeeks_Make_the_array_beautiful": true,
+    "GeeksForGeeks_Remove_K_Digits": true
   },
-  "totalSolved": 143,
+  "totalSolved": 144,
   "difficultyCounts": {
     "easy": 51,
-    "medium": 66,
+    "medium": 67,
     "hard": 2,
     "basic": 24
   },
   "currentStreak": 1,
-  "todayCount": 6,
+  "todayCount": 7,
   "lastSyncDate": "2026-06-02",
   "maxStreak": 13,
   "activityHistory": {
@@ -642,7 +643,7 @@
     "2026-05-29": 4,
     "2026-05-30": 10,
     "2026-05-31": 18,
-    "2026-06-02": 6
+    "2026-06-02": 7
   },
   "todayProblems": [
     "Most Frequent Character",
@@ -786,6 +787,7 @@
     "Remove Consecutive Two Same",
     "Implement stack using array",
     "Stock span problem",
-    "Make the array beautiful"
+    "Make the array beautiful",
+    "Remove K Digits"
   ]
 }
