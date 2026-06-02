@@ -613,17 +613,18 @@
     "GeeksForGeeks_Remove_all_occurrences_of_a_character_in_a_string": true,
     "GeeksForGeeks_String_Duplicates_Removal": true,
     "GeeksForGeeks_Remove_Consecutive_Two_Same": true,
-    "GeeksForGeeks_Implement_stack_using_array": true
+    "GeeksForGeeks_Implement_stack_using_array": true,
+    "GeeksForGeeks_Stock_span_problem": true
   },
-  "totalSolved": 141,
+  "totalSolved": 142,
   "difficultyCounts": {
     "easy": 50,
-    "medium": 65,
+    "medium": 66,
     "hard": 2,
     "basic": 24
   },
   "currentStreak": 1,
-  "todayCount": 4,
+  "todayCount": 5,
   "lastSyncDate": "2026-06-02",
   "maxStreak": 13,
   "activityHistory": {
@@ -640,7 +641,7 @@
     "2026-05-29": 4,
     "2026-05-30": 10,
     "2026-05-31": 18,
-    "2026-06-02": 4
+    "2026-06-02": 5
   },
   "todayProblems": [
     "Most Frequent Character",
@@ -782,6 +783,7 @@
     "Remove all occurrences of a character in a string",
     "String Duplicates Removal",
     "Remove Consecutive Two Same",
-    "Implement stack using array"
+    "Implement stack using array",
+    "Stock span problem"
   ]
 }
