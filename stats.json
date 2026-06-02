@@ -611,17 +611,18 @@
     "GeeksForGeeks_Maximum_Weight_Node": true,
     "GeeksForGeeks_DFS_of_Graph": true,
     "GeeksForGeeks_Remove_all_occurrences_of_a_character_in_a_string": true,
-    "GeeksForGeeks_String_Duplicates_Removal": true
+    "GeeksForGeeks_String_Duplicates_Removal": true,
+    "GeeksForGeeks_Remove_Consecutive_Two_Same": true
   },
-  "totalSolved": 139,
+  "totalSolved": 140,
   "difficultyCounts": {
     "easy": 50,
-    "medium": 63,
+    "medium": 64,
     "hard": 2,
     "basic": 24
   },
   "currentStreak": 1,
-  "todayCount": 2,
+  "todayCount": 3,
   "lastSyncDate": "2026-06-02",
   "maxStreak": 13,
   "activityHistory": {
@@ -638,7 +639,7 @@
     "2026-05-29": 4,
     "2026-05-30": 10,
     "2026-05-31": 18,
-    "2026-06-02": 2
+    "2026-06-02": 3
   },
   "todayProblems": [
     "Most Frequent Character",
@@ -778,6 +779,7 @@
     "Maximum Weight Node",
     "DFS of Graph",
     "Remove all occurrences of a character in a string",
-    "String Duplicates Removal"
+    "String Duplicates Removal",
+    "Remove Consecutive Two Same"
   ]
 }
