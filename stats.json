@@ -617,17 +617,18 @@
     "GeeksForGeeks_Stock_span_problem": true,
     "GeeksForGeeks_Make_the_array_beautiful": true,
     "GeeksForGeeks_Remove_K_Digits": true,
-    "GeeksForGeeks_Reverse_each_word_in_a_given_string": true
+    "GeeksForGeeks_Reverse_each_word_in_a_given_string": true,
+    "GeeksForGeeks_Insert_an_Element_at_the_Bottom_of_a_Stack": true
   },
-  "totalSolved": 145,
+  "totalSolved": 146,
   "difficultyCounts": {
-    "easy": 51,
+    "easy": 52,
     "medium": 68,
     "hard": 2,
     "basic": 24
   },
   "currentStreak": 2,
-  "todayCount": 1,
+  "todayCount": 2,
   "lastSyncDate": "2026-06-03",
   "maxStreak": 13,
   "activityHistory": {
@@ -645,7 +646,7 @@
     "2026-05-30": 10,
     "2026-05-31": 18,
     "2026-06-02": 7,
-    "2026-06-03": 1
+    "2026-06-03": 2
   },
   "todayProblems": [
     "Most Frequent Character",
@@ -791,6 +792,7 @@
     "Stock span problem",
     "Make the array beautiful",
     "Remove K Digits",
-    "Reverse each word in a given string"
+    "Reverse each word in a given string",
+    "Insert an Element at the Bottom of a Stack"
   ]
 }
