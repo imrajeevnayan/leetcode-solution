@@ -610,17 +610,18 @@
     "GeeksForGeeks_Number_of_Connected_Components": true,
     "GeeksForGeeks_Maximum_Weight_Node": true,
     "GeeksForGeeks_DFS_of_Graph": true,
-    "GeeksForGeeks_Remove_all_occurrences_of_a_character_in_a_string": true
+    "GeeksForGeeks_Remove_all_occurrences_of_a_character_in_a_string": true,
+    "GeeksForGeeks_String_Duplicates_Removal": true
   },
-  "totalSolved": 138,
+  "totalSolved": 139,
   "difficultyCounts": {
-    "easy": 49,
+    "easy": 50,
     "medium": 63,
     "hard": 2,
     "basic": 24
   },
   "currentStreak": 1,
-  "todayCount": 1,
+  "todayCount": 2,
   "lastSyncDate": "2026-06-02",
   "maxStreak": 13,
   "activityHistory": {
@@ -637,7 +638,7 @@
     "2026-05-29": 4,
     "2026-05-30": 10,
     "2026-05-31": 18,
-    "2026-06-02": 1
+    "2026-06-02": 2
   },
   "todayProblems": [
     "Most Frequent Character",
@@ -776,6 +777,7 @@
     "Number of Connected Components",
     "Maximum Weight Node",
     "DFS of Graph",
-    "Remove all occurrences of a character in a string"
+    "Remove all occurrences of a character in a string",
+    "String Duplicates Removal"
   ]
 }
