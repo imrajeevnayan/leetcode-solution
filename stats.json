@@ -609,18 +609,19 @@
     "GeeksForGeeks_Size_of_Doubly_Linked_List": true,
     "GeeksForGeeks_Number_of_Connected_Components": true,
     "GeeksForGeeks_Maximum_Weight_Node": true,
-    "GeeksForGeeks_DFS_of_Graph": true
+    "GeeksForGeeks_DFS_of_Graph": true,
+    "GeeksForGeeks_Remove_all_occurrences_of_a_character_in_a_string": true
   },
-  "totalSolved": 137,
+  "totalSolved": 138,
   "difficultyCounts": {
-    "easy": 48,
+    "easy": 49,
     "medium": 63,
     "hard": 2,
     "basic": 24
   },
-  "currentStreak": 13,
-  "todayCount": 18,
-  "lastSyncDate": "2026-05-31",
+  "currentStreak": 1,
+  "todayCount": 1,
+  "lastSyncDate": "2026-06-02",
   "maxStreak": 13,
   "activityHistory": {
     "2026-05-19": 2,
@@ -635,7 +636,8 @@
     "2026-05-28": 9,
     "2026-05-29": 4,
     "2026-05-30": 10,
-    "2026-05-31": 18
+    "2026-05-31": 18,
+    "2026-06-02": 1
   },
   "todayProblems": [
     "Most Frequent Character",
@@ -773,6 +775,7 @@
     "Size of Doubly Linked List",
     "Number of Connected Components",
     "Maximum Weight Node",
-    "DFS of Graph"
+    "DFS of Graph",
+    "Remove all occurrences of a character in a string"
   ]
 }
