@@ -203,4 +203,12 @@ Automatically organized collection of LeetCode solutions.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0058-length-of-last-word](https://github.com/imrajeevnayan/leetcode-solution/tree/main/0058-length-of-last-word/) | Easy |
+## Array
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0119-pascals-triangle-ii](https://github.com/imrajeevnayan/leetcode-solution/tree/main/0119-pascals-triangle-ii/) | Easy |
+## Dynamic Programming
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0119-pascals-triangle-ii](https://github.com/imrajeevnayan/leetcode-solution/tree/main/0119-pascals-triangle-ii/) | Easy |
 <!---LeetCode Topics End-->
