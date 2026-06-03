@@ -204,6 +204,7 @@ Automatically organized collection of LeetCode solutions.
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/imrajeevnayan/leetcode-solution/tree/main/0122-best-time-to-buy-and-sell-stock-ii/) | Medium |
 | [0136-single-number](https://github.com/imrajeevnayan/leetcode-solution/tree/main/0136-single-number/) | Easy |
 | [0268-missing-number](https://github.com/imrajeevnayan/leetcode-solution/tree/main/0268-missing-number/) | Easy |
 ## Bit Manipulation
@@ -227,4 +228,12 @@ Automatically organized collection of LeetCode solutions.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0268-missing-number](https://github.com/imrajeevnayan/leetcode-solution/tree/main/0268-missing-number/) | Easy |
+## Dynamic Programming
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/imrajeevnayan/leetcode-solution/tree/main/0122-best-time-to-buy-and-sell-stock-ii/) | Medium |
+## Greedy
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/imrajeevnayan/leetcode-solution/tree/main/0122-best-time-to-buy-and-sell-stock-ii/) | Medium |
 <!---LeetCode Topics End-->
