@@ -621,17 +621,18 @@
     "GeeksForGeeks_Insert_an_Element_at_the_Bottom_of_a_Stack": true,
     "GeeksForGeeks_Subarray_Frequency_Count_Queries": true,
     "GeeksForGeeks_Next_Greater_Element_in_Circular_Array": true,
-    "GeeksForGeeks_Middle_of_Stack": true
+    "GeeksForGeeks_Middle_of_Stack": true,
+    "GeeksForGeeks_Prime_Number": true
   },
-  "totalSolved": 149,
+  "totalSolved": 150,
   "difficultyCounts": {
     "easy": 53,
-    "medium": 70,
+    "medium": 71,
     "hard": 2,
     "basic": 24
   },
   "currentStreak": 2,
-  "todayCount": 5,
+  "todayCount": 6,
   "lastSyncDate": "2026-06-03",
   "maxStreak": 13,
   "activityHistory": {
@@ -649,7 +650,7 @@
     "2026-05-30": 10,
     "2026-05-31": 18,
     "2026-06-02": 7,
-    "2026-06-03": 5
+    "2026-06-03": 6
   },
   "todayProblems": [
     "Most Frequent Character",
@@ -799,6 +800,7 @@
     "Insert an Element at the Bottom of a Stack",
     "Subarray Frequency Count Queries",
     "Next Greater Element in Circular Array",
-    "Middle of Stack"
+    "Middle of Stack",
+    "Prime Number"
   ]
 }
