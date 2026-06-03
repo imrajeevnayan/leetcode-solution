@@ -4,7 +4,7 @@ Automatically organized collection of LeetCode solutions.
 
 ## 📊 Statistics
 
-- **Total Problems Solved:** 168
+- **Total Problems Solved:** 169
 - **Current Streak:** 2 days
 - **Longest Streak:** 14 days
 
@@ -13,12 +13,13 @@ Automatically organized collection of LeetCode solutions.
 #### By Language
 - Sql: 27
 - Javascript: 2
-- Java: 139
+- Java: 140
 
 #### By Topic
 - Database: 27
 - Array: 87
 - General: 1
+- Stack: 1
 - Dynamic-programming: 1
 - Linked-list: 7
 - Math: 13
@@ -88,6 +89,7 @@ Automatically organized collection of LeetCode solutions.
 | 151 | Reverse Words In A String | two-pointers | medium | java | [Solution](solutions/java/two-pointers/medium/151_reverse-words-in-a-string_two-pointers_medium.java) |
 | 152 | Maximum Product Subarray | array | medium | java | [Solution](solutions/java/array/medium/152_maximum-product-subarray_array_medium.java) |
 | 153 | Find Minimum In Rotated Sorted Array | array | medium | java | [Solution](solutions/java/array/medium/153_find-minimum-in-rotated-sorted-array_array_medium.java) |
+| 155 | Min Stack | stack | medium | java | [Solution](solutions/java/stack/medium/155_min-stack_stack_medium.java) |
 | 167 | Two Sum Ii   Input Array Is Sorted | array | medium | java | [Solution](solutions/java/array/medium/167_two-sum-ii---input-array-is-sorted_array_medium.java) |
 | 169 | Majority Element | array | easy | java | [Solution](solutions/java/array/easy/169_majority-element_array_easy.java) |
 | 175 | Combine Two Tables | database | easy | sql | [Solution](solutions/sql/database/easy/175_combine-two-tables_database_easy.sql) |
@@ -200,20 +202,3 @@ Automatically organized collection of LeetCode solutions.
 | 2886 | Faulty Keyboard | string | easy | java | [Solution](solutions/java/string/easy/2886_faulty-keyboard_string_easy.java) |
 | 3379 | Score Of A String | string | easy | java | [Solution](solutions/java/string/easy/3379_score-of-a-string_string_easy.java) |
 | 4068 | Sum Of Elements With Frequency Divisible By K | array | easy | java | [Solution](solutions/java/array/easy/4068_sum-of-elements-with-frequency-divisible-by-k_array_easy.java) |
-
-<!---LeetCode Topics Start-->
-# LeetCode Topics
-## String
-| Problem Name | Difficulty |
-| ------- | ------- |
-| [1021-remove-outermost-parentheses](https://github.com/imrajeevnayan/leetcode-solution/tree/main/1021-remove-outermost-parentheses/) | Easy |
-## Stack
-| Problem Name | Difficulty |
-| ------- | ------- |
-| [0155-min-stack](https://github.com/imrajeevnayan/leetcode-solution/tree/main/0155-min-stack/) | Medium |
-| [1021-remove-outermost-parentheses](https://github.com/imrajeevnayan/leetcode-solution/tree/main/1021-remove-outermost-parentheses/) | Easy |
-## Design
-| Problem Name | Difficulty |
-| ------- | ------- |
-| [0155-min-stack](https://github.com/imrajeevnayan/leetcode-solution/tree/main/0155-min-stack/) | Medium |
-<!---LeetCode Topics End-->
