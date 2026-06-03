@@ -622,17 +622,18 @@
     "GeeksForGeeks_Subarray_Frequency_Count_Queries": true,
     "GeeksForGeeks_Next_Greater_Element_in_Circular_Array": true,
     "GeeksForGeeks_Middle_of_Stack": true,
-    "GeeksForGeeks_Prime_Number": true
+    "GeeksForGeeks_Prime_Number": true,
+    "GeeksForGeeks_Sum_of_Natural_Numbers": true
   },
-  "totalSolved": 150,
+  "totalSolved": 151,
   "difficultyCounts": {
-    "easy": 53,
+    "easy": 54,
     "medium": 71,
     "hard": 2,
     "basic": 24
   },
   "currentStreak": 2,
-  "todayCount": 6,
+  "todayCount": 7,
   "lastSyncDate": "2026-06-03",
   "maxStreak": 13,
   "activityHistory": {
@@ -650,7 +651,7 @@
     "2026-05-30": 10,
     "2026-05-31": 18,
     "2026-06-02": 7,
-    "2026-06-03": 6
+    "2026-06-03": 7
   },
   "todayProblems": [
     "Most Frequent Character",
@@ -801,6 +802,7 @@
     "Subarray Frequency Count Queries",
     "Next Greater Element in Circular Array",
     "Middle of Stack",
-    "Prime Number"
+    "Prime Number",
+    "Sum of Natural Numbers"
   ]
 }
