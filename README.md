@@ -4,7 +4,7 @@ Automatically organized collection of LeetCode solutions.
 
 ## 📊 Statistics
 
-- **Total Problems Solved:** 171
+- **Total Problems Solved:** 172
 - **Current Streak:** 2 days
 - **Longest Streak:** 14 days
 
@@ -13,11 +13,11 @@ Automatically organized collection of LeetCode solutions.
 #### By Language
 - Sql: 27
 - Javascript: 2
-- Java: 142
+- Java: 143
 
 #### By Topic
 - Database: 27
-- Array: 88
+- Array: 89
 - General: 1
 - Stack: 1
 - Dynamic-programming: 1
@@ -78,6 +78,7 @@ Automatically organized collection of LeetCode solutions.
 | 80 | Remove Duplicates From Sorted Array Ii | array | medium | java | [Solution](solutions/java/array/medium/80_remove-duplicates-from-sorted-array-ii_array_medium.java) |
 | 83 | Remove Duplicates From Sorted List | linked-list | easy | java | [Solution](solutions/java/linked-list/easy/83_remove-duplicates-from-sorted-list_linked-list_easy.java) |
 | 88 | Merge Sorted Array | array | easy | java | [Solution](solutions/java/array/easy/88_merge-sorted-array_array_easy.java) |
+| 108 | Convert Sorted Array To Binary Search Tree | array | easy | java | [Solution](solutions/java/array/easy/108_convert-sorted-array-to-binary-search-tree_array_easy.java) |
 | 118 | Pascal'S Triangle | array | easy | java | [Solution](solutions/java/array/easy/118_pascal's-triangle_array_easy.java) |
 | 119 | Pascal'S Triangle Ii | array | easy | java | [Solution](solutions/java/array/easy/119_pascal's-triangle-ii_array_easy.java) |
 | 121 | Best Time To Buy And Sell Stock | array | easy | java | [Solution](solutions/java/array/easy/121_best-time-to-buy-and-sell-stock_array_easy.java) |
