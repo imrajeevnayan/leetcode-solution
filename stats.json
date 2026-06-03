@@ -620,17 +620,18 @@
     "GeeksForGeeks_Reverse_each_word_in_a_given_string": true,
     "GeeksForGeeks_Insert_an_Element_at_the_Bottom_of_a_Stack": true,
     "GeeksForGeeks_Subarray_Frequency_Count_Queries": true,
-    "GeeksForGeeks_Next_Greater_Element_in_Circular_Array": true
+    "GeeksForGeeks_Next_Greater_Element_in_Circular_Array": true,
+    "GeeksForGeeks_Middle_of_Stack": true
   },
-  "totalSolved": 148,
+  "totalSolved": 149,
   "difficultyCounts": {
-    "easy": 52,
+    "easy": 53,
     "medium": 70,
     "hard": 2,
     "basic": 24
   },
   "currentStreak": 2,
-  "todayCount": 4,
+  "todayCount": 5,
   "lastSyncDate": "2026-06-03",
   "maxStreak": 13,
   "activityHistory": {
@@ -648,7 +649,7 @@
     "2026-05-30": 10,
     "2026-05-31": 18,
     "2026-06-02": 7,
-    "2026-06-03": 4
+    "2026-06-03": 5
   },
   "todayProblems": [
     "Most Frequent Character",
@@ -797,6 +798,7 @@
     "Reverse each word in a given string",
     "Insert an Element at the Bottom of a Stack",
     "Subarray Frequency Count Queries",
-    "Next Greater Element in Circular Array"
+    "Next Greater Element in Circular Array",
+    "Middle of Stack"
   ]
 }
