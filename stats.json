@@ -619,17 +619,18 @@
     "GeeksForGeeks_Remove_K_Digits": true,
     "GeeksForGeeks_Reverse_each_word_in_a_given_string": true,
     "GeeksForGeeks_Insert_an_Element_at_the_Bottom_of_a_Stack": true,
-    "GeeksForGeeks_Subarray_Frequency_Count_Queries": true
+    "GeeksForGeeks_Subarray_Frequency_Count_Queries": true,
+    "GeeksForGeeks_Next_Greater_Element_in_Circular_Array": true
   },
-  "totalSolved": 147,
+  "totalSolved": 148,
   "difficultyCounts": {
     "easy": 52,
-    "medium": 69,
+    "medium": 70,
     "hard": 2,
     "basic": 24
   },
   "currentStreak": 2,
-  "todayCount": 3,
+  "todayCount": 4,
   "lastSyncDate": "2026-06-03",
   "maxStreak": 13,
   "activityHistory": {
@@ -647,7 +648,7 @@
     "2026-05-30": 10,
     "2026-05-31": 18,
     "2026-06-02": 7,
-    "2026-06-03": 3
+    "2026-06-03": 4
   },
   "todayProblems": [
     "Most Frequent Character",
@@ -795,6 +796,7 @@
     "Remove K Digits",
     "Reverse each word in a given string",
     "Insert an Element at the Bottom of a Stack",
-    "Subarray Frequency Count Queries"
+    "Subarray Frequency Count Queries",
+    "Next Greater Element in Circular Array"
   ]
 }
