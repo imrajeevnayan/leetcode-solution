@@ -4,7 +4,7 @@ Automatically organized collection of LeetCode solutions.
 
 ## 📊 Statistics
 
-- **Total Problems Solved:** 164
+- **Total Problems Solved:** 165
 - **Current Streak:** 2 days
 - **Longest Streak:** 14 days
 
@@ -13,11 +13,11 @@ Automatically organized collection of LeetCode solutions.
 #### By Language
 - Sql: 27
 - Javascript: 2
-- Java: 135
+- Java: 136
 
 #### By Topic
 - Database: 27
-- Array: 85
+- Array: 86
 - General: 1
 - Dynamic-programming: 1
 - Linked-list: 6
@@ -76,6 +76,7 @@ Automatically organized collection of LeetCode solutions.
 | 80 | Remove Duplicates From Sorted Array Ii | array | medium | java | [Solution](solutions/java/array/medium/80_remove-duplicates-from-sorted-array-ii_array_medium.java) |
 | 83 | Remove Duplicates From Sorted List | linked-list | easy | java | [Solution](solutions/java/linked-list/easy/83_remove-duplicates-from-sorted-list_linked-list_easy.java) |
 | 88 | Merge Sorted Array | array | easy | java | [Solution](solutions/java/array/easy/88_merge-sorted-array_array_easy.java) |
+| 119 | Pascal'S Triangle Ii | array | easy | java | [Solution](solutions/java/array/easy/119_pascal's-triangle-ii_array_easy.java) |
 | 121 | Best Time To Buy And Sell Stock | array | easy | java | [Solution](solutions/java/array/easy/121_best-time-to-buy-and-sell-stock_array_easy.java) |
 | 122 | Best Time To Buy And Sell Stock Ii | array | medium | java | [Solution](solutions/java/array/medium/122_best-time-to-buy-and-sell-stock-ii_array_medium.java) |
 | 125 | Valid Palindrome | two-pointers | easy | java | [Solution](solutions/java/two-pointers/easy/125_valid-palindrome_two-pointers_easy.java) |
@@ -196,19 +197,3 @@ Automatically organized collection of LeetCode solutions.
 | 2886 | Faulty Keyboard | string | easy | java | [Solution](solutions/java/string/easy/2886_faulty-keyboard_string_easy.java) |
 | 3379 | Score Of A String | string | easy | java | [Solution](solutions/java/string/easy/3379_score-of-a-string_string_easy.java) |
 | 4068 | Sum Of Elements With Frequency Divisible By K | array | easy | java | [Solution](solutions/java/array/easy/4068_sum-of-elements-with-frequency-divisible-by-k_array_easy.java) |
-
-<!---LeetCode Topics Start-->
-# LeetCode Topics
-## String
-| Problem Name | Difficulty |
-| ------- | ------- |
-| [0058-length-of-last-word](https://github.com/imrajeevnayan/leetcode-solution/tree/main/0058-length-of-last-word/) | Easy |
-## Array
-| Problem Name | Difficulty |
-| ------- | ------- |
-| [0119-pascals-triangle-ii](https://github.com/imrajeevnayan/leetcode-solution/tree/main/0119-pascals-triangle-ii/) | Easy |
-## Dynamic Programming
-| Problem Name | Difficulty |
-| ------- | ------- |
-| [0119-pascals-triangle-ii](https://github.com/imrajeevnayan/leetcode-solution/tree/main/0119-pascals-triangle-ii/) | Easy |
-<!---LeetCode Topics End-->
