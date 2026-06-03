@@ -4,7 +4,7 @@ Automatically organized collection of LeetCode solutions.
 
 ## 📊 Statistics
 
-- **Total Problems Solved:** 166
+- **Total Problems Solved:** 167
 - **Current Streak:** 2 days
 - **Longest Streak:** 14 days
 
@@ -13,14 +13,14 @@ Automatically organized collection of LeetCode solutions.
 #### By Language
 - Sql: 27
 - Javascript: 2
-- Java: 137
+- Java: 138
 
 #### By Topic
 - Database: 27
 - Array: 87
 - General: 1
 - Dynamic-programming: 1
-- Linked-list: 6
+- Linked-list: 7
 - Math: 13
 - Two-pointers: 9
 - String: 10
@@ -109,6 +109,7 @@ Automatically organized collection of LeetCode solutions.
 | 219 | Contains Duplicate Ii | array | easy | java | [Solution](solutions/java/array/easy/219_contains-duplicate-ii_array_easy.java) |
 | 229 | Majority Element Ii | array | medium | java | [Solution](solutions/java/array/medium/229_majority-element-ii_array_medium.java) |
 | 231 | Power Of Two | math | easy | java | [Solution](solutions/java/math/easy/231_power-of-two_math_easy.java) |
+| 234 | Palindrome Linked List | linked-list | easy | java | [Solution](solutions/java/linked-list/easy/234_palindrome-linked-list_linked-list_easy.java) |
 | 238 | Product Of Array Except Self | array | medium | java | [Solution](solutions/java/array/medium/238_product-of-array-except-self_array_medium.java) |
 | 242 | Valid Anagram | hash-table | easy | java | [Solution](solutions/java/hash-table/easy/242_valid-anagram_hash-table_easy.java) |
 | 268 | Missing Number | array | easy | java | [Solution](solutions/java/array/easy/268_missing-number_array_easy.java) |
@@ -198,58 +199,3 @@ Automatically organized collection of LeetCode solutions.
 | 2886 | Faulty Keyboard | string | easy | java | [Solution](solutions/java/string/easy/2886_faulty-keyboard_string_easy.java) |
 | 3379 | Score Of A String | string | easy | java | [Solution](solutions/java/string/easy/3379_score-of-a-string_string_easy.java) |
 | 4068 | Sum Of Elements With Frequency Divisible By K | array | easy | java | [Solution](solutions/java/array/easy/4068_sum-of-elements-with-frequency-divisible-by-k_array_easy.java) |
-
-<!---LeetCode Topics Start-->
-# LeetCode Topics
-## Array
-| Problem Name | Difficulty |
-| ------- | ------- |
-| [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/imrajeevnayan/leetcode-solution/tree/main/0122-best-time-to-buy-and-sell-stock-ii/) | Medium |
-| [0136-single-number](https://github.com/imrajeevnayan/leetcode-solution/tree/main/0136-single-number/) | Easy |
-| [0268-missing-number](https://github.com/imrajeevnayan/leetcode-solution/tree/main/0268-missing-number/) | Easy |
-## Bit Manipulation
-| Problem Name | Difficulty |
-| ------- | ------- |
-| [0136-single-number](https://github.com/imrajeevnayan/leetcode-solution/tree/main/0136-single-number/) | Easy |
-| [0268-missing-number](https://github.com/imrajeevnayan/leetcode-solution/tree/main/0268-missing-number/) | Easy |
-## Hash Table
-| Problem Name | Difficulty |
-| ------- | ------- |
-| [0268-missing-number](https://github.com/imrajeevnayan/leetcode-solution/tree/main/0268-missing-number/) | Easy |
-## Math
-| Problem Name | Difficulty |
-| ------- | ------- |
-| [0268-missing-number](https://github.com/imrajeevnayan/leetcode-solution/tree/main/0268-missing-number/) | Easy |
-## Binary Search
-| Problem Name | Difficulty |
-| ------- | ------- |
-| [0268-missing-number](https://github.com/imrajeevnayan/leetcode-solution/tree/main/0268-missing-number/) | Easy |
-## Sorting
-| Problem Name | Difficulty |
-| ------- | ------- |
-| [0268-missing-number](https://github.com/imrajeevnayan/leetcode-solution/tree/main/0268-missing-number/) | Easy |
-## Dynamic Programming
-| Problem Name | Difficulty |
-| ------- | ------- |
-| [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/imrajeevnayan/leetcode-solution/tree/main/0122-best-time-to-buy-and-sell-stock-ii/) | Medium |
-## Greedy
-| Problem Name | Difficulty |
-| ------- | ------- |
-| [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/imrajeevnayan/leetcode-solution/tree/main/0122-best-time-to-buy-and-sell-stock-ii/) | Medium |
-## Linked List
-| Problem Name | Difficulty |
-| ------- | ------- |
-| [0234-palindrome-linked-list](https://github.com/imrajeevnayan/leetcode-solution/tree/main/0234-palindrome-linked-list/) | Easy |
-## Two Pointers
-| Problem Name | Difficulty |
-| ------- | ------- |
-| [0234-palindrome-linked-list](https://github.com/imrajeevnayan/leetcode-solution/tree/main/0234-palindrome-linked-list/) | Easy |
-## Stack
-| Problem Name | Difficulty |
-| ------- | ------- |
-| [0234-palindrome-linked-list](https://github.com/imrajeevnayan/leetcode-solution/tree/main/0234-palindrome-linked-list/) | Easy |
-## Recursion
-| Problem Name | Difficulty |
-| ------- | ------- |
-| [0234-palindrome-linked-list](https://github.com/imrajeevnayan/leetcode-solution/tree/main/0234-palindrome-linked-list/) | Easy |
-<!---LeetCode Topics End-->
