@@ -625,17 +625,18 @@
     "GeeksForGeeks_Prime_Number": true,
     "GeeksForGeeks_Sum_of_Natural_Numbers": true,
     "GeeksForGeeks_Sum_of_all_prime_numbers_between_1_and_n": true,
-    "GeeksForGeeks_Numbers_containing_1,_2_and_3": true
+    "GeeksForGeeks_Numbers_containing_1,_2_and_3": true,
+    "GeeksForGeeks_Sum_Palindrome": true
   },
-  "totalSolved": 153,
+  "totalSolved": 154,
   "difficultyCounts": {
     "easy": 56,
     "medium": 71,
     "hard": 2,
-    "basic": 24
+    "basic": 25
   },
   "currentStreak": 2,
-  "todayCount": 9,
+  "todayCount": 10,
   "lastSyncDate": "2026-06-03",
   "maxStreak": 13,
   "activityHistory": {
@@ -653,7 +654,7 @@
     "2026-05-30": 10,
     "2026-05-31": 18,
     "2026-06-02": 7,
-    "2026-06-03": 9
+    "2026-06-03": 10
   },
   "todayProblems": [
     "Most Frequent Character",
@@ -807,6 +808,7 @@
     "Prime Number",
     "Sum of Natural Numbers",
     "Sum of all prime numbers between 1 and n",
-    "Numbers containing 1, 2 and 3"
+    "Numbers containing 1, 2 and 3",
+    "Sum Palindrome"
   ]
 }
