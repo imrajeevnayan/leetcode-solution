@@ -623,17 +623,18 @@
     "GeeksForGeeks_Next_Greater_Element_in_Circular_Array": true,
     "GeeksForGeeks_Middle_of_Stack": true,
     "GeeksForGeeks_Prime_Number": true,
-    "GeeksForGeeks_Sum_of_Natural_Numbers": true
+    "GeeksForGeeks_Sum_of_Natural_Numbers": true,
+    "GeeksForGeeks_Sum_of_all_prime_numbers_between_1_and_n": true
   },
-  "totalSolved": 151,
+  "totalSolved": 152,
   "difficultyCounts": {
-    "easy": 54,
+    "easy": 55,
     "medium": 71,
     "hard": 2,
     "basic": 24
   },
   "currentStreak": 2,
-  "todayCount": 7,
+  "todayCount": 8,
   "lastSyncDate": "2026-06-03",
   "maxStreak": 13,
   "activityHistory": {
@@ -651,7 +652,7 @@
     "2026-05-30": 10,
     "2026-05-31": 18,
     "2026-06-02": 7,
-    "2026-06-03": 7
+    "2026-06-03": 8
   },
   "todayProblems": [
     "Most Frequent Character",
@@ -803,6 +804,7 @@
     "Next Greater Element in Circular Array",
     "Middle of Stack",
     "Prime Number",
-    "Sum of Natural Numbers"
+    "Sum of Natural Numbers",
+    "Sum of all prime numbers between 1 and n"
   ]
 }
