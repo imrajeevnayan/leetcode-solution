@@ -4,7 +4,7 @@ Automatically organized collection of LeetCode solutions.
 
 ## 📊 Statistics
 
-- **Total Problems Solved:** 170
+- **Total Problems Solved:** 171
 - **Current Streak:** 2 days
 - **Longest Streak:** 14 days
 
@@ -13,7 +13,7 @@ Automatically organized collection of LeetCode solutions.
 #### By Language
 - Sql: 27
 - Javascript: 2
-- Java: 141
+- Java: 142
 
 #### By Topic
 - Database: 27
@@ -25,6 +25,7 @@ Automatically organized collection of LeetCode solutions.
 - Math: 13
 - Two-pointers: 9
 - String: 11
+- Binary-search: 1
 - Divide-and-conquer: 1
 - Hash-table: 9
 - Tree: 2
@@ -116,6 +117,7 @@ Automatically organized collection of LeetCode solutions.
 | 242 | Valid Anagram | hash-table | easy | java | [Solution](solutions/java/hash-table/easy/242_valid-anagram_hash-table_easy.java) |
 | 268 | Missing Number | array | easy | java | [Solution](solutions/java/array/easy/268_missing-number_array_easy.java) |
 | 274 | H Index | array | medium | java | [Solution](solutions/java/array/medium/274_h-index_array_medium.java) |
+| 278 | First Bad Version | binary-search | easy | java | [Solution](solutions/java/binary-search/easy/278_first-bad-version_binary-search_easy.java) |
 | 283 | Move Zeroes | array | easy | java | [Solution](solutions/java/array/easy/283_move-zeroes_array_easy.java) |
 | 303 | Range Sum Query   Immutable | array | easy | java | [Solution](solutions/java/array/easy/303_range-sum-query---immutable_array_easy.java) |
 | 326 | Power Of Three | math | easy | java | [Solution](solutions/java/math/easy/326_power-of-three_math_easy.java) |
