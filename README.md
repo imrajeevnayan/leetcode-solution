@@ -4,7 +4,7 @@ Automatically organized collection of LeetCode solutions.
 
 ## 📊 Statistics
 
-- **Total Problems Solved:** 169
+- **Total Problems Solved:** 170
 - **Current Streak:** 2 days
 - **Longest Streak:** 14 days
 
@@ -13,11 +13,11 @@ Automatically organized collection of LeetCode solutions.
 #### By Language
 - Sql: 27
 - Javascript: 2
-- Java: 140
+- Java: 141
 
 #### By Topic
 - Database: 27
-- Array: 87
+- Array: 88
 - General: 1
 - Stack: 1
 - Dynamic-programming: 1
@@ -164,6 +164,7 @@ Automatically organized collection of LeetCode solutions.
 | 1016 | Subarray Sums Divisible By K | array | medium | java | [Solution](solutions/java/array/medium/1016_subarray-sums-divisible-by-k_array_medium.java) |
 | 1018 | Largest Perimeter Triangle | array | easy | java | [Solution](solutions/java/array/easy/1018_largest-perimeter-triangle_array_easy.java) |
 | 1019 | Squares Of A Sorted Array | array | easy | java | [Solution](solutions/java/array/easy/1019_squares-of-a-sorted-array_array_easy.java) |
+| 1036 | Rotting Oranges | array | medium | java | [Solution](solutions/java/array/medium/1036_rotting-oranges_array_medium.java) |
 | 1046 | Max Consecutive Ones Iii | array | medium | java | [Solution](solutions/java/array/medium/1046_max-consecutive-ones-iii_array_medium.java) |
 | 1078 | Remove Outermost Parentheses | string | easy | java | [Solution](solutions/java/string/easy/1078_remove-outermost-parentheses_string_easy.java) |
 | 1127 | Last Stone Weight | array | easy | java | [Solution](solutions/java/array/easy/1127_last-stone-weight_array_easy.java) |
