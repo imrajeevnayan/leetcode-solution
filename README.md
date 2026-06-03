@@ -11,3 +11,11 @@
 | 9 | [Insert an Element at the Bottom of a Stack](https://www.geeksforgeeks.org/problems/insert-an-element-at-the-bottom-of-a-stack/1?page=3&category=Stack&sortBy=submissions) | GeeksForGeeks | Easy | 03 Jun 2026 | 12:10 am |
 | 10 | [Subarray Frequency Count Queries](https://www.geeksforgeeks.org/problems/count-frequency-of-an-element-in-a-given-range/1) | GeeksForGeeks | Medium | 03 Jun 2026 | 12:20 pm |
 | 11 | [Next Greater Element in Circular Array](https://www.geeksforgeeks.org/problems/next-greater-element/1?page=2&category=Stack&sortBy=submissions) | GeeksForGeeks | Medium | 03 Jun 2026 | 12:40 pm |
+
+<!---LeetCode Topics Start-->
+# LeetCode Topics
+## Linked List
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0083-remove-duplicates-from-sorted-list](https://github.com/imrajeevnayan/leetcode-solution/tree/main/0083-remove-duplicates-from-sorted-list/) | Easy |
+<!---LeetCode Topics End-->
