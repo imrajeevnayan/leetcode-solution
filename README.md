@@ -212,4 +212,12 @@ Automatically organized collection of LeetCode solutions.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0242-valid-anagram](https://github.com/imrajeevnayan/leetcode-solution/tree/main/0242-valid-anagram/) | Easy |
+## Array
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0118-pascals-triangle](https://github.com/imrajeevnayan/leetcode-solution/tree/main/0118-pascals-triangle/) | Easy |
+## Dynamic Programming
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0118-pascals-triangle](https://github.com/imrajeevnayan/leetcode-solution/tree/main/0118-pascals-triangle/) | Easy |
 <!---LeetCode Topics End-->
