@@ -218,12 +218,14 @@ Automatically organized collection of LeetCode solutions.
 | [0020-valid-parentheses](https://github.com/imrajeevnayan/leetcode-solution/tree/main/0020-valid-parentheses/) | Easy |
 | [0316-remove-duplicate-letters](https://github.com/imrajeevnayan/leetcode-solution/tree/main/0316-remove-duplicate-letters/) | Medium |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/imrajeevnayan/leetcode-solution/tree/main/1047-remove-all-adjacent-duplicates-in-string/) | Easy |
+| [1544-make-the-string-great](https://github.com/imrajeevnayan/leetcode-solution/tree/main/1544-make-the-string-great/) | Easy |
 ## Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0020-valid-parentheses](https://github.com/imrajeevnayan/leetcode-solution/tree/main/0020-valid-parentheses/) | Easy |
 | [0316-remove-duplicate-letters](https://github.com/imrajeevnayan/leetcode-solution/tree/main/0316-remove-duplicate-letters/) | Medium |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/imrajeevnayan/leetcode-solution/tree/main/1047-remove-all-adjacent-duplicates-in-string/) | Easy |
+| [1544-make-the-string-great](https://github.com/imrajeevnayan/leetcode-solution/tree/main/1544-make-the-string-great/) | Easy |
 ## Greedy
 | Problem Name | Difficulty |
 | ------- | ------- |
