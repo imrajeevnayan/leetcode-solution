@@ -4,7 +4,7 @@ Automatically organized collection of LeetCode solutions.
 
 ## 📊 Statistics
 
-- **Total Problems Solved:** 175
+- **Total Problems Solved:** 176
 - **Current Streak:** 3 days
 - **Longest Streak:** 14 days
 
@@ -13,7 +13,7 @@ Automatically organized collection of LeetCode solutions.
 #### By Language
 - Sql: 27
 - Javascript: 2
-- Java: 146
+- Java: 147
 
 #### By Topic
 - Database: 27
@@ -24,7 +24,7 @@ Automatically organized collection of LeetCode solutions.
 - Linked-list: 7
 - Math: 13
 - Two-pointers: 9
-- String: 13
+- String: 14
 - Binary-search: 1
 - Divide-and-conquer: 1
 - Hash-table: 9
@@ -194,6 +194,7 @@ Automatically organized collection of LeetCode solutions.
 | 1603 | Running Sum Of 1D Array | array | easy | java | [Solution](solutions/java/array/easy/1603_running-sum-of-1d-array_array_easy.java) |
 | 1631 | Number Of Sub Arrays With Odd Sum | array | medium | java | [Solution](solutions/java/array/medium/1631_number-of-sub-arrays-with-odd-sum_array_medium.java) |
 | 1646 | Kth Missing Positive Number | array | easy | java | [Solution](solutions/java/array/easy/1646_kth-missing-positive-number_array_easy.java) |
+| 1666 | Make The String Great | string | easy | java | [Solution](solutions/java/string/easy/1666_make-the-string-great_string_easy.java) |
 | 1724 | Customer Who Visited But Did Not Make Any Transactions | database | easy | sql | [Solution](solutions/sql/database/easy/1724_customer-who-visited-but-did-not-make-any-transactions_database_easy.sql) |
 | 1811 | Fix Names In A Table | database | easy | sql | [Solution](solutions/sql/database/easy/1811_fix-names-in-a-table_database_easy.sql) |
 | 1833 | Find The Highest Altitude | array | easy | java | [Solution](solutions/java/array/easy/1833_find-the-highest-altitude_array_easy.java) |
@@ -209,29 +210,3 @@ Automatically organized collection of LeetCode solutions.
 | 2886 | Faulty Keyboard | string | easy | java | [Solution](solutions/java/string/easy/2886_faulty-keyboard_string_easy.java) |
 | 3379 | Score Of A String | string | easy | java | [Solution](solutions/java/string/easy/3379_score-of-a-string_string_easy.java) |
 | 4068 | Sum Of Elements With Frequency Divisible By K | array | easy | java | [Solution](solutions/java/array/easy/4068_sum-of-elements-with-frequency-divisible-by-k_array_easy.java) |
-
-<!---LeetCode Topics Start-->
-# LeetCode Topics
-## String
-| Problem Name | Difficulty |
-| ------- | ------- |
-| [0020-valid-parentheses](https://github.com/imrajeevnayan/leetcode-solution/tree/main/0020-valid-parentheses/) | Easy |
-| [0316-remove-duplicate-letters](https://github.com/imrajeevnayan/leetcode-solution/tree/main/0316-remove-duplicate-letters/) | Medium |
-| [1047-remove-all-adjacent-duplicates-in-string](https://github.com/imrajeevnayan/leetcode-solution/tree/main/1047-remove-all-adjacent-duplicates-in-string/) | Easy |
-| [1544-make-the-string-great](https://github.com/imrajeevnayan/leetcode-solution/tree/main/1544-make-the-string-great/) | Easy |
-## Stack
-| Problem Name | Difficulty |
-| ------- | ------- |
-| [0020-valid-parentheses](https://github.com/imrajeevnayan/leetcode-solution/tree/main/0020-valid-parentheses/) | Easy |
-| [0316-remove-duplicate-letters](https://github.com/imrajeevnayan/leetcode-solution/tree/main/0316-remove-duplicate-letters/) | Medium |
-| [1047-remove-all-adjacent-duplicates-in-string](https://github.com/imrajeevnayan/leetcode-solution/tree/main/1047-remove-all-adjacent-duplicates-in-string/) | Easy |
-| [1544-make-the-string-great](https://github.com/imrajeevnayan/leetcode-solution/tree/main/1544-make-the-string-great/) | Easy |
-## Greedy
-| Problem Name | Difficulty |
-| ------- | ------- |
-| [0316-remove-duplicate-letters](https://github.com/imrajeevnayan/leetcode-solution/tree/main/0316-remove-duplicate-letters/) | Medium |
-## Monotonic Stack
-| Problem Name | Difficulty |
-| ------- | ------- |
-| [0316-remove-duplicate-letters](https://github.com/imrajeevnayan/leetcode-solution/tree/main/0316-remove-duplicate-letters/) | Medium |
-<!---LeetCode Topics End-->
