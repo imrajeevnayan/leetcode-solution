@@ -629,17 +629,18 @@
     "GeeksForGeeks_Sum_Palindrome": true,
     "GeeksForGeeks_GCD_of_Array": true,
     "GeeksForGeeks_Lucky_Numbers": true,
-    "LeetCode_Pascal's_Triangle": true
+    "LeetCode_Pascal's_Triangle": true,
+    "GeeksForGeeks_Floyd's_triangle": true
   },
-  "totalSolved": 157,
+  "totalSolved": 158,
   "difficultyCounts": {
     "easy": 57,
     "medium": 72,
     "hard": 2,
-    "basic": 26
+    "basic": 27
   },
   "currentStreak": 3,
-  "todayCount": 2,
+  "todayCount": 3,
   "lastSyncDate": "2026-06-04",
   "maxStreak": 13,
   "activityHistory": {
@@ -658,7 +659,7 @@
     "2026-05-31": 18,
     "2026-06-02": 7,
     "2026-06-03": 11,
-    "2026-06-04": 2
+    "2026-06-04": 3
   },
   "todayProblems": [
     "Most Frequent Character",
@@ -816,6 +817,7 @@
     "Sum Palindrome",
     "GCD of Array",
     "Lucky Numbers",
-    "Pascal's Triangle"
+    "Pascal's Triangle",
+    "Floyd's triangle"
   ]
 }
