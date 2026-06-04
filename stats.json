@@ -628,17 +628,18 @@
     "GeeksForGeeks_Numbers_containing_1,_2_and_3": true,
     "GeeksForGeeks_Sum_Palindrome": true,
     "GeeksForGeeks_GCD_of_Array": true,
-    "GeeksForGeeks_Lucky_Numbers": true
+    "GeeksForGeeks_Lucky_Numbers": true,
+    "LeetCode_Pascal's_Triangle": true
   },
-  "totalSolved": 156,
+  "totalSolved": 157,
   "difficultyCounts": {
-    "easy": 56,
+    "easy": 57,
     "medium": 72,
     "hard": 2,
     "basic": 26
   },
   "currentStreak": 3,
-  "todayCount": 1,
+  "todayCount": 2,
   "lastSyncDate": "2026-06-04",
   "maxStreak": 13,
   "activityHistory": {
@@ -657,7 +658,7 @@
     "2026-05-31": 18,
     "2026-06-02": 7,
     "2026-06-03": 11,
-    "2026-06-04": 1
+    "2026-06-04": 2
   },
   "todayProblems": [
     "Most Frequent Character",
@@ -814,6 +815,7 @@
     "Numbers containing 1, 2 and 3",
     "Sum Palindrome",
     "GCD of Array",
-    "Lucky Numbers"
+    "Lucky Numbers",
+    "Pascal's Triangle"
   ]
 }
