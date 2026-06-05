@@ -4,7 +4,7 @@ Automatically organized collection of LeetCode solutions.
 
 ## 📊 Statistics
 
-- **Total Problems Solved:** 179
+- **Total Problems Solved:** 180
 - **Current Streak:** 4 days
 - **Longest Streak:** 14 days
 
@@ -13,11 +13,11 @@ Automatically organized collection of LeetCode solutions.
 #### By Language
 - Sql: 27
 - Javascript: 2
-- Java: 150
+- Java: 151
 
 #### By Topic
 - Database: 27
-- Array: 90
+- Array: 91
 - General: 1
 - Stack: 1
 - Dynamic-programming: 1
@@ -194,6 +194,7 @@ Automatically organized collection of LeetCode solutions.
 | 1482 | How Many Numbers Are Smaller Than The Current Number | array | easy | java | [Solution](solutions/java/array/easy/1482_how-many-numbers-are-smaller-than-the-current-number_array_easy.java) |
 | 1567 | Maximum Number Of Vowels In A Substring Of Given Length | string | medium | java | [Solution](solutions/java/string/medium/1567_maximum-number-of-vowels-in-a-substring-of-given-length_string_medium.java) |
 | 1574 | Maximum Product Of Two Elements In An Array | array | easy | java | [Solution](solutions/java/array/easy/1574_maximum-product-of-two-elements-in-an-array_array_easy.java) |
+| 1586 | Longest Subarray Of 1'S After Deleting One Element | array | medium | java | [Solution](solutions/java/array/medium/1586_longest-subarray-of-1's-after-deleting-one-element_array_medium.java) |
 | 1603 | Running Sum Of 1D Array | array | easy | java | [Solution](solutions/java/array/easy/1603_running-sum-of-1d-array_array_easy.java) |
 | 1631 | Number Of Sub Arrays With Odd Sum | array | medium | java | [Solution](solutions/java/array/medium/1631_number-of-sub-arrays-with-odd-sum_array_medium.java) |
 | 1646 | Kth Missing Positive Number | array | easy | java | [Solution](solutions/java/array/easy/1646_kth-missing-positive-number_array_easy.java) |
@@ -213,19 +214,3 @@ Automatically organized collection of LeetCode solutions.
 | 2886 | Faulty Keyboard | string | easy | java | [Solution](solutions/java/string/easy/2886_faulty-keyboard_string_easy.java) |
 | 3379 | Score Of A String | string | easy | java | [Solution](solutions/java/string/easy/3379_score-of-a-string_string_easy.java) |
 | 4068 | Sum Of Elements With Frequency Divisible By K | array | easy | java | [Solution](solutions/java/array/easy/4068_sum-of-elements-with-frequency-divisible-by-k_array_easy.java) |
-
-<!---LeetCode Topics Start-->
-# LeetCode Topics
-## Array
-| Problem Name | Difficulty |
-| ------- | ------- |
-| [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/imrajeevnayan/leetcode-solution/tree/main/1493-longest-subarray-of-1s-after-deleting-one-element/) | Medium |
-## Dynamic Programming
-| Problem Name | Difficulty |
-| ------- | ------- |
-| [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/imrajeevnayan/leetcode-solution/tree/main/1493-longest-subarray-of-1s-after-deleting-one-element/) | Medium |
-## Sliding Window
-| Problem Name | Difficulty |
-| ------- | ------- |
-| [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/imrajeevnayan/leetcode-solution/tree/main/1493-longest-subarray-of-1s-after-deleting-one-element/) | Medium |
-<!---LeetCode Topics End-->
