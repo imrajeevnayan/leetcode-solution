@@ -4,7 +4,7 @@ Automatically organized collection of LeetCode solutions.
 
 ## 📊 Statistics
 
-- **Total Problems Solved:** 183
+- **Total Problems Solved:** 184
 - **Current Streak:** 4 days
 - **Longest Streak:** 14 days
 
@@ -13,7 +13,7 @@ Automatically organized collection of LeetCode solutions.
 #### By Language
 - Sql: 27
 - Javascript: 2
-- Java: 154
+- Java: 155
 
 #### By Topic
 - Database: 27
@@ -21,7 +21,7 @@ Automatically organized collection of LeetCode solutions.
 - General: 1
 - Stack: 1
 - Dynamic-programming: 1
-- Linked-list: 7
+- Linked-list: 8
 - Math: 13
 - Two-pointers: 9
 - String: 16
@@ -125,6 +125,7 @@ Automatically organized collection of LeetCode solutions.
 | 303 | Range Sum Query   Immutable | array | easy | java | [Solution](solutions/java/array/easy/303_range-sum-query---immutable_array_easy.java) |
 | 316 | Remove Duplicate Letters | string | medium | java | [Solution](solutions/java/string/medium/316_remove-duplicate-letters_string_medium.java) |
 | 326 | Power Of Three | math | easy | java | [Solution](solutions/java/math/easy/326_power-of-three_math_easy.java) |
+| 328 | Odd Even Linked List | linked-list | medium | java | [Solution](solutions/java/linked-list/medium/328_odd-even-linked-list_linked-list_medium.java) |
 | 334 | Increasing Triplet Subsequence | array | medium | java | [Solution](solutions/java/array/medium/334_increasing-triplet-subsequence_array_medium.java) |
 | 338 | Counting Bits | dynamic-programming | easy | java | [Solution](solutions/java/dynamic-programming/easy/338_counting-bits_dynamic-programming_easy.java) |
 | 342 | Power Of Four | math | easy | java | [Solution](solutions/java/math/easy/342_power-of-four_math_easy.java) |
@@ -217,11 +218,3 @@ Automatically organized collection of LeetCode solutions.
 | 4184 | Minimum Operations To Sort A Permutation | array | medium | java | [Solution](solutions/java/array/medium/4184_minimum-operations-to-sort-a-permutation_array_medium.java) |
 | 4312 | Limit Occurrences In Sorted Array | array | easy | java | [Solution](solutions/java/array/easy/4312_limit-occurrences-in-sorted-array_array_easy.java) |
 | 4313 | Password Strength | hash-table | medium | java | [Solution](solutions/java/hash-table/medium/4313_password-strength_hash-table_medium.java) |
-
-<!---LeetCode Topics Start-->
-# LeetCode Topics
-## Linked List
-| Problem Name | Difficulty |
-| ------- | ------- |
-| [0328-odd-even-linked-list](https://github.com/imrajeevnayan/leetcode-solution/tree/main/0328-odd-even-linked-list/) | Medium |
-<!---LeetCode Topics End-->
