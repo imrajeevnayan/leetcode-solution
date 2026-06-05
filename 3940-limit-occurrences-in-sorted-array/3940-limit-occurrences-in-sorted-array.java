@@ -5,10 +5,7 @@ class Solution {
         
         for (int i = 0; i < n; ) {
             int j = i;
-            while (j < n && nums[j] == nums[i]) {
-                j++;
-            }
-            
+            while (j < n && nums[j] == nums[i]) j++;
             // Add min(k, count) times
             int count = Math.min(k, j - i);
             for (int t = 0; t < count; t++) {
