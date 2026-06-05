@@ -216,3 +216,11 @@ Automatically organized collection of LeetCode solutions.
 | 4068 | Sum Of Elements With Frequency Divisible By K | array | easy | java | [Solution](solutions/java/array/easy/4068_sum-of-elements-with-frequency-divisible-by-k_array_easy.java) |
 | 4312 | Limit Occurrences In Sorted Array | array | easy | java | [Solution](solutions/java/array/easy/4312_limit-occurrences-in-sorted-array_array_easy.java) |
 | 4313 | Password Strength | hash-table | medium | java | [Solution](solutions/java/hash-table/medium/4313_password-strength_hash-table_medium.java) |
+
+<!---LeetCode Topics Start-->
+# LeetCode Topics
+## Array
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3942-minimum-operations-to-sort-a-permutation](https://github.com/imrajeevnayan/leetcode-solution/tree/main/3942-minimum-operations-to-sort-a-permutation/) | Medium |
+<!---LeetCode Topics End-->
