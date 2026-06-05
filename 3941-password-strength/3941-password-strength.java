@@ -1,0 +1,20 @@
+class Solution {
+    public int passwordStrength(String password) {
+        Set<Character> lower = new HashSet<>();
+        Set<Character> upper = new HashSet<>();
+        Set<Character> digit = new HashSet<>();
+        Set<Character> special = new HashSet<>();
+        
+        String sp = "!@#$";
+        
+        for (char c : password.toCharArray()) {
+            if (c >= 'a' && c <= 'z') lower.add(c);
+            else if (c >= 'A' && c <= 'Z') upper.add(c);
+            else if (c >= '0' && c <= '9') digit.add(c);
+            else if (sp.indexOf(c) != -1) special.add(c);
+        }
+        
+        return lower.size() * 1 + upper.size() * 2 + 
+               digit.size() * 3 + special.size() * 5;
+    }
+}
