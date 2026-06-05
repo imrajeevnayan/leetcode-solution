@@ -1,18 +1,22 @@
 class Solution {
     public double myPow(double x, int n) {
         if (n == 0) return 1.0;
+        
+        long exp = n;                    // Handle Integer.MIN_VALUE safely
         if (n < 0) {
-            if (n == Integer.MIN_VALUE) {
-                return 1.0 / (myPow(x, Integer.MAX_VALUE) * x);
-            }
-            return 1.0 / myPow(x, -n);
+            x = 1.0 / x;
+            exp = -exp;
         }
         
-        double half = myPow(x, n / 2);
-        if (n % 2 == 0) {
-            return half * half;
-        } else {
-            return half * half * x;
+        double ans = 1.0;
+        while (exp > 0) {
+            if (exp % 2 == 1) {
+                ans *= x;
+            }
+            x *= x;
+            exp /= 2;
         }
+        
+        return ans;
     }
 }
