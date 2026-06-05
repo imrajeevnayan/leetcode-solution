@@ -4,7 +4,7 @@ Automatically organized collection of LeetCode solutions.
 
 ## 📊 Statistics
 
-- **Total Problems Solved:** 185
+- **Total Problems Solved:** 186
 - **Current Streak:** 4 days
 - **Longest Streak:** 14 days
 
@@ -13,7 +13,7 @@ Automatically organized collection of LeetCode solutions.
 #### By Language
 - Sql: 27
 - Javascript: 2
-- Java: 156
+- Java: 157
 
 #### By Topic
 - Database: 27
@@ -22,7 +22,7 @@ Automatically organized collection of LeetCode solutions.
 - Stack: 1
 - Dynamic-programming: 1
 - Linked-list: 9
-- Math: 13
+- Math: 14
 - Two-pointers: 9
 - String: 16
 - Binary-search: 1
@@ -66,6 +66,7 @@ Automatically organized collection of LeetCode solutions.
 | 46 | Permutations | array | medium | java | [Solution](solutions/java/array/medium/46_permutations_array_medium.java) |
 | 48 | Rotate Image | array | medium | java | [Solution](solutions/java/array/medium/48_rotate-image_array_medium.java) |
 | 49 | Group Anagrams | array | medium | java | [Solution](solutions/java/array/medium/49_group-anagrams_array_medium.java) |
+| 50 | Pow(X, N) | math | medium | java | [Solution](solutions/java/math/medium/50_pow(x,-n)_math_medium.java) |
 | 53 | Maximum Subarray | array | medium | java | [Solution](solutions/java/array/medium/53_maximum-subarray_array_medium.java) |
 | 55 | Jump Game | array | medium | java | [Solution](solutions/java/array/medium/55_jump-game_array_medium.java) |
 | 56 | Merge Intervals | array | medium | java | [Solution](solutions/java/array/medium/56_merge-intervals_array_medium.java) |
@@ -219,21 +220,3 @@ Automatically organized collection of LeetCode solutions.
 | 4184 | Minimum Operations To Sort A Permutation | array | medium | java | [Solution](solutions/java/array/medium/4184_minimum-operations-to-sort-a-permutation_array_medium.java) |
 | 4312 | Limit Occurrences In Sorted Array | array | easy | java | [Solution](solutions/java/array/easy/4312_limit-occurrences-in-sorted-array_array_easy.java) |
 | 4313 | Password Strength | hash-table | medium | java | [Solution](solutions/java/hash-table/medium/4313_password-strength_hash-table_medium.java) |
-
-<!---LeetCode Topics Start-->
-# LeetCode Topics
-## Linked List
-| Problem Name | Difficulty |
-| ------- | ------- |
-| [0002-add-two-numbers](https://github.com/imrajeevnayan/leetcode-solution/tree/main/0002-add-two-numbers/) | Medium |
-## Math
-| Problem Name | Difficulty |
-| ------- | ------- |
-| [0002-add-two-numbers](https://github.com/imrajeevnayan/leetcode-solution/tree/main/0002-add-two-numbers/) | Medium |
-| [0050-powx-n](https://github.com/imrajeevnayan/leetcode-solution/tree/main/0050-powx-n/) | Medium |
-## Recursion
-| Problem Name | Difficulty |
-| ------- | ------- |
-| [0002-add-two-numbers](https://github.com/imrajeevnayan/leetcode-solution/tree/main/0002-add-two-numbers/) | Medium |
-| [0050-powx-n](https://github.com/imrajeevnayan/leetcode-solution/tree/main/0050-powx-n/) | Medium |
-<!---LeetCode Topics End-->
