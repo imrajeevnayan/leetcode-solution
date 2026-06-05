@@ -4,7 +4,7 @@ Automatically organized collection of LeetCode solutions.
 
 ## 📊 Statistics
 
-- **Total Problems Solved:** 180
+- **Total Problems Solved:** 181
 - **Current Streak:** 4 days
 - **Longest Streak:** 14 days
 
@@ -13,11 +13,11 @@ Automatically organized collection of LeetCode solutions.
 #### By Language
 - Sql: 27
 - Javascript: 2
-- Java: 151
+- Java: 152
 
 #### By Topic
 - Database: 27
-- Array: 91
+- Array: 92
 - General: 1
 - Stack: 1
 - Dynamic-programming: 1
@@ -214,20 +214,4 @@ Automatically organized collection of LeetCode solutions.
 | 2886 | Faulty Keyboard | string | easy | java | [Solution](solutions/java/string/easy/2886_faulty-keyboard_string_easy.java) |
 | 3379 | Score Of A String | string | easy | java | [Solution](solutions/java/string/easy/3379_score-of-a-string_string_easy.java) |
 | 4068 | Sum Of Elements With Frequency Divisible By K | array | easy | java | [Solution](solutions/java/array/easy/4068_sum-of-elements-with-frequency-divisible-by-k_array_easy.java) |
-
-<!---LeetCode Topics Start-->
-# LeetCode Topics
-## Array
-| Problem Name | Difficulty |
-| ------- | ------- |
-| [1732-find-the-highest-altitude](https://github.com/imrajeevnayan/leetcode-solution/tree/main/1732-find-the-highest-altitude/) | Easy |
-| [3940-limit-occurrences-in-sorted-array](https://github.com/imrajeevnayan/leetcode-solution/tree/main/3940-limit-occurrences-in-sorted-array/) | Easy |
-## Prefix Sum
-| Problem Name | Difficulty |
-| ------- | ------- |
-| [1732-find-the-highest-altitude](https://github.com/imrajeevnayan/leetcode-solution/tree/main/1732-find-the-highest-altitude/) | Easy |
-## Two Pointers
-| Problem Name | Difficulty |
-| ------- | ------- |
-| [3940-limit-occurrences-in-sorted-array](https://github.com/imrajeevnayan/leetcode-solution/tree/main/3940-limit-occurrences-in-sorted-array/) | Easy |
-<!---LeetCode Topics End-->
+| 4312 | Limit Occurrences In Sorted Array | array | easy | java | [Solution](solutions/java/array/easy/4312_limit-occurrences-in-sorted-array_array_easy.java) |
