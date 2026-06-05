@@ -221,8 +221,13 @@ Automatically organized collection of LeetCode solutions.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1732-find-the-highest-altitude](https://github.com/imrajeevnayan/leetcode-solution/tree/main/1732-find-the-highest-altitude/) | Easy |
+| [3940-limit-occurrences-in-sorted-array](https://github.com/imrajeevnayan/leetcode-solution/tree/main/3940-limit-occurrences-in-sorted-array/) | Easy |
 ## Prefix Sum
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1732-find-the-highest-altitude](https://github.com/imrajeevnayan/leetcode-solution/tree/main/1732-find-the-highest-altitude/) | Easy |
+## Two Pointers
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3940-limit-occurrences-in-sorted-array](https://github.com/imrajeevnayan/leetcode-solution/tree/main/3940-limit-occurrences-in-sorted-array/) | Easy |
 <!---LeetCode Topics End-->
