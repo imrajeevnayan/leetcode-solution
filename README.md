@@ -4,7 +4,7 @@ Automatically organized collection of LeetCode solutions.
 
 ## 📊 Statistics
 
-- **Total Problems Solved:** 181
+- **Total Problems Solved:** 182
 - **Current Streak:** 4 days
 - **Longest Streak:** 14 days
 
@@ -13,7 +13,7 @@ Automatically organized collection of LeetCode solutions.
 #### By Language
 - Sql: 27
 - Javascript: 2
-- Java: 152
+- Java: 153
 
 #### By Topic
 - Database: 27
@@ -27,7 +27,7 @@ Automatically organized collection of LeetCode solutions.
 - String: 16
 - Binary-search: 1
 - Divide-and-conquer: 1
-- Hash-table: 9
+- Hash-table: 10
 - Tree: 3
 
 ## 📂 Solutions
@@ -215,15 +215,4 @@ Automatically organized collection of LeetCode solutions.
 | 3379 | Score Of A String | string | easy | java | [Solution](solutions/java/string/easy/3379_score-of-a-string_string_easy.java) |
 | 4068 | Sum Of Elements With Frequency Divisible By K | array | easy | java | [Solution](solutions/java/array/easy/4068_sum-of-elements-with-frequency-divisible-by-k_array_easy.java) |
 | 4312 | Limit Occurrences In Sorted Array | array | easy | java | [Solution](solutions/java/array/easy/4312_limit-occurrences-in-sorted-array_array_easy.java) |
-
-<!---LeetCode Topics Start-->
-# LeetCode Topics
-## Hash Table
-| Problem Name | Difficulty |
-| ------- | ------- |
-| [3941-password-strength](https://github.com/imrajeevnayan/leetcode-solution/tree/main/3941-password-strength/) | Medium |
-## String
-| Problem Name | Difficulty |
-| ------- | ------- |
-| [3941-password-strength](https://github.com/imrajeevnayan/leetcode-solution/tree/main/3941-password-strength/) | Medium |
-<!---LeetCode Topics End-->
+| 4313 | Password Strength | hash-table | medium | java | [Solution](solutions/java/hash-table/medium/4313_password-strength_hash-table_medium.java) |
