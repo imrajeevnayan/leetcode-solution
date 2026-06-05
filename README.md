@@ -215,3 +215,15 @@ Automatically organized collection of LeetCode solutions.
 | 3379 | Score Of A String | string | easy | java | [Solution](solutions/java/string/easy/3379_score-of-a-string_string_easy.java) |
 | 4068 | Sum Of Elements With Frequency Divisible By K | array | easy | java | [Solution](solutions/java/array/easy/4068_sum-of-elements-with-frequency-divisible-by-k_array_easy.java) |
 | 4312 | Limit Occurrences In Sorted Array | array | easy | java | [Solution](solutions/java/array/easy/4312_limit-occurrences-in-sorted-array_array_easy.java) |
+
+<!---LeetCode Topics Start-->
+# LeetCode Topics
+## Hash Table
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3941-password-strength](https://github.com/imrajeevnayan/leetcode-solution/tree/main/3941-password-strength/) | Medium |
+## String
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3941-password-strength](https://github.com/imrajeevnayan/leetcode-solution/tree/main/3941-password-strength/) | Medium |
+<!---LeetCode Topics End-->
