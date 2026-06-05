@@ -4,7 +4,7 @@ Automatically organized collection of LeetCode solutions.
 
 ## 📊 Statistics
 
-- **Total Problems Solved:** 178
+- **Total Problems Solved:** 179
 - **Current Streak:** 4 days
 - **Longest Streak:** 14 days
 
@@ -13,7 +13,7 @@ Automatically organized collection of LeetCode solutions.
 #### By Language
 - Sql: 27
 - Javascript: 2
-- Java: 149
+- Java: 150
 
 #### By Topic
 - Database: 27
@@ -24,7 +24,7 @@ Automatically organized collection of LeetCode solutions.
 - Linked-list: 7
 - Math: 13
 - Two-pointers: 9
-- String: 15
+- String: 16
 - Binary-search: 1
 - Divide-and-conquer: 1
 - Hash-table: 9
@@ -192,6 +192,7 @@ Automatically organized collection of LeetCode solutions.
 | 1470 | Tweet Counts Per Frequency | hash-table | medium | java | [Solution](solutions/java/hash-table/medium/1470_tweet-counts-per-frequency_hash-table_medium.java) |
 | 1480 | Movie Rating | database | medium | sql | [Solution](solutions/sql/database/medium/1480_movie-rating_database_medium.sql) |
 | 1482 | How Many Numbers Are Smaller Than The Current Number | array | easy | java | [Solution](solutions/java/array/easy/1482_how-many-numbers-are-smaller-than-the-current-number_array_easy.java) |
+| 1567 | Maximum Number Of Vowels In A Substring Of Given Length | string | medium | java | [Solution](solutions/java/string/medium/1567_maximum-number-of-vowels-in-a-substring-of-given-length_string_medium.java) |
 | 1574 | Maximum Product Of Two Elements In An Array | array | easy | java | [Solution](solutions/java/array/easy/1574_maximum-product-of-two-elements-in-an-array_array_easy.java) |
 | 1603 | Running Sum Of 1D Array | array | easy | java | [Solution](solutions/java/array/easy/1603_running-sum-of-1d-array_array_easy.java) |
 | 1631 | Number Of Sub Arrays With Odd Sum | array | medium | java | [Solution](solutions/java/array/medium/1631_number-of-sub-arrays-with-odd-sum_array_medium.java) |
