@@ -230,8 +230,10 @@ Automatically organized collection of LeetCode solutions.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0002-add-two-numbers](https://github.com/imrajeevnayan/leetcode-solution/tree/main/0002-add-two-numbers/) | Medium |
+| [0050-powx-n](https://github.com/imrajeevnayan/leetcode-solution/tree/main/0050-powx-n/) | Medium |
 ## Recursion
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0002-add-two-numbers](https://github.com/imrajeevnayan/leetcode-solution/tree/main/0002-add-two-numbers/) | Medium |
+| [0050-powx-n](https://github.com/imrajeevnayan/leetcode-solution/tree/main/0050-powx-n/) | Medium |
 <!---LeetCode Topics End-->
