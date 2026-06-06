@@ -12,3 +12,19 @@
 | 10 | [Factorial](https://www.geeksforgeeks.org/problems/factorial5739/1?page=1&difficulty=Basic,Easy&status=unsolved&sortBy=submissions) | GeeksForGeeks | Basic | 06 Jun 2026 | 08:35 pm |
 | 11 | [Reverse a Doubly Linked List](https://www.geeksforgeeks.org/problems/reverse-a-doubly-linked-list/1?page=2&difficulty=Basic,Easy&status=unsolved&sortBy=submissions) | GeeksForGeeks | Easy | 06 Jun 2026 | 08:41 pm |
 | 12 | [Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/) | LeetCode | Easy | 06 Jun 2026 | 09:53 pm |
+
+<!---LeetCode Topics Start-->
+# LeetCode Topics
+## Math
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0070-climbing-stairs](https://github.com/imrajeevnayan/leetcode-solution/tree/main/0070-climbing-stairs/) | Easy |
+## Dynamic Programming
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0070-climbing-stairs](https://github.com/imrajeevnayan/leetcode-solution/tree/main/0070-climbing-stairs/) | Easy |
+## Memoization
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0070-climbing-stairs](https://github.com/imrajeevnayan/leetcode-solution/tree/main/0070-climbing-stairs/) | Easy |
+<!---LeetCode Topics End-->
