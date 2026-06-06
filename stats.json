@@ -635,17 +635,18 @@
     "GeeksForGeeks_Stack_using_Linked_List": true,
     "GeeksForGeeks_Previous_Greater_Element": true,
     "GeeksForGeeks_Previous_Smaller_Element": true,
-    "GeeksForGeeks_Sort_a_stack": true
+    "GeeksForGeeks_Sort_a_stack": true,
+    "GeeksForGeeks_Delete_Mid_of_a_Stack": true
   },
-  "totalSolved": 163,
+  "totalSolved": 164,
   "difficultyCounts": {
-    "easy": 58,
+    "easy": 59,
     "medium": 76,
     "hard": 2,
     "basic": 27
   },
   "currentStreak": 5,
-  "todayCount": 1,
+  "todayCount": 2,
   "lastSyncDate": "2026-06-06",
   "maxStreak": 13,
   "activityHistory": {
@@ -666,7 +667,7 @@
     "2026-06-03": 11,
     "2026-06-04": 4,
     "2026-06-05": 3,
-    "2026-06-06": 1
+    "2026-06-06": 2
   },
   "todayProblems": [
     "Most Frequent Character",
@@ -830,6 +831,7 @@
     "Stack using Linked List",
     "Previous Greater Element",
     "Previous Smaller Element",
-    "Sort a stack"
+    "Sort a stack",
+    "Delete Mid of a Stack"
   ]
 }
