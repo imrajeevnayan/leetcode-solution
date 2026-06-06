@@ -645,17 +645,18 @@
     "GeeksForGeeks_Queue_Reversal": true,
     "GeeksForGeeks_Frequency_in_Queue": true,
     "GeeksForGeeks_Factorial": true,
-    "GeeksForGeeks_Reverse_a_Doubly_Linked_List": true
+    "GeeksForGeeks_Reverse_a_Doubly_Linked_List": true,
+    "LeetCode_Best_Time_to_Buy_and_Sell_Stock": true
   },
-  "totalSolved": 173,
+  "totalSolved": 174,
   "difficultyCounts": {
-    "easy": 63,
+    "easy": 64,
     "medium": 79,
     "hard": 2,
     "basic": 29
   },
   "currentStreak": 5,
-  "todayCount": 11,
+  "todayCount": 12,
   "lastSyncDate": "2026-06-06",
   "maxStreak": 13,
   "activityHistory": {
@@ -676,7 +677,7 @@
     "2026-06-03": 11,
     "2026-06-04": 4,
     "2026-06-05": 3,
-    "2026-06-06": 11
+    "2026-06-06": 12
   },
   "todayProblems": [
     "Most Frequent Character",
@@ -850,6 +851,7 @@
     "Queue Reversal",
     "Frequency in Queue",
     "Factorial",
-    "Reverse a Doubly Linked List"
+    "Reverse a Doubly Linked List",
+    "Best Time to Buy and Sell Stock"
   ]
 }
