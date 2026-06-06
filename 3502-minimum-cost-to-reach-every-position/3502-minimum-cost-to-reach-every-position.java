@@ -5,11 +5,10 @@ class Solution {
         
         if (n == 0) return ans;
         ans[0] = cost[0];
-        
+
         for (int i = 1; i < n; i++) {
             ans[i] = Math.min(ans[i - 1], cost[i]);
         }
-        
         return ans;
     }
 }
