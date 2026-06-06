@@ -4,8 +4,8 @@ Automatically organized collection of LeetCode solutions.
 
 ## 📊 Statistics
 
-- **Total Problems Solved:** 187
-- **Current Streak:** 4 days
+- **Total Problems Solved:** 188
+- **Current Streak:** 5 days
 - **Longest Streak:** 14 days
 
 ### 🧩 Breakdown
@@ -13,12 +13,13 @@ Automatically organized collection of LeetCode solutions.
 #### By Language
 - Sql: 27
 - Javascript: 2
-- Java: 158
+- Java: 159
 
 #### By Topic
 - Database: 27
 - Array: 93
 - General: 1
+- Bit-manipulation: 1
 - Stack: 1
 - Dynamic-programming: 1
 - Linked-list: 9
@@ -177,6 +178,7 @@ Automatically organized collection of LeetCode solutions.
 | 1019 | Squares Of A Sorted Array | array | easy | java | [Solution](solutions/java/array/easy/1019_squares-of-a-sorted-array_array_easy.java) |
 | 1036 | Rotting Oranges | array | medium | java | [Solution](solutions/java/array/medium/1036_rotting-oranges_array_medium.java) |
 | 1046 | Max Consecutive Ones Iii | array | medium | java | [Solution](solutions/java/array/medium/1046_max-consecutive-ones-iii_array_medium.java) |
+| 1054 | Complement Of Base 10 Integer | bit-manipulation | easy | java | [Solution](solutions/java/bit-manipulation/easy/1054_complement-of-base-10-integer_bit-manipulation_easy.java) |
 | 1078 | Remove Outermost Parentheses | string | easy | java | [Solution](solutions/java/string/easy/1078_remove-outermost-parentheses_string_easy.java) |
 | 1127 | Last Stone Weight | array | easy | java | [Solution](solutions/java/array/easy/1127_last-stone-weight_array_easy.java) |
 | 1128 | Remove All Adjacent Duplicates In String | string | easy | java | [Solution](solutions/java/string/easy/1128_remove-all-adjacent-duplicates-in-string_string_easy.java) |
@@ -221,11 +223,3 @@ Automatically organized collection of LeetCode solutions.
 | 4184 | Minimum Operations To Sort A Permutation | array | medium | java | [Solution](solutions/java/array/medium/4184_minimum-operations-to-sort-a-permutation_array_medium.java) |
 | 4312 | Limit Occurrences In Sorted Array | array | easy | java | [Solution](solutions/java/array/easy/4312_limit-occurrences-in-sorted-array_array_easy.java) |
 | 4313 | Password Strength | hash-table | medium | java | [Solution](solutions/java/hash-table/medium/4313_password-strength_hash-table_medium.java) |
-
-<!---LeetCode Topics Start-->
-# LeetCode Topics
-## Bit Manipulation
-| Problem Name | Difficulty |
-| ------- | ------- |
-| [1009-complement-of-base-10-integer](https://github.com/imrajeevnayan/leetcode-solution/tree/main/1009-complement-of-base-10-integer/) | Easy |
-<!---LeetCode Topics End-->
