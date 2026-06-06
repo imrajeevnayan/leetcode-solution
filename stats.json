@@ -643,17 +643,18 @@
     "GeeksForGeeks_Queue_Using_Array": true,
     "GeeksForGeeks_Queue_using_Linked_List": true,
     "GeeksForGeeks_Queue_Reversal": true,
-    "GeeksForGeeks_Frequency_in_Queue": true
+    "GeeksForGeeks_Frequency_in_Queue": true,
+    "GeeksForGeeks_Factorial": true
   },
-  "totalSolved": 171,
+  "totalSolved": 172,
   "difficultyCounts": {
     "easy": 62,
     "medium": 79,
     "hard": 2,
-    "basic": 28
+    "basic": 29
   },
   "currentStreak": 5,
-  "todayCount": 9,
+  "todayCount": 10,
   "lastSyncDate": "2026-06-06",
   "maxStreak": 13,
   "activityHistory": {
@@ -674,7 +675,7 @@
     "2026-06-03": 11,
     "2026-06-04": 4,
     "2026-06-05": 3,
-    "2026-06-06": 9
+    "2026-06-06": 10
   },
   "todayProblems": [
     "Most Frequent Character",
@@ -846,6 +847,7 @@
     "Queue Using Array",
     "Queue using Linked List",
     "Queue Reversal",
-    "Frequency in Queue"
+    "Frequency in Queue",
+    "Factorial"
   ]
 }
