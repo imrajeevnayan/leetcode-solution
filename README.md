@@ -4,7 +4,7 @@ Automatically organized collection of LeetCode solutions.
 
 ## 📊 Statistics
 
-- **Total Problems Solved:** 188
+- **Total Problems Solved:** 189
 - **Current Streak:** 5 days
 - **Longest Streak:** 14 days
 
@@ -13,7 +13,7 @@ Automatically organized collection of LeetCode solutions.
 #### By Language
 - Sql: 27
 - Javascript: 2
-- Java: 159
+- Java: 160
 
 #### By Topic
 - Database: 27
@@ -29,7 +29,7 @@ Automatically organized collection of LeetCode solutions.
 - Binary-search: 1
 - Divide-and-conquer: 1
 - Hash-table: 10
-- Tree: 3
+- Tree: 4
 
 ## 📂 Solutions
 
@@ -137,6 +137,7 @@ Automatically organized collection of LeetCode solutions.
 | 380 | Insert Delete Getrandom O(1) | array | medium | java | [Solution](solutions/java/array/medium/380_insert-delete-getrandom-o(1)_array_medium.java) |
 | 392 | Is Subsequence | two-pointers | easy | java | [Solution](solutions/java/two-pointers/easy/392_is-subsequence_two-pointers_easy.java) |
 | 394 | Decode String | string | medium | java | [Solution](solutions/java/string/medium/394_decode-string_string_medium.java) |
+| 404 | Sum Of Left Leaves | tree | easy | java | [Solution](solutions/java/tree/easy/404_sum-of-left-leaves_tree_easy.java) |
 | 424 | Longest Repeating Character Replacement | hash-table | medium | java | [Solution](solutions/java/hash-table/medium/424_longest-repeating-character-replacement_hash-table_medium.java) |
 | 442 | Find All Duplicates In An Array | array | medium | java | [Solution](solutions/java/array/medium/442_find-all-duplicates-in-an-array_array_medium.java) |
 | 448 | Find All Numbers Disappeared In An Array | array | easy | java | [Solution](solutions/java/array/easy/448_find-all-numbers-disappeared-in-an-array_array_easy.java) |
@@ -223,39 +224,3 @@ Automatically organized collection of LeetCode solutions.
 | 4184 | Minimum Operations To Sort A Permutation | array | medium | java | [Solution](solutions/java/array/medium/4184_minimum-operations-to-sort-a-permutation_array_medium.java) |
 | 4312 | Limit Occurrences In Sorted Array | array | easy | java | [Solution](solutions/java/array/easy/4312_limit-occurrences-in-sorted-array_array_easy.java) |
 | 4313 | Password Strength | hash-table | medium | java | [Solution](solutions/java/hash-table/medium/4313_password-strength_hash-table_medium.java) |
-
-<!---LeetCode Topics Start-->
-# LeetCode Topics
-## Linked List
-| Problem Name | Difficulty |
-| ------- | ------- |
-| [0083-remove-duplicates-from-sorted-list](https://github.com/imrajeevnayan/leetcode-solution/tree/main/0083-remove-duplicates-from-sorted-list/) | Easy |
-## Array
-| Problem Name | Difficulty |
-| ------- | ------- |
-| [0219-contains-duplicate-ii](https://github.com/imrajeevnayan/leetcode-solution/tree/main/0219-contains-duplicate-ii/) | Easy |
-## Hash Table
-| Problem Name | Difficulty |
-| ------- | ------- |
-| [0219-contains-duplicate-ii](https://github.com/imrajeevnayan/leetcode-solution/tree/main/0219-contains-duplicate-ii/) | Easy |
-## Sliding Window
-| Problem Name | Difficulty |
-| ------- | ------- |
-| [0219-contains-duplicate-ii](https://github.com/imrajeevnayan/leetcode-solution/tree/main/0219-contains-duplicate-ii/) | Easy |
-## Tree
-| Problem Name | Difficulty |
-| ------- | ------- |
-| [0404-sum-of-left-leaves](https://github.com/imrajeevnayan/leetcode-solution/tree/main/0404-sum-of-left-leaves/) | Easy |
-## Depth-First Search
-| Problem Name | Difficulty |
-| ------- | ------- |
-| [0404-sum-of-left-leaves](https://github.com/imrajeevnayan/leetcode-solution/tree/main/0404-sum-of-left-leaves/) | Easy |
-## Breadth-First Search
-| Problem Name | Difficulty |
-| ------- | ------- |
-| [0404-sum-of-left-leaves](https://github.com/imrajeevnayan/leetcode-solution/tree/main/0404-sum-of-left-leaves/) | Easy |
-## Binary Tree
-| Problem Name | Difficulty |
-| ------- | ------- |
-| [0404-sum-of-left-leaves](https://github.com/imrajeevnayan/leetcode-solution/tree/main/0404-sum-of-left-leaves/) | Easy |
-<!---LeetCode Topics End-->
