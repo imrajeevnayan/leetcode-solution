@@ -232,6 +232,7 @@ Automatically organized collection of LeetCode solutions.
 | ------- | ------- |
 | [0268-missing-number](https://github.com/imrajeevnayan/leetcode-solution/tree/main/0268-missing-number/) | Easy |
 | [0485-max-consecutive-ones](https://github.com/imrajeevnayan/leetcode-solution/tree/main/0485-max-consecutive-ones/) | Easy |
+| [3502-minimum-cost-to-reach-every-position](https://github.com/imrajeevnayan/leetcode-solution/tree/main/3502-minimum-cost-to-reach-every-position/) | Easy |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
