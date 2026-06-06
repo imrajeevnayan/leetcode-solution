@@ -242,4 +242,20 @@ Automatically organized collection of LeetCode solutions.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0219-contains-duplicate-ii](https://github.com/imrajeevnayan/leetcode-solution/tree/main/0219-contains-duplicate-ii/) | Easy |
+## Tree
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0404-sum-of-left-leaves](https://github.com/imrajeevnayan/leetcode-solution/tree/main/0404-sum-of-left-leaves/) | Easy |
+## Depth-First Search
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0404-sum-of-left-leaves](https://github.com/imrajeevnayan/leetcode-solution/tree/main/0404-sum-of-left-leaves/) | Easy |
+## Breadth-First Search
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0404-sum-of-left-leaves](https://github.com/imrajeevnayan/leetcode-solution/tree/main/0404-sum-of-left-leaves/) | Easy |
+## Binary Tree
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0404-sum-of-left-leaves](https://github.com/imrajeevnayan/leetcode-solution/tree/main/0404-sum-of-left-leaves/) | Easy |
 <!---LeetCode Topics End-->
