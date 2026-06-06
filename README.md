@@ -7,3 +7,4 @@
 | 5 | [Reverse first K of a Queue](https://www.geeksforgeeks.org/problems/reverse-first-k-elements-of-queue/1) | GeeksForGeeks | Easy | 06 Jun 2026 | 05:11 pm |
 | 6 | [Queue Using Array](https://www.geeksforgeeks.org/problems/implement-queue-using-array/1?page=1&category=Queue&sortBy=difficulty) | GeeksForGeeks | Basic | 06 Jun 2026 | 05:18 pm |
 | 7 | [Queue using Linked List](https://www.geeksforgeeks.org/problems/implement-queue-using-linked-list/1?page=1&category=Queue&sortBy=difficulty) | GeeksForGeeks | Medium | 06 Jun 2026 | 05:19 pm |
+| 8 | [Queue Reversal](https://www.geeksforgeeks.org/problems/queue-reversal/1?page=1&category=Queue&sortBy=difficulty) | GeeksForGeeks | Medium | 06 Jun 2026 | 05:20 pm |

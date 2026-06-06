@@ -641,17 +641,18 @@
     "GeeksForGeeks_Queue_using_two_Stacks": true,
     "GeeksForGeeks_Reverse_first_K_of_a_Queue": true,
     "GeeksForGeeks_Queue_Using_Array": true,
-    "GeeksForGeeks_Queue_using_Linked_List": true
+    "GeeksForGeeks_Queue_using_Linked_List": true,
+    "GeeksForGeeks_Queue_Reversal": true
   },
-  "totalSolved": 169,
+  "totalSolved": 170,
   "difficultyCounts": {
     "easy": 61,
-    "medium": 78,
+    "medium": 79,
     "hard": 2,
     "basic": 28
   },
   "currentStreak": 5,
-  "todayCount": 7,
+  "todayCount": 8,
   "lastSyncDate": "2026-06-06",
   "maxStreak": 13,
   "activityHistory": {
@@ -672,7 +673,7 @@
     "2026-06-03": 11,
     "2026-06-04": 4,
     "2026-06-05": 3,
-    "2026-06-06": 7
+    "2026-06-06": 8
   },
   "todayProblems": [
     "Most Frequent Character",
@@ -842,6 +843,7 @@
     "Queue using two Stacks",
     "Reverse first K of a Queue",
     "Queue Using Array",
-    "Queue using Linked List"
+    "Queue using Linked List",
+    "Queue Reversal"
   ]
 }
