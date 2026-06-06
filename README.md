@@ -4,3 +4,4 @@
 | 2 | [Delete Mid of a Stack](https://www.geeksforgeeks.org/problems/delete-middle-element-of-a-stack/1) | GeeksForGeeks | Easy | 06 Jun 2026 | 05:03 pm |
 | 3 | [Stack using Queue](https://www.geeksforgeeks.org/problems/stack-using-queue/1) | GeeksForGeeks | Medium | 06 Jun 2026 | 05:07 pm |
 | 4 | [Queue using two Stacks](https://www.geeksforgeeks.org/problems/queue-using-two-stacks/1) | GeeksForGeeks | Easy | 06 Jun 2026 | 05:09 pm |
+| 5 | [Reverse first K of a Queue](https://www.geeksforgeeks.org/problems/reverse-first-k-elements-of-queue/1) | GeeksForGeeks | Easy | 06 Jun 2026 | 05:11 pm |
