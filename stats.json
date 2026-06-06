@@ -637,17 +637,18 @@
     "GeeksForGeeks_Previous_Smaller_Element": true,
     "GeeksForGeeks_Sort_a_stack": true,
     "GeeksForGeeks_Delete_Mid_of_a_Stack": true,
-    "GeeksForGeeks_Stack_using_Queue": true
+    "GeeksForGeeks_Stack_using_Queue": true,
+    "GeeksForGeeks_Queue_using_two_Stacks": true
   },
-  "totalSolved": 165,
+  "totalSolved": 166,
   "difficultyCounts": {
-    "easy": 59,
+    "easy": 60,
     "medium": 77,
     "hard": 2,
     "basic": 27
   },
   "currentStreak": 5,
-  "todayCount": 3,
+  "todayCount": 4,
   "lastSyncDate": "2026-06-06",
   "maxStreak": 13,
   "activityHistory": {
@@ -668,7 +669,7 @@
     "2026-06-03": 11,
     "2026-06-04": 4,
     "2026-06-05": 3,
-    "2026-06-06": 3
+    "2026-06-06": 4
   },
   "todayProblems": [
     "Most Frequent Character",
@@ -834,6 +835,7 @@
     "Previous Smaller Element",
     "Sort a stack",
     "Delete Mid of a Stack",
-    "Stack using Queue"
+    "Stack using Queue",
+    "Queue using two Stacks"
   ]
 }
