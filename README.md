@@ -4,7 +4,7 @@ Automatically organized collection of LeetCode solutions.
 
 ## 📊 Statistics
 
-- **Total Problems Solved:** 192
+- **Total Problems Solved:** 193
 - **Current Streak:** 5 days
 - **Longest Streak:** 14 days
 
@@ -13,11 +13,11 @@ Automatically organized collection of LeetCode solutions.
 #### By Language
 - Sql: 27
 - Javascript: 2
-- Java: 163
+- Java: 164
 
 #### By Topic
 - Database: 27
-- Array: 96
+- Array: 97
 - General: 1
 - Bit-manipulation: 1
 - Stack: 1
@@ -112,6 +112,7 @@ Automatically organized collection of LeetCode solutions.
 | 191 | Number Of 1 Bits | divide-and-conquer | easy | java | [Solution](solutions/java/divide-and-conquer/easy/191_number-of-1-bits_divide-and-conquer_easy.java) |
 | 196 | Delete Duplicate Emails | database | easy | sql | [Solution](solutions/sql/database/easy/196_delete-duplicate-emails_database_easy.sql) |
 | 198 | House Robber | array | medium | java | [Solution](solutions/java/array/medium/198_house-robber_array_medium.java) |
+| 204 | Count Primes | array | medium | java | [Solution](solutions/java/array/medium/204_count-primes_array_medium.java) |
 | 206 | Reverse Linked List | linked-list | easy | java | [Solution](solutions/java/linked-list/easy/206_reverse-linked-list_linked-list_easy.java) |
 | 215 | Kth Largest Element In An Array | array | medium | java | [Solution](solutions/java/array/medium/215_kth-largest-element-in-an-array_array_medium.java) |
 | 217 | Contains Duplicate | array | easy | java | [Solution](solutions/java/array/easy/217_contains-duplicate_array_easy.java) |
@@ -227,23 +228,3 @@ Automatically organized collection of LeetCode solutions.
 | 4184 | Minimum Operations To Sort A Permutation | array | medium | java | [Solution](solutions/java/array/medium/4184_minimum-operations-to-sort-a-permutation_array_medium.java) |
 | 4312 | Limit Occurrences In Sorted Array | array | easy | java | [Solution](solutions/java/array/easy/4312_limit-occurrences-in-sorted-array_array_easy.java) |
 | 4313 | Password Strength | hash-table | medium | java | [Solution](solutions/java/hash-table/medium/4313_password-strength_hash-table_medium.java) |
-
-<!---LeetCode Topics Start-->
-# LeetCode Topics
-## Array
-| Problem Name | Difficulty |
-| ------- | ------- |
-| [0204-count-primes](https://github.com/imrajeevnayan/leetcode-solution/tree/main/0204-count-primes/) | Medium |
-## Math
-| Problem Name | Difficulty |
-| ------- | ------- |
-| [0204-count-primes](https://github.com/imrajeevnayan/leetcode-solution/tree/main/0204-count-primes/) | Medium |
-## Enumeration
-| Problem Name | Difficulty |
-| ------- | ------- |
-| [0204-count-primes](https://github.com/imrajeevnayan/leetcode-solution/tree/main/0204-count-primes/) | Medium |
-## Number Theory
-| Problem Name | Difficulty |
-| ------- | ------- |
-| [0204-count-primes](https://github.com/imrajeevnayan/leetcode-solution/tree/main/0204-count-primes/) | Medium |
-<!---LeetCode Topics End-->
