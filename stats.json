@@ -639,17 +639,18 @@
     "GeeksForGeeks_Delete_Mid_of_a_Stack": true,
     "GeeksForGeeks_Stack_using_Queue": true,
     "GeeksForGeeks_Queue_using_two_Stacks": true,
-    "GeeksForGeeks_Reverse_first_K_of_a_Queue": true
+    "GeeksForGeeks_Reverse_first_K_of_a_Queue": true,
+    "GeeksForGeeks_Queue_Using_Array": true
   },
-  "totalSolved": 167,
+  "totalSolved": 168,
   "difficultyCounts": {
     "easy": 61,
     "medium": 77,
     "hard": 2,
-    "basic": 27
+    "basic": 28
   },
   "currentStreak": 5,
-  "todayCount": 5,
+  "todayCount": 6,
   "lastSyncDate": "2026-06-06",
   "maxStreak": 13,
   "activityHistory": {
@@ -670,7 +671,7 @@
     "2026-06-03": 11,
     "2026-06-04": 4,
     "2026-06-05": 3,
-    "2026-06-06": 5
+    "2026-06-06": 6
   },
   "todayProblems": [
     "Most Frequent Character",
@@ -838,6 +839,7 @@
     "Delete Mid of a Stack",
     "Stack using Queue",
     "Queue using two Stacks",
-    "Reverse first K of a Queue"
+    "Reverse first K of a Queue",
+    "Queue Using Array"
   ]
 }
