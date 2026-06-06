@@ -11,3 +11,15 @@
 | 9 | [Frequency in Queue](https://www.geeksforgeeks.org/problems/queue-operations/1?page=1&category=Queue&sortBy=difficulty) | GeeksForGeeks | Easy | 06 Jun 2026 | 05:21 pm |
 | 10 | [Factorial](https://www.geeksforgeeks.org/problems/factorial5739/1?page=1&difficulty=Basic,Easy&status=unsolved&sortBy=submissions) | GeeksForGeeks | Basic | 06 Jun 2026 | 08:35 pm |
 | 11 | [Reverse a Doubly Linked List](https://www.geeksforgeeks.org/problems/reverse-a-doubly-linked-list/1?page=2&difficulty=Basic,Easy&status=unsolved&sortBy=submissions) | GeeksForGeeks | Easy | 06 Jun 2026 | 08:41 pm |
+
+<!---LeetCode Topics Start-->
+# LeetCode Topics
+## Array
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/imrajeevnayan/leetcode-solution/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
+## Dynamic Programming
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/imrajeevnayan/leetcode-solution/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
+<!---LeetCode Topics End-->
