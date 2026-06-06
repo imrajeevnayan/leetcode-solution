@@ -634,18 +634,19 @@
     "GeeksForGeeks_Min_Add_to_Make_Parentheses_Valid": true,
     "GeeksForGeeks_Stack_using_Linked_List": true,
     "GeeksForGeeks_Previous_Greater_Element": true,
-    "GeeksForGeeks_Previous_Smaller_Element": true
+    "GeeksForGeeks_Previous_Smaller_Element": true,
+    "GeeksForGeeks_Sort_a_stack": true
   },
-  "totalSolved": 162,
+  "totalSolved": 163,
   "difficultyCounts": {
     "easy": 58,
-    "medium": 75,
+    "medium": 76,
     "hard": 2,
     "basic": 27
   },
-  "currentStreak": 4,
-  "todayCount": 3,
-  "lastSyncDate": "2026-06-05",
+  "currentStreak": 5,
+  "todayCount": 1,
+  "lastSyncDate": "2026-06-06",
   "maxStreak": 13,
   "activityHistory": {
     "2026-05-19": 2,
@@ -664,7 +665,8 @@
     "2026-06-02": 7,
     "2026-06-03": 11,
     "2026-06-04": 4,
-    "2026-06-05": 3
+    "2026-06-05": 3,
+    "2026-06-06": 1
   },
   "todayProblems": [
     "Most Frequent Character",
@@ -827,6 +829,7 @@
     "Min Add to Make Parentheses Valid",
     "Stack using Linked List",
     "Previous Greater Element",
-    "Previous Smaller Element"
+    "Previous Smaller Element",
+    "Sort a stack"
   ]
 }
