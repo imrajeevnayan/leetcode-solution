@@ -27,4 +27,20 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0070-climbing-stairs](https://github.com/imrajeevnayan/leetcode-solution/tree/main/0070-climbing-stairs/) | Easy |
+## Array
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0179-largest-number](https://github.com/imrajeevnayan/leetcode-solution/tree/main/0179-largest-number/) | Medium |
+## String
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0179-largest-number](https://github.com/imrajeevnayan/leetcode-solution/tree/main/0179-largest-number/) | Medium |
+## Greedy
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0179-largest-number](https://github.com/imrajeevnayan/leetcode-solution/tree/main/0179-largest-number/) | Medium |
+## Sorting
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0179-largest-number](https://github.com/imrajeevnayan/leetcode-solution/tree/main/0179-largest-number/) | Medium |
 <!---LeetCode Topics End-->
