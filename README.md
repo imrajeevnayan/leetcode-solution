@@ -247,4 +247,16 @@ Automatically organized collection of LeetCode solutions.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0516-longest-palindromic-subsequence](https://github.com/imrajeevnayan/leetcode-solution/tree/main/0516-longest-palindromic-subsequence/) | Medium |
+## Array
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/imrajeevnayan/leetcode-solution/tree/main/1979-find-greatest-common-divisor-of-array/) | Easy |
+## Math
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/imrajeevnayan/leetcode-solution/tree/main/1979-find-greatest-common-divisor-of-array/) | Easy |
+## Number Theory
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/imrajeevnayan/leetcode-solution/tree/main/1979-find-greatest-common-divisor-of-array/) | Easy |
 <!---LeetCode Topics End-->
