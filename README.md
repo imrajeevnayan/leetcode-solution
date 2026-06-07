@@ -4,7 +4,7 @@ Automatically organized collection of LeetCode solutions.
 
 ## 📊 Statistics
 
-- **Total Problems Solved:** 196
+- **Total Problems Solved:** 197
 - **Current Streak:** 6 days
 - **Longest Streak:** 14 days
 
@@ -13,7 +13,7 @@ Automatically organized collection of LeetCode solutions.
 #### By Language
 - Sql: 27
 - Javascript: 2
-- Java: 167
+- Java: 168
 
 #### By Topic
 - Database: 27
@@ -28,7 +28,7 @@ Automatically organized collection of LeetCode solutions.
 - String: 17
 - Binary-search: 1
 - Divide-and-conquer: 1
-- Hash-table: 10
+- Hash-table: 11
 - Tree: 4
 
 ## 📂 Solutions
@@ -137,6 +137,7 @@ Automatically organized collection of LeetCode solutions.
 | 347 | Top K Frequent Elements | array | medium | java | [Solution](solutions/java/array/medium/347_top-k-frequent-elements_array_medium.java) |
 | 371 | Sum Of Two Integers | math | medium | java | [Solution](solutions/java/math/medium/371_sum-of-two-integers_math_medium.java) |
 | 380 | Insert Delete Getrandom O(1) | array | medium | java | [Solution](solutions/java/array/medium/380_insert-delete-getrandom-o(1)_array_medium.java) |
+| 389 | Find The Difference | hash-table | easy | java | [Solution](solutions/java/hash-table/easy/389_find-the-difference_hash-table_easy.java) |
 | 392 | Is Subsequence | two-pointers | easy | java | [Solution](solutions/java/two-pointers/easy/392_is-subsequence_two-pointers_easy.java) |
 | 394 | Decode String | string | medium | java | [Solution](solutions/java/string/medium/394_decode-string_string_medium.java) |
 | 400 | Nth Digit | math | medium | java | [Solution](solutions/java/math/medium/400_nth-digit_math_medium.java) |
@@ -231,32 +232,3 @@ Automatically organized collection of LeetCode solutions.
 | 4184 | Minimum Operations To Sort A Permutation | array | medium | java | [Solution](solutions/java/array/medium/4184_minimum-operations-to-sort-a-permutation_array_medium.java) |
 | 4312 | Limit Occurrences In Sorted Array | array | easy | java | [Solution](solutions/java/array/easy/4312_limit-occurrences-in-sorted-array_array_easy.java) |
 | 4313 | Password Strength | hash-table | medium | java | [Solution](solutions/java/hash-table/medium/4313_password-strength_hash-table_medium.java) |
-
-<!---LeetCode Topics Start-->
-# LeetCode Topics
-## Array
-| Problem Name | Difficulty |
-| ------- | ------- |
-| [0219-contains-duplicate-ii](https://github.com/imrajeevnayan/leetcode-solution/tree/main/0219-contains-duplicate-ii/) | Easy |
-## Hash Table
-| Problem Name | Difficulty |
-| ------- | ------- |
-| [0219-contains-duplicate-ii](https://github.com/imrajeevnayan/leetcode-solution/tree/main/0219-contains-duplicate-ii/) | Easy |
-| [0389-find-the-difference](https://github.com/imrajeevnayan/leetcode-solution/tree/main/0389-find-the-difference/) | Easy |
-## Sliding Window
-| Problem Name | Difficulty |
-| ------- | ------- |
-| [0219-contains-duplicate-ii](https://github.com/imrajeevnayan/leetcode-solution/tree/main/0219-contains-duplicate-ii/) | Easy |
-## String
-| Problem Name | Difficulty |
-| ------- | ------- |
-| [0389-find-the-difference](https://github.com/imrajeevnayan/leetcode-solution/tree/main/0389-find-the-difference/) | Easy |
-## Bit Manipulation
-| Problem Name | Difficulty |
-| ------- | ------- |
-| [0389-find-the-difference](https://github.com/imrajeevnayan/leetcode-solution/tree/main/0389-find-the-difference/) | Easy |
-## Sorting
-| Problem Name | Difficulty |
-| ------- | ------- |
-| [0389-find-the-difference](https://github.com/imrajeevnayan/leetcode-solution/tree/main/0389-find-the-difference/) | Easy |
-<!---LeetCode Topics End-->
