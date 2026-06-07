@@ -236,6 +236,7 @@ Automatically organized collection of LeetCode solutions.
 | ------- | ------- |
 | [0049-group-anagrams](https://github.com/imrajeevnayan/leetcode-solution/tree/main/0049-group-anagrams/) | Medium |
 | [0056-merge-intervals](https://github.com/imrajeevnayan/leetcode-solution/tree/main/0056-merge-intervals/) | Medium |
+| [2951-find-the-peaks](https://github.com/imrajeevnayan/leetcode-solution/tree/main/2951-find-the-peaks/) | Easy |
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -249,4 +250,8 @@ Automatically organized collection of LeetCode solutions.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0049-group-anagrams](https://github.com/imrajeevnayan/leetcode-solution/tree/main/0049-group-anagrams/) | Medium |
+## Enumeration
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [2951-find-the-peaks](https://github.com/imrajeevnayan/leetcode-solution/tree/main/2951-find-the-peaks/) | Easy |
 <!---LeetCode Topics End-->
