@@ -4,7 +4,7 @@ Automatically organized collection of LeetCode solutions.
 
 ## 📊 Statistics
 
-- **Total Problems Solved:** 200
+- **Total Problems Solved:** 201
 - **Current Streak:** 6 days
 - **Longest Streak:** 14 days
 
@@ -13,7 +13,7 @@ Automatically organized collection of LeetCode solutions.
 #### By Language
 - Sql: 27
 - Javascript: 2
-- Java: 171
+- Java: 172
 
 #### By Topic
 - Database: 27
@@ -25,7 +25,7 @@ Automatically organized collection of LeetCode solutions.
 - Linked-list: 10
 - Math: 15
 - Two-pointers: 9
-- String: 18
+- String: 19
 - Binary-search: 1
 - Divide-and-conquer: 1
 - Hash-table: 12
@@ -152,6 +152,7 @@ Automatically organized collection of LeetCode solutions.
 | 496 | Next Greater Element I | array | easy | java | [Solution](solutions/java/array/easy/496_next-greater-element-i_array_easy.java) |
 | 503 | Next Greater Element Ii | array | medium | java | [Solution](solutions/java/array/medium/503_next-greater-element-ii_array_medium.java) |
 | 507 | Perfect Number | math | easy | java | [Solution](solutions/java/math/easy/507_perfect-number_math_easy.java) |
+| 516 | Longest Palindromic Subsequence | string | medium | java | [Solution](solutions/java/string/medium/516_longest-palindromic-subsequence_string_medium.java) |
 | 557 | Reverse Words In A String Iii | two-pointers | easy | java | [Solution](solutions/java/two-pointers/easy/557_reverse-words-in-a-string-iii_two-pointers_easy.java) |
 | 560 | Subarray Sum Equals K | array | medium | java | [Solution](solutions/java/array/medium/560_subarray-sum-equals-k_array_medium.java) |
 | 561 | Array Partition | array | easy | java | [Solution](solutions/java/array/easy/561_array-partition_array_easy.java) |
