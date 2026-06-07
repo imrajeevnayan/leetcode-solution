@@ -4,7 +4,7 @@ Automatically organized collection of LeetCode solutions.
 
 ## 📊 Statistics
 
-- **Total Problems Solved:** 203
+- **Total Problems Solved:** 204
 - **Current Streak:** 6 days
 - **Longest Streak:** 14 days
 
@@ -13,7 +13,7 @@ Automatically organized collection of LeetCode solutions.
 #### By Language
 - Sql: 27
 - Javascript: 2
-- Java: 174
+- Java: 175
 
 #### By Topic
 - Database: 27
@@ -23,7 +23,7 @@ Automatically organized collection of LeetCode solutions.
 - Stack: 1
 - Dynamic-programming: 1
 - Linked-list: 10
-- Math: 15
+- Math: 16
 - Two-pointers: 9
 - String: 19
 - Binary-search: 1
@@ -220,6 +220,7 @@ Automatically organized collection of LeetCode solutions.
 | 1877 | Find Followers Count | database | easy | sql | [Solution](solutions/sql/database/easy/1877_find-followers-count_database_easy.sql) |
 | 1894 | Merge Strings Alternately | two-pointers | easy | java | [Solution](solutions/java/two-pointers/easy/1894_merge-strings-alternately_two-pointers_easy.java) |
 | 1904 | Second Largest Digit In A String | hash-table | easy | java | [Solution](solutions/java/hash-table/easy/1904_second-largest-digit-in-a-string_hash-table_easy.java) |
+| 2032 | Largest Odd Number In String | math | easy | java | [Solution](solutions/java/math/easy/2032_largest-odd-number-in-string_math_easy.java) |
 | 2058 | Concatenation Of Array | array | easy | java | [Solution](solutions/java/array/easy/2058_concatenation-of-array_array_easy.java) |
 | 2106 | Find Greatest Common Divisor Of Array | array | easy | java | [Solution](solutions/java/array/easy/2106_find-greatest-common-divisor-of-array_array_easy.java) |
 | 2113 | Find The Kth Largest Integer In The Array | array | medium | java | [Solution](solutions/java/array/medium/2113_find-the-kth-largest-integer-in-the-array_array_medium.java) |
@@ -238,19 +239,3 @@ Automatically organized collection of LeetCode solutions.
 | 4184 | Minimum Operations To Sort A Permutation | array | medium | java | [Solution](solutions/java/array/medium/4184_minimum-operations-to-sort-a-permutation_array_medium.java) |
 | 4312 | Limit Occurrences In Sorted Array | array | easy | java | [Solution](solutions/java/array/easy/4312_limit-occurrences-in-sorted-array_array_easy.java) |
 | 4313 | Password Strength | hash-table | medium | java | [Solution](solutions/java/hash-table/medium/4313_password-strength_hash-table_medium.java) |
-
-<!---LeetCode Topics Start-->
-# LeetCode Topics
-## Math
-| Problem Name | Difficulty |
-| ------- | ------- |
-| [1903-largest-odd-number-in-string](https://github.com/imrajeevnayan/leetcode-solution/tree/main/1903-largest-odd-number-in-string/) | Easy |
-## String
-| Problem Name | Difficulty |
-| ------- | ------- |
-| [1903-largest-odd-number-in-string](https://github.com/imrajeevnayan/leetcode-solution/tree/main/1903-largest-odd-number-in-string/) | Easy |
-## Greedy
-| Problem Name | Difficulty |
-| ------- | ------- |
-| [1903-largest-odd-number-in-string](https://github.com/imrajeevnayan/leetcode-solution/tree/main/1903-largest-odd-number-in-string/) | Easy |
-<!---LeetCode Topics End-->
