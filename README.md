@@ -4,7 +4,7 @@ Automatically organized collection of LeetCode solutions.
 
 ## 📊 Statistics
 
-- **Total Problems Solved:** 197
+- **Total Problems Solved:** 198
 - **Current Streak:** 6 days
 - **Longest Streak:** 14 days
 
@@ -13,7 +13,7 @@ Automatically organized collection of LeetCode solutions.
 #### By Language
 - Sql: 27
 - Javascript: 2
-- Java: 168
+- Java: 169
 
 #### By Topic
 - Database: 27
@@ -25,7 +25,7 @@ Automatically organized collection of LeetCode solutions.
 - Linked-list: 10
 - Math: 15
 - Two-pointers: 9
-- String: 17
+- String: 18
 - Binary-search: 1
 - Divide-and-conquer: 1
 - Hash-table: 11
@@ -60,6 +60,7 @@ Automatically organized collection of LeetCode solutions.
 | 33 | Search In Rotated Sorted Array | array | medium | java | [Solution](solutions/java/array/medium/33_search-in-rotated-sorted-array_array_medium.java) |
 | 34 | Find First And Last Position Of Element In Sorted Array | array | medium | java | [Solution](solutions/java/array/medium/34_find-first-and-last-position-of-element-in-sorted-array_array_medium.java) |
 | 35 | Search Insert Position | array | easy | java | [Solution](solutions/java/array/easy/35_search-insert-position_array_easy.java) |
+| 38 | Count And Say | string | medium | java | [Solution](solutions/java/string/medium/38_count-and-say_string_medium.java) |
 | 39 | Combination Sum | array | medium | java | [Solution](solutions/java/array/medium/39_combination-sum_array_medium.java) |
 | 41 | First Missing Positive | array | hard | java | [Solution](solutions/java/array/hard/41_first-missing-positive_array_hard.java) |
 | 42 | Trapping Rain Water | array | hard | java | [Solution](solutions/java/array/hard/42_trapping-rain-water_array_hard.java) |
@@ -232,19 +233,3 @@ Automatically organized collection of LeetCode solutions.
 | 4184 | Minimum Operations To Sort A Permutation | array | medium | java | [Solution](solutions/java/array/medium/4184_minimum-operations-to-sort-a-permutation_array_medium.java) |
 | 4312 | Limit Occurrences In Sorted Array | array | easy | java | [Solution](solutions/java/array/easy/4312_limit-occurrences-in-sorted-array_array_easy.java) |
 | 4313 | Password Strength | hash-table | medium | java | [Solution](solutions/java/hash-table/medium/4313_password-strength_hash-table_medium.java) |
-
-<!---LeetCode Topics Start-->
-# LeetCode Topics
-## Array
-| Problem Name | Difficulty |
-| ------- | ------- |
-| [0035-search-insert-position](https://github.com/imrajeevnayan/leetcode-solution/tree/main/0035-search-insert-position/) | Easy |
-## Binary Search
-| Problem Name | Difficulty |
-| ------- | ------- |
-| [0035-search-insert-position](https://github.com/imrajeevnayan/leetcode-solution/tree/main/0035-search-insert-position/) | Easy |
-## String
-| Problem Name | Difficulty |
-| ------- | ------- |
-| [0038-count-and-say](https://github.com/imrajeevnayan/leetcode-solution/tree/main/0038-count-and-say/) | Medium |
-<!---LeetCode Topics End-->
