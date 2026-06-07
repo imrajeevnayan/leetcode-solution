@@ -4,7 +4,7 @@ Automatically organized collection of LeetCode solutions.
 
 ## 📊 Statistics
 
-- **Total Problems Solved:** 194
+- **Total Problems Solved:** 195
 - **Current Streak:** 6 days
 - **Longest Streak:** 14 days
 
@@ -13,7 +13,7 @@ Automatically organized collection of LeetCode solutions.
 #### By Language
 - Sql: 27
 - Javascript: 2
-- Java: 165
+- Java: 166
 
 #### By Topic
 - Database: 27
@@ -23,7 +23,7 @@ Automatically organized collection of LeetCode solutions.
 - Stack: 1
 - Dynamic-programming: 1
 - Linked-list: 9
-- Math: 14
+- Math: 15
 - Two-pointers: 9
 - String: 17
 - Binary-search: 1
@@ -139,6 +139,7 @@ Automatically organized collection of LeetCode solutions.
 | 380 | Insert Delete Getrandom O(1) | array | medium | java | [Solution](solutions/java/array/medium/380_insert-delete-getrandom-o(1)_array_medium.java) |
 | 392 | Is Subsequence | two-pointers | easy | java | [Solution](solutions/java/two-pointers/easy/392_is-subsequence_two-pointers_easy.java) |
 | 394 | Decode String | string | medium | java | [Solution](solutions/java/string/medium/394_decode-string_string_medium.java) |
+| 400 | Nth Digit | math | medium | java | [Solution](solutions/java/math/medium/400_nth-digit_math_medium.java) |
 | 404 | Sum Of Left Leaves | tree | easy | java | [Solution](solutions/java/tree/easy/404_sum-of-left-leaves_tree_easy.java) |
 | 424 | Longest Repeating Character Replacement | hash-table | medium | java | [Solution](solutions/java/hash-table/medium/424_longest-repeating-character-replacement_hash-table_medium.java) |
 | 442 | Find All Duplicates In An Array | array | medium | java | [Solution](solutions/java/array/medium/442_find-all-duplicates-in-an-array_array_medium.java) |
@@ -229,50 +230,3 @@ Automatically organized collection of LeetCode solutions.
 | 4184 | Minimum Operations To Sort A Permutation | array | medium | java | [Solution](solutions/java/array/medium/4184_minimum-operations-to-sort-a-permutation_array_medium.java) |
 | 4312 | Limit Occurrences In Sorted Array | array | easy | java | [Solution](solutions/java/array/easy/4312_limit-occurrences-in-sorted-array_array_easy.java) |
 | 4313 | Password Strength | hash-table | medium | java | [Solution](solutions/java/hash-table/medium/4313_password-strength_hash-table_medium.java) |
-
-<!---LeetCode Topics Start-->
-# LeetCode Topics
-## Linked List
-| Problem Name | Difficulty |
-| ------- | ------- |
-| [0002-add-two-numbers](https://github.com/imrajeevnayan/leetcode-solution/tree/main/0002-add-two-numbers/) | Medium |
-## Math
-| Problem Name | Difficulty |
-| ------- | ------- |
-| [0002-add-two-numbers](https://github.com/imrajeevnayan/leetcode-solution/tree/main/0002-add-two-numbers/) | Medium |
-| [0400-nth-digit](https://github.com/imrajeevnayan/leetcode-solution/tree/main/0400-nth-digit/) | Medium |
-## Recursion
-| Problem Name | Difficulty |
-| ------- | ------- |
-| [0002-add-two-numbers](https://github.com/imrajeevnayan/leetcode-solution/tree/main/0002-add-two-numbers/) | Medium |
-## Array
-| Problem Name | Difficulty |
-| ------- | ------- |
-| [0215-kth-largest-element-in-an-array](https://github.com/imrajeevnayan/leetcode-solution/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
-| [0217-contains-duplicate](https://github.com/imrajeevnayan/leetcode-solution/tree/main/0217-contains-duplicate/) | Easy |
-## Hash Table
-| Problem Name | Difficulty |
-| ------- | ------- |
-| [0217-contains-duplicate](https://github.com/imrajeevnayan/leetcode-solution/tree/main/0217-contains-duplicate/) | Easy |
-## Sorting
-| Problem Name | Difficulty |
-| ------- | ------- |
-| [0215-kth-largest-element-in-an-array](https://github.com/imrajeevnayan/leetcode-solution/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
-| [0217-contains-duplicate](https://github.com/imrajeevnayan/leetcode-solution/tree/main/0217-contains-duplicate/) | Easy |
-## Binary Search
-| Problem Name | Difficulty |
-| ------- | ------- |
-| [0400-nth-digit](https://github.com/imrajeevnayan/leetcode-solution/tree/main/0400-nth-digit/) | Medium |
-## Divide and Conquer
-| Problem Name | Difficulty |
-| ------- | ------- |
-| [0215-kth-largest-element-in-an-array](https://github.com/imrajeevnayan/leetcode-solution/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
-## Heap (Priority Queue)
-| Problem Name | Difficulty |
-| ------- | ------- |
-| [0215-kth-largest-element-in-an-array](https://github.com/imrajeevnayan/leetcode-solution/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
-## Quickselect
-| Problem Name | Difficulty |
-| ------- | ------- |
-| [0215-kth-largest-element-in-an-array](https://github.com/imrajeevnayan/leetcode-solution/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
-<!---LeetCode Topics End-->
