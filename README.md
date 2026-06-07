@@ -4,7 +4,7 @@ Automatically organized collection of LeetCode solutions.
 
 ## 📊 Statistics
 
-- **Total Problems Solved:** 201
+- **Total Problems Solved:** 202
 - **Current Streak:** 6 days
 - **Longest Streak:** 14 days
 
@@ -13,11 +13,11 @@ Automatically organized collection of LeetCode solutions.
 #### By Language
 - Sql: 27
 - Javascript: 2
-- Java: 172
+- Java: 173
 
 #### By Topic
 - Database: 27
-- Array: 99
+- Array: 100
 - General: 1
 - Bit-manipulation: 1
 - Stack: 1
@@ -220,6 +220,7 @@ Automatically organized collection of LeetCode solutions.
 | 1877 | Find Followers Count | database | easy | sql | [Solution](solutions/sql/database/easy/1877_find-followers-count_database_easy.sql) |
 | 1894 | Merge Strings Alternately | two-pointers | easy | java | [Solution](solutions/java/two-pointers/easy/1894_merge-strings-alternately_two-pointers_easy.java) |
 | 2058 | Concatenation Of Array | array | easy | java | [Solution](solutions/java/array/easy/2058_concatenation-of-array_array_easy.java) |
+| 2106 | Find Greatest Common Divisor Of Array | array | easy | java | [Solution](solutions/java/array/easy/2106_find-greatest-common-divisor-of-array_array_easy.java) |
 | 2113 | Find The Kth Largest Integer In The Array | array | medium | java | [Solution](solutions/java/array/medium/2113_find-the-kth-largest-integer-in-the-array_array_medium.java) |
 | 2216 | Delete The Middle Node Of A Linked List | linked-list | medium | java | [Solution](solutions/java/linked-list/medium/2216_delete-the-middle-node-of-a-linked-list_linked-list_medium.java) |
 | 2331 | Intersection Of Multiple Arrays | array | easy | java | [Solution](solutions/java/array/easy/2331_intersection-of-multiple-arrays_array_easy.java) |
@@ -236,27 +237,3 @@ Automatically organized collection of LeetCode solutions.
 | 4184 | Minimum Operations To Sort A Permutation | array | medium | java | [Solution](solutions/java/array/medium/4184_minimum-operations-to-sort-a-permutation_array_medium.java) |
 | 4312 | Limit Occurrences In Sorted Array | array | easy | java | [Solution](solutions/java/array/easy/4312_limit-occurrences-in-sorted-array_array_easy.java) |
 | 4313 | Password Strength | hash-table | medium | java | [Solution](solutions/java/hash-table/medium/4313_password-strength_hash-table_medium.java) |
-
-<!---LeetCode Topics Start-->
-# LeetCode Topics
-## String
-| Problem Name | Difficulty |
-| ------- | ------- |
-| [0516-longest-palindromic-subsequence](https://github.com/imrajeevnayan/leetcode-solution/tree/main/0516-longest-palindromic-subsequence/) | Medium |
-## Dynamic Programming
-| Problem Name | Difficulty |
-| ------- | ------- |
-| [0516-longest-palindromic-subsequence](https://github.com/imrajeevnayan/leetcode-solution/tree/main/0516-longest-palindromic-subsequence/) | Medium |
-## Array
-| Problem Name | Difficulty |
-| ------- | ------- |
-| [1979-find-greatest-common-divisor-of-array](https://github.com/imrajeevnayan/leetcode-solution/tree/main/1979-find-greatest-common-divisor-of-array/) | Easy |
-## Math
-| Problem Name | Difficulty |
-| ------- | ------- |
-| [1979-find-greatest-common-divisor-of-array](https://github.com/imrajeevnayan/leetcode-solution/tree/main/1979-find-greatest-common-divisor-of-array/) | Easy |
-## Number Theory
-| Problem Name | Difficulty |
-| ------- | ------- |
-| [1979-find-greatest-common-divisor-of-array](https://github.com/imrajeevnayan/leetcode-solution/tree/main/1979-find-greatest-common-divisor-of-array/) | Easy |
-<!---LeetCode Topics End-->
