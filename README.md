@@ -240,8 +240,14 @@ Automatically organized collection of LeetCode solutions.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0041-first-missing-positive](https://github.com/imrajeevnayan/leetcode-solution/tree/main/0041-first-missing-positive/) | Hard |
+| [1636-sort-array-by-increasing-frequency](https://github.com/imrajeevnayan/leetcode-solution/tree/main/1636-sort-array-by-increasing-frequency/) | Easy |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0041-first-missing-positive](https://github.com/imrajeevnayan/leetcode-solution/tree/main/0041-first-missing-positive/) | Hard |
+| [1636-sort-array-by-increasing-frequency](https://github.com/imrajeevnayan/leetcode-solution/tree/main/1636-sort-array-by-increasing-frequency/) | Easy |
+## Sorting
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1636-sort-array-by-increasing-frequency](https://github.com/imrajeevnayan/leetcode-solution/tree/main/1636-sort-array-by-increasing-frequency/) | Easy |
 <!---LeetCode Topics End-->
