@@ -4,7 +4,7 @@ Automatically organized collection of LeetCode solutions.
 
 ## 📊 Statistics
 
-- **Total Problems Solved:** 198
+- **Total Problems Solved:** 199
 - **Current Streak:** 6 days
 - **Longest Streak:** 14 days
 
@@ -13,11 +13,11 @@ Automatically organized collection of LeetCode solutions.
 #### By Language
 - Sql: 27
 - Javascript: 2
-- Java: 169
+- Java: 170
 
 #### By Topic
 - Database: 27
-- Array: 98
+- Array: 99
 - General: 1
 - Bit-manipulation: 1
 - Stack: 1
@@ -212,6 +212,7 @@ Automatically organized collection of LeetCode solutions.
 | 1646 | Kth Missing Positive Number | array | easy | java | [Solution](solutions/java/array/easy/1646_kth-missing-positive-number_array_easy.java) |
 | 1666 | Make The String Great | string | easy | java | [Solution](solutions/java/string/easy/1666_make-the-string-great_string_easy.java) |
 | 1724 | Customer Who Visited But Did Not Make Any Transactions | database | easy | sql | [Solution](solutions/sql/database/easy/1724_customer-who-visited-but-did-not-make-any-transactions_database_easy.sql) |
+| 1741 | Sort Array By Increasing Frequency | array | easy | java | [Solution](solutions/java/array/easy/1741_sort-array-by-increasing-frequency_array_easy.java) |
 | 1811 | Fix Names In A Table | database | easy | sql | [Solution](solutions/sql/database/easy/1811_fix-names-in-a-table_database_easy.sql) |
 | 1833 | Find The Highest Altitude | array | easy | java | [Solution](solutions/java/array/easy/1833_find-the-highest-altitude_array_easy.java) |
 | 1877 | Find Followers Count | database | easy | sql | [Solution](solutions/sql/database/easy/1877_find-followers-count_database_easy.sql) |
@@ -233,21 +234,3 @@ Automatically organized collection of LeetCode solutions.
 | 4184 | Minimum Operations To Sort A Permutation | array | medium | java | [Solution](solutions/java/array/medium/4184_minimum-operations-to-sort-a-permutation_array_medium.java) |
 | 4312 | Limit Occurrences In Sorted Array | array | easy | java | [Solution](solutions/java/array/easy/4312_limit-occurrences-in-sorted-array_array_easy.java) |
 | 4313 | Password Strength | hash-table | medium | java | [Solution](solutions/java/hash-table/medium/4313_password-strength_hash-table_medium.java) |
-
-<!---LeetCode Topics Start-->
-# LeetCode Topics
-## Array
-| Problem Name | Difficulty |
-| ------- | ------- |
-| [0041-first-missing-positive](https://github.com/imrajeevnayan/leetcode-solution/tree/main/0041-first-missing-positive/) | Hard |
-| [1636-sort-array-by-increasing-frequency](https://github.com/imrajeevnayan/leetcode-solution/tree/main/1636-sort-array-by-increasing-frequency/) | Easy |
-## Hash Table
-| Problem Name | Difficulty |
-| ------- | ------- |
-| [0041-first-missing-positive](https://github.com/imrajeevnayan/leetcode-solution/tree/main/0041-first-missing-positive/) | Hard |
-| [1636-sort-array-by-increasing-frequency](https://github.com/imrajeevnayan/leetcode-solution/tree/main/1636-sort-array-by-increasing-frequency/) | Easy |
-## Sorting
-| Problem Name | Difficulty |
-| ------- | ------- |
-| [1636-sort-array-by-increasing-frequency](https://github.com/imrajeevnayan/leetcode-solution/tree/main/1636-sort-array-by-increasing-frequency/) | Easy |
-<!---LeetCode Topics End-->
