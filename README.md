@@ -4,8 +4,8 @@ Automatically organized collection of LeetCode solutions.
 
 ## 📊 Statistics
 
-- **Total Problems Solved:** 193
-- **Current Streak:** 5 days
+- **Total Problems Solved:** 194
+- **Current Streak:** 6 days
 - **Longest Streak:** 14 days
 
 ### 🧩 Breakdown
@@ -13,11 +13,11 @@ Automatically organized collection of LeetCode solutions.
 #### By Language
 - Sql: 27
 - Javascript: 2
-- Java: 164
+- Java: 165
 
 #### By Topic
 - Database: 27
-- Array: 97
+- Array: 98
 - General: 1
 - Bit-manipulation: 1
 - Stack: 1
@@ -221,6 +221,7 @@ Automatically organized collection of LeetCode solutions.
 | 2646 | Kth Largest Sum In A Binary Tree | tree | medium | java | [Solution](solutions/java/tree/medium/2646_kth-largest-sum-in-a-binary-tree_tree_medium.java) |
 | 2809 | Create Hello World Function | general | easy | javascript | [Solution](solutions/javascript/general/easy/2809_create-hello-world-function_general_easy.js) |
 | 2886 | Faulty Keyboard | string | easy | java | [Solution](solutions/java/string/easy/2886_faulty-keyboard_string_easy.java) |
+| 3221 | Find The Peaks | array | easy | java | [Solution](solutions/java/array/easy/3221_find-the-peaks_array_easy.java) |
 | 3379 | Score Of A String | string | easy | java | [Solution](solutions/java/string/easy/3379_score-of-a-string_string_easy.java) |
 | 3685 | Count Subarrays Of Length Three With A Condition | array | easy | java | [Solution](solutions/java/array/easy/3685_count-subarrays-of-length-three-with-a-condition_array_easy.java) |
 | 3832 | Minimum Cost To Reach Every Position | array | easy | java | [Solution](solutions/java/array/easy/3832_minimum-cost-to-reach-every-position_array_easy.java) |
@@ -228,30 +229,3 @@ Automatically organized collection of LeetCode solutions.
 | 4184 | Minimum Operations To Sort A Permutation | array | medium | java | [Solution](solutions/java/array/medium/4184_minimum-operations-to-sort-a-permutation_array_medium.java) |
 | 4312 | Limit Occurrences In Sorted Array | array | easy | java | [Solution](solutions/java/array/easy/4312_limit-occurrences-in-sorted-array_array_easy.java) |
 | 4313 | Password Strength | hash-table | medium | java | [Solution](solutions/java/hash-table/medium/4313_password-strength_hash-table_medium.java) |
-
-<!---LeetCode Topics Start-->
-# LeetCode Topics
-## Array
-| Problem Name | Difficulty |
-| ------- | ------- |
-| [0049-group-anagrams](https://github.com/imrajeevnayan/leetcode-solution/tree/main/0049-group-anagrams/) | Medium |
-| [0056-merge-intervals](https://github.com/imrajeevnayan/leetcode-solution/tree/main/0056-merge-intervals/) | Medium |
-| [2951-find-the-peaks](https://github.com/imrajeevnayan/leetcode-solution/tree/main/2951-find-the-peaks/) | Easy |
-## Sorting
-| Problem Name | Difficulty |
-| ------- | ------- |
-| [0049-group-anagrams](https://github.com/imrajeevnayan/leetcode-solution/tree/main/0049-group-anagrams/) | Medium |
-| [0056-merge-intervals](https://github.com/imrajeevnayan/leetcode-solution/tree/main/0056-merge-intervals/) | Medium |
-## Hash Table
-| Problem Name | Difficulty |
-| ------- | ------- |
-| [0049-group-anagrams](https://github.com/imrajeevnayan/leetcode-solution/tree/main/0049-group-anagrams/) | Medium |
-## String
-| Problem Name | Difficulty |
-| ------- | ------- |
-| [0049-group-anagrams](https://github.com/imrajeevnayan/leetcode-solution/tree/main/0049-group-anagrams/) | Medium |
-## Enumeration
-| Problem Name | Difficulty |
-| ------- | ------- |
-| [2951-find-the-peaks](https://github.com/imrajeevnayan/leetcode-solution/tree/main/2951-find-the-peaks/) | Easy |
-<!---LeetCode Topics End-->
