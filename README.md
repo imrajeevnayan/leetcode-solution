@@ -243,4 +243,8 @@ Automatically organized collection of LeetCode solutions.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0035-search-insert-position](https://github.com/imrajeevnayan/leetcode-solution/tree/main/0035-search-insert-position/) | Easy |
+## String
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0038-count-and-say](https://github.com/imrajeevnayan/leetcode-solution/tree/main/0038-count-and-say/) | Medium |
 <!---LeetCode Topics End-->
