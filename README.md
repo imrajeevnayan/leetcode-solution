@@ -8,3 +8,4 @@
 | 6 | [Binary to Decimal](https://www.geeksforgeeks.org/problems/binary-to-decimal-1611122504--161115/1?page=5&sortBy=accuracy) | GeeksForGeeks | Basic | 08 Jun 2026 | 05:26 pm |
 | 7 | [Reverse the Circular Linked List](https://www.geeksforgeeks.org/problems/reverse-the-circular-linked-list/1?page=6&sortBy=accuracy) | GeeksForGeeks | Medium | 08 Jun 2026 | 05:28 pm |
 | 8 | [Spy Number](https://www.geeksforgeeks.org/problems/spy-number/1?page=6&sortBy=accuracy) | GeeksForGeeks | Basic | 08 Jun 2026 | 05:30 pm |
+| 9 | [Count Only Once](https://www.geeksforgeeks.org/problems/count-only-once/1?page=7&sortBy=accuracy) | GeeksForGeeks | Basic | 08 Jun 2026 | 05:33 pm |
