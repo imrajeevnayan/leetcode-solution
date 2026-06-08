@@ -659,17 +659,18 @@
     "GeeksForGeeks_Count_Only_Once": true,
     "GeeksForGeeks_Pattern_4": true,
     "GeeksForGeeks_Frequency_Count": true,
-    "GeeksForGeeks_Max_and_Min_In_ArrayList": true
+    "GeeksForGeeks_Max_and_Min_In_ArrayList": true,
+    "GeeksForGeeks_Rotate_Deque_By_K": true
   },
-  "totalSolved": 187,
+  "totalSolved": 188,
   "difficultyCounts": {
-    "easy": 68,
+    "easy": 69,
     "medium": 81,
     "hard": 2,
     "basic": 36
   },
   "currentStreak": 7,
-  "todayCount": 12,
+  "todayCount": 13,
   "lastSyncDate": "2026-06-08",
   "maxStreak": 13,
   "activityHistory": {
@@ -692,7 +693,7 @@
     "2026-06-05": 3,
     "2026-06-06": 12,
     "2026-06-07": 1,
-    "2026-06-08": 12
+    "2026-06-08": 13
   },
   "todayProblems": [
     "Most Frequent Character",
@@ -880,6 +881,7 @@
     "Count Only Once",
     "Pattern 4",
     "Frequency Count",
-    "Max and Min In ArrayList"
+    "Max and Min In ArrayList",
+    "Rotate Deque By K"
   ]
 }

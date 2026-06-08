@@ -12,3 +12,4 @@
 | 10 | [Pattern 4](https://www.geeksforgeeks.org/problems/triangle-number-1661428795/1?page=7&sortBy=accuracy) | GeeksForGeeks | Easy | 08 Jun 2026 | 05:36 pm |
 | 11 | [Frequency Count](https://www.geeksforgeeks.org/problems/frequency-count/1?page=8&sortBy=accuracy) | GeeksForGeeks | Easy | 08 Jun 2026 | 05:39 pm |
 | 12 | [Max and Min In ArrayList](https://www.geeksforgeeks.org/problems/max-and-min-in-arraylist/1?page=8&sortBy=accuracy) | GeeksForGeeks | Basic | 08 Jun 2026 | 05:41 pm |
+| 13 | [Rotate Deque By K](https://www.geeksforgeeks.org/problems/rotate-deque-by-k/1?page=13&sortBy=accuracy) | GeeksForGeeks | Easy | 08 Jun 2026 | 05:44 pm |
