@@ -14,3 +14,4 @@
 | 12 | [Max and Min In ArrayList](https://www.geeksforgeeks.org/problems/max-and-min-in-arraylist/1?page=8&sortBy=accuracy) | GeeksForGeeks | Basic | 08 Jun 2026 | 05:41 pm |
 | 13 | [Rotate Deque By K](https://www.geeksforgeeks.org/problems/rotate-deque-by-k/1?page=13&sortBy=accuracy) | GeeksForGeeks | Easy | 08 Jun 2026 | 05:44 pm |
 | 14 | [Pangram check](https://www.geeksforgeeks.org/problems/pangram-check--155158/1?page=13&sortBy=accuracy) | GeeksForGeeks | Medium | 08 Jun 2026 | 05:46 pm |
+| 15 | [Lower case to upper case](https://www.geeksforgeeks.org/problems/lower-case-to-upper-case3410/1?page=15&sortBy=accuracy) | GeeksForGeeks | Basic | 08 Jun 2026 | 05:48 pm |
