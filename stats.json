@@ -654,17 +654,18 @@
     "GeeksForGeeks_Rotate_LinkedList_By_K": true,
     "GeeksForGeeks_Sort_An_ArrayList": true,
     "GeeksForGeeks_Binary_to_Decimal": true,
-    "GeeksForGeeks_Reverse_the_Circular_Linked_List": true
+    "GeeksForGeeks_Reverse_the_Circular_Linked_List": true,
+    "GeeksForGeeks_Spy_Number": true
   },
-  "totalSolved": 182,
+  "totalSolved": 183,
   "difficultyCounts": {
     "easy": 66,
     "medium": 81,
     "hard": 2,
-    "basic": 33
+    "basic": 34
   },
   "currentStreak": 7,
-  "todayCount": 7,
+  "todayCount": 8,
   "lastSyncDate": "2026-06-08",
   "maxStreak": 13,
   "activityHistory": {
@@ -687,7 +688,7 @@
     "2026-06-05": 3,
     "2026-06-06": 12,
     "2026-06-07": 1,
-    "2026-06-08": 7
+    "2026-06-08": 8
   },
   "todayProblems": [
     "Most Frequent Character",
@@ -870,6 +871,7 @@
     "Rotate LinkedList By K",
     "Sort An ArrayList",
     "Binary to Decimal",
-    "Reverse the Circular Linked List"
+    "Reverse the Circular Linked List",
+    "Spy Number"
   ]
 }
