@@ -4,7 +4,7 @@ Automatically organized collection of LeetCode solutions.
 
 ## 📊 Statistics
 
-- **Total Problems Solved:** 205
+- **Total Problems Solved:** 206
 - **Current Streak:** 7 days
 - **Longest Streak:** 14 days
 
@@ -13,11 +13,11 @@ Automatically organized collection of LeetCode solutions.
 #### By Language
 - Sql: 27
 - Javascript: 2
-- Java: 176
+- Java: 177
 
 #### By Topic
 - Database: 27
-- Array: 101
+- Array: 102
 - General: 1
 - Bit-manipulation: 1
 - Stack: 1
@@ -116,6 +116,7 @@ Automatically organized collection of LeetCode solutions.
 | 198 | House Robber | array | medium | java | [Solution](solutions/java/array/medium/198_house-robber_array_medium.java) |
 | 204 | Count Primes | array | medium | java | [Solution](solutions/java/array/medium/204_count-primes_array_medium.java) |
 | 206 | Reverse Linked List | linked-list | easy | java | [Solution](solutions/java/linked-list/easy/206_reverse-linked-list_linked-list_easy.java) |
+| 213 | House Robber Ii | array | medium | java | [Solution](solutions/java/array/medium/213_house-robber-ii_array_medium.java) |
 | 215 | Kth Largest Element In An Array | array | medium | java | [Solution](solutions/java/array/medium/215_kth-largest-element-in-an-array_array_medium.java) |
 | 217 | Contains Duplicate | array | easy | java | [Solution](solutions/java/array/easy/217_contains-duplicate_array_easy.java) |
 | 219 | Contains Duplicate Ii | array | easy | java | [Solution](solutions/java/array/easy/219_contains-duplicate-ii_array_easy.java) |
@@ -240,15 +241,3 @@ Automatically organized collection of LeetCode solutions.
 | 4184 | Minimum Operations To Sort A Permutation | array | medium | java | [Solution](solutions/java/array/medium/4184_minimum-operations-to-sort-a-permutation_array_medium.java) |
 | 4312 | Limit Occurrences In Sorted Array | array | easy | java | [Solution](solutions/java/array/easy/4312_limit-occurrences-in-sorted-array_array_easy.java) |
 | 4313 | Password Strength | hash-table | medium | java | [Solution](solutions/java/hash-table/medium/4313_password-strength_hash-table_medium.java) |
-
-<!---LeetCode Topics Start-->
-# LeetCode Topics
-## Array
-| Problem Name | Difficulty |
-| ------- | ------- |
-| [0213-house-robber-ii](https://github.com/imrajeevnayan/leetcode-solution/tree/main/0213-house-robber-ii/) | Medium |
-## Dynamic Programming
-| Problem Name | Difficulty |
-| ------- | ------- |
-| [0213-house-robber-ii](https://github.com/imrajeevnayan/leetcode-solution/tree/main/0213-house-robber-ii/) | Medium |
-<!---LeetCode Topics End-->
