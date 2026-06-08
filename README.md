@@ -21,3 +21,4 @@
 | 19 | [Minimum in BST](https://www.geeksforgeeks.org/problems/minimum-element-in-bst/1?page=20&sortBy=accuracy) | GeeksForGeeks | Medium | 08 Jun 2026 | 05:57 pm |
 | 20 | [Right-Angled Number Triangle Pattern](https://www.geeksforgeeks.org/problems/right-angled-number-triangle/1) | GeeksForGeeks | Basic | 08 Jun 2026 | 05:59 pm |
 | 21 | [Count Even Letters](https://www.geeksforgeeks.org/problems/count-even-letters/1?page=1&category=Strings&sortBy=accuracy) | GeeksForGeeks | Easy | 09 Jun 2026 | 12:11 am |
+| 22 | [Score of Parentheses String](https://www.geeksforgeeks.org/problems/score-of-parentheses-string/1?page=1&category=Strings&sortBy=accuracy) | GeeksForGeeks | Medium | 09 Jun 2026 | 12:12 am |

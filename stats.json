@@ -668,17 +668,18 @@
     "GeeksForGeeks_First_Letter_of_Every_Word": true,
     "GeeksForGeeks_Minimum_in_BST": true,
     "GeeksForGeeks_Right-Angled_Number_Triangle_Pattern": true,
-    "GeeksForGeeks_Count_Even_Letters": true
+    "GeeksForGeeks_Count_Even_Letters": true,
+    "GeeksForGeeks_Score_of_Parentheses_String": true
   },
-  "totalSolved": 196,
+  "totalSolved": 197,
   "difficultyCounts": {
     "easy": 70,
-    "medium": 83,
+    "medium": 84,
     "hard": 2,
     "basic": 41
   },
   "currentStreak": 8,
-  "todayCount": 1,
+  "todayCount": 2,
   "lastSyncDate": "2026-06-09",
   "maxStreak": 13,
   "activityHistory": {
@@ -702,7 +703,7 @@
     "2026-06-06": 12,
     "2026-06-07": 1,
     "2026-06-08": 20,
-    "2026-06-09": 1
+    "2026-06-09": 2
   },
   "todayProblems": [
     "Most Frequent Character",
@@ -899,6 +900,7 @@
     "First Letter of Every Word",
     "Minimum in BST",
     "Right-Angled Number Triangle Pattern",
-    "Count Even Letters"
+    "Count Even Letters",
+    "Score of Parentheses String"
   ]
 }
