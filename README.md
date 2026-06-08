@@ -246,8 +246,17 @@ Automatically organized collection of LeetCode solutions.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/imrajeevnayan/leetcode-solution/tree/main/0034-find-first-and-last-position-of-element-in-sorted-array/) | Medium |
+| [2073-time-needed-to-buy-tickets](https://github.com/imrajeevnayan/leetcode-solution/tree/main/2073-time-needed-to-buy-tickets/) | Easy |
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/imrajeevnayan/leetcode-solution/tree/main/0034-find-first-and-last-position-of-element-in-sorted-array/) | Medium |
+## Queue
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [2073-time-needed-to-buy-tickets](https://github.com/imrajeevnayan/leetcode-solution/tree/main/2073-time-needed-to-buy-tickets/) | Easy |
+## Simulation
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [2073-time-needed-to-buy-tickets](https://github.com/imrajeevnayan/leetcode-solution/tree/main/2073-time-needed-to-buy-tickets/) | Easy |
 <!---LeetCode Topics End-->
