@@ -10,3 +10,4 @@
 | 8 | [Spy Number](https://www.geeksforgeeks.org/problems/spy-number/1?page=6&sortBy=accuracy) | GeeksForGeeks | Basic | 08 Jun 2026 | 05:30 pm |
 | 9 | [Count Only Once](https://www.geeksforgeeks.org/problems/count-only-once/1?page=7&sortBy=accuracy) | GeeksForGeeks | Basic | 08 Jun 2026 | 05:33 pm |
 | 10 | [Pattern 4](https://www.geeksforgeeks.org/problems/triangle-number-1661428795/1?page=7&sortBy=accuracy) | GeeksForGeeks | Easy | 08 Jun 2026 | 05:36 pm |
+| 11 | [Frequency Count](https://www.geeksforgeeks.org/problems/frequency-count/1?page=8&sortBy=accuracy) | GeeksForGeeks | Easy | 08 Jun 2026 | 05:39 pm |
