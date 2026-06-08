@@ -664,17 +664,18 @@
     "GeeksForGeeks_Pangram_check": true,
     "GeeksForGeeks_Lower_case_to_upper_case": true,
     "GeeksForGeeks_Sorted_Frequency": true,
-    "GeeksForGeeks_Pattern_6": true
+    "GeeksForGeeks_Pattern_6": true,
+    "GeeksForGeeks_First_Letter_of_Every_Word": true
   },
-  "totalSolved": 192,
+  "totalSolved": 193,
   "difficultyCounts": {
     "easy": 69,
     "medium": 82,
     "hard": 2,
-    "basic": 39
+    "basic": 40
   },
   "currentStreak": 7,
-  "todayCount": 17,
+  "todayCount": 18,
   "lastSyncDate": "2026-06-08",
   "maxStreak": 13,
   "activityHistory": {
@@ -697,7 +698,7 @@
     "2026-06-05": 3,
     "2026-06-06": 12,
     "2026-06-07": 1,
-    "2026-06-08": 17
+    "2026-06-08": 18
   },
   "todayProblems": [
     "Most Frequent Character",
@@ -890,6 +891,7 @@
     "Pangram check",
     "Lower case to upper case",
     "Sorted Frequency",
-    "Pattern 6"
+    "Pattern 6",
+    "First Letter of Every Word"
   ]
 }

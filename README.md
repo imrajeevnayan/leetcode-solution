@@ -17,3 +17,4 @@
 | 15 | [Lower case to upper case](https://www.geeksforgeeks.org/problems/lower-case-to-upper-case3410/1?page=15&sortBy=accuracy) | GeeksForGeeks | Basic | 08 Jun 2026 | 05:48 pm |
 | 16 | [Sorted Frequency](https://www.geeksforgeeks.org/problems/sorted-frequency/1?page=17&sortBy=accuracy) | GeeksForGeeks | Basic | 08 Jun 2026 | 05:50 pm |
 | 17 | [Pattern 6](https://www.geeksforgeeks.org/problems/triangle-number-1661489840/1?page=18&sortBy=accuracy) | GeeksForGeeks | Basic | 08 Jun 2026 | 05:54 pm |
+| 18 | [First Letter of Every Word](https://www.geeksforgeeks.org/problems/print-first-letter-of-every-word-in-the-string3632/1?page=19&sortBy=accuracy) | GeeksForGeeks | Basic | 08 Jun 2026 | 05:55 pm |
