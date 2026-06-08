@@ -4,8 +4,8 @@ Automatically organized collection of LeetCode solutions.
 
 ## 📊 Statistics
 
-- **Total Problems Solved:** 204
-- **Current Streak:** 6 days
+- **Total Problems Solved:** 205
+- **Current Streak:** 7 days
 - **Longest Streak:** 14 days
 
 ### 🧩 Breakdown
@@ -13,11 +13,11 @@ Automatically organized collection of LeetCode solutions.
 #### By Language
 - Sql: 27
 - Javascript: 2
-- Java: 175
+- Java: 176
 
 #### By Topic
 - Database: 27
-- Array: 100
+- Array: 101
 - General: 1
 - Bit-manipulation: 1
 - Stack: 1
@@ -224,6 +224,7 @@ Automatically organized collection of LeetCode solutions.
 | 2058 | Concatenation Of Array | array | easy | java | [Solution](solutions/java/array/easy/2058_concatenation-of-array_array_easy.java) |
 | 2106 | Find Greatest Common Divisor Of Array | array | easy | java | [Solution](solutions/java/array/easy/2106_find-greatest-common-divisor-of-array_array_easy.java) |
 | 2113 | Find The Kth Largest Integer In The Array | array | medium | java | [Solution](solutions/java/array/medium/2113_find-the-kth-largest-integer-in-the-array_array_medium.java) |
+| 2195 | Time Needed To Buy Tickets | array | easy | java | [Solution](solutions/java/array/easy/2195_time-needed-to-buy-tickets_array_easy.java) |
 | 2216 | Delete The Middle Node Of A Linked List | linked-list | medium | java | [Solution](solutions/java/linked-list/medium/2216_delete-the-middle-node-of-a-linked-list_linked-list_medium.java) |
 | 2331 | Intersection Of Multiple Arrays | array | easy | java | [Solution](solutions/java/array/easy/2331_intersection-of-multiple-arrays_array_easy.java) |
 | 2432 | Number Of Zero Filled Subarrays | array | medium | java | [Solution](solutions/java/array/medium/2432_number-of-zero-filled-subarrays_array_medium.java) |
@@ -239,24 +240,3 @@ Automatically organized collection of LeetCode solutions.
 | 4184 | Minimum Operations To Sort A Permutation | array | medium | java | [Solution](solutions/java/array/medium/4184_minimum-operations-to-sort-a-permutation_array_medium.java) |
 | 4312 | Limit Occurrences In Sorted Array | array | easy | java | [Solution](solutions/java/array/easy/4312_limit-occurrences-in-sorted-array_array_easy.java) |
 | 4313 | Password Strength | hash-table | medium | java | [Solution](solutions/java/hash-table/medium/4313_password-strength_hash-table_medium.java) |
-
-<!---LeetCode Topics Start-->
-# LeetCode Topics
-## Array
-| Problem Name | Difficulty |
-| ------- | ------- |
-| [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/imrajeevnayan/leetcode-solution/tree/main/0034-find-first-and-last-position-of-element-in-sorted-array/) | Medium |
-| [2073-time-needed-to-buy-tickets](https://github.com/imrajeevnayan/leetcode-solution/tree/main/2073-time-needed-to-buy-tickets/) | Easy |
-## Binary Search
-| Problem Name | Difficulty |
-| ------- | ------- |
-| [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/imrajeevnayan/leetcode-solution/tree/main/0034-find-first-and-last-position-of-element-in-sorted-array/) | Medium |
-## Queue
-| Problem Name | Difficulty |
-| ------- | ------- |
-| [2073-time-needed-to-buy-tickets](https://github.com/imrajeevnayan/leetcode-solution/tree/main/2073-time-needed-to-buy-tickets/) | Easy |
-## Simulation
-| Problem Name | Difficulty |
-| ------- | ------- |
-| [2073-time-needed-to-buy-tickets](https://github.com/imrajeevnayan/leetcode-solution/tree/main/2073-time-needed-to-buy-tickets/) | Easy |
-<!---LeetCode Topics End-->
