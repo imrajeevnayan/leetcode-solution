@@ -666,17 +666,18 @@
     "GeeksForGeeks_Sorted_Frequency": true,
     "GeeksForGeeks_Pattern_6": true,
     "GeeksForGeeks_First_Letter_of_Every_Word": true,
-    "GeeksForGeeks_Minimum_in_BST": true
+    "GeeksForGeeks_Minimum_in_BST": true,
+    "GeeksForGeeks_Right-Angled_Number_Triangle_Pattern": true
   },
-  "totalSolved": 194,
+  "totalSolved": 195,
   "difficultyCounts": {
     "easy": 69,
     "medium": 83,
     "hard": 2,
-    "basic": 40
+    "basic": 41
   },
   "currentStreak": 7,
-  "todayCount": 19,
+  "todayCount": 20,
   "lastSyncDate": "2026-06-08",
   "maxStreak": 13,
   "activityHistory": {
@@ -699,7 +700,7 @@
     "2026-06-05": 3,
     "2026-06-06": 12,
     "2026-06-07": 1,
-    "2026-06-08": 19
+    "2026-06-08": 20
   },
   "todayProblems": [
     "Most Frequent Character",
@@ -894,6 +895,7 @@
     "Sorted Frequency",
     "Pattern 6",
     "First Letter of Every Word",
-    "Minimum in BST"
+    "Minimum in BST",
+    "Right-Angled Number Triangle Pattern"
   ]
 }
