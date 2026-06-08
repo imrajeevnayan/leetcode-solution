@@ -18,3 +18,4 @@
 | 16 | [Sorted Frequency](https://www.geeksforgeeks.org/problems/sorted-frequency/1?page=17&sortBy=accuracy) | GeeksForGeeks | Basic | 08 Jun 2026 | 05:50 pm |
 | 17 | [Pattern 6](https://www.geeksforgeeks.org/problems/triangle-number-1661489840/1?page=18&sortBy=accuracy) | GeeksForGeeks | Basic | 08 Jun 2026 | 05:54 pm |
 | 18 | [First Letter of Every Word](https://www.geeksforgeeks.org/problems/print-first-letter-of-every-word-in-the-string3632/1?page=19&sortBy=accuracy) | GeeksForGeeks | Basic | 08 Jun 2026 | 05:55 pm |
+| 19 | [Minimum in BST](https://www.geeksforgeeks.org/problems/minimum-element-in-bst/1?page=20&sortBy=accuracy) | GeeksForGeeks | Medium | 08 Jun 2026 | 05:57 pm |
