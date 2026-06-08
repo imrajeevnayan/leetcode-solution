@@ -16,3 +16,4 @@
 | 14 | [Pangram check](https://www.geeksforgeeks.org/problems/pangram-check--155158/1?page=13&sortBy=accuracy) | GeeksForGeeks | Medium | 08 Jun 2026 | 05:46 pm |
 | 15 | [Lower case to upper case](https://www.geeksforgeeks.org/problems/lower-case-to-upper-case3410/1?page=15&sortBy=accuracy) | GeeksForGeeks | Basic | 08 Jun 2026 | 05:48 pm |
 | 16 | [Sorted Frequency](https://www.geeksforgeeks.org/problems/sorted-frequency/1?page=17&sortBy=accuracy) | GeeksForGeeks | Basic | 08 Jun 2026 | 05:50 pm |
+| 17 | [Pattern 6](https://www.geeksforgeeks.org/problems/triangle-number-1661489840/1?page=18&sortBy=accuracy) | GeeksForGeeks | Basic | 08 Jun 2026 | 05:54 pm |
