@@ -652,17 +652,18 @@
     "GeeksForGeeks_Product_of_Two_Numbers": true,
     "GeeksForGeeks_Create_Circular_Linked_List_With_Given_Array": true,
     "GeeksForGeeks_Rotate_LinkedList_By_K": true,
-    "GeeksForGeeks_Sort_An_ArrayList": true
+    "GeeksForGeeks_Sort_An_ArrayList": true,
+    "GeeksForGeeks_Binary_to_Decimal": true
   },
-  "totalSolved": 180,
+  "totalSolved": 181,
   "difficultyCounts": {
     "easy": 66,
     "medium": 80,
     "hard": 2,
-    "basic": 32
+    "basic": 33
   },
   "currentStreak": 7,
-  "todayCount": 5,
+  "todayCount": 6,
   "lastSyncDate": "2026-06-08",
   "maxStreak": 13,
   "activityHistory": {
@@ -685,7 +686,7 @@
     "2026-06-05": 3,
     "2026-06-06": 12,
     "2026-06-07": 1,
-    "2026-06-08": 5
+    "2026-06-08": 6
   },
   "todayProblems": [
     "Most Frequent Character",
@@ -866,6 +867,7 @@
     "Product of Two Numbers",
     "Create Circular Linked List With Given Array",
     "Rotate LinkedList By K",
-    "Sort An ArrayList"
+    "Sort An ArrayList",
+    "Binary to Decimal"
   ]
 }

@@ -5,3 +5,4 @@
 | 3 | [Create Circular Linked List With Given Array](https://www.geeksforgeeks.org/problems/create-circular-linked-list-with-given-array/1?page=2&sortBy=accuracy) | GeeksForGeeks | Medium | 08 Jun 2026 | 05:21 pm |
 | 4 | [Rotate LinkedList By K](https://www.geeksforgeeks.org/problems/rotate-linkedlist-by-k/1?page=3&sortBy=accuracy) | GeeksForGeeks | Basic | 08 Jun 2026 | 05:23 pm |
 | 5 | [Sort An ArrayList](https://www.geeksforgeeks.org/problems/sort-an-arraylist/1?page=3&sortBy=accuracy) | GeeksForGeeks | Basic | 08 Jun 2026 | 05:24 pm |
+| 6 | [Binary to Decimal](https://www.geeksforgeeks.org/problems/binary-to-decimal-1611122504--161115/1?page=5&sortBy=accuracy) | GeeksForGeeks | Basic | 08 Jun 2026 | 05:26 pm |
