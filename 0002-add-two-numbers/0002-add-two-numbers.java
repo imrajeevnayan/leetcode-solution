@@ -3,22 +3,20 @@ class Solution {
         ListNode temp = new ListNode(0);
         ListNode curr = temp;          
         int carry = 0;              
-
         while (l1 != null || l2 != null || carry != 0) {
-            
+         
             int val1 = (l1 != null) ? l1.val : 0;
             int val2 = (l2 != null) ? l2.val : 0;
 
             int sum = val1 + val2 + carry;
-            carry = sum / 10;       // e.g., 14 / 10 = 1
+            carry = sum / 10;       
             
-            curr.next = new ListNode(sum % 10); // e.g., 14 % 10 = 4
-            curr = curr.next;                   // Move pointer forward
+            curr.next = new ListNode(sum % 10); 
+            curr = curr.next;                   
 
             if (l1 != null) l1 = l1.next;
             if (l2 != null) l2 = l2.next;
         }
-
-        return temp.next; // Skip the temp placeholder
+        return temp.next; 
     }
 }
