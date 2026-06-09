@@ -671,18 +671,19 @@
     "GeeksForGeeks_Count_Even_Letters": true,
     "GeeksForGeeks_Score_of_Parentheses_String": true,
     "GeeksForGeeks_Search_a_Character_in_a_String": true,
-    "GeeksForGeeks_Remove_a_Character_from_a_Given_Position": true
+    "GeeksForGeeks_Remove_a_Character_from_a_Given_Position": true,
+    "GeeksForGeeks_Median_of_2_Sorted_Arrays_of_Same_Size": true
   },
-  "totalSolved": 199,
+  "totalSolved": 200,
   "difficultyCounts": {
     "easy": 72,
     "medium": 84,
-    "hard": 2,
+    "hard": 3,
     "basic": 41
   },
-  "currentStreak": 8,
-  "todayCount": 4,
-  "lastSyncDate": "2026-06-09",
+  "currentStreak": 9,
+  "todayCount": 1,
+  "lastSyncDate": "2026-06-10",
   "maxStreak": 13,
   "activityHistory": {
     "2026-05-19": 2,
@@ -705,7 +706,8 @@
     "2026-06-06": 12,
     "2026-06-07": 1,
     "2026-06-08": 20,
-    "2026-06-09": 4
+    "2026-06-09": 4,
+    "2026-06-10": 1
   },
   "todayProblems": [
     "Most Frequent Character",
@@ -905,6 +907,7 @@
     "Count Even Letters",
     "Score of Parentheses String",
     "Search a Character in a String",
-    "Remove a Character from a Given Position"
+    "Remove a Character from a Given Position",
+    "Median of 2 Sorted Arrays of Same Size"
   ]
 }
