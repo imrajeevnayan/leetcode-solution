@@ -249,6 +249,7 @@ Automatically organized collection of LeetCode solutions.
 ## Linked List
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0328-odd-even-linked-list](https://github.com/imrajeevnayan/leetcode-solution/tree/main/0328-odd-even-linked-list/) | Medium |
 | [2487-remove-nodes-from-linked-list](https://github.com/imrajeevnayan/leetcode-solution/tree/main/2487-remove-nodes-from-linked-list/) | Medium |
 ## Stack
 | Problem Name | Difficulty |
