@@ -4,7 +4,7 @@ Automatically organized collection of LeetCode solutions.
 
 ## 📊 Statistics
 
-- **Total Problems Solved:** 207
+- **Total Problems Solved:** 208
 - **Current Streak:** 8 days
 - **Longest Streak:** 14 days
 
@@ -13,7 +13,7 @@ Automatically organized collection of LeetCode solutions.
 #### By Language
 - Sql: 27
 - Javascript: 2
-- Java: 178
+- Java: 179
 
 #### By Topic
 - Database: 27
@@ -22,7 +22,7 @@ Automatically organized collection of LeetCode solutions.
 - Bit-manipulation: 1
 - Stack: 1
 - Dynamic-programming: 1
-- Linked-list: 11
+- Linked-list: 12
 - Math: 16
 - Two-pointers: 9
 - String: 19
@@ -230,6 +230,7 @@ Automatically organized collection of LeetCode solutions.
 | 2216 | Delete The Middle Node Of A Linked List | linked-list | medium | java | [Solution](solutions/java/linked-list/medium/2216_delete-the-middle-node-of-a-linked-list_linked-list_medium.java) |
 | 2331 | Intersection Of Multiple Arrays | array | easy | java | [Solution](solutions/java/array/easy/2331_intersection-of-multiple-arrays_array_easy.java) |
 | 2432 | Number Of Zero Filled Subarrays | array | medium | java | [Solution](solutions/java/array/medium/2432_number-of-zero-filled-subarrays_array_medium.java) |
+| 2573 | Remove Nodes From Linked List | linked-list | medium | java | [Solution](solutions/java/linked-list/medium/2573_remove-nodes-from-linked-list_linked-list_medium.java) |
 | 2608 | Count The Digits That Divide A Number | math | easy | java | [Solution](solutions/java/math/easy/2608_count-the-digits-that-divide-a-number_math_easy.java) |
 | 2646 | Kth Largest Sum In A Binary Tree | tree | medium | java | [Solution](solutions/java/tree/medium/2646_kth-largest-sum-in-a-binary-tree_tree_medium.java) |
 | 2809 | Create Hello World Function | general | easy | javascript | [Solution](solutions/javascript/general/easy/2809_create-hello-world-function_general_easy.js) |
@@ -242,28 +243,3 @@ Automatically organized collection of LeetCode solutions.
 | 4184 | Minimum Operations To Sort A Permutation | array | medium | java | [Solution](solutions/java/array/medium/4184_minimum-operations-to-sort-a-permutation_array_medium.java) |
 | 4312 | Limit Occurrences In Sorted Array | array | easy | java | [Solution](solutions/java/array/easy/4312_limit-occurrences-in-sorted-array_array_easy.java) |
 | 4313 | Password Strength | hash-table | medium | java | [Solution](solutions/java/hash-table/medium/4313_password-strength_hash-table_medium.java) |
-
-<!---LeetCode Topics Start-->
-# LeetCode Topics
-## Linked List
-| Problem Name | Difficulty |
-| ------- | ------- |
-| [2095-delete-the-middle-node-of-a-linked-list](https://github.com/imrajeevnayan/leetcode-solution/tree/main/2095-delete-the-middle-node-of-a-linked-list/) | Medium |
-| [2487-remove-nodes-from-linked-list](https://github.com/imrajeevnayan/leetcode-solution/tree/main/2487-remove-nodes-from-linked-list/) | Medium |
-## Two Pointers
-| Problem Name | Difficulty |
-| ------- | ------- |
-| [2095-delete-the-middle-node-of-a-linked-list](https://github.com/imrajeevnayan/leetcode-solution/tree/main/2095-delete-the-middle-node-of-a-linked-list/) | Medium |
-## Stack
-| Problem Name | Difficulty |
-| ------- | ------- |
-| [2487-remove-nodes-from-linked-list](https://github.com/imrajeevnayan/leetcode-solution/tree/main/2487-remove-nodes-from-linked-list/) | Medium |
-## Recursion
-| Problem Name | Difficulty |
-| ------- | ------- |
-| [2487-remove-nodes-from-linked-list](https://github.com/imrajeevnayan/leetcode-solution/tree/main/2487-remove-nodes-from-linked-list/) | Medium |
-## Monotonic Stack
-| Problem Name | Difficulty |
-| ------- | ------- |
-| [2487-remove-nodes-from-linked-list](https://github.com/imrajeevnayan/leetcode-solution/tree/main/2487-remove-nodes-from-linked-list/) | Medium |
-<!---LeetCode Topics End-->
