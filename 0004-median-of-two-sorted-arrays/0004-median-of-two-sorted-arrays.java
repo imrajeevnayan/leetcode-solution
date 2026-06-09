@@ -6,7 +6,6 @@ class Solution {
         int[] merged = new int[n1 + n2];
         int i = 0, j = 0, k = 0;
 
-        // Merge both sorted arrays
         while (i < n1 && j < n2) {
             if (nums1[i] < nums2[j]) merged[k++] = nums1[i++];
             else merged[k++] = nums2[j++];
