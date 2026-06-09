@@ -27,6 +27,7 @@
 | ------- | ------- |
 | [0002-add-two-numbers](https://github.com/imrajeevnayan/leetcode-solution/tree/main/0002-add-two-numbers/) | Medium |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/imrajeevnayan/leetcode-solution/tree/main/0019-remove-nth-node-from-end-of-list/) | Medium |
+| [0237-delete-node-in-a-linked-list](https://github.com/imrajeevnayan/leetcode-solution/tree/main/0237-delete-node-in-a-linked-list/) | Medium |
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
