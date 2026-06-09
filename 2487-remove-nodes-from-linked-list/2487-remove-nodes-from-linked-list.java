@@ -1,0 +1,25 @@
+class Solution {
+    public ListNode removeNodes(ListNode head) {
+        Deque<ListNode> stack = new ArrayDeque<>();
+        
+        ListNode curr = head;
+        while (curr != null) {
+            // Remove all nodes smaller than current (they have greater node to right)
+            while (!stack.isEmpty() && stack.peek().val < curr.val) {
+                stack.pop();
+            }
+            stack.push(curr);
+            curr = curr.next;
+        }
+        
+        // Rebuild result list from stack (top of stack = last surviving node)
+        ListNode next = null;
+        while (!stack.isEmpty()) {
+            ListNode node = stack.pop();
+            node.next = next;
+            next = node;
+        }
+        
+        return next;
+    }
+}
