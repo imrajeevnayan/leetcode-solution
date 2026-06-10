@@ -48,3 +48,4 @@
 | [0053-maximum-subarray](https://github.com/imrajeevnayan/leetcode-solution/tree/main/0053-maximum-subarray/) | Medium |
 <!---LeetCode Topics End-->
 | 3 | [Median of 2 Sorted Arrays of Same Size](https://www.geeksforgeeks.org/problems/median-of-2-sorted-arrays-of-same-size/1) | GeeksForGeeks | Hard | 10 Jun 2026 | 12:12 am |
+| 4 | [Minimum Size Subarray Sum](https://leetcode.com/problems/minimum-size-subarray-sum/) | LeetCode | Medium | 10 Jun 2026 | 10:18 pm |
