@@ -7,6 +7,7 @@
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0303-range-sum-query-immutable](https://github.com/imrajeevnayan/leetcode-solution/tree/main/0303-range-sum-query-immutable/) | Easy |
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/imrajeevnayan/leetcode-solution/tree/main/1524-number-of-sub-arrays-with-odd-sum/) | Medium |
 ## Math
 | Problem Name | Difficulty |
@@ -19,5 +20,10 @@
 ## Prefix Sum
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0303-range-sum-query-immutable](https://github.com/imrajeevnayan/leetcode-solution/tree/main/0303-range-sum-query-immutable/) | Easy |
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/imrajeevnayan/leetcode-solution/tree/main/1524-number-of-sub-arrays-with-odd-sum/) | Medium |
+## Design
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0303-range-sum-query-immutable](https://github.com/imrajeevnayan/leetcode-solution/tree/main/0303-range-sum-query-immutable/) | Easy |
 <!---LeetCode Topics End-->
