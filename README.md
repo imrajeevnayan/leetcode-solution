@@ -11,6 +11,7 @@
 | [0001-two-sum](https://github.com/imrajeevnayan/leetcode-solution/tree/main/0001-two-sum/) | Easy |
 | [0004-median-of-two-sorted-arrays](https://github.com/imrajeevnayan/leetcode-solution/tree/main/0004-median-of-two-sorted-arrays/) | Hard |
 | [0053-maximum-subarray](https://github.com/imrajeevnayan/leetcode-solution/tree/main/0053-maximum-subarray/) | Medium |
+| [0209-minimum-size-subarray-sum](https://github.com/imrajeevnayan/leetcode-solution/tree/main/0209-minimum-size-subarray-sum/) | Medium |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -19,6 +20,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/imrajeevnayan/leetcode-solution/tree/main/0004-median-of-two-sorted-arrays/) | Hard |
+| [0209-minimum-size-subarray-sum](https://github.com/imrajeevnayan/leetcode-solution/tree/main/0209-minimum-size-subarray-sum/) | Medium |
 ## Divide and Conquer
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -46,6 +48,14 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0053-maximum-subarray](https://github.com/imrajeevnayan/leetcode-solution/tree/main/0053-maximum-subarray/) | Medium |
+## Sliding Window
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/imrajeevnayan/leetcode-solution/tree/main/0209-minimum-size-subarray-sum/) | Medium |
+## Prefix Sum
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/imrajeevnayan/leetcode-solution/tree/main/0209-minimum-size-subarray-sum/) | Medium |
 <!---LeetCode Topics End-->
 | 3 | [Median of 2 Sorted Arrays of Same Size](https://www.geeksforgeeks.org/problems/median-of-2-sorted-arrays-of-same-size/1) | GeeksForGeeks | Hard | 10 Jun 2026 | 12:12 am |
 | 4 | [Minimum Size Subarray Sum](https://leetcode.com/problems/minimum-size-subarray-sum/) | LeetCode | Medium | 10 Jun 2026 | 10:18 pm |
