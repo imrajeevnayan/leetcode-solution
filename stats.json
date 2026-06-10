@@ -673,17 +673,18 @@
     "GeeksForGeeks_Search_a_Character_in_a_String": true,
     "GeeksForGeeks_Remove_a_Character_from_a_Given_Position": true,
     "GeeksForGeeks_Median_of_2_Sorted_Arrays_of_Same_Size": true,
-    "LeetCode_Minimum_Size_Subarray_Sum": true
+    "LeetCode_Minimum_Size_Subarray_Sum": true,
+    "LeetCode_Number_of_Sub-arrays_With_Odd_Sum": true
   },
-  "totalSolved": 201,
+  "totalSolved": 202,
   "difficultyCounts": {
     "easy": 72,
-    "medium": 85,
+    "medium": 86,
     "hard": 3,
     "basic": 41
   },
   "currentStreak": 9,
-  "todayCount": 2,
+  "todayCount": 3,
   "lastSyncDate": "2026-06-10",
   "maxStreak": 13,
   "activityHistory": {
@@ -708,7 +709,7 @@
     "2026-06-07": 1,
     "2026-06-08": 20,
     "2026-06-09": 4,
-    "2026-06-10": 2
+    "2026-06-10": 3
   },
   "todayProblems": [
     "Most Frequent Character",
@@ -910,6 +911,7 @@
     "Search a Character in a String",
     "Remove a Character from a Given Position",
     "Median of 2 Sorted Arrays of Same Size",
-    "Minimum Size Subarray Sum"
+    "Minimum Size Subarray Sum",
+    "Number of Sub-arrays With Odd Sum"
   ]
 }
