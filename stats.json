@@ -678,17 +678,18 @@
     "GeeksForGeeks_Binary_Searchable_Count": true,
     "GeeksForGeeks_Array_with_All_Palindromes": true,
     "GeeksForGeeks_Add_1_to_a_Linked_List_Number": true,
-    "GeeksForGeeks_Equal_Point_in_Brackets": true
+    "GeeksForGeeks_Equal_Point_in_Brackets": true,
+    "LeetCode_Intersection_of_Two_Linked_Lists": true
   },
-  "totalSolved": 206,
+  "totalSolved": 207,
   "difficultyCounts": {
-    "easy": 73,
+    "easy": 74,
     "medium": 89,
     "hard": 3,
     "basic": 41
   },
   "currentStreak": 10,
-  "todayCount": 3,
+  "todayCount": 4,
   "lastSyncDate": "2026-06-11",
   "maxStreak": 13,
   "activityHistory": {
@@ -714,7 +715,7 @@
     "2026-06-08": 20,
     "2026-06-09": 4,
     "2026-06-10": 4,
-    "2026-06-11": 3
+    "2026-06-11": 4
   },
   "todayProblems": [
     "Most Frequent Character",
@@ -921,6 +922,7 @@
     "Binary Searchable Count",
     "Array with All Palindromes",
     "Add 1 to a Linked List Number",
-    "Equal Point in Brackets"
+    "Equal Point in Brackets",
+    "Intersection of Two Linked Lists"
   ]
 }
