@@ -4,7 +4,7 @@ Automatically organized collection of LeetCode solutions.
 
 ## 📊 Statistics
 
-- **Total Problems Solved:** 214
+- **Total Problems Solved:** 215
 - **Current Streak:** 10 days
 - **Longest Streak:** 14 days
 
@@ -13,7 +13,7 @@ Automatically organized collection of LeetCode solutions.
 #### By Language
 - Sql: 27
 - Javascript: 2
-- Java: 185
+- Java: 186
 
 #### By Topic
 - Database: 27
@@ -23,7 +23,7 @@ Automatically organized collection of LeetCode solutions.
 - Bit-manipulation: 1
 - Tree: 4
 - Hash-table: 14
-- Linked-list: 12
+- Linked-list: 13
 - String: 19
 - Stack: 1
 - Dynamic-programming: 1
@@ -54,6 +54,7 @@ Automatically organized collection of LeetCode solutions.
 | 20 | Valid Parentheses | string | easy | java | [Solution](solutions/java/string/easy/20_valid-parentheses_string_easy.java) |
 | 21 | Merge Two Sorted Lists | linked-list | easy | java | [Solution](solutions/java/linked-list/easy/21_merge-two-sorted-lists_linked-list_easy.java) |
 | 23 | Merge K Sorted Lists | linked-list | hard | java | [Solution](solutions/java/linked-list/hard/23_merge-k-sorted-lists_linked-list_hard.java) |
+| 25 | Reverse Nodes In K Group | linked-list | hard | java | [Solution](solutions/java/linked-list/hard/25_reverse-nodes-in-k-group_linked-list_hard.java) |
 | 26 | Remove Duplicates From Sorted Array | array | easy | java | [Solution](solutions/java/array/easy/26_remove-duplicates-from-sorted-array_array_easy.java) |
 | 27 | Remove Element | array | easy | java | [Solution](solutions/java/array/easy/27_remove-element_array_easy.java) |
 | 28 | Find The Index Of The First Occurrence In A String | two-pointers | easy | java | [Solution](solutions/java/two-pointers/easy/28_find-the-index-of-the-first-occurrence-in-a-string_two-pointers_easy.java) |
