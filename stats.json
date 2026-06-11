@@ -677,17 +677,18 @@
     "LeetCode_Number_of_Sub-arrays_With_Odd_Sum": true,
     "GeeksForGeeks_Binary_Searchable_Count": true,
     "GeeksForGeeks_Array_with_All_Palindromes": true,
-    "GeeksForGeeks_Add_1_to_a_Linked_List_Number": true
+    "GeeksForGeeks_Add_1_to_a_Linked_List_Number": true,
+    "GeeksForGeeks_Equal_Point_in_Brackets": true
   },
-  "totalSolved": 205,
+  "totalSolved": 206,
   "difficultyCounts": {
-    "easy": 72,
+    "easy": 73,
     "medium": 89,
     "hard": 3,
     "basic": 41
   },
   "currentStreak": 10,
-  "todayCount": 2,
+  "todayCount": 3,
   "lastSyncDate": "2026-06-11",
   "maxStreak": 13,
   "activityHistory": {
@@ -713,7 +714,7 @@
     "2026-06-08": 20,
     "2026-06-09": 4,
     "2026-06-10": 4,
-    "2026-06-11": 2
+    "2026-06-11": 3
   },
   "todayProblems": [
     "Most Frequent Character",
@@ -919,6 +920,7 @@
     "Number of Sub-arrays With Odd Sum",
     "Binary Searchable Count",
     "Array with All Palindromes",
-    "Add 1 to a Linked List Number"
+    "Add 1 to a Linked List Number",
+    "Equal Point in Brackets"
   ]
 }
