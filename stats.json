@@ -675,18 +675,19 @@
     "GeeksForGeeks_Median_of_2_Sorted_Arrays_of_Same_Size": true,
     "LeetCode_Minimum_Size_Subarray_Sum": true,
     "LeetCode_Number_of_Sub-arrays_With_Odd_Sum": true,
-    "GeeksForGeeks_Binary_Searchable_Count": true
+    "GeeksForGeeks_Binary_Searchable_Count": true,
+    "GeeksForGeeks_Array_with_All_Palindromes": true
   },
-  "totalSolved": 203,
+  "totalSolved": 204,
   "difficultyCounts": {
     "easy": 72,
-    "medium": 87,
+    "medium": 88,
     "hard": 3,
     "basic": 41
   },
-  "currentStreak": 9,
-  "todayCount": 4,
-  "lastSyncDate": "2026-06-10",
+  "currentStreak": 10,
+  "todayCount": 1,
+  "lastSyncDate": "2026-06-11",
   "maxStreak": 13,
   "activityHistory": {
     "2026-05-19": 2,
@@ -710,7 +711,8 @@
     "2026-06-07": 1,
     "2026-06-08": 20,
     "2026-06-09": 4,
-    "2026-06-10": 4
+    "2026-06-10": 4,
+    "2026-06-11": 1
   },
   "todayProblems": [
     "Most Frequent Character",
@@ -914,6 +916,7 @@
     "Median of 2 Sorted Arrays of Same Size",
     "Minimum Size Subarray Sum",
     "Number of Sub-arrays With Odd Sum",
-    "Binary Searchable Count"
+    "Binary Searchable Count",
+    "Array with All Palindromes"
   ]
 }
