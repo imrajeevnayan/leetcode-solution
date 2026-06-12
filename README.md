@@ -4,7 +4,7 @@ Automatically organized collection of LeetCode solutions.
 
 ## 📊 Statistics
 
-- **Total Problems Solved:** 216
+- **Total Problems Solved:** 217
 - **Current Streak:** 11 days
 - **Longest Streak:** 14 days
 
@@ -13,7 +13,7 @@ Automatically organized collection of LeetCode solutions.
 #### By Language
 - Sql: 27
 - Javascript: 2
-- Java: 187
+- Java: 188
 
 #### By Topic
 - Database: 27
@@ -23,7 +23,7 @@ Automatically organized collection of LeetCode solutions.
 - Bit-manipulation: 1
 - Tree: 4
 - Hash-table: 15
-- Linked-list: 13
+- Linked-list: 14
 - String: 19
 - Stack: 1
 - Dynamic-programming: 1
@@ -178,6 +178,7 @@ Automatically organized collection of LeetCode solutions.
 | 692 | Top K Frequent Words | array | medium | java | [Solution](solutions/java/array/medium/692_top-k-frequent-words_array_medium.java) |
 | 724 | Find Pivot Index | array | easy | java | [Solution](solutions/java/array/easy/724_find-pivot-index_array_easy.java) |
 | 747 | Min Cost Climbing Stairs | array | easy | java | [Solution](solutions/java/array/easy/747_min-cost-climbing-stairs_array_easy.java) |
+| 766 | Flatten A Multilevel Doubly Linked List | linked-list | medium | java | [Solution](solutions/java/linked-list/medium/766_flatten-a-multilevel-doubly-linked-list_linked-list_medium.java) |
 | 778 | Reorganize String | hash-table | medium | java | [Solution](solutions/java/hash-table/medium/778_reorganize-string_hash-table_medium.java) |
 | 792 | Binary Search | array | easy | java | [Solution](solutions/java/array/easy/792_binary-search_array_easy.java) |
 | 816 | Design Hashset | array | easy | java | [Solution](solutions/java/array/easy/816_design-hashset_array_easy.java) |
@@ -251,19 +252,3 @@ Automatically organized collection of LeetCode solutions.
 | 4184 | Minimum Operations To Sort A Permutation | array | medium | java | [Solution](solutions/java/array/medium/4184_minimum-operations-to-sort-a-permutation_array_medium.java) |
 | 4312 | Limit Occurrences In Sorted Array | array | easy | java | [Solution](solutions/java/array/easy/4312_limit-occurrences-in-sorted-array_array_easy.java) |
 | 4313 | Password Strength | hash-table | medium | java | [Solution](solutions/java/hash-table/medium/4313_password-strength_hash-table_medium.java) |
-
-<!---LeetCode Topics Start-->
-# LeetCode Topics
-## Linked List
-| Problem Name | Difficulty |
-| ------- | ------- |
-| [0430-flatten-a-multilevel-doubly-linked-list](https://github.com/imrajeevnayan/leetcode-solution/tree/main/0430-flatten-a-multilevel-doubly-linked-list/) | Medium |
-## Depth-First Search
-| Problem Name | Difficulty |
-| ------- | ------- |
-| [0430-flatten-a-multilevel-doubly-linked-list](https://github.com/imrajeevnayan/leetcode-solution/tree/main/0430-flatten-a-multilevel-doubly-linked-list/) | Medium |
-## Doubly-Linked List
-| Problem Name | Difficulty |
-| ------- | ------- |
-| [0430-flatten-a-multilevel-doubly-linked-list](https://github.com/imrajeevnayan/leetcode-solution/tree/main/0430-flatten-a-multilevel-doubly-linked-list/) | Medium |
-<!---LeetCode Topics End-->
