@@ -4,8 +4,8 @@ Automatically organized collection of LeetCode solutions.
 
 ## 📊 Statistics
 
-- **Total Problems Solved:** 215
-- **Current Streak:** 10 days
+- **Total Problems Solved:** 216
+- **Current Streak:** 11 days
 - **Longest Streak:** 14 days
 
 ### 🧩 Breakdown
@@ -13,7 +13,7 @@ Automatically organized collection of LeetCode solutions.
 #### By Language
 - Sql: 27
 - Javascript: 2
-- Java: 186
+- Java: 187
 
 #### By Topic
 - Database: 27
@@ -22,7 +22,7 @@ Automatically organized collection of LeetCode solutions.
 - Divide-and-conquer: 1
 - Bit-manipulation: 1
 - Tree: 4
-- Hash-table: 14
+- Hash-table: 15
 - Linked-list: 13
 - String: 19
 - Stack: 1
@@ -94,6 +94,7 @@ Automatically organized collection of LeetCode solutions.
 | 135 | Candy | array | hard | java | [Solution](solutions/java/array/hard/135_candy_array_hard.java) |
 | 136 | Single Number | array | easy | java | [Solution](solutions/java/array/easy/136_single-number_array_easy.java) |
 | 141 | Linked List Cycle | hash-table | easy | java | [Solution](solutions/java/hash-table/easy/141_linked-list-cycle_hash-table_easy.java) |
+| 142 | Linked List Cycle Ii | hash-table | medium | java | [Solution](solutions/java/hash-table/medium/142_linked-list-cycle-ii_hash-table_medium.java) |
 | 146 | Lru Cache | hash-table | medium | java | [Solution](solutions/java/hash-table/medium/146_lru-cache_hash-table_medium.java) |
 | 151 | Reverse Words In A String | two-pointers | medium | java | [Solution](solutions/java/two-pointers/medium/151_reverse-words-in-a-string_two-pointers_medium.java) |
 | 152 | Maximum Product Subarray | array | medium | java | [Solution](solutions/java/array/medium/152_maximum-product-subarray_array_medium.java) |
@@ -250,31 +251,3 @@ Automatically organized collection of LeetCode solutions.
 | 4184 | Minimum Operations To Sort A Permutation | array | medium | java | [Solution](solutions/java/array/medium/4184_minimum-operations-to-sort-a-permutation_array_medium.java) |
 | 4312 | Limit Occurrences In Sorted Array | array | easy | java | [Solution](solutions/java/array/easy/4312_limit-occurrences-in-sorted-array_array_easy.java) |
 | 4313 | Password Strength | hash-table | medium | java | [Solution](solutions/java/hash-table/medium/4313_password-strength_hash-table_medium.java) |
-
-<!---LeetCode Topics Start-->
-# LeetCode Topics
-## Linked List
-| Problem Name | Difficulty |
-| ------- | ------- |
-| [0025-reverse-nodes-in-k-group](https://github.com/imrajeevnayan/leetcode-solution/tree/main/0025-reverse-nodes-in-k-group/) | Hard |
-| [0142-linked-list-cycle-ii](https://github.com/imrajeevnayan/leetcode-solution/tree/main/0142-linked-list-cycle-ii/) | Medium |
-| [0234-palindrome-linked-list](https://github.com/imrajeevnayan/leetcode-solution/tree/main/0234-palindrome-linked-list/) | Easy |
-## Recursion
-| Problem Name | Difficulty |
-| ------- | ------- |
-| [0025-reverse-nodes-in-k-group](https://github.com/imrajeevnayan/leetcode-solution/tree/main/0025-reverse-nodes-in-k-group/) | Hard |
-| [0234-palindrome-linked-list](https://github.com/imrajeevnayan/leetcode-solution/tree/main/0234-palindrome-linked-list/) | Easy |
-## Two Pointers
-| Problem Name | Difficulty |
-| ------- | ------- |
-| [0142-linked-list-cycle-ii](https://github.com/imrajeevnayan/leetcode-solution/tree/main/0142-linked-list-cycle-ii/) | Medium |
-| [0234-palindrome-linked-list](https://github.com/imrajeevnayan/leetcode-solution/tree/main/0234-palindrome-linked-list/) | Easy |
-## Stack
-| Problem Name | Difficulty |
-| ------- | ------- |
-| [0234-palindrome-linked-list](https://github.com/imrajeevnayan/leetcode-solution/tree/main/0234-palindrome-linked-list/) | Easy |
-## Hash Table
-| Problem Name | Difficulty |
-| ------- | ------- |
-| [0142-linked-list-cycle-ii](https://github.com/imrajeevnayan/leetcode-solution/tree/main/0142-linked-list-cycle-ii/) | Medium |
-<!---LeetCode Topics End-->
