@@ -4,7 +4,7 @@ Automatically organized collection of LeetCode solutions.
 
 ## 📊 Statistics
 
-- **Total Problems Solved:** 218
+- **Total Problems Solved:** 219
 - **Current Streak:** 11 days
 - **Longest Streak:** 14 days
 
@@ -13,7 +13,7 @@ Automatically organized collection of LeetCode solutions.
 #### By Language
 - Sql: 27
 - Javascript: 2
-- Java: 189
+- Java: 190
 
 #### By Topic
 - Database: 27
@@ -22,7 +22,7 @@ Automatically organized collection of LeetCode solutions.
 - Divide-and-conquer: 1
 - Bit-manipulation: 1
 - Tree: 4
-- Hash-table: 15
+- Hash-table: 16
 - Linked-list: 15
 - String: 19
 - Stack: 1
@@ -94,6 +94,7 @@ Automatically organized collection of LeetCode solutions.
 | 134 | Gas Station | array | medium | java | [Solution](solutions/java/array/medium/134_gas-station_array_medium.java) |
 | 135 | Candy | array | hard | java | [Solution](solutions/java/array/hard/135_candy_array_hard.java) |
 | 136 | Single Number | array | easy | java | [Solution](solutions/java/array/easy/136_single-number_array_easy.java) |
+| 138 | Copy List With Random Pointer | hash-table | medium | java | [Solution](solutions/java/hash-table/medium/138_copy-list-with-random-pointer_hash-table_medium.java) |
 | 141 | Linked List Cycle | hash-table | easy | java | [Solution](solutions/java/hash-table/easy/141_linked-list-cycle_hash-table_easy.java) |
 | 142 | Linked List Cycle Ii | hash-table | medium | java | [Solution](solutions/java/hash-table/medium/142_linked-list-cycle-ii_hash-table_medium.java) |
 | 146 | Lru Cache | hash-table | medium | java | [Solution](solutions/java/hash-table/medium/146_lru-cache_hash-table_medium.java) |
@@ -253,15 +254,3 @@ Automatically organized collection of LeetCode solutions.
 | 4184 | Minimum Operations To Sort A Permutation | array | medium | java | [Solution](solutions/java/array/medium/4184_minimum-operations-to-sort-a-permutation_array_medium.java) |
 | 4312 | Limit Occurrences In Sorted Array | array | easy | java | [Solution](solutions/java/array/easy/4312_limit-occurrences-in-sorted-array_array_easy.java) |
 | 4313 | Password Strength | hash-table | medium | java | [Solution](solutions/java/hash-table/medium/4313_password-strength_hash-table_medium.java) |
-
-<!---LeetCode Topics Start-->
-# LeetCode Topics
-## Hash Table
-| Problem Name | Difficulty |
-| ------- | ------- |
-| [0138-copy-list-with-random-pointer](https://github.com/imrajeevnayan/leetcode-solution/tree/main/0138-copy-list-with-random-pointer/) | Medium |
-## Linked List
-| Problem Name | Difficulty |
-| ------- | ------- |
-| [0138-copy-list-with-random-pointer](https://github.com/imrajeevnayan/leetcode-solution/tree/main/0138-copy-list-with-random-pointer/) | Medium |
-<!---LeetCode Topics End-->
