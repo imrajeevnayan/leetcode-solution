@@ -5,3 +5,19 @@
 | 3 | [Sort the string in descending order](https://www.geeksforgeeks.org/problems/sort-the-string-in-descending-order3542/1) | GeeksForGeeks | Medium | 13 Jun 2026 | 11:34 pm |
 | 4 | [String Rotated by 2 Places](https://www.geeksforgeeks.org/problems/check-if-string-is-rotated-by-two-places-1587115620/1) | GeeksForGeeks | Easy | 13 Jun 2026 | 11:57 pm |
 | 5 | [Add Strings](https://leetcode.com/problems/add-strings/) | LeetCode | Easy | 14 Jun 2026 | 12:00 am |
+
+<!---LeetCode Topics Start-->
+# LeetCode Topics
+## Math
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0415-add-strings](https://github.com/imrajeevnayan/leetcode-solution/tree/main/0415-add-strings/) | Easy |
+## String
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0415-add-strings](https://github.com/imrajeevnayan/leetcode-solution/tree/main/0415-add-strings/) | Easy |
+## Simulation
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0415-add-strings](https://github.com/imrajeevnayan/leetcode-solution/tree/main/0415-add-strings/) | Easy |
+<!---LeetCode Topics End-->
