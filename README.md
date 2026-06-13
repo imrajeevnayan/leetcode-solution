@@ -4,8 +4,8 @@ Automatically organized collection of LeetCode solutions.
 
 ## 📊 Statistics
 
-- **Total Problems Solved:** 219
-- **Current Streak:** 11 days
+- **Total Problems Solved:** 220
+- **Current Streak:** 12 days
 - **Longest Streak:** 14 days
 
 ### 🧩 Breakdown
@@ -13,11 +13,11 @@ Automatically organized collection of LeetCode solutions.
 #### By Language
 - Sql: 27
 - Javascript: 2
-- Java: 190
+- Java: 191
 
 #### By Topic
 - Database: 27
-- Array: 106
+- Array: 107
 - General: 1
 - Divide-and-conquer: 1
 - Bit-manipulation: 1
@@ -252,30 +252,6 @@ Automatically organized collection of LeetCode solutions.
 | 3832 | Minimum Cost To Reach Every Position | array | easy | java | [Solution](solutions/java/array/easy/3832_minimum-cost-to-reach-every-position_array_easy.java) |
 | 4068 | Sum Of Elements With Frequency Divisible By K | array | easy | java | [Solution](solutions/java/array/easy/4068_sum-of-elements-with-frequency-divisible-by-k_array_easy.java) |
 | 4184 | Minimum Operations To Sort A Permutation | array | medium | java | [Solution](solutions/java/array/medium/4184_minimum-operations-to-sort-a-permutation_array_medium.java) |
+| 4216 | Weighted Word Mapping | array | easy | java | [Solution](solutions/java/array/easy/4216_weighted-word-mapping_array_easy.java) |
 | 4312 | Limit Occurrences In Sorted Array | array | easy | java | [Solution](solutions/java/array/easy/4312_limit-occurrences-in-sorted-array_array_easy.java) |
 | 4313 | Password Strength | hash-table | medium | java | [Solution](solutions/java/hash-table/medium/4313_password-strength_hash-table_medium.java) |
-
-<!---LeetCode Topics Start-->
-# LeetCode Topics
-## Array
-| Problem Name | Difficulty |
-| ------- | ------- |
-| [0015-3sum](https://github.com/imrajeevnayan/leetcode-solution/tree/main/0015-3sum/) | Medium |
-| [3838-weighted-word-mapping](https://github.com/imrajeevnayan/leetcode-solution/tree/main/3838-weighted-word-mapping/) | Easy |
-## Two Pointers
-| Problem Name | Difficulty |
-| ------- | ------- |
-| [0015-3sum](https://github.com/imrajeevnayan/leetcode-solution/tree/main/0015-3sum/) | Medium |
-## Sorting
-| Problem Name | Difficulty |
-| ------- | ------- |
-| [0015-3sum](https://github.com/imrajeevnayan/leetcode-solution/tree/main/0015-3sum/) | Medium |
-## String
-| Problem Name | Difficulty |
-| ------- | ------- |
-| [3838-weighted-word-mapping](https://github.com/imrajeevnayan/leetcode-solution/tree/main/3838-weighted-word-mapping/) | Easy |
-## Simulation
-| Problem Name | Difficulty |
-| ------- | ------- |
-| [3838-weighted-word-mapping](https://github.com/imrajeevnayan/leetcode-solution/tree/main/3838-weighted-word-mapping/) | Easy |
-<!---LeetCode Topics End-->
