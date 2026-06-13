@@ -681,17 +681,18 @@
     "GeeksForGeeks_Equal_Point_in_Brackets": true,
     "LeetCode_Intersection_of_Two_Linked_Lists": true,
     "GeeksForGeeks_Common_in_3_Sorted_Arrays": true,
-    "GeeksForGeeks_Binary_Strings_with_Equal_Sum_of_Two_Halves": true
+    "GeeksForGeeks_Binary_Strings_with_Equal_Sum_of_Two_Halves": true,
+    "GeeksForGeeks_Sort_a_String": true
   },
-  "totalSolved": 209,
+  "totalSolved": 210,
   "difficultyCounts": {
     "easy": 75,
     "medium": 90,
     "hard": 3,
-    "basic": 41
+    "basic": 42
   },
   "currentStreak": 12,
-  "todayCount": 1,
+  "todayCount": 2,
   "lastSyncDate": "2026-06-13",
   "maxStreak": 13,
   "activityHistory": {
@@ -719,7 +720,7 @@
     "2026-06-10": 4,
     "2026-06-11": 4,
     "2026-06-12": 1,
-    "2026-06-13": 1
+    "2026-06-13": 2
   },
   "todayProblems": [
     "Most Frequent Character",
@@ -929,6 +930,7 @@
     "Equal Point in Brackets",
     "Intersection of Two Linked Lists",
     "Common in 3 Sorted Arrays",
-    "Binary Strings with Equal Sum of Two Halves"
+    "Binary Strings with Equal Sum of Two Halves",
+    "Sort a String"
   ]
 }
