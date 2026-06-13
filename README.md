@@ -4,7 +4,7 @@ Automatically organized collection of LeetCode solutions.
 
 ## 📊 Statistics
 
-- **Total Problems Solved:** 220
+- **Total Problems Solved:** 221
 - **Current Streak:** 12 days
 - **Longest Streak:** 14 days
 
@@ -13,7 +13,7 @@ Automatically organized collection of LeetCode solutions.
 #### By Language
 - Sql: 27
 - Javascript: 2
-- Java: 191
+- Java: 192
 
 #### By Topic
 - Database: 27
@@ -21,7 +21,7 @@ Automatically organized collection of LeetCode solutions.
 - General: 1
 - Divide-and-conquer: 1
 - Bit-manipulation: 1
-- Tree: 4
+- Tree: 5
 - Hash-table: 16
 - Linked-list: 15
 - String: 19
@@ -86,6 +86,7 @@ Automatically organized collection of LeetCode solutions.
 | 88 | Merge Sorted Array | array | easy | java | [Solution](solutions/java/array/easy/88_merge-sorted-array_array_easy.java) |
 | 100 | Same Tree | tree | easy | java | [Solution](solutions/java/tree/easy/100_same-tree_tree_easy.java) |
 | 108 | Convert Sorted Array To Binary Search Tree | array | easy | java | [Solution](solutions/java/array/easy/108_convert-sorted-array-to-binary-search-tree_array_easy.java) |
+| 112 | Path Sum | tree | easy | java | [Solution](solutions/java/tree/easy/112_path-sum_tree_easy.java) |
 | 118 | Pascal'S Triangle | array | easy | java | [Solution](solutions/java/array/easy/118_pascal's-triangle_array_easy.java) |
 | 119 | Pascal'S Triangle Ii | array | easy | java | [Solution](solutions/java/array/easy/119_pascal's-triangle-ii_array_easy.java) |
 | 121 | Best Time To Buy And Sell Stock | array | easy | java | [Solution](solutions/java/array/easy/121_best-time-to-buy-and-sell-stock_array_easy.java) |
@@ -255,23 +256,3 @@ Automatically organized collection of LeetCode solutions.
 | 4216 | Weighted Word Mapping | array | easy | java | [Solution](solutions/java/array/easy/4216_weighted-word-mapping_array_easy.java) |
 | 4312 | Limit Occurrences In Sorted Array | array | easy | java | [Solution](solutions/java/array/easy/4312_limit-occurrences-in-sorted-array_array_easy.java) |
 | 4313 | Password Strength | hash-table | medium | java | [Solution](solutions/java/hash-table/medium/4313_password-strength_hash-table_medium.java) |
-
-<!---LeetCode Topics Start-->
-# LeetCode Topics
-## Tree
-| Problem Name | Difficulty |
-| ------- | ------- |
-| [0112-path-sum](https://github.com/imrajeevnayan/leetcode-solution/tree/main/0112-path-sum/) | Easy |
-## Depth-First Search
-| Problem Name | Difficulty |
-| ------- | ------- |
-| [0112-path-sum](https://github.com/imrajeevnayan/leetcode-solution/tree/main/0112-path-sum/) | Easy |
-## Breadth-First Search
-| Problem Name | Difficulty |
-| ------- | ------- |
-| [0112-path-sum](https://github.com/imrajeevnayan/leetcode-solution/tree/main/0112-path-sum/) | Easy |
-## Binary Tree
-| Problem Name | Difficulty |
-| ------- | ------- |
-| [0112-path-sum](https://github.com/imrajeevnayan/leetcode-solution/tree/main/0112-path-sum/) | Easy |
-<!---LeetCode Topics End-->
