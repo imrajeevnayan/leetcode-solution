@@ -682,17 +682,18 @@
     "LeetCode_Intersection_of_Two_Linked_Lists": true,
     "GeeksForGeeks_Common_in_3_Sorted_Arrays": true,
     "GeeksForGeeks_Binary_Strings_with_Equal_Sum_of_Two_Halves": true,
-    "GeeksForGeeks_Sort_a_String": true
+    "GeeksForGeeks_Sort_a_String": true,
+    "GeeksForGeeks_Sort_the_string_in_descending_order": true
   },
-  "totalSolved": 210,
+  "totalSolved": 211,
   "difficultyCounts": {
     "easy": 75,
-    "medium": 90,
+    "medium": 91,
     "hard": 3,
     "basic": 42
   },
   "currentStreak": 12,
-  "todayCount": 2,
+  "todayCount": 3,
   "lastSyncDate": "2026-06-13",
   "maxStreak": 13,
   "activityHistory": {
@@ -720,7 +721,7 @@
     "2026-06-10": 4,
     "2026-06-11": 4,
     "2026-06-12": 1,
-    "2026-06-13": 2
+    "2026-06-13": 3
   },
   "todayProblems": [
     "Most Frequent Character",
@@ -931,6 +932,7 @@
     "Intersection of Two Linked Lists",
     "Common in 3 Sorted Arrays",
     "Binary Strings with Equal Sum of Two Halves",
-    "Sort a String"
+    "Sort a String",
+    "Sort the string in descending order"
   ]
 }
