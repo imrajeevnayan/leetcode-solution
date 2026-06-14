@@ -688,17 +688,18 @@
     "LeetCode_Add_Strings": true,
     "LeetCode_Remove_Duplicates_from_Sorted_Array": true,
     "LeetCode_Max_Consecutive_Ones": true,
-    "GeeksForGeeks_Set_Matrix_Zeros": true
+    "GeeksForGeeks_Set_Matrix_Zeros": true,
+    "GeeksForGeeks_Missing_element_of_AP": true
   },
-  "totalSolved": 216,
+  "totalSolved": 217,
   "difficultyCounts": {
     "easy": 79,
-    "medium": 92,
+    "medium": 93,
     "hard": 3,
     "basic": 42
   },
   "currentStreak": 13,
-  "todayCount": 4,
+  "todayCount": 5,
   "lastSyncDate": "2026-06-14",
   "maxStreak": 13,
   "activityHistory": {
@@ -727,7 +728,7 @@
     "2026-06-11": 4,
     "2026-06-12": 1,
     "2026-06-13": 4,
-    "2026-06-14": 4
+    "2026-06-14": 5
   },
   "todayProblems": [
     "Most Frequent Character",
@@ -944,6 +945,7 @@
     "Add Strings",
     "Remove Duplicates from Sorted Array",
     "Max Consecutive Ones",
-    "Set Matrix Zeros"
+    "Set Matrix Zeros",
+    "Missing element of AP"
   ]
 }
