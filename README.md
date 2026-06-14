@@ -2,3 +2,4 @@
 |---|---------|----------|------------|-------------|------|
 | 225 | [Missing element of AP](https://www.geeksforgeeks.org/problems/missing-element-of-ap2228/1) | GeeksForGeeks | Medium | 14 Jun 2026 | 10:19 pm |
 | 2 | [Binary Array Sorting](https://www.geeksforgeeks.org/problems/binary-array-sorting-1587115620/1) | GeeksForGeeks | Medium | 14 Jun 2026 | 10:34 pm |
+| 3 | [Move all negative elements to end](https://www.geeksforgeeks.org/problems/move-all-negative-elements-to-end1813/1) | GeeksForGeeks | Medium | 14 Jun 2026 | 10:49 pm |
