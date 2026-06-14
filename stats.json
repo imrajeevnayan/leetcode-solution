@@ -687,17 +687,18 @@
     "GeeksForGeeks_String_Rotated_by_2_Places": true,
     "LeetCode_Add_Strings": true,
     "LeetCode_Remove_Duplicates_from_Sorted_Array": true,
-    "LeetCode_Max_Consecutive_Ones": true
+    "LeetCode_Max_Consecutive_Ones": true,
+    "GeeksForGeeks_Set_Matrix_Zeros": true
   },
-  "totalSolved": 215,
+  "totalSolved": 216,
   "difficultyCounts": {
     "easy": 79,
-    "medium": 91,
+    "medium": 92,
     "hard": 3,
     "basic": 42
   },
   "currentStreak": 13,
-  "todayCount": 3,
+  "todayCount": 4,
   "lastSyncDate": "2026-06-14",
   "maxStreak": 13,
   "activityHistory": {
@@ -726,7 +727,7 @@
     "2026-06-11": 4,
     "2026-06-12": 1,
     "2026-06-13": 4,
-    "2026-06-14": 3
+    "2026-06-14": 4
   },
   "todayProblems": [
     "Most Frequent Character",
@@ -942,6 +943,7 @@
     "String Rotated by 2 Places",
     "Add Strings",
     "Remove Duplicates from Sorted Array",
-    "Max Consecutive Ones"
+    "Max Consecutive Ones",
+    "Set Matrix Zeros"
   ]
 }
