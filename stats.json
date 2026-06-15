@@ -691,19 +691,20 @@
     "GeeksForGeeks_Set_Matrix_Zeros": true,
     "GeeksForGeeks_Missing_element_of_AP": true,
     "GeeksForGeeks_Binary_Array_Sorting": true,
-    "GeeksForGeeks_Move_all_negative_elements_to_end": true
+    "GeeksForGeeks_Move_all_negative_elements_to_end": true,
+    "GeeksForGeeks_Activity_Selection": true
   },
-  "totalSolved": 219,
+  "totalSolved": 220,
   "difficultyCounts": {
     "easy": 79,
-    "medium": 95,
+    "medium": 96,
     "hard": 3,
     "basic": 42
   },
-  "currentStreak": 13,
-  "todayCount": 7,
-  "lastSyncDate": "2026-06-14",
-  "maxStreak": 13,
+  "currentStreak": 14,
+  "todayCount": 1,
+  "lastSyncDate": "2026-06-15",
+  "maxStreak": 14,
   "activityHistory": {
     "2026-05-19": 2,
     "2026-05-20": 14,
@@ -730,7 +731,8 @@
     "2026-06-11": 4,
     "2026-06-12": 1,
     "2026-06-13": 4,
-    "2026-06-14": 7
+    "2026-06-14": 7,
+    "2026-06-15": 1
   },
   "todayProblems": [
     "Most Frequent Character",
@@ -950,6 +952,7 @@
     "Set Matrix Zeros",
     "Missing element of AP",
     "Binary Array Sorting",
-    "Move all negative elements to end"
+    "Move all negative elements to end",
+    "Activity Selection"
   ]
 }
