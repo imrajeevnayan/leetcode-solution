@@ -695,17 +695,18 @@
     "GeeksForGeeks_Activity_Selection": true,
     "GeeksForGeeks_Minimum_Platforms": true,
     "GeeksForGeeks_Job_Sequencing_Problem": true,
-    "GeeksForGeeks_Fractional_Knapsack": true
+    "GeeksForGeeks_Fractional_Knapsack": true,
+    "GeeksForGeeks_Greatest_on_right_side": true
   },
-  "totalSolved": 223,
+  "totalSolved": 224,
   "difficultyCounts": {
     "easy": 79,
-    "medium": 99,
+    "medium": 100,
     "hard": 3,
     "basic": 42
   },
   "currentStreak": 14,
-  "todayCount": 4,
+  "todayCount": 5,
   "lastSyncDate": "2026-06-15",
   "maxStreak": 14,
   "activityHistory": {
@@ -735,7 +736,7 @@
     "2026-06-12": 1,
     "2026-06-13": 4,
     "2026-06-14": 7,
-    "2026-06-15": 4
+    "2026-06-15": 5
   },
   "todayProblems": [
     "Most Frequent Character",
@@ -959,6 +960,7 @@
     "Activity Selection",
     "Minimum Platforms",
     "Job Sequencing Problem",
-    "Fractional Knapsack"
+    "Fractional Knapsack",
+    "Greatest on right side"
   ]
 }
