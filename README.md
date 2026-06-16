@@ -4,7 +4,7 @@ Automatically organized collection of LeetCode solutions.
 
 ## 📊 Statistics
 
-- **Total Problems Solved:** 229
+- **Total Problems Solved:** 230
 - **Current Streak:** 1 days
 - **Longest Streak:** 14 days
 
@@ -13,11 +13,11 @@ Automatically organized collection of LeetCode solutions.
 #### By Language
 - Sql: 27
 - Javascript: 2
-- Java: 200
+- Java: 201
 
 #### By Topic
 - Database: 27
-- Array: 111
+- Array: 112
 - General: 1
 - Divide-and-conquer: 1
 - Bit-manipulation: 1
@@ -163,6 +163,7 @@ Automatically organized collection of LeetCode solutions.
 | 442 | Find All Duplicates In An Array | array | medium | java | [Solution](solutions/java/array/medium/442_find-all-duplicates-in-an-array_array_medium.java) |
 | 448 | Find All Numbers Disappeared In An Array | array | easy | java | [Solution](solutions/java/array/easy/448_find-all-numbers-disappeared-in-an-array_array_easy.java) |
 | 451 | Sort Characters By Frequency | hash-table | medium | java | [Solution](solutions/java/hash-table/medium/451_sort-characters-by-frequency_hash-table_medium.java) |
+| 455 | Assign Cookies | array | easy | java | [Solution](solutions/java/array/easy/455_assign-cookies_array_easy.java) |
 | 485 | Max Consecutive Ones | array | easy | java | [Solution](solutions/java/array/easy/485_max-consecutive-ones_array_easy.java) |
 | 496 | Next Greater Element I | array | easy | java | [Solution](solutions/java/array/easy/496_next-greater-element-i_array_easy.java) |
 | 503 | Next Greater Element Ii | array | medium | java | [Solution](solutions/java/array/medium/503_next-greater-element-ii_array_medium.java) |
