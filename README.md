@@ -5,3 +5,15 @@
 | 3 | [Job Sequencing Problem](https://www.geeksforgeeks.org/problems/job-sequencing-problem-1587115620/1?spm=a2ty_o01.29997173.0.0.40ff55fbEKM0yQ) | GeeksForGeeks | Medium | 15 Jun 2026 | 08:08 am |
 | 4 | [Fractional Knapsack](https://www.geeksforgeeks.org/problems/fractional-knapsack-1587115620/1?spm=a2ty_o01.29997173.0.0.40ff55fbEKM0yQ) | GeeksForGeeks | Medium | 15 Jun 2026 | 08:10 am |
 | 5 | [Greatest on right side](https://www.geeksforgeeks.org/problems/greater-on-right-side4305/1) | GeeksForGeeks | Medium | 15 Jun 2026 | 04:50 pm |
+
+<!---LeetCode Topics Start-->
+# LeetCode Topics
+## Linked List
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0876-middle-of-the-linked-list](https://github.com/imrajeevnayan/leetcode-solution/tree/main/0876-middle-of-the-linked-list/) | Easy |
+## Two Pointers
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0876-middle-of-the-linked-list](https://github.com/imrajeevnayan/leetcode-solution/tree/main/0876-middle-of-the-linked-list/) | Easy |
+<!---LeetCode Topics End-->
