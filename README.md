@@ -4,7 +4,7 @@ Automatically organized collection of LeetCode solutions.
 
 ## 📊 Statistics
 
-- **Total Problems Solved:** 228
+- **Total Problems Solved:** 229
 - **Current Streak:** 1 days
 - **Longest Streak:** 14 days
 
@@ -13,11 +13,11 @@ Automatically organized collection of LeetCode solutions.
 #### By Language
 - Sql: 27
 - Javascript: 2
-- Java: 199
+- Java: 200
 
 #### By Topic
 - Database: 27
-- Array: 110
+- Array: 111
 - General: 1
 - Divide-and-conquer: 1
 - Bit-manipulation: 1
@@ -142,6 +142,7 @@ Automatically organized collection of LeetCode solutions.
 | 283 | Move Zeroes | array | easy | java | [Solution](solutions/java/array/easy/283_move-zeroes_array_easy.java) |
 | 303 | Range Sum Query   Immutable | array | easy | java | [Solution](solutions/java/array/easy/303_range-sum-query---immutable_array_easy.java) |
 | 316 | Remove Duplicate Letters | string | medium | java | [Solution](solutions/java/string/medium/316_remove-duplicate-letters_string_medium.java) |
+| 322 | Coin Change | array | medium | java | [Solution](solutions/java/array/medium/322_coin-change_array_medium.java) |
 | 326 | Power Of Three | math | easy | java | [Solution](solutions/java/math/easy/326_power-of-three_math_easy.java) |
 | 328 | Odd Even Linked List | linked-list | medium | java | [Solution](solutions/java/linked-list/medium/328_odd-even-linked-list_linked-list_medium.java) |
 | 334 | Increasing Triplet Subsequence | array | medium | java | [Solution](solutions/java/array/medium/334_increasing-triplet-subsequence_array_medium.java) |
