@@ -1,9 +1,9 @@
 class Solution {
-    public void moveZeroes(int[] nums) {
-        int j=0;
-        for(int i=0;i<nums.length;i++){
-            if(nums[i]!=0)nums[j++]=nums[i];
+    public void moveZeroes(int[] arr) {
+        int i=0;
+        for(int j=0;j<arr.length;j++){
+            if(arr[j]!=0)arr[i++]=arr[j];
         }
-        while(j<nums.length)nums[j++]=0;  
+        while(i<arr.length)arr[i++]=0;
     }
 }
