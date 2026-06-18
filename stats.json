@@ -697,18 +697,19 @@
     "GeeksForGeeks_Job_Sequencing_Problem": true,
     "GeeksForGeeks_Fractional_Knapsack": true,
     "GeeksForGeeks_Greatest_on_right_side": true,
-    "LeetCode_Palindrome_Number": true
+    "LeetCode_Palindrome_Number": true,
+    "GeeksForGeeks_Pair_with_given_sum_in_a_sorted_array": true
   },
-  "totalSolved": 225,
+  "totalSolved": 226,
   "difficultyCounts": {
     "easy": 80,
-    "medium": 100,
+    "medium": 101,
     "hard": 3,
     "basic": 42
   },
-  "currentStreak": 15,
+  "currentStreak": 1,
   "todayCount": 1,
-  "lastSyncDate": "2026-06-16",
+  "lastSyncDate": "2026-06-18",
   "maxStreak": 15,
   "activityHistory": {
     "2026-05-19": 2,
@@ -738,7 +739,8 @@
     "2026-06-13": 4,
     "2026-06-14": 7,
     "2026-06-15": 5,
-    "2026-06-16": 1
+    "2026-06-16": 1,
+    "2026-06-18": 1
   },
   "todayProblems": [
     "Most Frequent Character",
@@ -964,6 +966,7 @@
     "Job Sequencing Problem",
     "Fractional Knapsack",
     "Greatest on right side",
-    "Palindrome Number"
+    "Palindrome Number",
+    "Pair with given sum in a sorted array"
   ]
 }
