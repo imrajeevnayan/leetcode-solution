@@ -700,17 +700,18 @@
     "LeetCode_Palindrome_Number": true,
     "GeeksForGeeks_Pair_with_given_sum_in_a_sorted_array": true,
     "GeeksForGeeks_Equalize_All_Prefix_Sums": true,
-    "GeeksForGeeks_Search_in_Linked_List": true
+    "GeeksForGeeks_Search_in_Linked_List": true,
+    "GeeksForGeeks_Delete_in_a_Singly_Linked_List": true
   },
-  "totalSolved": 228,
+  "totalSolved": 229,
   "difficultyCounts": {
     "easy": 81,
-    "medium": 102,
+    "medium": 103,
     "hard": 3,
     "basic": 42
   },
   "currentStreak": 2,
-  "todayCount": 2,
+  "todayCount": 3,
   "lastSyncDate": "2026-06-19",
   "maxStreak": 15,
   "activityHistory": {
@@ -743,7 +744,7 @@
     "2026-06-15": 5,
     "2026-06-16": 1,
     "2026-06-18": 1,
-    "2026-06-19": 2
+    "2026-06-19": 3
   },
   "todayProblems": [
     "Most Frequent Character",
@@ -972,6 +973,7 @@
     "Palindrome Number",
     "Pair with given sum in a sorted array",
     "Equalize All Prefix Sums",
-    "Search in Linked List"
+    "Search in Linked List",
+    "Delete in a Singly Linked List"
   ]
 }
