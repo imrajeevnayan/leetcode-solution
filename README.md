@@ -24,3 +24,4 @@
 | [0015-3sum](https://github.com/imrajeevnayan/leetcode-solution/tree/main/0015-3sum/) | Medium |
 <!---LeetCode Topics End-->
 | 2 | [Equalize All Prefix Sums](https://www.geeksforgeeks.org/problems/optimal-array--170647/1) | GeeksForGeeks | Medium | 19 Jun 2026 | 09:21 am |
+| 3 | [Search in Linked List](https://www.geeksforgeeks.org/problems/search-in-linked-list-1664434326/1) | GeeksForGeeks | Easy | 19 Jun 2026 | 02:22 pm |
