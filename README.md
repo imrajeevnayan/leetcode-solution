@@ -280,6 +280,7 @@ Automatically organized collection of LeetCode solutions.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0445-add-two-numbers-ii](https://github.com/imrajeevnayan/leetcode-solution/tree/main/0445-add-two-numbers-ii/) | Medium |
+| [1071-greatest-common-divisor-of-strings](https://github.com/imrajeevnayan/leetcode-solution/tree/main/1071-greatest-common-divisor-of-strings/) | Easy |
 ## Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -291,5 +292,6 @@ Automatically organized collection of LeetCode solutions.
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [1071-greatest-common-divisor-of-strings](https://github.com/imrajeevnayan/leetcode-solution/tree/main/1071-greatest-common-divisor-of-strings/) | Easy |
 | [1768-merge-strings-alternately](https://github.com/imrajeevnayan/leetcode-solution/tree/main/1768-merge-strings-alternately/) | Easy |
 <!---LeetCode Topics End-->
