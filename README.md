@@ -284,4 +284,12 @@ Automatically organized collection of LeetCode solutions.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0445-add-two-numbers-ii](https://github.com/imrajeevnayan/leetcode-solution/tree/main/0445-add-two-numbers-ii/) | Medium |
+## Two Pointers
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1768-merge-strings-alternately](https://github.com/imrajeevnayan/leetcode-solution/tree/main/1768-merge-strings-alternately/) | Easy |
+## String
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1768-merge-strings-alternately](https://github.com/imrajeevnayan/leetcode-solution/tree/main/1768-merge-strings-alternately/) | Easy |
 <!---LeetCode Topics End-->
