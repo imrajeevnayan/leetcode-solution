@@ -4,7 +4,7 @@ Automatically organized collection of LeetCode solutions.
 
 ## 📊 Statistics
 
-- **Total Problems Solved:** 233
+- **Total Problems Solved:** 234
 - **Current Streak:** 1 days
 - **Longest Streak:** 14 days
 
@@ -13,7 +13,7 @@ Automatically organized collection of LeetCode solutions.
 #### By Language
 - Sql: 27
 - Javascript: 2
-- Java: 204
+- Java: 205
 
 #### By Topic
 - Database: 27
@@ -23,7 +23,7 @@ Automatically organized collection of LeetCode solutions.
 - Bit-manipulation: 1
 - Tree: 5
 - Hash-table: 17
-- Linked-list: 15
+- Linked-list: 16
 - String: 20
 - Stack: 1
 - Dynamic-programming: 1
@@ -162,6 +162,7 @@ Automatically organized collection of LeetCode solutions.
 | 415 | Add Strings | math | easy | java | [Solution](solutions/java/math/easy/415_add-strings_math_easy.java) |
 | 424 | Longest Repeating Character Replacement | hash-table | medium | java | [Solution](solutions/java/hash-table/medium/424_longest-repeating-character-replacement_hash-table_medium.java) |
 | 442 | Find All Duplicates In An Array | array | medium | java | [Solution](solutions/java/array/medium/442_find-all-duplicates-in-an-array_array_medium.java) |
+| 445 | Add Two Numbers Ii | linked-list | medium | java | [Solution](solutions/java/linked-list/medium/445_add-two-numbers-ii_linked-list_medium.java) |
 | 448 | Find All Numbers Disappeared In An Array | array | easy | java | [Solution](solutions/java/array/easy/448_find-all-numbers-disappeared-in-an-array_array_easy.java) |
 | 451 | Sort Characters By Frequency | hash-table | medium | java | [Solution](solutions/java/hash-table/medium/451_sort-characters-by-frequency_hash-table_medium.java) |
 | 455 | Assign Cookies | array | easy | java | [Solution](solutions/java/array/easy/455_assign-cookies_array_easy.java) |
@@ -268,19 +269,3 @@ Automatically organized collection of LeetCode solutions.
 | 4216 | Weighted Word Mapping | array | easy | java | [Solution](solutions/java/array/easy/4216_weighted-word-mapping_array_easy.java) |
 | 4312 | Limit Occurrences In Sorted Array | array | easy | java | [Solution](solutions/java/array/easy/4312_limit-occurrences-in-sorted-array_array_easy.java) |
 | 4313 | Password Strength | hash-table | medium | java | [Solution](solutions/java/hash-table/medium/4313_password-strength_hash-table_medium.java) |
-
-<!---LeetCode Topics Start-->
-# LeetCode Topics
-## Linked List
-| Problem Name | Difficulty |
-| ------- | ------- |
-| [0445-add-two-numbers-ii](https://github.com/imrajeevnayan/leetcode-solution/tree/main/0445-add-two-numbers-ii/) | Medium |
-## Math
-| Problem Name | Difficulty |
-| ------- | ------- |
-| [0445-add-two-numbers-ii](https://github.com/imrajeevnayan/leetcode-solution/tree/main/0445-add-two-numbers-ii/) | Medium |
-## Stack
-| Problem Name | Difficulty |
-| ------- | ------- |
-| [0445-add-two-numbers-ii](https://github.com/imrajeevnayan/leetcode-solution/tree/main/0445-add-two-numbers-ii/) | Medium |
-<!---LeetCode Topics End-->
