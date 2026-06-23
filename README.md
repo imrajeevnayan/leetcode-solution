@@ -4,7 +4,7 @@ Automatically organized collection of LeetCode solutions.
 
 ## 📊 Statistics
 
-- **Total Problems Solved:** 236
+- **Total Problems Solved:** 237
 - **Current Streak:** 2 days
 - **Longest Streak:** 14 days
 
@@ -13,7 +13,7 @@ Automatically organized collection of LeetCode solutions.
 #### By Language
 - Sql: 27
 - Javascript: 2
-- Java: 207
+- Java: 208
 
 #### By Topic
 - Database: 27
@@ -23,7 +23,7 @@ Automatically organized collection of LeetCode solutions.
 - Bit-manipulation: 1
 - Tree: 5
 - Hash-table: 17
-- Linked-list: 16
+- Linked-list: 17
 - String: 20
 - Stack: 1
 - Dynamic-programming: 2
@@ -102,6 +102,7 @@ Automatically organized collection of LeetCode solutions.
 | 138 | Copy List With Random Pointer | hash-table | medium | java | [Solution](solutions/java/hash-table/medium/138_copy-list-with-random-pointer_hash-table_medium.java) |
 | 141 | Linked List Cycle | hash-table | easy | java | [Solution](solutions/java/hash-table/easy/141_linked-list-cycle_hash-table_easy.java) |
 | 142 | Linked List Cycle Ii | hash-table | medium | java | [Solution](solutions/java/hash-table/medium/142_linked-list-cycle-ii_hash-table_medium.java) |
+| 143 | Reorder List | linked-list | medium | java | [Solution](solutions/java/linked-list/medium/143_reorder-list_linked-list_medium.java) |
 | 146 | Lru Cache | hash-table | medium | java | [Solution](solutions/java/hash-table/medium/146_lru-cache_hash-table_medium.java) |
 | 151 | Reverse Words In A String | two-pointers | medium | java | [Solution](solutions/java/two-pointers/medium/151_reverse-words-in-a-string_two-pointers_medium.java) |
 | 152 | Maximum Product Subarray | array | medium | java | [Solution](solutions/java/array/medium/152_maximum-product-subarray_array_medium.java) |
@@ -271,23 +272,3 @@ Automatically organized collection of LeetCode solutions.
 | 4216 | Weighted Word Mapping | array | easy | java | [Solution](solutions/java/array/easy/4216_weighted-word-mapping_array_easy.java) |
 | 4312 | Limit Occurrences In Sorted Array | array | easy | java | [Solution](solutions/java/array/easy/4312_limit-occurrences-in-sorted-array_array_easy.java) |
 | 4313 | Password Strength | hash-table | medium | java | [Solution](solutions/java/hash-table/medium/4313_password-strength_hash-table_medium.java) |
-
-<!---LeetCode Topics Start-->
-# LeetCode Topics
-## Linked List
-| Problem Name | Difficulty |
-| ------- | ------- |
-| [0143-reorder-list](https://github.com/imrajeevnayan/leetcode-solution/tree/main/0143-reorder-list/) | Medium |
-## Two Pointers
-| Problem Name | Difficulty |
-| ------- | ------- |
-| [0143-reorder-list](https://github.com/imrajeevnayan/leetcode-solution/tree/main/0143-reorder-list/) | Medium |
-## Stack
-| Problem Name | Difficulty |
-| ------- | ------- |
-| [0143-reorder-list](https://github.com/imrajeevnayan/leetcode-solution/tree/main/0143-reorder-list/) | Medium |
-## Recursion
-| Problem Name | Difficulty |
-| ------- | ------- |
-| [0143-reorder-list](https://github.com/imrajeevnayan/leetcode-solution/tree/main/0143-reorder-list/) | Medium |
-<!---LeetCode Topics End-->
