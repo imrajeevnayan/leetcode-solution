@@ -702,18 +702,19 @@
     "GeeksForGeeks_Equalize_All_Prefix_Sums": true,
     "GeeksForGeeks_Search_in_Linked_List": true,
     "GeeksForGeeks_Delete_in_a_Singly_Linked_List": true,
-    "LeetCode_Greatest_Common_Divisor_of_Strings": true
+    "LeetCode_Greatest_Common_Divisor_of_Strings": true,
+    "GeeksForGeeks_Kadane's_Algorithm": true
   },
-  "totalSolved": 230,
+  "totalSolved": 231,
   "difficultyCounts": {
     "easy": 82,
-    "medium": 103,
+    "medium": 104,
     "hard": 3,
     "basic": 42
   },
-  "currentStreak": 1,
+  "currentStreak": 2,
   "todayCount": 1,
-  "lastSyncDate": "2026-06-22",
+  "lastSyncDate": "2026-06-23",
   "maxStreak": 15,
   "activityHistory": {
     "2026-05-19": 2,
@@ -746,7 +747,8 @@
     "2026-06-16": 1,
     "2026-06-18": 1,
     "2026-06-19": 3,
-    "2026-06-22": 1
+    "2026-06-22": 1,
+    "2026-06-23": 1
   },
   "todayProblems": [
     "Most Frequent Character",
@@ -977,6 +979,7 @@
     "Equalize All Prefix Sums",
     "Search in Linked List",
     "Delete in a Singly Linked List",
-    "Greatest Common Divisor of Strings"
+    "Greatest Common Divisor of Strings",
+    "Kadane's Algorithm"
   ]
 }
