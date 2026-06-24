@@ -4,8 +4,8 @@ Automatically organized collection of LeetCode solutions.
 
 ## 📊 Statistics
 
-- **Total Problems Solved:** 238
-- **Current Streak:** 2 days
+- **Total Problems Solved:** 239
+- **Current Streak:** 3 days
 - **Longest Streak:** 14 days
 
 ### 🧩 Breakdown
@@ -13,11 +13,11 @@ Automatically organized collection of LeetCode solutions.
 #### By Language
 - Sql: 27
 - Javascript: 2
-- Java: 209
+- Java: 210
 
 #### By Topic
 - Database: 27
-- Array: 115
+- Array: 116
 - General: 1
 - Divide-and-conquer: 1
 - Bit-manipulation: 1
@@ -263,6 +263,7 @@ Automatically organized collection of LeetCode solutions.
 | 2809 | Create Hello World Function | general | easy | javascript | [Solution](solutions/javascript/general/easy/2809_create-hello-world-function_general_easy.js) |
 | 2886 | Faulty Keyboard | string | easy | java | [Solution](solutions/java/string/easy/2886_faulty-keyboard_string_easy.java) |
 | 3221 | Find The Peaks | array | easy | java | [Solution](solutions/java/array/easy/3221_find-the-peaks_array_easy.java) |
+| 3314 | Most Frequent Prime | array | medium | java | [Solution](solutions/java/array/medium/3314_most-frequent-prime_array_medium.java) |
 | 3379 | Score Of A String | string | easy | java | [Solution](solutions/java/string/easy/3379_score-of-a-string_string_easy.java) |
 | 3644 | Minimum Positive Sum Subarray  | array | easy | java | [Solution](solutions/java/array/easy/3644_minimum-positive-sum-subarray-_array_easy.java) |
 | 3685 | Count Subarrays Of Length Three With A Condition | array | easy | java | [Solution](solutions/java/array/easy/3685_count-subarrays-of-length-three-with-a-condition_array_easy.java) |
@@ -273,39 +274,3 @@ Automatically organized collection of LeetCode solutions.
 | 4216 | Weighted Word Mapping | array | easy | java | [Solution](solutions/java/array/easy/4216_weighted-word-mapping_array_easy.java) |
 | 4312 | Limit Occurrences In Sorted Array | array | easy | java | [Solution](solutions/java/array/easy/4312_limit-occurrences-in-sorted-array_array_easy.java) |
 | 4313 | Password Strength | hash-table | medium | java | [Solution](solutions/java/hash-table/medium/4313_password-strength_hash-table_medium.java) |
-
-<!---LeetCode Topics Start-->
-# LeetCode Topics
-## Array
-| Problem Name | Difficulty |
-| ------- | ------- |
-| [0204-count-primes](https://github.com/imrajeevnayan/leetcode-solution/tree/main/0204-count-primes/) | Medium |
-| [3044-most-frequent-prime](https://github.com/imrajeevnayan/leetcode-solution/tree/main/3044-most-frequent-prime/) | Medium |
-## Math
-| Problem Name | Difficulty |
-| ------- | ------- |
-| [0204-count-primes](https://github.com/imrajeevnayan/leetcode-solution/tree/main/0204-count-primes/) | Medium |
-| [3044-most-frequent-prime](https://github.com/imrajeevnayan/leetcode-solution/tree/main/3044-most-frequent-prime/) | Medium |
-## Enumeration
-| Problem Name | Difficulty |
-| ------- | ------- |
-| [0204-count-primes](https://github.com/imrajeevnayan/leetcode-solution/tree/main/0204-count-primes/) | Medium |
-| [3044-most-frequent-prime](https://github.com/imrajeevnayan/leetcode-solution/tree/main/3044-most-frequent-prime/) | Medium |
-## Number Theory
-| Problem Name | Difficulty |
-| ------- | ------- |
-| [0204-count-primes](https://github.com/imrajeevnayan/leetcode-solution/tree/main/0204-count-primes/) | Medium |
-| [3044-most-frequent-prime](https://github.com/imrajeevnayan/leetcode-solution/tree/main/3044-most-frequent-prime/) | Medium |
-## Hash Table
-| Problem Name | Difficulty |
-| ------- | ------- |
-| [3044-most-frequent-prime](https://github.com/imrajeevnayan/leetcode-solution/tree/main/3044-most-frequent-prime/) | Medium |
-## Matrix
-| Problem Name | Difficulty |
-| ------- | ------- |
-| [3044-most-frequent-prime](https://github.com/imrajeevnayan/leetcode-solution/tree/main/3044-most-frequent-prime/) | Medium |
-## Counting
-| Problem Name | Difficulty |
-| ------- | ------- |
-| [3044-most-frequent-prime](https://github.com/imrajeevnayan/leetcode-solution/tree/main/3044-most-frequent-prime/) | Medium |
-<!---LeetCode Topics End-->
