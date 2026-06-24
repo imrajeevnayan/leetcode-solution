@@ -4,7 +4,7 @@ Automatically organized collection of LeetCode solutions.
 
 ## 📊 Statistics
 
-- **Total Problems Solved:** 241
+- **Total Problems Solved:** 242
 - **Current Streak:** 3 days
 - **Longest Streak:** 14 days
 
@@ -13,11 +13,11 @@ Automatically organized collection of LeetCode solutions.
 #### By Language
 - Sql: 27
 - Javascript: 2
-- Java: 212
+- Java: 213
 
 #### By Topic
 - Database: 27
-- Array: 118
+- Array: 119
 - General: 1
 - Divide-and-conquer: 1
 - Bit-manipulation: 1
@@ -225,6 +225,7 @@ Automatically organized collection of LeetCode solutions.
 | 1297 | Maximum Number Of Balloons | hash-table | easy | java | [Solution](solutions/java/hash-table/easy/1297_maximum-number-of-balloons_hash-table_easy.java) |
 | 1319 | Unique Number Of Occurrences | array | easy | java | [Solution](solutions/java/array/easy/1319_unique-number-of-occurrences_array_easy.java) |
 | 1327 | Last Person To Fit In The Bus | database | medium | sql | [Solution](solutions/sql/database/medium/1327_last-person-to-fit-in-the-bus_database_medium.sql) |
+| 1370 | Count Number Of Nice Subarrays | array | medium | java | [Solution](solutions/java/array/medium/1370_count-number-of-nice-subarrays_array_medium.java) |
 | 1392 | Find The Difference Of Two Arrays | array | easy | java | [Solution](solutions/java/array/easy/1392_find-the-difference-of-two-arrays_array_easy.java) |
 | 1421 | Find Numbers With Even Number Of Digits | array | easy | java | [Solution](solutions/java/array/easy/1421_find-numbers-with-even-number-of-digits_array_easy.java) |
 | 1440 | Convert Integer To The Sum Of Two No Zero Integers | math | easy | java | [Solution](solutions/java/math/easy/1440_convert-integer-to-the-sum-of-two-no-zero-integers_math_easy.java) |
@@ -276,27 +277,3 @@ Automatically organized collection of LeetCode solutions.
 | 4216 | Weighted Word Mapping | array | easy | java | [Solution](solutions/java/array/easy/4216_weighted-word-mapping_array_easy.java) |
 | 4312 | Limit Occurrences In Sorted Array | array | easy | java | [Solution](solutions/java/array/easy/4312_limit-occurrences-in-sorted-array_array_easy.java) |
 | 4313 | Password Strength | hash-table | medium | java | [Solution](solutions/java/hash-table/medium/4313_password-strength_hash-table_medium.java) |
-
-<!---LeetCode Topics Start-->
-# LeetCode Topics
-## Array
-| Problem Name | Difficulty |
-| ------- | ------- |
-| [1248-count-number-of-nice-subarrays](https://github.com/imrajeevnayan/leetcode-solution/tree/main/1248-count-number-of-nice-subarrays/) | Medium |
-## Hash Table
-| Problem Name | Difficulty |
-| ------- | ------- |
-| [1248-count-number-of-nice-subarrays](https://github.com/imrajeevnayan/leetcode-solution/tree/main/1248-count-number-of-nice-subarrays/) | Medium |
-## Math
-| Problem Name | Difficulty |
-| ------- | ------- |
-| [1248-count-number-of-nice-subarrays](https://github.com/imrajeevnayan/leetcode-solution/tree/main/1248-count-number-of-nice-subarrays/) | Medium |
-## Sliding Window
-| Problem Name | Difficulty |
-| ------- | ------- |
-| [1248-count-number-of-nice-subarrays](https://github.com/imrajeevnayan/leetcode-solution/tree/main/1248-count-number-of-nice-subarrays/) | Medium |
-## Prefix Sum
-| Problem Name | Difficulty |
-| ------- | ------- |
-| [1248-count-number-of-nice-subarrays](https://github.com/imrajeevnayan/leetcode-solution/tree/main/1248-count-number-of-nice-subarrays/) | Medium |
-<!---LeetCode Topics End-->
