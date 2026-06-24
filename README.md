@@ -4,7 +4,7 @@ Automatically organized collection of LeetCode solutions.
 
 ## 📊 Statistics
 
-- **Total Problems Solved:** 240
+- **Total Problems Solved:** 241
 - **Current Streak:** 3 days
 - **Longest Streak:** 14 days
 
@@ -13,11 +13,11 @@ Automatically organized collection of LeetCode solutions.
 #### By Language
 - Sql: 27
 - Javascript: 2
-- Java: 211
+- Java: 212
 
 #### By Topic
 - Database: 27
-- Array: 117
+- Array: 118
 - General: 1
 - Divide-and-conquer: 1
 - Bit-manipulation: 1
@@ -199,6 +199,7 @@ Automatically organized collection of LeetCode solutions.
 | 889 | Buddy Strings | hash-table | easy | java | [Solution](solutions/java/hash-table/easy/889_buddy-strings_hash-table_easy.java) |
 | 908 | Middle Of The Linked List | linked-list | easy | java | [Solution](solutions/java/linked-list/easy/908_middle-of-the-linked-list_linked-list_easy.java) |
 | 917 | Boats To Save People | array | medium | java | [Solution](solutions/java/array/medium/917_boats-to-save-people_array_medium.java) |
+| 940 | Fruit Into Baskets | array | medium | java | [Solution](solutions/java/array/medium/940_fruit-into-baskets_array_medium.java) |
 | 941 | Sort Array By Parity | array | easy | java | [Solution](solutions/java/array/easy/941_sort-array-by-parity_array_easy.java) |
 | 957 | Minimum Add To Make Parentheses Valid | string | medium | java | [Solution](solutions/java/string/medium/957_minimum-add-to-make-parentheses-valid_string_medium.java) |
 | 958 | Sort Array By Parity Ii | array | easy | java | [Solution](solutions/java/array/easy/958_sort-array-by-parity-ii_array_easy.java) |
@@ -275,19 +276,3 @@ Automatically organized collection of LeetCode solutions.
 | 4216 | Weighted Word Mapping | array | easy | java | [Solution](solutions/java/array/easy/4216_weighted-word-mapping_array_easy.java) |
 | 4312 | Limit Occurrences In Sorted Array | array | easy | java | [Solution](solutions/java/array/easy/4312_limit-occurrences-in-sorted-array_array_easy.java) |
 | 4313 | Password Strength | hash-table | medium | java | [Solution](solutions/java/hash-table/medium/4313_password-strength_hash-table_medium.java) |
-
-<!---LeetCode Topics Start-->
-# LeetCode Topics
-## Array
-| Problem Name | Difficulty |
-| ------- | ------- |
-| [0904-fruit-into-baskets](https://github.com/imrajeevnayan/leetcode-solution/tree/main/0904-fruit-into-baskets/) | Medium |
-## Hash Table
-| Problem Name | Difficulty |
-| ------- | ------- |
-| [0904-fruit-into-baskets](https://github.com/imrajeevnayan/leetcode-solution/tree/main/0904-fruit-into-baskets/) | Medium |
-## Sliding Window
-| Problem Name | Difficulty |
-| ------- | ------- |
-| [0904-fruit-into-baskets](https://github.com/imrajeevnayan/leetcode-solution/tree/main/0904-fruit-into-baskets/) | Medium |
-<!---LeetCode Topics End-->
