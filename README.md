@@ -280,16 +280,32 @@ Automatically organized collection of LeetCode solutions.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0204-count-primes](https://github.com/imrajeevnayan/leetcode-solution/tree/main/0204-count-primes/) | Medium |
+| [3044-most-frequent-prime](https://github.com/imrajeevnayan/leetcode-solution/tree/main/3044-most-frequent-prime/) | Medium |
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0204-count-primes](https://github.com/imrajeevnayan/leetcode-solution/tree/main/0204-count-primes/) | Medium |
+| [3044-most-frequent-prime](https://github.com/imrajeevnayan/leetcode-solution/tree/main/3044-most-frequent-prime/) | Medium |
 ## Enumeration
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0204-count-primes](https://github.com/imrajeevnayan/leetcode-solution/tree/main/0204-count-primes/) | Medium |
+| [3044-most-frequent-prime](https://github.com/imrajeevnayan/leetcode-solution/tree/main/3044-most-frequent-prime/) | Medium |
 ## Number Theory
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0204-count-primes](https://github.com/imrajeevnayan/leetcode-solution/tree/main/0204-count-primes/) | Medium |
+| [3044-most-frequent-prime](https://github.com/imrajeevnayan/leetcode-solution/tree/main/3044-most-frequent-prime/) | Medium |
+## Hash Table
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3044-most-frequent-prime](https://github.com/imrajeevnayan/leetcode-solution/tree/main/3044-most-frequent-prime/) | Medium |
+## Matrix
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3044-most-frequent-prime](https://github.com/imrajeevnayan/leetcode-solution/tree/main/3044-most-frequent-prime/) | Medium |
+## Counting
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3044-most-frequent-prime](https://github.com/imrajeevnayan/leetcode-solution/tree/main/3044-most-frequent-prime/) | Medium |
 <!---LeetCode Topics End-->
