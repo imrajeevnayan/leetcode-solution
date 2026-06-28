@@ -708,18 +708,19 @@
     "GeeksForGeeks_GCD_of_two_numbers": true,
     "GeeksForGeeks_Largest_prime_factor": true,
     "GeeksForGeeks_Primes_in_a_Range": true,
-    "GeeksForGeeks_Max_Sum_Subarray_of_size_K": true
+    "GeeksForGeeks_Max_Sum_Subarray_of_size_K": true,
+    "GeeksForGeeks_First_negative_in_every_window_of_size_k": true
   },
-  "totalSolved": 236,
+  "totalSolved": 237,
   "difficultyCounts": {
     "easy": 84,
-    "medium": 107,
+    "medium": 108,
     "hard": 3,
     "basic": 42
   },
-  "currentStreak": 1,
-  "todayCount": 5,
-  "lastSyncDate": "2026-06-28",
+  "currentStreak": 2,
+  "todayCount": 1,
+  "lastSyncDate": "2026-06-29",
   "maxStreak": 15,
   "activityHistory": {
     "2026-05-19": 2,
@@ -754,7 +755,8 @@
     "2026-06-19": 3,
     "2026-06-22": 1,
     "2026-06-23": 1,
-    "2026-06-28": 5
+    "2026-06-28": 5,
+    "2026-06-29": 1
   },
   "todayProblems": [
     "Most Frequent Character",
@@ -991,6 +993,7 @@
     "GCD of two numbers",
     "Largest prime factor",
     "Primes in a Range",
-    "Max Sum Subarray of size K"
+    "Max Sum Subarray of size K",
+    "First negative in every window of size k"
   ]
 }
