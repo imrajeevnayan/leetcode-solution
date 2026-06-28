@@ -707,17 +707,18 @@
     "GeeksForGeeks_All_divisors_of_a_Number": true,
     "GeeksForGeeks_GCD_of_two_numbers": true,
     "GeeksForGeeks_Largest_prime_factor": true,
-    "GeeksForGeeks_Primes_in_a_Range": true
+    "GeeksForGeeks_Primes_in_a_Range": true,
+    "GeeksForGeeks_Max_Sum_Subarray_of_size_K": true
   },
-  "totalSolved": 235,
+  "totalSolved": 236,
   "difficultyCounts": {
-    "easy": 83,
+    "easy": 84,
     "medium": 107,
     "hard": 3,
     "basic": 42
   },
   "currentStreak": 1,
-  "todayCount": 4,
+  "todayCount": 5,
   "lastSyncDate": "2026-06-28",
   "maxStreak": 15,
   "activityHistory": {
@@ -753,7 +754,7 @@
     "2026-06-19": 3,
     "2026-06-22": 1,
     "2026-06-23": 1,
-    "2026-06-28": 4
+    "2026-06-28": 5
   },
   "todayProblems": [
     "Most Frequent Character",
@@ -989,6 +990,7 @@
     "All divisors of a Number",
     "GCD of two numbers",
     "Largest prime factor",
-    "Primes in a Range"
+    "Primes in a Range",
+    "Max Sum Subarray of size K"
   ]
 }

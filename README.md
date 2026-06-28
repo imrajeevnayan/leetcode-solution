@@ -29,3 +29,4 @@
 | ------- | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/imrajeevnayan/leetcode-solution/tree/main/0209-minimum-size-subarray-sum/) | Medium |
 <!---LeetCode Topics End-->
+| 5 | [Max Sum Subarray of size K](https://www.geeksforgeeks.org/problems/max-sum-subarray-of-size-k5313/1?utm_source=chatgpt.com) | GeeksForGeeks | Easy | 28 Jun 2026 | 11:43 pm |
