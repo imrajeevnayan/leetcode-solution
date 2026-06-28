@@ -11,8 +11,21 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/imrajeevnayan/leetcode-solution/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
+| [0209-minimum-size-subarray-sum](https://github.com/imrajeevnayan/leetcode-solution/tree/main/0209-minimum-size-subarray-sum/) | Medium |
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/imrajeevnayan/leetcode-solution/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
+## Binary Search
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/imrajeevnayan/leetcode-solution/tree/main/0209-minimum-size-subarray-sum/) | Medium |
+## Sliding Window
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/imrajeevnayan/leetcode-solution/tree/main/0209-minimum-size-subarray-sum/) | Medium |
+## Prefix Sum
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/imrajeevnayan/leetcode-solution/tree/main/0209-minimum-size-subarray-sum/) | Medium |
 <!---LeetCode Topics End-->
