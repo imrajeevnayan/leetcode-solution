@@ -22,3 +22,4 @@
 | 8 | [Smallest Repeating K Times](https://www.geeksforgeeks.org/problems/smallest-number-repeating-k-times3239/1?page=3&status=unsolved&sortBy=difficulty) | GeeksForGeeks | Basic | 29 Jun 2026 | 10:04 pm |
 | 9 | [Find element at a given Index](https://www.geeksforgeeks.org/problems/c-array-print-an-element-set-25933/1?page=3&status=unsolved&sortBy=difficulty) | GeeksForGeeks | Basic | 29 Jun 2026 | 11:18 pm |
 | 10 | [Remove Consonants](https://www.geeksforgeeks.org/problems/c-program-to-remove-consonants-from-a-string1945/1?page=4&status=unsolved&sortBy=difficulty) | GeeksForGeeks | Basic | 29 Jun 2026 | 11:35 pm |
+| 11 | [Count Distinct Vowels in String](https://www.geeksforgeeks.org/problems/count-distinct-vowels-in-string/1?page=5&status=unsolved&sortBy=difficulty) | GeeksForGeeks | Basic | 29 Jun 2026 | 11:45 pm |
