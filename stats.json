@@ -718,17 +718,18 @@
     "GeeksForGeeks_Even_Occurring_Elements": true,
     "GeeksForGeeks_Find_unique_element": true,
     "GeeksForGeeks_Smallest_Repeating_K_Times": true,
-    "GeeksForGeeks_Find_element_at_a_given_Index": true
+    "GeeksForGeeks_Find_element_at_a_given_Index": true,
+    "GeeksForGeeks_Remove_Consonants": true
   },
-  "totalSolved": 246,
+  "totalSolved": 247,
   "difficultyCounts": {
     "easy": 85,
     "medium": 111,
     "hard": 3,
-    "basic": 47
+    "basic": 48
   },
   "currentStreak": 2,
-  "todayCount": 10,
+  "todayCount": 11,
   "lastSyncDate": "2026-06-29",
   "maxStreak": 15,
   "activityHistory": {
@@ -765,7 +766,7 @@
     "2026-06-22": 1,
     "2026-06-23": 1,
     "2026-06-28": 5,
-    "2026-06-29": 10
+    "2026-06-29": 11
   },
   "todayProblems": [
     "Most Frequent Character",
@@ -1012,6 +1013,7 @@
     "Even Occurring Elements",
     "Find unique element",
     "Smallest Repeating K Times",
-    "Find element at a given Index"
+    "Find element at a given Index",
+    "Remove Consonants"
   ]
 }
