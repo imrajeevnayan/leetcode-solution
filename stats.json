@@ -711,17 +711,18 @@
     "GeeksForGeeks_Max_Sum_Subarray_of_size_K": true,
     "GeeksForGeeks_First_negative_in_every_window_of_size_k": true,
     "GeeksForGeeks_Count_the_number_of_possible_triangles": true,
-    "LeetCode_Move_Zeroes": true
+    "LeetCode_Move_Zeroes": true,
+    "GeeksForGeeks_Smaller_on_Left": true
   },
-  "totalSolved": 239,
+  "totalSolved": 240,
   "difficultyCounts": {
     "easy": 85,
-    "medium": 109,
+    "medium": 110,
     "hard": 3,
     "basic": 42
   },
   "currentStreak": 2,
-  "todayCount": 3,
+  "todayCount": 4,
   "lastSyncDate": "2026-06-29",
   "maxStreak": 15,
   "activityHistory": {
@@ -758,7 +759,7 @@
     "2026-06-22": 1,
     "2026-06-23": 1,
     "2026-06-28": 5,
-    "2026-06-29": 3
+    "2026-06-29": 4
   },
   "todayProblems": [
     "Most Frequent Character",
@@ -998,6 +999,7 @@
     "Max Sum Subarray of size K",
     "First negative in every window of size k",
     "Count the number of possible triangles",
-    "Move Zeroes"
+    "Move Zeroes",
+    "Smaller on Left"
   ]
 }
