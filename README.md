@@ -18,3 +18,4 @@
 | 4 | [K Sized Subarray Maximum](https://www.geeksforgeeks.org/problems/maximum-of-all-subarrays-of-size-k3101/1?page=1&status=unsolved&sortBy=submissions) | GeeksForGeeks | Medium | 29 Jun 2026 | 09:33 pm |
 | 5 | [Sum of distinct elements](https://www.geeksforgeeks.org/problems/sum-of-distinct-elements4801/1?page=1&status=unsolved&sortBy=difficulty) | GeeksForGeeks | Basic | 29 Jun 2026 | 09:38 pm |
 | 6 | [Even Occurring Elements](https://www.geeksforgeeks.org/problems/even-occurring-elements4332/1?page=1&status=unsolved&sortBy=difficulty) | GeeksForGeeks | Basic | 29 Jun 2026 | 09:51 pm |
+| 7 | [Find unique element](https://www.geeksforgeeks.org/problems/find-unique-element2632/1?page=2&status=unsolved&sortBy=difficulty) | GeeksForGeeks | Basic | 29 Jun 2026 | 09:59 pm |
