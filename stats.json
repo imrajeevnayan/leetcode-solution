@@ -717,17 +717,18 @@
     "GeeksForGeeks_Sum_of_distinct_elements": true,
     "GeeksForGeeks_Even_Occurring_Elements": true,
     "GeeksForGeeks_Find_unique_element": true,
-    "GeeksForGeeks_Smallest_Repeating_K_Times": true
+    "GeeksForGeeks_Smallest_Repeating_K_Times": true,
+    "GeeksForGeeks_Find_element_at_a_given_Index": true
   },
-  "totalSolved": 245,
+  "totalSolved": 246,
   "difficultyCounts": {
     "easy": 85,
     "medium": 111,
     "hard": 3,
-    "basic": 46
+    "basic": 47
   },
   "currentStreak": 2,
-  "todayCount": 9,
+  "todayCount": 10,
   "lastSyncDate": "2026-06-29",
   "maxStreak": 15,
   "activityHistory": {
@@ -764,7 +765,7 @@
     "2026-06-22": 1,
     "2026-06-23": 1,
     "2026-06-28": 5,
-    "2026-06-29": 9
+    "2026-06-29": 10
   },
   "todayProblems": [
     "Most Frequent Character",
@@ -1010,6 +1011,7 @@
     "Sum of distinct elements",
     "Even Occurring Elements",
     "Find unique element",
-    "Smallest Repeating K Times"
+    "Smallest Repeating K Times",
+    "Find element at a given Index"
   ]
 }

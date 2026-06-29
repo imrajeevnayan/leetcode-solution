@@ -20,3 +20,4 @@
 | 6 | [Even Occurring Elements](https://www.geeksforgeeks.org/problems/even-occurring-elements4332/1?page=1&status=unsolved&sortBy=difficulty) | GeeksForGeeks | Basic | 29 Jun 2026 | 09:51 pm |
 | 7 | [Find unique element](https://www.geeksforgeeks.org/problems/find-unique-element2632/1?page=2&status=unsolved&sortBy=difficulty) | GeeksForGeeks | Basic | 29 Jun 2026 | 09:59 pm |
 | 8 | [Smallest Repeating K Times](https://www.geeksforgeeks.org/problems/smallest-number-repeating-k-times3239/1?page=3&status=unsolved&sortBy=difficulty) | GeeksForGeeks | Basic | 29 Jun 2026 | 10:04 pm |
+| 9 | [Find element at a given Index](https://www.geeksforgeeks.org/problems/c-array-print-an-element-set-25933/1?page=3&status=unsolved&sortBy=difficulty) | GeeksForGeeks | Basic | 29 Jun 2026 | 11:18 pm |
