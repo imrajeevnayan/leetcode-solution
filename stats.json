@@ -720,17 +720,18 @@
     "GeeksForGeeks_Smallest_Repeating_K_Times": true,
     "GeeksForGeeks_Find_element_at_a_given_Index": true,
     "GeeksForGeeks_Remove_Consonants": true,
-    "GeeksForGeeks_Count_Distinct_Vowels_in_String": true
+    "GeeksForGeeks_Count_Distinct_Vowels_in_String": true,
+    "GeeksForGeeks_K-th_distinct_element": true
   },
-  "totalSolved": 248,
+  "totalSolved": 249,
   "difficultyCounts": {
     "easy": 85,
     "medium": 111,
     "hard": 3,
-    "basic": 49
+    "basic": 50
   },
   "currentStreak": 2,
-  "todayCount": 12,
+  "todayCount": 13,
   "lastSyncDate": "2026-06-29",
   "maxStreak": 15,
   "activityHistory": {
@@ -767,7 +768,7 @@
     "2026-06-22": 1,
     "2026-06-23": 1,
     "2026-06-28": 5,
-    "2026-06-29": 12
+    "2026-06-29": 13
   },
   "todayProblems": [
     "Most Frequent Character",
@@ -1016,6 +1017,7 @@
     "Smallest Repeating K Times",
     "Find element at a given Index",
     "Remove Consonants",
-    "Count Distinct Vowels in String"
+    "Count Distinct Vowels in String",
+    "K-th distinct element"
   ]
 }
