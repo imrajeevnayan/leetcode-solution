@@ -9,16 +9,19 @@
 | ------- | ------- |
 | [0015-3sum](https://github.com/imrajeevnayan/leetcode-solution/tree/main/0015-3sum/) | Medium |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/imrajeevnayan/leetcode-solution/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
+| [0611-valid-triangle-number](https://github.com/imrajeevnayan/leetcode-solution/tree/main/0611-valid-triangle-number/) | Medium |
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0015-3sum](https://github.com/imrajeevnayan/leetcode-solution/tree/main/0015-3sum/) | Medium |
 | [0125-valid-palindrome](https://github.com/imrajeevnayan/leetcode-solution/tree/main/0125-valid-palindrome/) | Easy |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/imrajeevnayan/leetcode-solution/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
+| [0611-valid-triangle-number](https://github.com/imrajeevnayan/leetcode-solution/tree/main/0611-valid-triangle-number/) | Medium |
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/imrajeevnayan/leetcode-solution/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
+| [0611-valid-triangle-number](https://github.com/imrajeevnayan/leetcode-solution/tree/main/0611-valid-triangle-number/) | Medium |
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -27,4 +30,9 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0015-3sum](https://github.com/imrajeevnayan/leetcode-solution/tree/main/0015-3sum/) | Medium |
+| [0611-valid-triangle-number](https://github.com/imrajeevnayan/leetcode-solution/tree/main/0611-valid-triangle-number/) | Medium |
+## Greedy
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0611-valid-triangle-number](https://github.com/imrajeevnayan/leetcode-solution/tree/main/0611-valid-triangle-number/) | Medium |
 <!---LeetCode Topics End-->
