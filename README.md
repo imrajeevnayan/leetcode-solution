@@ -16,3 +16,4 @@
 <!---LeetCode Topics End-->
 | 3 | [Smaller on Left](https://www.geeksforgeeks.org/problems/smaller-on-left20360700/1?page=1&category=set&sortBy=submissions) | GeeksForGeeks | Medium | 29 Jun 2026 | 09:31 pm |
 | 4 | [K Sized Subarray Maximum](https://www.geeksforgeeks.org/problems/maximum-of-all-subarrays-of-size-k3101/1?page=1&status=unsolved&sortBy=submissions) | GeeksForGeeks | Medium | 29 Jun 2026 | 09:33 pm |
+| 5 | [Sum of distinct elements](https://www.geeksforgeeks.org/problems/sum-of-distinct-elements4801/1?page=1&status=unsolved&sortBy=difficulty) | GeeksForGeeks | Basic | 29 Jun 2026 | 09:38 pm |
