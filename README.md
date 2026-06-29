@@ -15,3 +15,4 @@
 | [0283-move-zeroes](https://github.com/imrajeevnayan/leetcode-solution/tree/main/0283-move-zeroes/) | Easy |
 <!---LeetCode Topics End-->
 | 3 | [Smaller on Left](https://www.geeksforgeeks.org/problems/smaller-on-left20360700/1?page=1&category=set&sortBy=submissions) | GeeksForGeeks | Medium | 29 Jun 2026 | 09:31 pm |
+| 4 | [K Sized Subarray Maximum](https://www.geeksforgeeks.org/problems/maximum-of-all-subarrays-of-size-k3101/1?page=1&status=unsolved&sortBy=submissions) | GeeksForGeeks | Medium | 29 Jun 2026 | 09:33 pm |
