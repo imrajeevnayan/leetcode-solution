@@ -27,6 +27,7 @@
 | [0049-group-anagrams](https://github.com/imrajeevnayan/leetcode-solution/tree/main/0049-group-anagrams/) | Medium |
 | [0141-linked-list-cycle](https://github.com/imrajeevnayan/leetcode-solution/tree/main/0141-linked-list-cycle/) | Easy |
 | [0142-linked-list-cycle-ii](https://github.com/imrajeevnayan/leetcode-solution/tree/main/0142-linked-list-cycle-ii/) | Medium |
+| [0160-intersection-of-two-linked-lists](https://github.com/imrajeevnayan/leetcode-solution/tree/main/0160-intersection-of-two-linked-lists/) | Easy |
 | [0268-missing-number](https://github.com/imrajeevnayan/leetcode-solution/tree/main/0268-missing-number/) | Easy |
 ## Sliding Window
 | Problem Name | Difficulty |
@@ -38,6 +39,7 @@
 | [0019-remove-nth-node-from-end-of-list](https://github.com/imrajeevnayan/leetcode-solution/tree/main/0019-remove-nth-node-from-end-of-list/) | Medium |
 | [0141-linked-list-cycle](https://github.com/imrajeevnayan/leetcode-solution/tree/main/0141-linked-list-cycle/) | Easy |
 | [0142-linked-list-cycle-ii](https://github.com/imrajeevnayan/leetcode-solution/tree/main/0142-linked-list-cycle-ii/) | Medium |
+| [0160-intersection-of-two-linked-lists](https://github.com/imrajeevnayan/leetcode-solution/tree/main/0160-intersection-of-two-linked-lists/) | Easy |
 | [0876-middle-of-the-linked-list](https://github.com/imrajeevnayan/leetcode-solution/tree/main/0876-middle-of-the-linked-list/) | Easy |
 ## Two Pointers
 | Problem Name | Difficulty |
@@ -45,6 +47,7 @@
 | [0019-remove-nth-node-from-end-of-list](https://github.com/imrajeevnayan/leetcode-solution/tree/main/0019-remove-nth-node-from-end-of-list/) | Medium |
 | [0141-linked-list-cycle](https://github.com/imrajeevnayan/leetcode-solution/tree/main/0141-linked-list-cycle/) | Easy |
 | [0142-linked-list-cycle-ii](https://github.com/imrajeevnayan/leetcode-solution/tree/main/0142-linked-list-cycle-ii/) | Medium |
+| [0160-intersection-of-two-linked-lists](https://github.com/imrajeevnayan/leetcode-solution/tree/main/0160-intersection-of-two-linked-lists/) | Easy |
 | [0876-middle-of-the-linked-list](https://github.com/imrajeevnayan/leetcode-solution/tree/main/0876-middle-of-the-linked-list/) | Easy |
 ## Sorting
 | Problem Name | Difficulty |
