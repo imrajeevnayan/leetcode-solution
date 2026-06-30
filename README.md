@@ -50,3 +50,4 @@
 | 12 | [K-th distinct element](https://www.geeksforgeeks.org/problems/k-th-distinct-element4510/1?page=4&status=unsolved&sortBy=difficulty) | GeeksForGeeks | Basic | 29 Jun 2026 | 11:48 pm |
 | 13 | [Remove Duplicates from Sorted List](https://leetcode.com/problems/remove-duplicates-from-sorted-list/) | LeetCode | Easy | 30 Jun 2026 | 10:37 am |
 | 14 | [3Sum Closest](https://leetcode.com/problems/3sum-closest/) | LeetCode | Medium | 30 Jun 2026 | 11:26 am |
+| 15 | [Triplets with Smaller Sum](https://www.geeksforgeeks.org/problems/count-triplets-with-sum-smaller-than-x5549/1) | GeeksForGeeks | Medium | 30 Jun 2026 | 11:32 am |

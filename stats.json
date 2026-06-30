@@ -723,17 +723,18 @@
     "GeeksForGeeks_Count_Distinct_Vowels_in_String": true,
     "GeeksForGeeks_K-th_distinct_element": true,
     "LeetCode_Remove_Duplicates_from_Sorted_List": true,
-    "LeetCode_3Sum_Closest": true
+    "LeetCode_3Sum_Closest": true,
+    "GeeksForGeeks_Triplets_with_Smaller_Sum": true
   },
-  "totalSolved": 251,
+  "totalSolved": 252,
   "difficultyCounts": {
     "easy": 86,
-    "medium": 112,
+    "medium": 113,
     "hard": 3,
     "basic": 50
   },
   "currentStreak": 3,
-  "todayCount": 2,
+  "todayCount": 3,
   "lastSyncDate": "2026-06-30",
   "maxStreak": 15,
   "activityHistory": {
@@ -771,7 +772,7 @@
     "2026-06-23": 1,
     "2026-06-28": 5,
     "2026-06-29": 13,
-    "2026-06-30": 2
+    "2026-06-30": 3
   },
   "todayProblems": [
     "Most Frequent Character",
@@ -1023,6 +1024,7 @@
     "Count Distinct Vowels in String",
     "K-th distinct element",
     "Remove Duplicates from Sorted List",
-    "3Sum Closest"
+    "3Sum Closest",
+    "Triplets with Smaller Sum"
   ]
 }
