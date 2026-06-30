@@ -4,7 +4,7 @@ Automatically organized collection of LeetCode solutions.
 
 ## 📊 Statistics
 
-- **Total Problems Solved:** 247
+- **Total Problems Solved:** 248
 - **Current Streak:** 3 days
 - **Longest Streak:** 14 days
 
@@ -13,7 +13,7 @@ Automatically organized collection of LeetCode solutions.
 #### By Language
 - Sql: 27
 - Javascript: 2
-- Java: 218
+- Java: 219
 
 #### By Topic
 - Database: 27
@@ -29,7 +29,7 @@ Automatically organized collection of LeetCode solutions.
 - Dynamic-programming: 2
 - Binary-search: 1
 - Math: 21
-- Two-pointers: 9
+- Two-pointers: 10
 
 ## 📂 Solutions
 
@@ -199,6 +199,7 @@ Automatically organized collection of LeetCode solutions.
 | 778 | Reorganize String | hash-table | medium | java | [Solution](solutions/java/hash-table/medium/778_reorganize-string_hash-table_medium.java) |
 | 792 | Binary Search | array | easy | java | [Solution](solutions/java/array/easy/792_binary-search_array_easy.java) |
 | 816 | Design Hashset | array | easy | java | [Solution](solutions/java/array/easy/816_design-hashset_array_easy.java) |
+| 874 | Backspace String Compare | two-pointers | easy | java | [Solution](solutions/java/two-pointers/easy/874_backspace-string-compare_two-pointers_easy.java) |
 | 882 | Peak Index In A Mountain Array | array | medium | java | [Solution](solutions/java/array/medium/882_peak-index-in-a-mountain-array_array_medium.java) |
 | 889 | Buddy Strings | hash-table | easy | java | [Solution](solutions/java/hash-table/easy/889_buddy-strings_hash-table_easy.java) |
 | 908 | Middle Of The Linked List | linked-list | easy | java | [Solution](solutions/java/linked-list/easy/908_middle-of-the-linked-list_linked-list_easy.java) |
@@ -282,23 +283,3 @@ Automatically organized collection of LeetCode solutions.
 | 4216 | Weighted Word Mapping | array | easy | java | [Solution](solutions/java/array/easy/4216_weighted-word-mapping_array_easy.java) |
 | 4312 | Limit Occurrences In Sorted Array | array | easy | java | [Solution](solutions/java/array/easy/4312_limit-occurrences-in-sorted-array_array_easy.java) |
 | 4313 | Password Strength | hash-table | medium | java | [Solution](solutions/java/hash-table/medium/4313_password-strength_hash-table_medium.java) |
-
-<!---LeetCode Topics Start-->
-# LeetCode Topics
-## Two Pointers
-| Problem Name | Difficulty |
-| ------- | ------- |
-| [0844-backspace-string-compare](https://github.com/imrajeevnayan/leetcode-solution/tree/main/0844-backspace-string-compare/) | Easy |
-## String
-| Problem Name | Difficulty |
-| ------- | ------- |
-| [0844-backspace-string-compare](https://github.com/imrajeevnayan/leetcode-solution/tree/main/0844-backspace-string-compare/) | Easy |
-## Stack
-| Problem Name | Difficulty |
-| ------- | ------- |
-| [0844-backspace-string-compare](https://github.com/imrajeevnayan/leetcode-solution/tree/main/0844-backspace-string-compare/) | Easy |
-## Simulation
-| Problem Name | Difficulty |
-| ------- | ------- |
-| [0844-backspace-string-compare](https://github.com/imrajeevnayan/leetcode-solution/tree/main/0844-backspace-string-compare/) | Easy |
-<!---LeetCode Topics End-->
