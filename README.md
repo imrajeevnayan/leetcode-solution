@@ -57,6 +57,7 @@
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0070-climbing-stairs](https://github.com/imrajeevnayan/leetcode-solution/tree/main/0070-climbing-stairs/) | Easy |
 | [0268-missing-number](https://github.com/imrajeevnayan/leetcode-solution/tree/main/0268-missing-number/) | Easy |
 ## Binary Search
 | Problem Name | Difficulty |
@@ -66,6 +67,14 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0268-missing-number](https://github.com/imrajeevnayan/leetcode-solution/tree/main/0268-missing-number/) | Easy |
+## Dynamic Programming
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0070-climbing-stairs](https://github.com/imrajeevnayan/leetcode-solution/tree/main/0070-climbing-stairs/) | Easy |
+## Memoization
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0070-climbing-stairs](https://github.com/imrajeevnayan/leetcode-solution/tree/main/0070-climbing-stairs/) | Easy |
 <!---LeetCode Topics End-->
 | 2 | [Decimal to binary](https://www.geeksforgeeks.org/problems/decimal-to-binary-1587115620/1) | GeeksForGeeks | Easy | 30 Jun 2026 | 05:24 pm |
 | 3 | [Missing in Array](https://www.geeksforgeeks.org/problems/missing-number-in-array1416/1) | GeeksForGeeks | Medium | 30 Jun 2026 | 05:28 pm |
