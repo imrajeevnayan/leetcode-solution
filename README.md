@@ -294,6 +294,7 @@ Automatically organized collection of LeetCode solutions.
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0020-valid-parentheses](https://github.com/imrajeevnayan/leetcode-solution/tree/main/0020-valid-parentheses/) | Easy |
 | [0125-valid-palindrome](https://github.com/imrajeevnayan/leetcode-solution/tree/main/0125-valid-palindrome/) | Easy |
 | [0242-valid-anagram](https://github.com/imrajeevnayan/leetcode-solution/tree/main/0242-valid-anagram/) | Easy |
 ## Hash Table
@@ -304,4 +305,8 @@ Automatically organized collection of LeetCode solutions.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0242-valid-anagram](https://github.com/imrajeevnayan/leetcode-solution/tree/main/0242-valid-anagram/) | Easy |
+## Stack
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0020-valid-parentheses](https://github.com/imrajeevnayan/leetcode-solution/tree/main/0020-valid-parentheses/) | Easy |
 <!---LeetCode Topics End-->
