@@ -46,3 +46,4 @@
 | 11 | [Count Distinct Vowels in String](https://www.geeksforgeeks.org/problems/count-distinct-vowels-in-string/1?page=5&status=unsolved&sortBy=difficulty) | GeeksForGeeks | Basic | 29 Jun 2026 | 11:45 pm |
 | 12 | [K-th distinct element](https://www.geeksforgeeks.org/problems/k-th-distinct-element4510/1?page=4&status=unsolved&sortBy=difficulty) | GeeksForGeeks | Basic | 29 Jun 2026 | 11:48 pm |
 | 13 | [Remove Duplicates from Sorted List](https://leetcode.com/problems/remove-duplicates-from-sorted-list/) | LeetCode | Easy | 30 Jun 2026 | 10:37 am |
+| 14 | [3Sum Closest](https://leetcode.com/problems/3sum-closest/) | LeetCode | Medium | 30 Jun 2026 | 11:26 am |
