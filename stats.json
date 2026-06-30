@@ -729,17 +729,18 @@
     "GeeksForGeeks_Sieve_of_Eratosthenes": true,
     "GeeksForGeeks_Pair_With_Difference": true,
     "GeeksForGeeks_Replace_Consecutive_Two_Same_with_One": true,
-    "GeeksForGeeks_Decimal_to_binary": true
+    "GeeksForGeeks_Decimal_to_binary": true,
+    "GeeksForGeeks_Missing_in_Array": true
   },
-  "totalSolved": 257,
+  "totalSolved": 258,
   "difficultyCounts": {
     "easy": 88,
-    "medium": 116,
+    "medium": 117,
     "hard": 3,
     "basic": 50
   },
   "currentStreak": 3,
-  "todayCount": 8,
+  "todayCount": 9,
   "lastSyncDate": "2026-06-30",
   "maxStreak": 15,
   "activityHistory": {
@@ -777,7 +778,7 @@
     "2026-06-23": 1,
     "2026-06-28": 5,
     "2026-06-29": 13,
-    "2026-06-30": 8
+    "2026-06-30": 9
   },
   "todayProblems": [
     "Most Frequent Character",
@@ -1035,6 +1036,7 @@
     "Sieve of Eratosthenes",
     "Pair With Difference",
     "Replace Consecutive Two Same with One",
-    "Decimal to binary"
+    "Decimal to binary",
+    "Missing in Array"
   ]
 }
