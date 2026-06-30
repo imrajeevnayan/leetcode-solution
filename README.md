@@ -9,6 +9,7 @@
 | ------- | ------- |
 | [0014-longest-common-prefix](https://github.com/imrajeevnayan/leetcode-solution/tree/main/0014-longest-common-prefix/) | Easy |
 | [0049-group-anagrams](https://github.com/imrajeevnayan/leetcode-solution/tree/main/0049-group-anagrams/) | Medium |
+| [0268-missing-number](https://github.com/imrajeevnayan/leetcode-solution/tree/main/0268-missing-number/) | Easy |
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -26,6 +27,7 @@
 | [0049-group-anagrams](https://github.com/imrajeevnayan/leetcode-solution/tree/main/0049-group-anagrams/) | Medium |
 | [0141-linked-list-cycle](https://github.com/imrajeevnayan/leetcode-solution/tree/main/0141-linked-list-cycle/) | Easy |
 | [0142-linked-list-cycle-ii](https://github.com/imrajeevnayan/leetcode-solution/tree/main/0142-linked-list-cycle-ii/) | Medium |
+| [0268-missing-number](https://github.com/imrajeevnayan/leetcode-solution/tree/main/0268-missing-number/) | Easy |
 ## Sliding Window
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -46,6 +48,19 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0049-group-anagrams](https://github.com/imrajeevnayan/leetcode-solution/tree/main/0049-group-anagrams/) | Medium |
+| [0268-missing-number](https://github.com/imrajeevnayan/leetcode-solution/tree/main/0268-missing-number/) | Easy |
+## Math
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0268-missing-number](https://github.com/imrajeevnayan/leetcode-solution/tree/main/0268-missing-number/) | Easy |
+## Binary Search
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0268-missing-number](https://github.com/imrajeevnayan/leetcode-solution/tree/main/0268-missing-number/) | Easy |
+## Bit Manipulation
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0268-missing-number](https://github.com/imrajeevnayan/leetcode-solution/tree/main/0268-missing-number/) | Easy |
 <!---LeetCode Topics End-->
 | 2 | [Decimal to binary](https://www.geeksforgeeks.org/problems/decimal-to-binary-1587115620/1) | GeeksForGeeks | Easy | 30 Jun 2026 | 05:24 pm |
 | 3 | [Missing in Array](https://www.geeksforgeeks.org/problems/missing-number-in-array1416/1) | GeeksForGeeks | Medium | 30 Jun 2026 | 05:28 pm |
