@@ -4,7 +4,7 @@ Automatically organized collection of LeetCode solutions.
 
 ## 📊 Statistics
 
-- **Total Problems Solved:** 250
+- **Total Problems Solved:** 251
 - **Current Streak:** 3 days
 - **Longest Streak:** 14 days
 
@@ -13,11 +13,11 @@ Automatically organized collection of LeetCode solutions.
 #### By Language
 - Sql: 27
 - Javascript: 2
-- Java: 221
+- Java: 222
 
 #### By Topic
 - Database: 27
-- Array: 125
+- Array: 126
 - General: 1
 - Divide-and-conquer: 1
 - Bit-manipulation: 1
@@ -257,6 +257,7 @@ Automatically organized collection of LeetCode solutions.
 | 1878 | Check If Array Is Sorted And Rotated | array | easy | java | [Solution](solutions/java/array/easy/1878_check-if-array-is-sorted-and-rotated_array_easy.java) |
 | 1894 | Merge Strings Alternately | two-pointers | easy | java | [Solution](solutions/java/two-pointers/easy/1894_merge-strings-alternately_two-pointers_easy.java) |
 | 1904 | Second Largest Digit In A String | hash-table | easy | java | [Solution](solutions/java/hash-table/easy/1904_second-largest-digit-in-a-string_hash-table_easy.java) |
+| 1927 | Maximum Ascending Subarray Sum | array | easy | java | [Solution](solutions/java/array/easy/1927_maximum-ascending-subarray-sum_array_easy.java) |
 | 2032 | Largest Odd Number In String | math | easy | java | [Solution](solutions/java/math/easy/2032_largest-odd-number-in-string_math_easy.java) |
 | 2058 | Concatenation Of Array | array | easy | java | [Solution](solutions/java/array/easy/2058_concatenation-of-array_array_easy.java) |
 | 2106 | Find Greatest Common Divisor Of Array | array | easy | java | [Solution](solutions/java/array/easy/2106_find-greatest-common-divisor-of-array_array_easy.java) |
@@ -285,11 +286,3 @@ Automatically organized collection of LeetCode solutions.
 | 4216 | Weighted Word Mapping | array | easy | java | [Solution](solutions/java/array/easy/4216_weighted-word-mapping_array_easy.java) |
 | 4312 | Limit Occurrences In Sorted Array | array | easy | java | [Solution](solutions/java/array/easy/4312_limit-occurrences-in-sorted-array_array_easy.java) |
 | 4313 | Password Strength | hash-table | medium | java | [Solution](solutions/java/hash-table/medium/4313_password-strength_hash-table_medium.java) |
-
-<!---LeetCode Topics Start-->
-# LeetCode Topics
-## Array
-| Problem Name | Difficulty |
-| ------- | ------- |
-| [1800-maximum-ascending-subarray-sum](https://github.com/imrajeevnayan/leetcode-solution/tree/main/1800-maximum-ascending-subarray-sum/) | Easy |
-<!---LeetCode Topics End-->
