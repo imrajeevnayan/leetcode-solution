@@ -724,17 +724,18 @@
     "GeeksForGeeks_K-th_distinct_element": true,
     "LeetCode_Remove_Duplicates_from_Sorted_List": true,
     "LeetCode_3Sum_Closest": true,
-    "GeeksForGeeks_Triplets_with_Smaller_Sum": true
+    "GeeksForGeeks_Triplets_with_Smaller_Sum": true,
+    "GeeksForGeeks_Sort_0s,_1s_and_2s": true
   },
-  "totalSolved": 252,
+  "totalSolved": 253,
   "difficultyCounts": {
     "easy": 86,
-    "medium": 113,
+    "medium": 114,
     "hard": 3,
     "basic": 50
   },
   "currentStreak": 3,
-  "todayCount": 3,
+  "todayCount": 4,
   "lastSyncDate": "2026-06-30",
   "maxStreak": 15,
   "activityHistory": {
@@ -772,7 +773,7 @@
     "2026-06-23": 1,
     "2026-06-28": 5,
     "2026-06-29": 13,
-    "2026-06-30": 3
+    "2026-06-30": 4
   },
   "todayProblems": [
     "Most Frequent Character",
@@ -1025,6 +1026,7 @@
     "K-th distinct element",
     "Remove Duplicates from Sorted List",
     "3Sum Closest",
-    "Triplets with Smaller Sum"
+    "Triplets with Smaller Sum",
+    "Sort 0s, 1s and 2s"
   ]
 }
