@@ -4,7 +4,7 @@ Automatically organized collection of LeetCode solutions.
 
 ## 📊 Statistics
 
-- **Total Problems Solved:** 248
+- **Total Problems Solved:** 249
 - **Current Streak:** 3 days
 - **Longest Streak:** 14 days
 
@@ -13,11 +13,11 @@ Automatically organized collection of LeetCode solutions.
 #### By Language
 - Sql: 27
 - Javascript: 2
-- Java: 219
+- Java: 220
 
 #### By Topic
 - Database: 27
-- Array: 123
+- Array: 124
 - General: 1
 - Divide-and-conquer: 1
 - Bit-manipulation: 1
@@ -176,6 +176,7 @@ Automatically organized collection of LeetCode solutions.
 | 557 | Reverse Words In A String Iii | two-pointers | easy | java | [Solution](solutions/java/two-pointers/easy/557_reverse-words-in-a-string-iii_two-pointers_easy.java) |
 | 560 | Subarray Sum Equals K | array | medium | java | [Solution](solutions/java/array/medium/560_subarray-sum-equals-k_array_medium.java) |
 | 561 | Array Partition | array | easy | java | [Solution](solutions/java/array/easy/561_array-partition_array_easy.java) |
+| 581 | Shortest Unsorted Continuous Subarray | array | medium | java | [Solution](solutions/java/array/medium/581_shortest-unsorted-continuous-subarray_array_medium.java) |
 | 585 | Investments In 2016 | database | medium | sql | [Solution](solutions/sql/database/medium/585_investments-in-2016_database_medium.sql) |
 | 586 | Customer Placing The Largest Number Of Orders | database | easy | sql | [Solution](solutions/sql/database/easy/586_customer-placing-the-largest-number-of-orders_database_easy.sql) |
 | 594 | Longest Harmonious Subsequence | array | easy | java | [Solution](solutions/java/array/easy/594_longest-harmonious-subsequence_array_easy.java) |
@@ -283,31 +284,3 @@ Automatically organized collection of LeetCode solutions.
 | 4216 | Weighted Word Mapping | array | easy | java | [Solution](solutions/java/array/easy/4216_weighted-word-mapping_array_easy.java) |
 | 4312 | Limit Occurrences In Sorted Array | array | easy | java | [Solution](solutions/java/array/easy/4312_limit-occurrences-in-sorted-array_array_easy.java) |
 | 4313 | Password Strength | hash-table | medium | java | [Solution](solutions/java/hash-table/medium/4313_password-strength_hash-table_medium.java) |
-
-<!---LeetCode Topics Start-->
-# LeetCode Topics
-## Array
-| Problem Name | Difficulty |
-| ------- | ------- |
-| [0581-shortest-unsorted-continuous-subarray](https://github.com/imrajeevnayan/leetcode-solution/tree/main/0581-shortest-unsorted-continuous-subarray/) | Medium |
-## Two Pointers
-| Problem Name | Difficulty |
-| ------- | ------- |
-| [0581-shortest-unsorted-continuous-subarray](https://github.com/imrajeevnayan/leetcode-solution/tree/main/0581-shortest-unsorted-continuous-subarray/) | Medium |
-## Stack
-| Problem Name | Difficulty |
-| ------- | ------- |
-| [0581-shortest-unsorted-continuous-subarray](https://github.com/imrajeevnayan/leetcode-solution/tree/main/0581-shortest-unsorted-continuous-subarray/) | Medium |
-## Greedy
-| Problem Name | Difficulty |
-| ------- | ------- |
-| [0581-shortest-unsorted-continuous-subarray](https://github.com/imrajeevnayan/leetcode-solution/tree/main/0581-shortest-unsorted-continuous-subarray/) | Medium |
-## Sorting
-| Problem Name | Difficulty |
-| ------- | ------- |
-| [0581-shortest-unsorted-continuous-subarray](https://github.com/imrajeevnayan/leetcode-solution/tree/main/0581-shortest-unsorted-continuous-subarray/) | Medium |
-## Monotonic Stack
-| Problem Name | Difficulty |
-| ------- | ------- |
-| [0581-shortest-unsorted-continuous-subarray](https://github.com/imrajeevnayan/leetcode-solution/tree/main/0581-shortest-unsorted-continuous-subarray/) | Medium |
-<!---LeetCode Topics End-->
