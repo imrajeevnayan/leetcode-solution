@@ -47,3 +47,4 @@
 | ------- | ------- |
 | [0049-group-anagrams](https://github.com/imrajeevnayan/leetcode-solution/tree/main/0049-group-anagrams/) | Medium |
 <!---LeetCode Topics End-->
+| 2 | [Decimal to binary](https://www.geeksforgeeks.org/problems/decimal-to-binary-1587115620/1) | GeeksForGeeks | Easy | 30 Jun 2026 | 05:24 pm |
