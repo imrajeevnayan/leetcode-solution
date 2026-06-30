@@ -32,9 +32,11 @@
 | ------- | ------- |
 | [0141-linked-list-cycle](https://github.com/imrajeevnayan/leetcode-solution/tree/main/0141-linked-list-cycle/) | Easy |
 | [0142-linked-list-cycle-ii](https://github.com/imrajeevnayan/leetcode-solution/tree/main/0142-linked-list-cycle-ii/) | Medium |
+| [0876-middle-of-the-linked-list](https://github.com/imrajeevnayan/leetcode-solution/tree/main/0876-middle-of-the-linked-list/) | Easy |
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0141-linked-list-cycle](https://github.com/imrajeevnayan/leetcode-solution/tree/main/0141-linked-list-cycle/) | Easy |
 | [0142-linked-list-cycle-ii](https://github.com/imrajeevnayan/leetcode-solution/tree/main/0142-linked-list-cycle-ii/) | Medium |
+| [0876-middle-of-the-linked-list](https://github.com/imrajeevnayan/leetcode-solution/tree/main/0876-middle-of-the-linked-list/) | Easy |
 <!---LeetCode Topics End-->
