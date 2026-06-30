@@ -730,17 +730,18 @@
     "GeeksForGeeks_Pair_With_Difference": true,
     "GeeksForGeeks_Replace_Consecutive_Two_Same_with_One": true,
     "GeeksForGeeks_Decimal_to_binary": true,
-    "GeeksForGeeks_Missing_in_Array": true
+    "GeeksForGeeks_Missing_in_Array": true,
+    "GeeksForGeeks_Word_with_maximum_frequency": true
   },
-  "totalSolved": 258,
+  "totalSolved": 259,
   "difficultyCounts": {
-    "easy": 88,
+    "easy": 89,
     "medium": 117,
     "hard": 3,
     "basic": 50
   },
   "currentStreak": 3,
-  "todayCount": 9,
+  "todayCount": 10,
   "lastSyncDate": "2026-06-30",
   "maxStreak": 15,
   "activityHistory": {
@@ -778,7 +779,7 @@
     "2026-06-23": 1,
     "2026-06-28": 5,
     "2026-06-29": 13,
-    "2026-06-30": 9
+    "2026-06-30": 10
   },
   "todayProblems": [
     "Most Frequent Character",
@@ -1037,6 +1038,7 @@
     "Pair With Difference",
     "Replace Consecutive Two Same with One",
     "Decimal to binary",
-    "Missing in Array"
+    "Missing in Array",
+    "Word with maximum frequency"
   ]
 }

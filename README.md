@@ -64,3 +64,4 @@
 <!---LeetCode Topics End-->
 | 2 | [Decimal to binary](https://www.geeksforgeeks.org/problems/decimal-to-binary-1587115620/1) | GeeksForGeeks | Easy | 30 Jun 2026 | 05:24 pm |
 | 3 | [Missing in Array](https://www.geeksforgeeks.org/problems/missing-number-in-array1416/1) | GeeksForGeeks | Medium | 30 Jun 2026 | 05:28 pm |
+| 4 | [Word with maximum frequency](https://www.geeksforgeeks.org/problems/word-with-maximum-frequency0120/1) | GeeksForGeeks | Easy | 30 Jun 2026 | 05:38 pm |
