@@ -725,17 +725,18 @@
     "LeetCode_Remove_Duplicates_from_Sorted_List": true,
     "LeetCode_3Sum_Closest": true,
     "GeeksForGeeks_Triplets_with_Smaller_Sum": true,
-    "GeeksForGeeks_Sort_0s,_1s_and_2s": true
+    "GeeksForGeeks_Sort_0s,_1s_and_2s": true,
+    "GeeksForGeeks_Sieve_of_Eratosthenes": true
   },
-  "totalSolved": 253,
+  "totalSolved": 254,
   "difficultyCounts": {
     "easy": 86,
-    "medium": 114,
+    "medium": 115,
     "hard": 3,
     "basic": 50
   },
   "currentStreak": 3,
-  "todayCount": 4,
+  "todayCount": 5,
   "lastSyncDate": "2026-06-30",
   "maxStreak": 15,
   "activityHistory": {
@@ -773,7 +774,7 @@
     "2026-06-23": 1,
     "2026-06-28": 5,
     "2026-06-29": 13,
-    "2026-06-30": 4
+    "2026-06-30": 5
   },
   "todayProblems": [
     "Most Frequent Character",
@@ -1027,6 +1028,7 @@
     "Remove Duplicates from Sorted List",
     "3Sum Closest",
     "Triplets with Smaller Sum",
-    "Sort 0s, 1s and 2s"
+    "Sort 0s, 1s and 2s",
+    "Sieve of Eratosthenes"
   ]
 }
