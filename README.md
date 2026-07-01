@@ -4,8 +4,8 @@ Automatically organized collection of LeetCode solutions.
 
 ## 📊 Statistics
 
-- **Total Problems Solved:** 252
-- **Current Streak:** 3 days
+- **Total Problems Solved:** 253
+- **Current Streak:** 4 days
 - **Longest Streak:** 14 days
 
 ### 🧩 Breakdown
@@ -13,11 +13,11 @@ Automatically organized collection of LeetCode solutions.
 #### By Language
 - Sql: 27
 - Javascript: 2
-- Java: 223
+- Java: 224
 
 #### By Topic
 - Database: 27
-- Array: 126
+- Array: 127
 - General: 1
 - Divide-and-conquer: 1
 - Bit-manipulation: 1
@@ -273,6 +273,7 @@ Automatically organized collection of LeetCode solutions.
 | 2646 | Kth Largest Sum In A Binary Tree | tree | medium | java | [Solution](solutions/java/tree/medium/2646_kth-largest-sum-in-a-binary-tree_tree_medium.java) |
 | 2809 | Create Hello World Function | general | easy | javascript | [Solution](solutions/javascript/general/easy/2809_create-hello-world-function_general_easy.js) |
 | 2886 | Faulty Keyboard | string | easy | java | [Solution](solutions/java/string/easy/2886_faulty-keyboard_string_easy.java) |
+| 2914 | Find The Safest Path In A Grid | array | medium | java | [Solution](solutions/java/array/medium/2914_find-the-safest-path-in-a-grid_array_medium.java) |
 | 3221 | Find The Peaks | array | easy | java | [Solution](solutions/java/array/easy/3221_find-the-peaks_array_easy.java) |
 | 3314 | Most Frequent Prime | array | medium | java | [Solution](solutions/java/array/medium/3314_most-frequent-prime_array_medium.java) |
 | 3379 | Score Of A String | string | easy | java | [Solution](solutions/java/string/easy/3379_score-of-a-string_string_easy.java) |
@@ -287,35 +288,3 @@ Automatically organized collection of LeetCode solutions.
 | 4216 | Weighted Word Mapping | array | easy | java | [Solution](solutions/java/array/easy/4216_weighted-word-mapping_array_easy.java) |
 | 4312 | Limit Occurrences In Sorted Array | array | easy | java | [Solution](solutions/java/array/easy/4312_limit-occurrences-in-sorted-array_array_easy.java) |
 | 4313 | Password Strength | hash-table | medium | java | [Solution](solutions/java/hash-table/medium/4313_password-strength_hash-table_medium.java) |
-
-<!---LeetCode Topics Start-->
-# LeetCode Topics
-## Linked List
-| Problem Name | Difficulty |
-| ------- | ------- |
-| [0083-remove-duplicates-from-sorted-list](https://github.com/imrajeevnayan/leetcode-solution/tree/main/0083-remove-duplicates-from-sorted-list/) | Easy |
-## Array
-| Problem Name | Difficulty |
-| ------- | ------- |
-| [2812-find-the-safest-path-in-a-grid](https://github.com/imrajeevnayan/leetcode-solution/tree/main/2812-find-the-safest-path-in-a-grid/) | Medium |
-## Binary Search
-| Problem Name | Difficulty |
-| ------- | ------- |
-| [2812-find-the-safest-path-in-a-grid](https://github.com/imrajeevnayan/leetcode-solution/tree/main/2812-find-the-safest-path-in-a-grid/) | Medium |
-## Breadth-First Search
-| Problem Name | Difficulty |
-| ------- | ------- |
-| [2812-find-the-safest-path-in-a-grid](https://github.com/imrajeevnayan/leetcode-solution/tree/main/2812-find-the-safest-path-in-a-grid/) | Medium |
-## Union-Find
-| Problem Name | Difficulty |
-| ------- | ------- |
-| [2812-find-the-safest-path-in-a-grid](https://github.com/imrajeevnayan/leetcode-solution/tree/main/2812-find-the-safest-path-in-a-grid/) | Medium |
-## Heap (Priority Queue)
-| Problem Name | Difficulty |
-| ------- | ------- |
-| [2812-find-the-safest-path-in-a-grid](https://github.com/imrajeevnayan/leetcode-solution/tree/main/2812-find-the-safest-path-in-a-grid/) | Medium |
-## Matrix
-| Problem Name | Difficulty |
-| ------- | ------- |
-| [2812-find-the-safest-path-in-a-grid](https://github.com/imrajeevnayan/leetcode-solution/tree/main/2812-find-the-safest-path-in-a-grid/) | Medium |
-<!---LeetCode Topics End-->
