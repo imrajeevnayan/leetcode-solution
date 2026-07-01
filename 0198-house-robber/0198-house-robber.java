@@ -1,14 +1,9 @@
 class Solution {
     public int rob(int[] nums) {
         int[] dp = new int[nums.length];
-
-        for (int i = 0; i < nums.length; i++) {
-            dp[i] = -1;
-        }
-
+        Arrays.fill(dp,-1);
         return solve(nums, 0, dp);
     }
-
     private int solve(int[] nums, int idx, int[] dp) {
         if (idx >= nums.length) {
             return 0;
