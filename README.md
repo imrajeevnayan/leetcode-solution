@@ -4,7 +4,7 @@ Automatically organized collection of LeetCode solutions.
 
 ## 📊 Statistics
 
-- **Total Problems Solved:** 255
+- **Total Problems Solved:** 256
 - **Current Streak:** 5 days
 - **Longest Streak:** 14 days
 
@@ -13,7 +13,7 @@ Automatically organized collection of LeetCode solutions.
 #### By Language
 - Sql: 27
 - Javascript: 2
-- Java: 226
+- Java: 227
 
 #### By Topic
 - Database: 27
@@ -24,7 +24,7 @@ Automatically organized collection of LeetCode solutions.
 - Tree: 5
 - Hash-table: 19
 - Linked-list: 17
-- String: 20
+- String: 21
 - Stack: 1
 - Dynamic-programming: 2
 - Binary-search: 1
@@ -251,6 +251,7 @@ Automatically organized collection of LeetCode solutions.
 | 1666 | Make The String Great | string | easy | java | [Solution](solutions/java/string/easy/1666_make-the-string-great_string_easy.java) |
 | 1724 | Customer Who Visited But Did Not Make Any Transactions | database | easy | sql | [Solution](solutions/sql/database/easy/1724_customer-who-visited-but-did-not-make-any-transactions_database_easy.sql) |
 | 1741 | Sort Array By Increasing Frequency | array | easy | java | [Solution](solutions/java/array/easy/1741_sort-array-by-increasing-frequency_array_easy.java) |
+| 1764 | Maximum Repeating Substring | string | easy | java | [Solution](solutions/java/string/easy/1764_maximum-repeating-substring_string_easy.java) |
 | 1791 | Richest Customer Wealth | array | easy | java | [Solution](solutions/java/array/easy/1791_richest-customer-wealth_array_easy.java) |
 | 1811 | Fix Names In A Table | database | easy | sql | [Solution](solutions/sql/database/easy/1811_fix-names-in-a-table_database_easy.sql) |
 | 1833 | Find The Highest Altitude | array | easy | java | [Solution](solutions/java/array/easy/1833_find-the-highest-altitude_array_easy.java) |
@@ -290,19 +291,3 @@ Automatically organized collection of LeetCode solutions.
 | 4216 | Weighted Word Mapping | array | easy | java | [Solution](solutions/java/array/easy/4216_weighted-word-mapping_array_easy.java) |
 | 4312 | Limit Occurrences In Sorted Array | array | easy | java | [Solution](solutions/java/array/easy/4312_limit-occurrences-in-sorted-array_array_easy.java) |
 | 4313 | Password Strength | hash-table | medium | java | [Solution](solutions/java/hash-table/medium/4313_password-strength_hash-table_medium.java) |
-
-<!---LeetCode Topics Start-->
-# LeetCode Topics
-## String
-| Problem Name | Difficulty |
-| ------- | ------- |
-| [1668-maximum-repeating-substring](https://github.com/imrajeevnayan/leetcode-solution/tree/main/1668-maximum-repeating-substring/) | Easy |
-## Dynamic Programming
-| Problem Name | Difficulty |
-| ------- | ------- |
-| [1668-maximum-repeating-substring](https://github.com/imrajeevnayan/leetcode-solution/tree/main/1668-maximum-repeating-substring/) | Easy |
-## String Matching
-| Problem Name | Difficulty |
-| ------- | ------- |
-| [1668-maximum-repeating-substring](https://github.com/imrajeevnayan/leetcode-solution/tree/main/1668-maximum-repeating-substring/) | Easy |
-<!---LeetCode Topics End-->
