@@ -4,7 +4,7 @@ Automatically organized collection of LeetCode solutions.
 
 ## 📊 Statistics
 
-- **Total Problems Solved:** 254
+- **Total Problems Solved:** 255
 - **Current Streak:** 5 days
 - **Longest Streak:** 14 days
 
@@ -13,7 +13,7 @@ Automatically organized collection of LeetCode solutions.
 #### By Language
 - Sql: 27
 - Javascript: 2
-- Java: 225
+- Java: 226
 
 #### By Topic
 - Database: 27
@@ -28,7 +28,7 @@ Automatically organized collection of LeetCode solutions.
 - Stack: 1
 - Dynamic-programming: 2
 - Binary-search: 1
-- Math: 22
+- Math: 23
 - Two-pointers: 10
 
 ## 📂 Solutions
@@ -225,6 +225,7 @@ Automatically organized collection of LeetCode solutions.
 | 1146 | Greatest Common Divisor Of Strings | math | easy | java | [Solution](solutions/java/math/easy/1146_greatest-common-divisor-of-strings_math_easy.java) |
 | 1155 | Product Sales Analysis Iii | database | medium | sql | [Solution](solutions/sql/database/medium/1155_product-sales-analysis-iii_database_medium.sql) |
 | 1182 | Game Play Analysis Iv | database | medium | sql | [Solution](solutions/sql/database/medium/1182_game-play-analysis-iv_database_medium.sql) |
+| 1236 | N Th Tribonacci Number | math | easy | java | [Solution](solutions/java/math/easy/1236_n-th-tribonacci-number_math_easy.java) |
 | 1250 | Longest Common Subsequence | string | medium | java | [Solution](solutions/java/string/medium/1250_longest-common-subsequence_string_medium.java) |
 | 1258 | Article Views I | database | easy | sql | [Solution](solutions/sql/database/easy/1258_article-views-i_database_easy.sql) |
 | 1278 | Product Price At A Given Date | database | medium | sql | [Solution](solutions/sql/database/medium/1278_product-price-at-a-given-date_database_medium.sql) |
@@ -289,19 +290,3 @@ Automatically organized collection of LeetCode solutions.
 | 4216 | Weighted Word Mapping | array | easy | java | [Solution](solutions/java/array/easy/4216_weighted-word-mapping_array_easy.java) |
 | 4312 | Limit Occurrences In Sorted Array | array | easy | java | [Solution](solutions/java/array/easy/4312_limit-occurrences-in-sorted-array_array_easy.java) |
 | 4313 | Password Strength | hash-table | medium | java | [Solution](solutions/java/hash-table/medium/4313_password-strength_hash-table_medium.java) |
-
-<!---LeetCode Topics Start-->
-# LeetCode Topics
-## Math
-| Problem Name | Difficulty |
-| ------- | ------- |
-| [1137-n-th-tribonacci-number](https://github.com/imrajeevnayan/leetcode-solution/tree/main/1137-n-th-tribonacci-number/) | Easy |
-## Dynamic Programming
-| Problem Name | Difficulty |
-| ------- | ------- |
-| [1137-n-th-tribonacci-number](https://github.com/imrajeevnayan/leetcode-solution/tree/main/1137-n-th-tribonacci-number/) | Easy |
-## Memoization
-| Problem Name | Difficulty |
-| ------- | ------- |
-| [1137-n-th-tribonacci-number](https://github.com/imrajeevnayan/leetcode-solution/tree/main/1137-n-th-tribonacci-number/) | Easy |
-<!---LeetCode Topics End-->
