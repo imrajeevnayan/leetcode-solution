@@ -9,6 +9,7 @@
 | ------- | ------- |
 | [0070-climbing-stairs](https://github.com/imrajeevnayan/leetcode-solution/tree/main/0070-climbing-stairs/) | Easy |
 | [0509-fibonacci-number](https://github.com/imrajeevnayan/leetcode-solution/tree/main/0509-fibonacci-number/) | Easy |
+| [3154-find-number-of-ways-to-reach-the-k-th-stair](https://github.com/imrajeevnayan/leetcode-solution/tree/main/3154-find-number-of-ways-to-reach-the-k-th-stair/) | Hard |
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -18,6 +19,7 @@
 | [0198-house-robber](https://github.com/imrajeevnayan/leetcode-solution/tree/main/0198-house-robber/) | Medium |
 | [0509-fibonacci-number](https://github.com/imrajeevnayan/leetcode-solution/tree/main/0509-fibonacci-number/) | Easy |
 | [0746-min-cost-climbing-stairs](https://github.com/imrajeevnayan/leetcode-solution/tree/main/0746-min-cost-climbing-stairs/) | Easy |
+| [3154-find-number-of-ways-to-reach-the-k-th-stair](https://github.com/imrajeevnayan/leetcode-solution/tree/main/3154-find-number-of-ways-to-reach-the-k-th-stair/) | Hard |
 ## Recursion
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -27,6 +29,7 @@
 | ------- | ------- |
 | [0070-climbing-stairs](https://github.com/imrajeevnayan/leetcode-solution/tree/main/0070-climbing-stairs/) | Easy |
 | [0509-fibonacci-number](https://github.com/imrajeevnayan/leetcode-solution/tree/main/0509-fibonacci-number/) | Easy |
+| [3154-find-number-of-ways-to-reach-the-k-th-stair](https://github.com/imrajeevnayan/leetcode-solution/tree/main/3154-find-number-of-ways-to-reach-the-k-th-stair/) | Hard |
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -34,4 +37,12 @@
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/imrajeevnayan/leetcode-solution/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
 | [0198-house-robber](https://github.com/imrajeevnayan/leetcode-solution/tree/main/0198-house-robber/) | Medium |
 | [0746-min-cost-climbing-stairs](https://github.com/imrajeevnayan/leetcode-solution/tree/main/0746-min-cost-climbing-stairs/) | Easy |
+## Bit Manipulation
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3154-find-number-of-ways-to-reach-the-k-th-stair](https://github.com/imrajeevnayan/leetcode-solution/tree/main/3154-find-number-of-ways-to-reach-the-k-th-stair/) | Hard |
+## Combinatorics
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3154-find-number-of-ways-to-reach-the-k-th-stair](https://github.com/imrajeevnayan/leetcode-solution/tree/main/3154-find-number-of-ways-to-reach-the-k-th-stair/) | Hard |
 <!---LeetCode Topics End-->
