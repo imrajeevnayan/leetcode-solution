@@ -733,18 +733,19 @@
     "GeeksForGeeks_Missing_in_Array": true,
     "GeeksForGeeks_Word_with_maximum_frequency": true,
     "LeetCode_Fibonacci_Number": true,
-    "GeeksForGeeks_Minimum_number_of_Coins": true
+    "GeeksForGeeks_Minimum_number_of_Coins": true,
+    "GeeksForGeeks_First_n_Fibonacci_using_DP": true
   },
-  "totalSolved": 261,
+  "totalSolved": 262,
   "difficultyCounts": {
-    "easy": 91,
+    "easy": 92,
     "medium": 117,
     "hard": 3,
     "basic": 50
   },
-  "currentStreak": 5,
+  "currentStreak": 6,
   "todayCount": 1,
-  "lastSyncDate": "2026-07-02",
+  "lastSyncDate": "2026-07-03",
   "maxStreak": 15,
   "activityHistory": {
     "2026-05-19": 2,
@@ -783,7 +784,8 @@
     "2026-06-29": 13,
     "2026-06-30": 10,
     "2026-07-01": 1,
-    "2026-07-02": 1
+    "2026-07-02": 1,
+    "2026-07-03": 1
   },
   "todayProblems": [
     "Most Frequent Character",
@@ -1045,6 +1047,7 @@
     "Missing in Array",
     "Word with maximum frequency",
     "Fibonacci Number",
-    "Minimum number of Coins"
+    "Minimum number of Coins",
+    "First n Fibonacci using DP"
   ]
 }
