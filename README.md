@@ -4,7 +4,7 @@ Automatically organized collection of LeetCode solutions.
 
 ## 📊 Statistics
 
-- **Total Problems Solved:** 258
+- **Total Problems Solved:** 259
 - **Current Streak:** 1 days
 - **Longest Streak:** 14 days
 
@@ -13,11 +13,11 @@ Automatically organized collection of LeetCode solutions.
 #### By Language
 - Sql: 27
 - Javascript: 2
-- Java: 229
+- Java: 230
 
 #### By Topic
 - Database: 27
-- Array: 129
+- Array: 130
 - General: 1
 - Divide-and-conquer: 1
 - Bit-manipulation: 1
@@ -235,6 +235,7 @@ Automatically organized collection of LeetCode solutions.
 | 1319 | Unique Number Of Occurrences | array | easy | java | [Solution](solutions/java/array/easy/1319_unique-number-of-occurrences_array_easy.java) |
 | 1327 | Last Person To Fit In The Bus | database | medium | sql | [Solution](solutions/sql/database/medium/1327_last-person-to-fit-in-the-bus_database_medium.sql) |
 | 1370 | Count Number Of Nice Subarrays | array | medium | java | [Solution](solutions/java/array/medium/1370_count-number-of-nice-subarrays_array_medium.java) |
+| 1388 | Greatest Sum Divisible By Three | array | medium | java | [Solution](solutions/java/array/medium/1388_greatest-sum-divisible-by-three_array_medium.java) |
 | 1392 | Find The Difference Of Two Arrays | array | easy | java | [Solution](solutions/java/array/easy/1392_find-the-difference-of-two-arrays_array_easy.java) |
 | 1421 | Find Numbers With Even Number Of Digits | array | easy | java | [Solution](solutions/java/array/easy/1421_find-numbers-with-even-number-of-digits_array_easy.java) |
 | 1440 | Convert Integer To The Sum Of Two No Zero Integers | math | easy | java | [Solution](solutions/java/math/easy/1440_convert-integer-to-the-sum-of-two-no-zero-integers_math_easy.java) |
