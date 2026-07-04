@@ -8,8 +8,14 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0213-house-robber-ii](https://github.com/imrajeevnayan/leetcode-solution/tree/main/0213-house-robber-ii/) | Medium |
+| [0494-target-sum](https://github.com/imrajeevnayan/leetcode-solution/tree/main/0494-target-sum/) | Medium |
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0213-house-robber-ii](https://github.com/imrajeevnayan/leetcode-solution/tree/main/0213-house-robber-ii/) | Medium |
+| [0494-target-sum](https://github.com/imrajeevnayan/leetcode-solution/tree/main/0494-target-sum/) | Medium |
+## Backtracking
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0494-target-sum](https://github.com/imrajeevnayan/leetcode-solution/tree/main/0494-target-sum/) | Medium |
 <!---LeetCode Topics End-->
