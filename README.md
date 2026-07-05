@@ -301,10 +301,12 @@ Automatically organized collection of LeetCode solutions.
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0198-house-robber](https://github.com/imrajeevnayan/leetcode-solution/tree/main/0198-house-robber/) | Medium |
 | [0322-coin-change](https://github.com/imrajeevnayan/leetcode-solution/tree/main/0322-coin-change/) | Medium |
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0198-house-robber](https://github.com/imrajeevnayan/leetcode-solution/tree/main/0198-house-robber/) | Medium |
 | [0322-coin-change](https://github.com/imrajeevnayan/leetcode-solution/tree/main/0322-coin-change/) | Medium |
 ## Breadth-First Search
 | Problem Name | Difficulty |
