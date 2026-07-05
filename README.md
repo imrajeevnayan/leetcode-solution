@@ -4,8 +4,8 @@ Automatically organized collection of LeetCode solutions.
 
 ## 📊 Statistics
 
-- **Total Problems Solved:** 259
-- **Current Streak:** 1 days
+- **Total Problems Solved:** 260
+- **Current Streak:** 2 days
 - **Longest Streak:** 14 days
 
 ### 🧩 Breakdown
@@ -13,11 +13,11 @@ Automatically organized collection of LeetCode solutions.
 #### By Language
 - Sql: 27
 - Javascript: 2
-- Java: 230
+- Java: 231
 
 #### By Topic
 - Database: 27
-- Array: 130
+- Array: 131
 - General: 1
 - Divide-and-conquer: 1
 - Bit-manipulation: 1
@@ -86,6 +86,7 @@ Automatically organized collection of LeetCode solutions.
 | 75 | Sort Colors | array | medium | java | [Solution](solutions/java/array/medium/75_sort-colors_array_medium.java) |
 | 80 | Remove Duplicates From Sorted Array Ii | array | medium | javascript | [Solution](solutions/javascript/array/medium/80_remove-duplicates-from-sorted-array-ii_array_medium.js) |
 | 80 | Remove Duplicates From Sorted Array Ii | array | medium | java | [Solution](solutions/java/array/medium/80_remove-duplicates-from-sorted-array-ii_array_medium.java) |
+| 81 | Search In Rotated Sorted Array Ii | array | medium | java | [Solution](solutions/java/array/medium/81_search-in-rotated-sorted-array-ii_array_medium.java) |
 | 83 | Remove Duplicates From Sorted List | linked-list | easy | java | [Solution](solutions/java/linked-list/easy/83_remove-duplicates-from-sorted-list_linked-list_easy.java) |
 | 88 | Merge Sorted Array | array | easy | java | [Solution](solutions/java/array/easy/88_merge-sorted-array_array_easy.java) |
 | 90 | Subsets Ii | array | medium | java | [Solution](solutions/java/array/medium/90_subsets-ii_array_medium.java) |
@@ -294,15 +295,3 @@ Automatically organized collection of LeetCode solutions.
 | 4216 | Weighted Word Mapping | array | easy | java | [Solution](solutions/java/array/easy/4216_weighted-word-mapping_array_easy.java) |
 | 4312 | Limit Occurrences In Sorted Array | array | easy | java | [Solution](solutions/java/array/easy/4312_limit-occurrences-in-sorted-array_array_easy.java) |
 | 4313 | Password Strength | hash-table | medium | java | [Solution](solutions/java/hash-table/medium/4313_password-strength_hash-table_medium.java) |
-
-<!---LeetCode Topics Start-->
-# LeetCode Topics
-## Array
-| Problem Name | Difficulty |
-| ------- | ------- |
-| [0081-search-in-rotated-sorted-array-ii](https://github.com/imrajeevnayan/leetcode-solution/tree/main/0081-search-in-rotated-sorted-array-ii/) | Medium |
-## Binary Search
-| Problem Name | Difficulty |
-| ------- | ------- |
-| [0081-search-in-rotated-sorted-array-ii](https://github.com/imrajeevnayan/leetcode-solution/tree/main/0081-search-in-rotated-sorted-array-ii/) | Medium |
-<!---LeetCode Topics End-->
