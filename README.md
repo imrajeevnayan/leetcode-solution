@@ -23,3 +23,4 @@
 | [0746-min-cost-climbing-stairs](https://github.com/imrajeevnayan/leetcode-solution/tree/main/0746-min-cost-climbing-stairs/) | Easy |
 <!---LeetCode Topics End-->
 | 2 | [Min Cost Climbing Stairs](https://leetcode.com/problems/min-cost-climbing-stairs/) | LeetCode | Easy | 06 Jul 2026 | 12:38 pm |
+| 3 | [Friends Pairing Problem](https://www.geeksforgeeks.org/problems/friends-pairing-problem5425/1) | GeeksForGeeks | Medium | 06 Jul 2026 | 02:34 pm |
