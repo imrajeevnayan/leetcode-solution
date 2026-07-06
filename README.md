@@ -308,8 +308,17 @@ Automatically organized collection of LeetCode solutions.
 | ------- | ------- |
 | [0198-house-robber](https://github.com/imrajeevnayan/leetcode-solution/tree/main/0198-house-robber/) | Medium |
 | [0322-coin-change](https://github.com/imrajeevnayan/leetcode-solution/tree/main/0322-coin-change/) | Medium |
+| [1137-n-th-tribonacci-number](https://github.com/imrajeevnayan/leetcode-solution/tree/main/1137-n-th-tribonacci-number/) | Easy |
 ## Breadth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0322-coin-change](https://github.com/imrajeevnayan/leetcode-solution/tree/main/0322-coin-change/) | Medium |
+## Math
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1137-n-th-tribonacci-number](https://github.com/imrajeevnayan/leetcode-solution/tree/main/1137-n-th-tribonacci-number/) | Easy |
+## Memoization
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1137-n-th-tribonacci-number](https://github.com/imrajeevnayan/leetcode-solution/tree/main/1137-n-th-tribonacci-number/) | Easy |
 <!---LeetCode Topics End-->
