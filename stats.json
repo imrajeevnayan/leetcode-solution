@@ -758,17 +758,18 @@
     "GeeksForGeeks_Delete_alternate_characters": true,
     "GeeksForGeeks_Anagram_Strings": true,
     "GeeksForGeeks_Count_Words_in_String": true,
-    "GeeksForGeeks_Missing_Characters_in_Panagram": true
+    "GeeksForGeeks_Missing_Characters_in_Panagram": true,
+    "GeeksForGeeks_Duck_Number": true
   },
-  "totalSolved": 286,
+  "totalSolved": 287,
   "difficultyCounts": {
     "easy": 95,
     "medium": 119,
     "hard": 3,
-    "basic": 69
+    "basic": 70
   },
   "currentStreak": 3,
-  "todayCount": 4,
+  "todayCount": 5,
   "lastSyncDate": "2026-07-08",
   "maxStreak": 15,
   "activityHistory": {
@@ -812,7 +813,7 @@
     "2026-07-03": 1,
     "2026-07-06": 3,
     "2026-07-07": 17,
-    "2026-07-08": 4
+    "2026-07-08": 5
   },
   "todayProblems": [
     "Most Frequent Character",
@@ -1099,6 +1100,7 @@
     "Delete alternate characters",
     "Anagram Strings",
     "Count Words in String",
-    "Missing Characters in Panagram"
+    "Missing Characters in Panagram",
+    "Duck Number"
   ]
 }
