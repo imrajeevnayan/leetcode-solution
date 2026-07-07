@@ -12,3 +12,4 @@
 | 10 | [Merge and Sort](https://www.geeksforgeeks.org/problems/merge-and-sort5821/1?page=1&status=unsolved&sortBy=difficulty) | GeeksForGeeks | Basic | 07 Jul 2026 | 09:36 pm |
 | 11 | [Half Ascending and Half Descending Sort](https://www.geeksforgeeks.org/problems/sort-first-half-in-ascending-and-second-half-in-descending1714/1?page=1&status=unsolved&sortBy=difficulty) | GeeksForGeeks | Basic | 07 Jul 2026 | 09:38 pm |
 | 12 | [Elements in the Range](https://www.geeksforgeeks.org/problems/elements-in-the-range2834/1?page=1&status=unsolved&sortBy=difficulty) | GeeksForGeeks | Basic | 07 Jul 2026 | 09:42 pm |
+| 13 | [One odd Occuring](https://www.geeksforgeeks.org/problems/find-the-odd-occurence4820/1?page=1&status=unsolved&sortBy=difficulty) | GeeksForGeeks | Basic | 07 Jul 2026 | 10:18 pm |
