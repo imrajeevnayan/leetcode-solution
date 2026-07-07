@@ -1,22 +1,38 @@
 class Solution {
     public int pairSum(ListNode head) {
-        Stack<Integer> stack = new Stack<>();
-        ListNode curr = head;
-        int length = 0;
-        // Push all values into stack
-        while (curr != null) {
-            stack.push(curr.val);
-            curr = curr.next;
-            length++;
+        // Step 1: Find the middle of the linked list
+        ListNode slow = head;
+        ListNode fast = head;
+        while (fast != null && fast.next != null) {
+            slow = slow.next;
+            fast = fast.next.next;
         }
-        curr = head;
+        // Step 2: Reverse the second half
+        ListNode prev = null;
+
+        while (slow != null) {
+            ListNode next = slow.next;
+            slow.next = prev;
+            prev = slow;
+            slow = next;
+        }
+
+        // Step 3: Compare twin nodes
+        ListNode first = head;
+        ListNode second = prev;
+
         int maxSum = 0;
-        // Process only first half
-        for (int i = 0; i < length / 2; i++) {
-            int currSum = curr.val + stack.pop();
+
+        while (second != null) {
+
+            int currSum = first.val + second.val;
+
             maxSum = Math.max(maxSum, currSum);
-            curr = curr.next;
+
+            first = first.next;
+            second = second.next;
         }
+
         return maxSum;
     }
 }
