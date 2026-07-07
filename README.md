@@ -16,3 +16,23 @@
 | 14 | [Max Odd Sum](https://www.geeksforgeeks.org/problems/max-odd-sum0651/1?page=2&status=unsolved&sortBy=difficulty) | GeeksForGeeks | Basic | 07 Jul 2026 | 10:20 pm |
 | 15 | [Swap kth elements](https://www.geeksforgeeks.org/problems/swap-kth-elements5500/1?page=2&status=unsolved&sortBy=difficulty) | GeeksForGeeks | Basic | 07 Jul 2026 | 10:22 pm |
 | 16 | [Remove All Except Alphabets](https://www.geeksforgeeks.org/problems/remove-all-characters-other-than-alphabets4923/1?page=4&status=unsolved&sortBy=difficulty) | GeeksForGeeks | Basic | 07 Jul 2026 | 10:24 pm |
+
+<!---LeetCode Topics Start-->
+# LeetCode Topics
+## Math
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1025-divisor-game](https://github.com/imrajeevnayan/leetcode-solution/tree/main/1025-divisor-game/) | Easy |
+## Dynamic Programming
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1025-divisor-game](https://github.com/imrajeevnayan/leetcode-solution/tree/main/1025-divisor-game/) | Easy |
+## Brainteaser
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1025-divisor-game](https://github.com/imrajeevnayan/leetcode-solution/tree/main/1025-divisor-game/) | Easy |
+## Game Theory
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1025-divisor-game](https://github.com/imrajeevnayan/leetcode-solution/tree/main/1025-divisor-game/) | Easy |
+<!---LeetCode Topics End-->
