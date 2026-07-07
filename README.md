@@ -15,3 +15,4 @@
 | 13 | [One odd Occuring](https://www.geeksforgeeks.org/problems/find-the-odd-occurence4820/1?page=1&status=unsolved&sortBy=difficulty) | GeeksForGeeks | Basic | 07 Jul 2026 | 10:18 pm |
 | 14 | [Max Odd Sum](https://www.geeksforgeeks.org/problems/max-odd-sum0651/1?page=2&status=unsolved&sortBy=difficulty) | GeeksForGeeks | Basic | 07 Jul 2026 | 10:20 pm |
 | 15 | [Swap kth elements](https://www.geeksforgeeks.org/problems/swap-kth-elements5500/1?page=2&status=unsolved&sortBy=difficulty) | GeeksForGeeks | Basic | 07 Jul 2026 | 10:22 pm |
+| 16 | [Remove All Except Alphabets](https://www.geeksforgeeks.org/problems/remove-all-characters-other-than-alphabets4923/1?page=4&status=unsolved&sortBy=difficulty) | GeeksForGeeks | Basic | 07 Jul 2026 | 10:24 pm |
