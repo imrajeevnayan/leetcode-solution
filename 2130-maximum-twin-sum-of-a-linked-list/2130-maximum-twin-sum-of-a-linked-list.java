@@ -1,21 +1,22 @@
 class Solution {
     public int pairSum(ListNode head) {
-        HashMap<Integer, Integer> map = new HashMap<>();
+        Stack<Integer> stack = new Stack<>();
         ListNode curr = head;
-        int index = 0;
+        int length = 0;
+        // Push all values into stack
         while (curr != null) {
-            map.put(index, curr.val);
+            stack.push(curr.val);
             curr = curr.next;
-            index++;
+            length++;
         }
-
-        int n = index;
-        int max = 0;
-
-        for (int i = 0; i < n / 2; i++) {
-            max = Math.max(max, map.get(i) + map.get(n - 1 - i));
+        curr = head;
+        int maxSum = 0;
+        // Process only first half
+        for (int i = 0; i < length / 2; i++) {
+            int currSum = curr.val + stack.pop();
+            maxSum = Math.max(maxSum, currSum);
+            curr = curr.next;
         }
-
-        return max;
+        return maxSum;
     }
 }
