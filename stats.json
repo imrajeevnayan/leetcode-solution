@@ -760,17 +760,18 @@
     "GeeksForGeeks_Count_Words_in_String": true,
     "GeeksForGeeks_Missing_Characters_in_Panagram": true,
     "GeeksForGeeks_Duck_Number": true,
-    "GeeksForGeeks_Power_of_2": true
+    "GeeksForGeeks_Power_of_2": true,
+    "GeeksForGeeks_Is_Binary_Number_Multiple_of_3": true
   },
-  "totalSolved": 288,
+  "totalSolved": 289,
   "difficultyCounts": {
-    "easy": 95,
+    "easy": 96,
     "medium": 120,
     "hard": 3,
     "basic": 70
   },
   "currentStreak": 3,
-  "todayCount": 6,
+  "todayCount": 7,
   "lastSyncDate": "2026-07-08",
   "maxStreak": 15,
   "activityHistory": {
@@ -814,7 +815,7 @@
     "2026-07-03": 1,
     "2026-07-06": 3,
     "2026-07-07": 17,
-    "2026-07-08": 6
+    "2026-07-08": 7
   },
   "todayProblems": [
     "Most Frequent Character",
@@ -1103,6 +1104,7 @@
     "Count Words in String",
     "Missing Characters in Panagram",
     "Duck Number",
-    "Power of 2"
+    "Power of 2",
+    "Is Binary Number Multiple of 3"
   ]
 }

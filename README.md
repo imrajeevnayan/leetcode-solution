@@ -6,3 +6,4 @@
 | 4 | [Missing Characters in Panagram](https://www.geeksforgeeks.org/problems/missing-characters-in-panagram/1?page=6&status=unsolved&sortBy=difficulty) | GeeksForGeeks | Basic | 08 Jul 2026 | 12:52 am |
 | 5 | [Duck Number](https://www.geeksforgeeks.org/problems/zero-number2158/1?page=6&status=unsolved&sortBy=difficulty) | GeeksForGeeks | Basic | 08 Jul 2026 | 12:53 am |
 | 6 | [Power of 2](https://www.geeksforgeeks.org/problems/power-of-2-1587115620/1?page=1&category=Bit%20Magic&sortBy=submissions) | GeeksForGeeks | Medium | 08 Jul 2026 | 12:56 am |
+| 7 | [Is Binary Number Multiple of 3](https://www.geeksforgeeks.org/problems/is-binary-number-multiple-of-30654/1?page=1&category=Bit%20Magic&status=unsolved&sortBy=submissions) | GeeksForGeeks | Easy | 08 Jul 2026 | 12:59 am |
