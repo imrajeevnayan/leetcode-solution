@@ -747,17 +747,18 @@
     "GeeksForGeeks_Last_Duplicate_in_a_Sorted_Array": true,
     "GeeksForGeeks_Max_and_Min_Product_from_2_Arrays": true,
     "GeeksForGeeks_Reverse_sub_array": true,
-    "GeeksForGeeks_Merge_and_Sort": true
+    "GeeksForGeeks_Merge_and_Sort": true,
+    "GeeksForGeeks_Half_Ascending_and_Half_Descending_Sort": true
   },
-  "totalSolved": 275,
+  "totalSolved": 276,
   "difficultyCounts": {
     "easy": 94,
     "medium": 119,
     "hard": 3,
-    "basic": 59
+    "basic": 60
   },
   "currentStreak": 2,
-  "todayCount": 10,
+  "todayCount": 11,
   "lastSyncDate": "2026-07-07",
   "maxStreak": 15,
   "activityHistory": {
@@ -800,7 +801,7 @@
     "2026-07-02": 1,
     "2026-07-03": 1,
     "2026-07-06": 3,
-    "2026-07-07": 10
+    "2026-07-07": 11
   },
   "todayProblems": [
     "Most Frequent Character",
@@ -1076,6 +1077,7 @@
     "Last Duplicate in a Sorted Array",
     "Max and Min Product from 2 Arrays",
     "Reverse sub array",
-    "Merge and Sort"
+    "Merge and Sort",
+    "Half Ascending and Half Descending Sort"
   ]
 }

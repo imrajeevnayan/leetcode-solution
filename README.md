@@ -10,3 +10,4 @@
 | 8 | [Max and Min Product from 2 Arrays](https://www.geeksforgeeks.org/problems/product-of-maximum-in-first-array-and-minimum-in-second3943/1?page=1&status=unsolved&sortBy=difficulty) | GeeksForGeeks | Basic | 07 Jul 2026 | 09:12 pm |
 | 9 | [Reverse sub array](https://www.geeksforgeeks.org/problems/reverse-sub-array5620/1?page=1&status=unsolved&sortBy=difficulty) | GeeksForGeeks | Basic | 07 Jul 2026 | 09:34 pm |
 | 10 | [Merge and Sort](https://www.geeksforgeeks.org/problems/merge-and-sort5821/1?page=1&status=unsolved&sortBy=difficulty) | GeeksForGeeks | Basic | 07 Jul 2026 | 09:36 pm |
+| 11 | [Half Ascending and Half Descending Sort](https://www.geeksforgeeks.org/problems/sort-first-half-in-ascending-and-second-half-in-descending1714/1?page=1&status=unsolved&sortBy=difficulty) | GeeksForGeeks | Basic | 07 Jul 2026 | 09:38 pm |
