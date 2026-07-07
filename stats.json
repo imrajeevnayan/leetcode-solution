@@ -756,17 +756,18 @@
     "GeeksForGeeks_Remove_All_Except_Alphabets": true,
     "LeetCode_Sort_Integers_by_The_Number_of_1_Bits": true,
     "GeeksForGeeks_Delete_alternate_characters": true,
-    "GeeksForGeeks_Anagram_Strings": true
+    "GeeksForGeeks_Anagram_Strings": true,
+    "GeeksForGeeks_Count_Words_in_String": true
   },
-  "totalSolved": 284,
+  "totalSolved": 285,
   "difficultyCounts": {
     "easy": 95,
     "medium": 119,
     "hard": 3,
-    "basic": 67
+    "basic": 68
   },
   "currentStreak": 3,
-  "todayCount": 2,
+  "todayCount": 3,
   "lastSyncDate": "2026-07-08",
   "maxStreak": 15,
   "activityHistory": {
@@ -810,7 +811,7 @@
     "2026-07-03": 1,
     "2026-07-06": 3,
     "2026-07-07": 17,
-    "2026-07-08": 2
+    "2026-07-08": 3
   },
   "todayProblems": [
     "Most Frequent Character",
@@ -1095,6 +1096,7 @@
     "Remove All Except Alphabets",
     "Sort Integers by The Number of 1 Bits",
     "Delete alternate characters",
-    "Anagram Strings"
+    "Anagram Strings",
+    "Count Words in String"
   ]
 }
