@@ -5,3 +5,4 @@
 | 3 | [Pyramid Pattern](https://www.geeksforgeeks.org/problems/pyramid-patterns/1?page=1&status=unsolved&sortBy=latest) | GeeksForGeeks | Basic | 07 Jul 2026 | 06:03 pm |
 | 4 | [Solid Rectangle](https://www.geeksforgeeks.org/problems/solid-rectangle/1?page=1&status=unsolved&sortBy=latest) | GeeksForGeeks | Basic | 07 Jul 2026 | 06:04 pm |
 | 5 | [Make All Zero](https://www.geeksforgeeks.org/problems/make-all-zero--150104/1?page=2&status=unsolved&sortBy=latest) | GeeksForGeeks | Medium | 07 Jul 2026 | 08:58 pm |
+| 6 | [Remove Duplicates from Unsorted](https://www.geeksforgeeks.org/problems/remove-duplicates-from-unsorted-array4141/1?page=1&status=unsolved&sortBy=difficulty) | GeeksForGeeks | Basic | 07 Jul 2026 | 09:00 pm |
