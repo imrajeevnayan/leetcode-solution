@@ -333,4 +333,16 @@ Automatically organized collection of LeetCode solutions.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/imrajeevnayan/leetcode-solution/tree/main/2130-maximum-twin-sum-of-a-linked-list/) | Medium |
+## String
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3211-generate-binary-strings-without-adjacent-zeros](https://github.com/imrajeevnayan/leetcode-solution/tree/main/3211-generate-binary-strings-without-adjacent-zeros/) | Medium |
+## Backtracking
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3211-generate-binary-strings-without-adjacent-zeros](https://github.com/imrajeevnayan/leetcode-solution/tree/main/3211-generate-binary-strings-without-adjacent-zeros/) | Medium |
+## Bit Manipulation
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3211-generate-binary-strings-without-adjacent-zeros](https://github.com/imrajeevnayan/leetcode-solution/tree/main/3211-generate-binary-strings-without-adjacent-zeros/) | Medium |
 <!---LeetCode Topics End-->
