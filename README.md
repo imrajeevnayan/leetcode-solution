@@ -4,7 +4,7 @@ Automatically organized collection of LeetCode solutions.
 
 ## 📊 Statistics
 
-- **Total Problems Solved:** 264
+- **Total Problems Solved:** 265
 - **Current Streak:** 1 days
 - **Longest Streak:** 14 days
 
@@ -13,7 +13,7 @@ Automatically organized collection of LeetCode solutions.
 #### By Language
 - Sql: 27
 - Javascript: 2
-- Java: 235
+- Java: 236
 
 #### By Topic
 - Database: 27
@@ -24,7 +24,7 @@ Automatically organized collection of LeetCode solutions.
 - Tree: 5
 - Hash-table: 19
 - Linked-list: 18
-- String: 21
+- String: 22
 - Stack: 1
 - Dynamic-programming: 2
 - Binary-search: 1
@@ -287,6 +287,7 @@ Automatically organized collection of LeetCode solutions.
 | 3379 | Score Of A String | string | easy | java | [Solution](solutions/java/string/easy/3379_score-of-a-string_string_easy.java) |
 | 3414 | Find Number Of Ways To Reach The K Th Stair | math | hard | java | [Solution](solutions/java/math/hard/3414_find-number-of-ways-to-reach-the-k-th-stair_math_hard.java) |
 | 3420 | Find Occurrences Of An Element In An Array | array | medium | java | [Solution](solutions/java/array/medium/3420_find-occurrences-of-an-element-in-an-array_array_medium.java) |
+| 3453 | Generate Binary Strings Without Adjacent Zeros | string | medium | java | [Solution](solutions/java/string/medium/3453_generate-binary-strings-without-adjacent-zeros_string_medium.java) |
 | 3558 | Find A Safe Walk Through A Grid | array | medium | java | [Solution](solutions/java/array/medium/3558_find-a-safe-walk-through-a-grid_array_medium.java) |
 | 3644 | Minimum Positive Sum Subarray  | array | easy | java | [Solution](solutions/java/array/easy/3644_minimum-positive-sum-subarray-_array_easy.java) |
 | 3685 | Count Subarrays Of Length Three With A Condition | array | easy | java | [Solution](solutions/java/array/easy/3685_count-subarrays-of-length-three-with-a-condition_array_easy.java) |
@@ -299,50 +300,3 @@ Automatically organized collection of LeetCode solutions.
 | 4216 | Weighted Word Mapping | array | easy | java | [Solution](solutions/java/array/easy/4216_weighted-word-mapping_array_easy.java) |
 | 4312 | Limit Occurrences In Sorted Array | array | easy | java | [Solution](solutions/java/array/easy/4312_limit-occurrences-in-sorted-array_array_easy.java) |
 | 4313 | Password Strength | hash-table | medium | java | [Solution](solutions/java/hash-table/medium/4313_password-strength_hash-table_medium.java) |
-
-<!---LeetCode Topics Start-->
-# LeetCode Topics
-## Math
-| Problem Name | Difficulty |
-| ------- | ------- |
-| [1137-n-th-tribonacci-number](https://github.com/imrajeevnayan/leetcode-solution/tree/main/1137-n-th-tribonacci-number/) | Easy |
-## Dynamic Programming
-| Problem Name | Difficulty |
-| ------- | ------- |
-| [0198-house-robber](https://github.com/imrajeevnayan/leetcode-solution/tree/main/0198-house-robber/) | Medium |
-| [0746-min-cost-climbing-stairs](https://github.com/imrajeevnayan/leetcode-solution/tree/main/0746-min-cost-climbing-stairs/) | Easy |
-| [1137-n-th-tribonacci-number](https://github.com/imrajeevnayan/leetcode-solution/tree/main/1137-n-th-tribonacci-number/) | Easy |
-## Memoization
-| Problem Name | Difficulty |
-| ------- | ------- |
-| [1137-n-th-tribonacci-number](https://github.com/imrajeevnayan/leetcode-solution/tree/main/1137-n-th-tribonacci-number/) | Easy |
-## Array
-| Problem Name | Difficulty |
-| ------- | ------- |
-| [0198-house-robber](https://github.com/imrajeevnayan/leetcode-solution/tree/main/0198-house-robber/) | Medium |
-| [0746-min-cost-climbing-stairs](https://github.com/imrajeevnayan/leetcode-solution/tree/main/0746-min-cost-climbing-stairs/) | Easy |
-## Linked List
-| Problem Name | Difficulty |
-| ------- | ------- |
-| [2130-maximum-twin-sum-of-a-linked-list](https://github.com/imrajeevnayan/leetcode-solution/tree/main/2130-maximum-twin-sum-of-a-linked-list/) | Medium |
-## Two Pointers
-| Problem Name | Difficulty |
-| ------- | ------- |
-| [2130-maximum-twin-sum-of-a-linked-list](https://github.com/imrajeevnayan/leetcode-solution/tree/main/2130-maximum-twin-sum-of-a-linked-list/) | Medium |
-## Stack
-| Problem Name | Difficulty |
-| ------- | ------- |
-| [2130-maximum-twin-sum-of-a-linked-list](https://github.com/imrajeevnayan/leetcode-solution/tree/main/2130-maximum-twin-sum-of-a-linked-list/) | Medium |
-## String
-| Problem Name | Difficulty |
-| ------- | ------- |
-| [3211-generate-binary-strings-without-adjacent-zeros](https://github.com/imrajeevnayan/leetcode-solution/tree/main/3211-generate-binary-strings-without-adjacent-zeros/) | Medium |
-## Backtracking
-| Problem Name | Difficulty |
-| ------- | ------- |
-| [3211-generate-binary-strings-without-adjacent-zeros](https://github.com/imrajeevnayan/leetcode-solution/tree/main/3211-generate-binary-strings-without-adjacent-zeros/) | Medium |
-## Bit Manipulation
-| Problem Name | Difficulty |
-| ------- | ------- |
-| [3211-generate-binary-strings-without-adjacent-zeros](https://github.com/imrajeevnayan/leetcode-solution/tree/main/3211-generate-binary-strings-without-adjacent-zeros/) | Medium |
-<!---LeetCode Topics End-->
