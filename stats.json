@@ -737,18 +737,19 @@
     "GeeksForGeeks_First_n_Fibonacci_using_DP": true,
     "LeetCode_Climbing_Stairs": true,
     "LeetCode_Min_Cost_Climbing_Stairs": true,
-    "GeeksForGeeks_Friends_Pairing_Problem": true
+    "GeeksForGeeks_Friends_Pairing_Problem": true,
+    "GeeksForGeeks_Butterfly_Pattern": true
   },
-  "totalSolved": 265,
+  "totalSolved": 266,
   "difficultyCounts": {
     "easy": 94,
     "medium": 118,
     "hard": 3,
-    "basic": 50
+    "basic": 51
   },
-  "currentStreak": 1,
-  "todayCount": 3,
-  "lastSyncDate": "2026-07-06",
+  "currentStreak": 2,
+  "todayCount": 1,
+  "lastSyncDate": "2026-07-07",
   "maxStreak": 15,
   "activityHistory": {
     "2026-05-19": 2,
@@ -789,7 +790,8 @@
     "2026-07-01": 1,
     "2026-07-02": 1,
     "2026-07-03": 1,
-    "2026-07-06": 3
+    "2026-07-06": 3,
+    "2026-07-07": 1
   },
   "todayProblems": [
     "Most Frequent Character",
@@ -1055,6 +1057,7 @@
     "First n Fibonacci using DP",
     "Climbing Stairs",
     "Min Cost Climbing Stairs",
-    "Friends Pairing Problem"
+    "Friends Pairing Problem",
+    "Butterfly Pattern"
   ]
 }
