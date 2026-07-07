@@ -741,17 +741,18 @@
     "GeeksForGeeks_Butterfly_Pattern": true,
     "GeeksForGeeks_Print_Hollow_Rectangle": true,
     "GeeksForGeeks_Pyramid_Pattern": true,
-    "GeeksForGeeks_Solid_Rectangle": true
+    "GeeksForGeeks_Solid_Rectangle": true,
+    "GeeksForGeeks_Make_All_Zero": true
   },
-  "totalSolved": 269,
+  "totalSolved": 270,
   "difficultyCounts": {
     "easy": 94,
-    "medium": 118,
+    "medium": 119,
     "hard": 3,
     "basic": 54
   },
   "currentStreak": 2,
-  "todayCount": 4,
+  "todayCount": 5,
   "lastSyncDate": "2026-07-07",
   "maxStreak": 15,
   "activityHistory": {
@@ -794,7 +795,7 @@
     "2026-07-02": 1,
     "2026-07-03": 1,
     "2026-07-06": 3,
-    "2026-07-07": 4
+    "2026-07-07": 5
   },
   "todayProblems": [
     "Most Frequent Character",
@@ -1064,6 +1065,7 @@
     "Butterfly Pattern",
     "Print Hollow Rectangle",
     "Pyramid Pattern",
-    "Solid Rectangle"
+    "Solid Rectangle",
+    "Make All Zero"
   ]
 }

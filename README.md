@@ -4,3 +4,4 @@
 | 2 | [Print Hollow Rectangle](https://www.geeksforgeeks.org/problems/hollow-rectangle-or-square/1?page=1&sortBy=latest) | GeeksForGeeks | Basic | 07 Jul 2026 | 05:39 pm |
 | 3 | [Pyramid Pattern](https://www.geeksforgeeks.org/problems/pyramid-patterns/1?page=1&status=unsolved&sortBy=latest) | GeeksForGeeks | Basic | 07 Jul 2026 | 06:03 pm |
 | 4 | [Solid Rectangle](https://www.geeksforgeeks.org/problems/solid-rectangle/1?page=1&status=unsolved&sortBy=latest) | GeeksForGeeks | Basic | 07 Jul 2026 | 06:04 pm |
+| 5 | [Make All Zero](https://www.geeksforgeeks.org/problems/make-all-zero--150104/1?page=2&status=unsolved&sortBy=latest) | GeeksForGeeks | Medium | 07 Jul 2026 | 08:58 pm |
