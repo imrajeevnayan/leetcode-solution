@@ -746,7 +746,7 @@
     "GeeksForGeeks_Remove_Duplicates_from_Unsorted": true,
     "GeeksForGeeks_Last_Duplicate_in_a_Sorted_Array": true,
     "GeeksForGeeks_Max_and_Min_Product_from_2_Arrays": true,
-    "GeeksForGeeks_Make_a_Distinct_Digit_Array": true
+    "GeeksForGeeks_Reverse_sub_array": true
   },
   "totalSolved": 274,
   "difficultyCounts": {
@@ -1074,6 +1074,6 @@
     "Remove Duplicates from Unsorted",
     "Last Duplicate in a Sorted Array",
     "Max and Min Product from 2 Arrays",
-    "Make a Distinct Digit Array"
+    "Reverse sub array"
   ]
 }
