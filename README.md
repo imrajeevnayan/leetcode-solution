@@ -5,3 +5,4 @@
 | 3 | [Count Words in String](https://www.geeksforgeeks.org/problems/count-words-in-string/1?page=6&status=unsolved&sortBy=difficulty) | GeeksForGeeks | Basic | 08 Jul 2026 | 12:51 am |
 | 4 | [Missing Characters in Panagram](https://www.geeksforgeeks.org/problems/missing-characters-in-panagram/1?page=6&status=unsolved&sortBy=difficulty) | GeeksForGeeks | Basic | 08 Jul 2026 | 12:52 am |
 | 5 | [Duck Number](https://www.geeksforgeeks.org/problems/zero-number2158/1?page=6&status=unsolved&sortBy=difficulty) | GeeksForGeeks | Basic | 08 Jul 2026 | 12:53 am |
+| 6 | [Power of 2](https://www.geeksforgeeks.org/problems/power-of-2-1587115620/1?page=1&category=Bit%20Magic&sortBy=submissions) | GeeksForGeeks | Medium | 08 Jul 2026 | 12:56 am |
