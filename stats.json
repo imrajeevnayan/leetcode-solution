@@ -750,17 +750,18 @@
     "GeeksForGeeks_Merge_and_Sort": true,
     "GeeksForGeeks_Half_Ascending_and_Half_Descending_Sort": true,
     "GeeksForGeeks_Elements_in_the_Range": true,
-    "GeeksForGeeks_One_odd_Occuring": true
+    "GeeksForGeeks_One_odd_Occuring": true,
+    "GeeksForGeeks_Max_Odd_Sum": true
   },
-  "totalSolved": 278,
+  "totalSolved": 279,
   "difficultyCounts": {
     "easy": 94,
     "medium": 119,
     "hard": 3,
-    "basic": 62
+    "basic": 63
   },
   "currentStreak": 2,
-  "todayCount": 13,
+  "todayCount": 14,
   "lastSyncDate": "2026-07-07",
   "maxStreak": 15,
   "activityHistory": {
@@ -803,7 +804,7 @@
     "2026-07-02": 1,
     "2026-07-03": 1,
     "2026-07-06": 3,
-    "2026-07-07": 13
+    "2026-07-07": 14
   },
   "todayProblems": [
     "Most Frequent Character",
@@ -1082,6 +1083,7 @@
     "Merge and Sort",
     "Half Ascending and Half Descending Sort",
     "Elements in the Range",
-    "One odd Occuring"
+    "One odd Occuring",
+    "Max Odd Sum"
   ]
 }
