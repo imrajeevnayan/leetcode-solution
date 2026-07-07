@@ -7,3 +7,4 @@
 | 5 | [Make All Zero](https://www.geeksforgeeks.org/problems/make-all-zero--150104/1?page=2&status=unsolved&sortBy=latest) | GeeksForGeeks | Medium | 07 Jul 2026 | 08:58 pm |
 | 6 | [Remove Duplicates from Unsorted](https://www.geeksforgeeks.org/problems/remove-duplicates-from-unsorted-array4141/1?page=1&status=unsolved&sortBy=difficulty) | GeeksForGeeks | Basic | 07 Jul 2026 | 09:00 pm |
 | 7 | [Last Duplicate in a Sorted Array](https://www.geeksforgeeks.org/problems/last-duplicate-element-in-a-sorted-array5539/1?page=1&status=unsolved&sortBy=difficulty) | GeeksForGeeks | Basic | 07 Jul 2026 | 09:03 pm |
+| 8 | [Max and Min Product from 2 Arrays](https://www.geeksforgeeks.org/problems/product-of-maximum-in-first-array-and-minimum-in-second3943/1?page=1&status=unsolved&sortBy=difficulty) | GeeksForGeeks | Basic | 07 Jul 2026 | 09:12 pm |
