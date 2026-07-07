@@ -739,17 +739,18 @@
     "LeetCode_Min_Cost_Climbing_Stairs": true,
     "GeeksForGeeks_Friends_Pairing_Problem": true,
     "GeeksForGeeks_Butterfly_Pattern": true,
-    "GeeksForGeeks_Print_Hollow_Rectangle": true
+    "GeeksForGeeks_Print_Hollow_Rectangle": true,
+    "GeeksForGeeks_Pyramid_Pattern": true
   },
-  "totalSolved": 267,
+  "totalSolved": 268,
   "difficultyCounts": {
     "easy": 94,
     "medium": 118,
     "hard": 3,
-    "basic": 52
+    "basic": 53
   },
   "currentStreak": 2,
-  "todayCount": 2,
+  "todayCount": 3,
   "lastSyncDate": "2026-07-07",
   "maxStreak": 15,
   "activityHistory": {
@@ -792,7 +793,7 @@
     "2026-07-02": 1,
     "2026-07-03": 1,
     "2026-07-06": 3,
-    "2026-07-07": 2
+    "2026-07-07": 3
   },
   "todayProblems": [
     "Most Frequent Character",
@@ -1060,6 +1061,7 @@
     "Min Cost Climbing Stairs",
     "Friends Pairing Problem",
     "Butterfly Pattern",
-    "Print Hollow Rectangle"
+    "Print Hollow Rectangle",
+    "Pyramid Pattern"
   ]
 }
