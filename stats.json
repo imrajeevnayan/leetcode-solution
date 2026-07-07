@@ -753,17 +753,18 @@
     "GeeksForGeeks_One_odd_Occuring": true,
     "GeeksForGeeks_Max_Odd_Sum": true,
     "GeeksForGeeks_Swap_kth_elements": true,
-    "GeeksForGeeks_Remove_All_Except_Alphabets": true
+    "GeeksForGeeks_Remove_All_Except_Alphabets": true,
+    "LeetCode_Sort_Integers_by_The_Number_of_1_Bits": true
   },
-  "totalSolved": 281,
+  "totalSolved": 282,
   "difficultyCounts": {
-    "easy": 94,
+    "easy": 95,
     "medium": 119,
     "hard": 3,
     "basic": 65
   },
   "currentStreak": 2,
-  "todayCount": 16,
+  "todayCount": 17,
   "lastSyncDate": "2026-07-07",
   "maxStreak": 15,
   "activityHistory": {
@@ -806,7 +807,7 @@
     "2026-07-02": 1,
     "2026-07-03": 1,
     "2026-07-06": 3,
-    "2026-07-07": 16
+    "2026-07-07": 17
   },
   "todayProblems": [
     "Most Frequent Character",
@@ -1088,6 +1089,7 @@
     "One odd Occuring",
     "Max Odd Sum",
     "Swap kth elements",
-    "Remove All Except Alphabets"
+    "Remove All Except Alphabets",
+    "Sort Integers by The Number of 1 Bits"
   ]
 }
