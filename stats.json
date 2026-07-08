@@ -764,17 +764,18 @@
     "GeeksForGeeks_Is_Binary_Number_Multiple_of_3": true,
     "GeeksForGeeks_Largest_subarray_with_0_sum": true,
     "GeeksForGeeks_Consecutive_Array_Elements": true,
-    "LeetCode_Subarray_Sum_Equals_K": true
+    "LeetCode_Subarray_Sum_Equals_K": true,
+    "LeetCode_Sort_Colors": true
   },
-  "totalSolved": 292,
+  "totalSolved": 293,
   "difficultyCounts": {
     "easy": 97,
-    "medium": 122,
+    "medium": 123,
     "hard": 3,
     "basic": 70
   },
   "currentStreak": 4,
-  "todayCount": 1,
+  "todayCount": 2,
   "lastSyncDate": "2026-07-09",
   "maxStreak": 15,
   "activityHistory": {
@@ -819,7 +820,7 @@
     "2026-07-06": 3,
     "2026-07-07": 17,
     "2026-07-08": 9,
-    "2026-07-09": 1
+    "2026-07-09": 2
   },
   "todayProblems": [
     "Most Frequent Character",
@@ -1112,6 +1113,7 @@
     "Is Binary Number Multiple of 3",
     "Largest subarray with 0 sum",
     "Consecutive Array Elements",
-    "Subarray Sum Equals K"
+    "Subarray Sum Equals K",
+    "Sort Colors"
   ]
 }

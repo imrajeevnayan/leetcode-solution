@@ -26,7 +26,6 @@
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
-| [0075-sort-colors](https://github.com/imrajeevnayan/leetcode-solution/tree/main/0075-sort-colors/) | Medium |
 | [0204-count-primes](https://github.com/imrajeevnayan/leetcode-solution/tree/main/0204-count-primes/) | Medium |
 | [0560-subarray-sum-equals-k](https://github.com/imrajeevnayan/leetcode-solution/tree/main/0560-subarray-sum-equals-k/) | Medium |
 ## Math
@@ -45,15 +44,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0560-subarray-sum-equals-k](https://github.com/imrajeevnayan/leetcode-solution/tree/main/0560-subarray-sum-equals-k/) | Medium |
-## Two Pointers
-| Problem Name | Difficulty |
-| ------- | ------- |
-| [0075-sort-colors](https://github.com/imrajeevnayan/leetcode-solution/tree/main/0075-sort-colors/) | Medium |
-## Sorting
-| Problem Name | Difficulty |
-| ------- | ------- |
-| [0075-sort-colors](https://github.com/imrajeevnayan/leetcode-solution/tree/main/0075-sort-colors/) | Medium |
 <!---LeetCode Topics End-->
 | 8 | [Largest subarray with 0 sum](https://www.geeksforgeeks.org/problems/largest-subarray-with-0-sum/1) | GeeksForGeeks | Medium | 08 Jul 2026 | 05:04 pm |
 | 9 | [Consecutive Array Elements](https://www.geeksforgeeks.org/problems/consecutive-array-elements2711/1) | GeeksForGeeks | Easy | 08 Jul 2026 | 05:55 pm |
 | 10 | [Subarray Sum Equals K](https://leetcode.com/problems/subarray-sum-equals-k/) | LeetCode | Medium | 09 Jul 2026 | 12:39 am |
+| 11 | [Sort Colors](https://leetcode.com/problems/sort-colors/) | LeetCode | Medium | 09 Jul 2026 | 12:46 am |
