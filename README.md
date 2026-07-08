@@ -29,6 +29,7 @@
 | ------- | ------- |
 | [0204-count-primes](https://github.com/imrajeevnayan/leetcode-solution/tree/main/0204-count-primes/) | Medium |
 | [0217-contains-duplicate](https://github.com/imrajeevnayan/leetcode-solution/tree/main/0217-contains-duplicate/) | Easy |
+| [0238-product-of-array-except-self](https://github.com/imrajeevnayan/leetcode-solution/tree/main/0238-product-of-array-except-self/) | Medium |
 | [0560-subarray-sum-equals-k](https://github.com/imrajeevnayan/leetcode-solution/tree/main/0560-subarray-sum-equals-k/) | Medium |
 ## Math
 | Problem Name | Difficulty |
@@ -45,6 +46,7 @@
 ## Prefix Sum
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0238-product-of-array-except-self](https://github.com/imrajeevnayan/leetcode-solution/tree/main/0238-product-of-array-except-self/) | Medium |
 | [0560-subarray-sum-equals-k](https://github.com/imrajeevnayan/leetcode-solution/tree/main/0560-subarray-sum-equals-k/) | Medium |
 ## Sorting
 | Problem Name | Difficulty |
