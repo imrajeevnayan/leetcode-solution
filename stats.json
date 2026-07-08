@@ -761,17 +761,18 @@
     "GeeksForGeeks_Missing_Characters_in_Panagram": true,
     "GeeksForGeeks_Duck_Number": true,
     "GeeksForGeeks_Power_of_2": true,
-    "GeeksForGeeks_Is_Binary_Number_Multiple_of_3": true
+    "GeeksForGeeks_Is_Binary_Number_Multiple_of_3": true,
+    "GeeksForGeeks_Largest_subarray_with_0_sum": true
   },
-  "totalSolved": 289,
+  "totalSolved": 290,
   "difficultyCounts": {
     "easy": 96,
-    "medium": 120,
+    "medium": 121,
     "hard": 3,
     "basic": 70
   },
   "currentStreak": 3,
-  "todayCount": 7,
+  "todayCount": 8,
   "lastSyncDate": "2026-07-08",
   "maxStreak": 15,
   "activityHistory": {
@@ -815,7 +816,7 @@
     "2026-07-03": 1,
     "2026-07-06": 3,
     "2026-07-07": 17,
-    "2026-07-08": 7
+    "2026-07-08": 8
   },
   "todayProblems": [
     "Most Frequent Character",
@@ -1105,6 +1106,7 @@
     "Missing Characters in Panagram",
     "Duck Number",
     "Power of 2",
-    "Is Binary Number Multiple of 3"
+    "Is Binary Number Multiple of 3",
+    "Largest subarray with 0 sum"
   ]
 }
