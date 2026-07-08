@@ -47,3 +47,4 @@
 <!---LeetCode Topics End-->
 | 8 | [Largest subarray with 0 sum](https://www.geeksforgeeks.org/problems/largest-subarray-with-0-sum/1) | GeeksForGeeks | Medium | 08 Jul 2026 | 05:04 pm |
 | 9 | [Consecutive Array Elements](https://www.geeksforgeeks.org/problems/consecutive-array-elements2711/1) | GeeksForGeeks | Easy | 08 Jul 2026 | 05:55 pm |
+| 10 | [Subarray Sum Equals K](https://leetcode.com/problems/subarray-sum-equals-k/) | LeetCode | Medium | 09 Jul 2026 | 12:39 am |
