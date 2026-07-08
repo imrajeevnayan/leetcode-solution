@@ -762,17 +762,18 @@
     "GeeksForGeeks_Duck_Number": true,
     "GeeksForGeeks_Power_of_2": true,
     "GeeksForGeeks_Is_Binary_Number_Multiple_of_3": true,
-    "GeeksForGeeks_Largest_subarray_with_0_sum": true
+    "GeeksForGeeks_Largest_subarray_with_0_sum": true,
+    "GeeksForGeeks_Consecutive_Array_Elements": true
   },
-  "totalSolved": 290,
+  "totalSolved": 291,
   "difficultyCounts": {
-    "easy": 96,
+    "easy": 97,
     "medium": 121,
     "hard": 3,
     "basic": 70
   },
   "currentStreak": 3,
-  "todayCount": 8,
+  "todayCount": 9,
   "lastSyncDate": "2026-07-08",
   "maxStreak": 15,
   "activityHistory": {
@@ -816,7 +817,7 @@
     "2026-07-03": 1,
     "2026-07-06": 3,
     "2026-07-07": 17,
-    "2026-07-08": 8
+    "2026-07-08": 9
   },
   "todayProblems": [
     "Most Frequent Character",
@@ -1107,6 +1108,7 @@
     "Duck Number",
     "Power of 2",
     "Is Binary Number Multiple of 3",
-    "Largest subarray with 0 sum"
+    "Largest subarray with 0 sum",
+    "Consecutive Array Elements"
   ]
 }
