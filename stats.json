@@ -765,17 +765,18 @@
     "GeeksForGeeks_Largest_subarray_with_0_sum": true,
     "GeeksForGeeks_Consecutive_Array_Elements": true,
     "LeetCode_Subarray_Sum_Equals_K": true,
-    "LeetCode_Sort_Colors": true
+    "LeetCode_Sort_Colors": true,
+    "LeetCode_House_Robber_II": true
   },
-  "totalSolved": 293,
+  "totalSolved": 294,
   "difficultyCounts": {
     "easy": 97,
-    "medium": 123,
+    "medium": 124,
     "hard": 3,
     "basic": 70
   },
   "currentStreak": 4,
-  "todayCount": 2,
+  "todayCount": 3,
   "lastSyncDate": "2026-07-09",
   "maxStreak": 15,
   "activityHistory": {
@@ -820,7 +821,7 @@
     "2026-07-06": 3,
     "2026-07-07": 17,
     "2026-07-08": 9,
-    "2026-07-09": 2
+    "2026-07-09": 3
   },
   "todayProblems": [
     "Most Frequent Character",
@@ -1114,6 +1115,7 @@
     "Largest subarray with 0 sum",
     "Consecutive Array Elements",
     "Subarray Sum Equals K",
-    "Sort Colors"
+    "Sort Colors",
+    "House Robber II"
   ]
 }
