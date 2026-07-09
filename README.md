@@ -309,8 +309,13 @@ Automatically organized collection of LeetCode solutions.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/imrajeevnayan/leetcode-solution/tree/main/0153-find-minimum-in-rotated-sorted-array/) | Medium |
+| [0198-house-robber](https://github.com/imrajeevnayan/leetcode-solution/tree/main/0198-house-robber/) | Medium |
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/imrajeevnayan/leetcode-solution/tree/main/0153-find-minimum-in-rotated-sorted-array/) | Medium |
+## Dynamic Programming
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0198-house-robber](https://github.com/imrajeevnayan/leetcode-solution/tree/main/0198-house-robber/) | Medium |
 <!---LeetCode Topics End-->
