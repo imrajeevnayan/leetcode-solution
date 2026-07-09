@@ -4,7 +4,7 @@ Automatically organized collection of LeetCode solutions.
 
 ## 📊 Statistics
 
-- **Total Problems Solved:** 266
+- **Total Problems Solved:** 267
 - **Current Streak:** 1 days
 - **Longest Streak:** 14 days
 
@@ -13,7 +13,7 @@ Automatically organized collection of LeetCode solutions.
 #### By Language
 - Sql: 27
 - Javascript: 2
-- Java: 237
+- Java: 238
 
 #### By Topic
 - Database: 27
@@ -22,7 +22,7 @@ Automatically organized collection of LeetCode solutions.
 - Divide-and-conquer: 1
 - Bit-manipulation: 1
 - Tree: 5
-- Hash-table: 19
+- Hash-table: 20
 - Linked-list: 18
 - String: 22
 - Stack: 1
@@ -246,6 +246,7 @@ Automatically organized collection of LeetCode solutions.
 | 1452 | Restaurant Growth | database | medium | sql | [Solution](solutions/sql/database/medium/1452_restaurant-growth_database_medium.sql) |
 | 1458 | Sort Integers By The Number Of 1 Bits | array | easy | java | [Solution](solutions/java/array/easy/1458_sort-integers-by-the-number-of-1-bits_array_easy.java) |
 | 1470 | Tweet Counts Per Frequency | hash-table | medium | java | [Solution](solutions/java/hash-table/medium/1470_tweet-counts-per-frequency_hash-table_medium.java) |
+| 1473 | Find The Longest Substring Containing Vowels In Even Counts | hash-table | medium | java | [Solution](solutions/java/hash-table/medium/1473_find-the-longest-substring-containing-vowels-in-even-counts_hash-table_medium.java) |
 | 1480 | Movie Rating | database | medium | sql | [Solution](solutions/sql/database/medium/1480_movie-rating_database_medium.sql) |
 | 1482 | How Many Numbers Are Smaller Than The Current Number | array | easy | java | [Solution](solutions/java/array/easy/1482_how-many-numbers-are-smaller-than-the-current-number_array_easy.java) |
 | 1567 | Maximum Number Of Vowels In A Substring Of Given Length | string | medium | java | [Solution](solutions/java/string/medium/1567_maximum-number-of-vowels-in-a-substring-of-given-length_string_medium.java) |
@@ -301,23 +302,3 @@ Automatically organized collection of LeetCode solutions.
 | 4216 | Weighted Word Mapping | array | easy | java | [Solution](solutions/java/array/easy/4216_weighted-word-mapping_array_easy.java) |
 | 4312 | Limit Occurrences In Sorted Array | array | easy | java | [Solution](solutions/java/array/easy/4312_limit-occurrences-in-sorted-array_array_easy.java) |
 | 4313 | Password Strength | hash-table | medium | java | [Solution](solutions/java/hash-table/medium/4313_password-strength_hash-table_medium.java) |
-
-<!---LeetCode Topics Start-->
-# LeetCode Topics
-## Hash Table
-| Problem Name | Difficulty |
-| ------- | ------- |
-| [1371-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/imrajeevnayan/leetcode-solution/tree/main/1371-find-the-longest-substring-containing-vowels-in-even-counts/) | Medium |
-## String
-| Problem Name | Difficulty |
-| ------- | ------- |
-| [1371-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/imrajeevnayan/leetcode-solution/tree/main/1371-find-the-longest-substring-containing-vowels-in-even-counts/) | Medium |
-## Bit Manipulation
-| Problem Name | Difficulty |
-| ------- | ------- |
-| [1371-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/imrajeevnayan/leetcode-solution/tree/main/1371-find-the-longest-substring-containing-vowels-in-even-counts/) | Medium |
-## Prefix Sum
-| Problem Name | Difficulty |
-| ------- | ------- |
-| [1371-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/imrajeevnayan/leetcode-solution/tree/main/1371-find-the-longest-substring-containing-vowels-in-even-counts/) | Medium |
-<!---LeetCode Topics End-->
