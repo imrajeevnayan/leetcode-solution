@@ -13,3 +13,4 @@
 | ------- | ------- |
 | [0213-house-robber-ii](https://github.com/imrajeevnayan/leetcode-solution/tree/main/0213-house-robber-ii/) | Medium |
 <!---LeetCode Topics End-->
+| 2 | [Subset Sums](https://www.geeksforgeeks.org/problems/subset-sums2234/1) | GeeksForGeeks | Medium | 09 Jul 2026 | 05:32 pm |
