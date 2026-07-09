@@ -1,13 +1,16 @@
 class Solution {
-    public int amount(int[] nums,int i,int[]dp){
-        if(i>=nums.length)return 0;
-        if(dp[i]!=-1)return dp[i];
-        int take=nums[i]+amount(nums,i+2,dp);
-        int skip=0+amount(nums,i+1,dp);
-        return dp[i]= Math.max(take,skip);
-    }
-    public int rob(int[] nums) {
-        int dp[]=new int[nums.length];Arrays.fill(dp,-1);
-        return amount(nums,0,dp);
-    }
+int[] dp;
+public int rob(int[] nums) {
+   dp= new int[nums.length];
+    Arrays.fill(dp, -1);
+    return helper(nums, 0);
+}
+
+private int helper(int[] nums, int i) {
+    if (i >= nums.length) return 0;
+    if (dp[i] != -1) return dp[i];
+    
+    return dp[i] = Math.max(nums[i] + helper(nums, i + 2), helper(nums, i + 1));
+    
+}
 }
