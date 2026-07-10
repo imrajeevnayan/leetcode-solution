@@ -769,17 +769,18 @@
     "LeetCode_House_Robber_II": true,
     "GeeksForGeeks_Subset_Sums": true,
     "LeetCode_Maximum_Sum_of_Distinct_Subarrays_With_Length_K": true,
-    "LeetCode_Number_of_Zero-Filled_Subarrays": true
+    "LeetCode_Number_of_Zero-Filled_Subarrays": true,
+    "GeeksForGeeks_Subarray_with_0_sum": true
   },
-  "totalSolved": 297,
+  "totalSolved": 298,
   "difficultyCounts": {
     "easy": 97,
-    "medium": 127,
+    "medium": 128,
     "hard": 3,
     "basic": 70
   },
   "currentStreak": 5,
-  "todayCount": 2,
+  "todayCount": 3,
   "lastSyncDate": "2026-07-10",
   "maxStreak": 15,
   "activityHistory": {
@@ -825,7 +826,7 @@
     "2026-07-07": 17,
     "2026-07-08": 9,
     "2026-07-09": 4,
-    "2026-07-10": 2
+    "2026-07-10": 3
   },
   "todayProblems": [
     "Most Frequent Character",
@@ -1123,6 +1124,7 @@
     "House Robber II",
     "Subset Sums",
     "Maximum Sum of Distinct Subarrays With Length K",
-    "Number of Zero-Filled Subarrays"
+    "Number of Zero-Filled Subarrays",
+    "Subarray with 0 sum"
   ]
 }
