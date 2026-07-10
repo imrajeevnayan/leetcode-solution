@@ -5,7 +5,7 @@ class Solution {
     int count=0,sum=0;
     for(int n:nums){
         sum+=n;
-        int rem=((sum %k)+k)%k;
+        int rem=((sum %k)+k)%k;//it handle negative as well as positive number
         if(map.containsKey(rem))count+=map.get(rem);
         map.put(rem,map.getOrDefault(rem,0)+1);
     } 
