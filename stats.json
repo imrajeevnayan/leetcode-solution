@@ -773,17 +773,18 @@
     "GeeksForGeeks_Subarray_with_0_sum": true,
     "LeetCode_Subarray_Sums_Divisible_by_K": true,
     "GeeksForGeeks_Subarray_Sum_Divisible_By_K": true,
-    "GeeksForGeeks_Subarrays_Product_Less_than_K": true
+    "GeeksForGeeks_Subarrays_Product_Less_than_K": true,
+    "LeetCode_Median_of_Two_Sorted_Arrays": true
   },
-  "totalSolved": 301,
+  "totalSolved": 302,
   "difficultyCounts": {
     "easy": 97,
     "medium": 131,
-    "hard": 3,
+    "hard": 4,
     "basic": 70
   },
   "currentStreak": 5,
-  "todayCount": 6,
+  "todayCount": 7,
   "lastSyncDate": "2026-07-10",
   "maxStreak": 15,
   "activityHistory": {
@@ -829,7 +830,7 @@
     "2026-07-07": 17,
     "2026-07-08": 9,
     "2026-07-09": 4,
-    "2026-07-10": 6
+    "2026-07-10": 7
   },
   "todayProblems": [
     "Most Frequent Character",
@@ -1131,6 +1132,7 @@
     "Subarray with 0 sum",
     "Subarray Sums Divisible by K",
     "Subarray Sum Divisible By K",
-    "Subarrays Product Less than K"
+    "Subarrays Product Less than K",
+    "Median of Two Sorted Arrays"
   ]
 }
