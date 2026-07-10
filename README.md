@@ -9,6 +9,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0560-subarray-sum-equals-k](https://github.com/imrajeevnayan/leetcode-solution/tree/main/0560-subarray-sum-equals-k/) | Medium |
+| [2302-count-subarrays-with-score-less-than-k](https://github.com/imrajeevnayan/leetcode-solution/tree/main/2302-count-subarrays-with-score-less-than-k/) | Hard |
 | [2348-number-of-zero-filled-subarrays](https://github.com/imrajeevnayan/leetcode-solution/tree/main/2348-number-of-zero-filled-subarrays/) | Medium |
 ## Math
 | Problem Name | Difficulty |
@@ -22,5 +23,14 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0560-subarray-sum-equals-k](https://github.com/imrajeevnayan/leetcode-solution/tree/main/0560-subarray-sum-equals-k/) | Medium |
+| [2302-count-subarrays-with-score-less-than-k](https://github.com/imrajeevnayan/leetcode-solution/tree/main/2302-count-subarrays-with-score-less-than-k/) | Hard |
+## Binary Search
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [2302-count-subarrays-with-score-less-than-k](https://github.com/imrajeevnayan/leetcode-solution/tree/main/2302-count-subarrays-with-score-less-than-k/) | Hard |
+## Sliding Window
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [2302-count-subarrays-with-score-less-than-k](https://github.com/imrajeevnayan/leetcode-solution/tree/main/2302-count-subarrays-with-score-less-than-k/) | Hard |
 <!---LeetCode Topics End-->
 | 3 | [Subarray with 0 sum](https://www.geeksforgeeks.org/problems/subarray-with-0-sum-1587115621/1) | GeeksForGeeks | Medium | 10 Jul 2026 | 03:28 pm |
