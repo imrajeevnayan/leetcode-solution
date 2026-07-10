@@ -8,6 +8,7 @@
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/imrajeevnayan/leetcode-solution/tree/main/0004-median-of-two-sorted-arrays/) | Hard |
 | [0209-minimum-size-subarray-sum](https://github.com/imrajeevnayan/leetcode-solution/tree/main/0209-minimum-size-subarray-sum/) | Medium |
 | [0713-subarray-product-less-than-k](https://github.com/imrajeevnayan/leetcode-solution/tree/main/0713-subarray-product-less-than-k/) | Medium |
 | [0974-subarray-sums-divisible-by-k](https://github.com/imrajeevnayan/leetcode-solution/tree/main/0974-subarray-sums-divisible-by-k/) | Medium |
@@ -26,6 +27,7 @@
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/imrajeevnayan/leetcode-solution/tree/main/0004-median-of-two-sorted-arrays/) | Hard |
 | [0209-minimum-size-subarray-sum](https://github.com/imrajeevnayan/leetcode-solution/tree/main/0209-minimum-size-subarray-sum/) | Medium |
 | [0713-subarray-product-less-than-k](https://github.com/imrajeevnayan/leetcode-solution/tree/main/0713-subarray-product-less-than-k/) | Medium |
 | [2302-count-subarrays-with-score-less-than-k](https://github.com/imrajeevnayan/leetcode-solution/tree/main/2302-count-subarrays-with-score-less-than-k/) | Hard |
@@ -35,5 +37,9 @@
 | [0209-minimum-size-subarray-sum](https://github.com/imrajeevnayan/leetcode-solution/tree/main/0209-minimum-size-subarray-sum/) | Medium |
 | [0713-subarray-product-less-than-k](https://github.com/imrajeevnayan/leetcode-solution/tree/main/0713-subarray-product-less-than-k/) | Medium |
 | [2302-count-subarrays-with-score-less-than-k](https://github.com/imrajeevnayan/leetcode-solution/tree/main/2302-count-subarrays-with-score-less-than-k/) | Hard |
+## Divide and Conquer
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/imrajeevnayan/leetcode-solution/tree/main/0004-median-of-two-sorted-arrays/) | Hard |
 <!---LeetCode Topics End-->
 | 3 | [Subarrays Product Less than K](https://www.geeksforgeeks.org/problems/count-the-subarrays-having-product-less-than-k1708/1) | GeeksForGeeks | Medium | 10 Jul 2026 | 05:30 pm |
