@@ -8,6 +8,7 @@
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0713-subarray-product-less-than-k](https://github.com/imrajeevnayan/leetcode-solution/tree/main/0713-subarray-product-less-than-k/) | Medium |
 | [0974-subarray-sums-divisible-by-k](https://github.com/imrajeevnayan/leetcode-solution/tree/main/0974-subarray-sums-divisible-by-k/) | Medium |
 ## Hash Table
 | Problem Name | Difficulty |
@@ -16,5 +17,14 @@
 ## Prefix Sum
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0713-subarray-product-less-than-k](https://github.com/imrajeevnayan/leetcode-solution/tree/main/0713-subarray-product-less-than-k/) | Medium |
 | [0974-subarray-sums-divisible-by-k](https://github.com/imrajeevnayan/leetcode-solution/tree/main/0974-subarray-sums-divisible-by-k/) | Medium |
+## Binary Search
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0713-subarray-product-less-than-k](https://github.com/imrajeevnayan/leetcode-solution/tree/main/0713-subarray-product-less-than-k/) | Medium |
+## Sliding Window
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0713-subarray-product-less-than-k](https://github.com/imrajeevnayan/leetcode-solution/tree/main/0713-subarray-product-less-than-k/) | Medium |
 <!---LeetCode Topics End-->
