@@ -771,17 +771,18 @@
     "LeetCode_Maximum_Sum_of_Distinct_Subarrays_With_Length_K": true,
     "LeetCode_Number_of_Zero-Filled_Subarrays": true,
     "GeeksForGeeks_Subarray_with_0_sum": true,
-    "LeetCode_Subarray_Sums_Divisible_by_K": true
+    "LeetCode_Subarray_Sums_Divisible_by_K": true,
+    "GeeksForGeeks_Subarray_Sum_Divisible_By_K": true
   },
-  "totalSolved": 299,
+  "totalSolved": 300,
   "difficultyCounts": {
     "easy": 97,
-    "medium": 129,
+    "medium": 130,
     "hard": 3,
     "basic": 70
   },
   "currentStreak": 5,
-  "todayCount": 4,
+  "todayCount": 5,
   "lastSyncDate": "2026-07-10",
   "maxStreak": 15,
   "activityHistory": {
@@ -827,7 +828,7 @@
     "2026-07-07": 17,
     "2026-07-08": 9,
     "2026-07-09": 4,
-    "2026-07-10": 4
+    "2026-07-10": 5
   },
   "todayProblems": [
     "Most Frequent Character",
@@ -1127,6 +1128,7 @@
     "Maximum Sum of Distinct Subarrays With Length K",
     "Number of Zero-Filled Subarrays",
     "Subarray with 0 sum",
-    "Subarray Sums Divisible by K"
+    "Subarray Sums Divisible by K",
+    "Subarray Sum Divisible By K"
   ]
 }
