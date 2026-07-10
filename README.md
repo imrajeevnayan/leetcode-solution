@@ -4,7 +4,7 @@ Automatically organized collection of LeetCode solutions.
 
 ## 📊 Statistics
 
-- **Total Problems Solved:** 273
+- **Total Problems Solved:** 274
 - **Current Streak:** 2 days
 - **Longest Streak:** 14 days
 
@@ -13,11 +13,11 @@ Automatically organized collection of LeetCode solutions.
 #### By Language
 - Sql: 27
 - Javascript: 2
-- Java: 244
+- Java: 245
 
 #### By Topic
 - Database: 27
-- Array: 139
+- Array: 140
 - General: 1
 - Divide-and-conquer: 1
 - Bit-manipulation: 1
@@ -218,6 +218,7 @@ Automatically organized collection of LeetCode solutions.
 | 1016 | Subarray Sums Divisible By K | array | medium | java | [Solution](solutions/java/array/medium/1016_subarray-sums-divisible-by-k_array_medium.java) |
 | 1018 | Largest Perimeter Triangle | array | easy | java | [Solution](solutions/java/array/easy/1018_largest-perimeter-triangle_array_easy.java) |
 | 1019 | Squares Of A Sorted Array | array | easy | java | [Solution](solutions/java/array/easy/1019_squares-of-a-sorted-array_array_easy.java) |
+| 1034 | Subarrays With K Different Integers | array | hard | java | [Solution](solutions/java/array/hard/1034_subarrays-with-k-different-integers_array_hard.java) |
 | 1036 | Rotting Oranges | array | medium | java | [Solution](solutions/java/array/medium/1036_rotting-oranges_array_medium.java) |
 | 1039 | Find The Town Judge | array | easy | java | [Solution](solutions/java/array/easy/1039_find-the-town-judge_array_easy.java) |
 | 1046 | Max Consecutive Ones Iii | array | medium | java | [Solution](solutions/java/array/medium/1046_max-consecutive-ones-iii_array_medium.java) |
@@ -308,23 +309,3 @@ Automatically organized collection of LeetCode solutions.
 | 4216 | Weighted Word Mapping | array | easy | java | [Solution](solutions/java/array/easy/4216_weighted-word-mapping_array_easy.java) |
 | 4312 | Limit Occurrences In Sorted Array | array | easy | java | [Solution](solutions/java/array/easy/4312_limit-occurrences-in-sorted-array_array_easy.java) |
 | 4313 | Password Strength | hash-table | medium | java | [Solution](solutions/java/hash-table/medium/4313_password-strength_hash-table_medium.java) |
-
-<!---LeetCode Topics Start-->
-# LeetCode Topics
-## Array
-| Problem Name | Difficulty |
-| ------- | ------- |
-| [0992-subarrays-with-k-different-integers](https://github.com/imrajeevnayan/leetcode-solution/tree/main/0992-subarrays-with-k-different-integers/) | Hard |
-## Hash Table
-| Problem Name | Difficulty |
-| ------- | ------- |
-| [0992-subarrays-with-k-different-integers](https://github.com/imrajeevnayan/leetcode-solution/tree/main/0992-subarrays-with-k-different-integers/) | Hard |
-## Sliding Window
-| Problem Name | Difficulty |
-| ------- | ------- |
-| [0992-subarrays-with-k-different-integers](https://github.com/imrajeevnayan/leetcode-solution/tree/main/0992-subarrays-with-k-different-integers/) | Hard |
-## Counting
-| Problem Name | Difficulty |
-| ------- | ------- |
-| [0992-subarrays-with-k-different-integers](https://github.com/imrajeevnayan/leetcode-solution/tree/main/0992-subarrays-with-k-different-integers/) | Hard |
-<!---LeetCode Topics End-->
