@@ -4,7 +4,7 @@ Automatically organized collection of LeetCode solutions.
 
 ## 📊 Statistics
 
-- **Total Problems Solved:** 268
+- **Total Problems Solved:** 269
 - **Current Streak:** 2 days
 - **Longest Streak:** 14 days
 
@@ -13,11 +13,11 @@ Automatically organized collection of LeetCode solutions.
 #### By Language
 - Sql: 27
 - Javascript: 2
-- Java: 239
+- Java: 240
 
 #### By Topic
 - Database: 27
-- Array: 134
+- Array: 135
 - General: 1
 - Divide-and-conquer: 1
 - Bit-manipulation: 1
@@ -278,6 +278,7 @@ Automatically organized collection of LeetCode solutions.
 | 2236 | Maximum Twin Sum Of A Linked List | linked-list | medium | java | [Solution](solutions/java/linked-list/medium/2236_maximum-twin-sum-of-a-linked-list_linked-list_medium.java) |
 | 2331 | Intersection Of Multiple Arrays | array | easy | java | [Solution](solutions/java/array/easy/2331_intersection-of-multiple-arrays_array_easy.java) |
 | 2432 | Number Of Zero Filled Subarrays | array | medium | java | [Solution](solutions/java/array/medium/2432_number-of-zero-filled-subarrays_array_medium.java) |
+| 2552 | Maximum Sum Of Distinct Subarrays With Length K | array | medium | java | [Solution](solutions/java/array/medium/2552_maximum-sum-of-distinct-subarrays-with-length-k_array_medium.java) |
 | 2571 | Find The Pivot Integer | math | easy | java | [Solution](solutions/java/math/easy/2571_find-the-pivot-integer_math_easy.java) |
 | 2573 | Remove Nodes From Linked List | linked-list | medium | java | [Solution](solutions/java/linked-list/medium/2573_remove-nodes-from-linked-list_linked-list_medium.java) |
 | 2608 | Count The Digits That Divide A Number | math | easy | java | [Solution](solutions/java/math/easy/2608_count-the-digits-that-divide-a-number_math_easy.java) |
@@ -303,19 +304,3 @@ Automatically organized collection of LeetCode solutions.
 | 4216 | Weighted Word Mapping | array | easy | java | [Solution](solutions/java/array/easy/4216_weighted-word-mapping_array_easy.java) |
 | 4312 | Limit Occurrences In Sorted Array | array | easy | java | [Solution](solutions/java/array/easy/4312_limit-occurrences-in-sorted-array_array_easy.java) |
 | 4313 | Password Strength | hash-table | medium | java | [Solution](solutions/java/hash-table/medium/4313_password-strength_hash-table_medium.java) |
-
-<!---LeetCode Topics Start-->
-# LeetCode Topics
-## Array
-| Problem Name | Difficulty |
-| ------- | ------- |
-| [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/imrajeevnayan/leetcode-solution/tree/main/2461-maximum-sum-of-distinct-subarrays-with-length-k/) | Medium |
-## Hash Table
-| Problem Name | Difficulty |
-| ------- | ------- |
-| [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/imrajeevnayan/leetcode-solution/tree/main/2461-maximum-sum-of-distinct-subarrays-with-length-k/) | Medium |
-## Sliding Window
-| Problem Name | Difficulty |
-| ------- | ------- |
-| [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/imrajeevnayan/leetcode-solution/tree/main/2461-maximum-sum-of-distinct-subarrays-with-length-k/) | Medium |
-<!---LeetCode Topics End-->
