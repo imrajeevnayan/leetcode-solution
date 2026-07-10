@@ -8,9 +8,18 @@
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0560-subarray-sum-equals-k](https://github.com/imrajeevnayan/leetcode-solution/tree/main/0560-subarray-sum-equals-k/) | Medium |
 | [2348-number-of-zero-filled-subarrays](https://github.com/imrajeevnayan/leetcode-solution/tree/main/2348-number-of-zero-filled-subarrays/) | Medium |
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [2348-number-of-zero-filled-subarrays](https://github.com/imrajeevnayan/leetcode-solution/tree/main/2348-number-of-zero-filled-subarrays/) | Medium |
+## Hash Table
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0560-subarray-sum-equals-k](https://github.com/imrajeevnayan/leetcode-solution/tree/main/0560-subarray-sum-equals-k/) | Medium |
+## Prefix Sum
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0560-subarray-sum-equals-k](https://github.com/imrajeevnayan/leetcode-solution/tree/main/0560-subarray-sum-equals-k/) | Medium |
 <!---LeetCode Topics End-->
