@@ -8,6 +8,7 @@
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/imrajeevnayan/leetcode-solution/tree/main/0209-minimum-size-subarray-sum/) | Medium |
 | [0713-subarray-product-less-than-k](https://github.com/imrajeevnayan/leetcode-solution/tree/main/0713-subarray-product-less-than-k/) | Medium |
 | [0974-subarray-sums-divisible-by-k](https://github.com/imrajeevnayan/leetcode-solution/tree/main/0974-subarray-sums-divisible-by-k/) | Medium |
 | [2302-count-subarrays-with-score-less-than-k](https://github.com/imrajeevnayan/leetcode-solution/tree/main/2302-count-subarrays-with-score-less-than-k/) | Hard |
@@ -18,17 +19,20 @@
 ## Prefix Sum
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/imrajeevnayan/leetcode-solution/tree/main/0209-minimum-size-subarray-sum/) | Medium |
 | [0713-subarray-product-less-than-k](https://github.com/imrajeevnayan/leetcode-solution/tree/main/0713-subarray-product-less-than-k/) | Medium |
 | [0974-subarray-sums-divisible-by-k](https://github.com/imrajeevnayan/leetcode-solution/tree/main/0974-subarray-sums-divisible-by-k/) | Medium |
 | [2302-count-subarrays-with-score-less-than-k](https://github.com/imrajeevnayan/leetcode-solution/tree/main/2302-count-subarrays-with-score-less-than-k/) | Hard |
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/imrajeevnayan/leetcode-solution/tree/main/0209-minimum-size-subarray-sum/) | Medium |
 | [0713-subarray-product-less-than-k](https://github.com/imrajeevnayan/leetcode-solution/tree/main/0713-subarray-product-less-than-k/) | Medium |
 | [2302-count-subarrays-with-score-less-than-k](https://github.com/imrajeevnayan/leetcode-solution/tree/main/2302-count-subarrays-with-score-less-than-k/) | Hard |
 ## Sliding Window
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/imrajeevnayan/leetcode-solution/tree/main/0209-minimum-size-subarray-sum/) | Medium |
 | [0713-subarray-product-less-than-k](https://github.com/imrajeevnayan/leetcode-solution/tree/main/0713-subarray-product-less-than-k/) | Medium |
 | [2302-count-subarrays-with-score-less-than-k](https://github.com/imrajeevnayan/leetcode-solution/tree/main/2302-count-subarrays-with-score-less-than-k/) | Hard |
 <!---LeetCode Topics End-->
