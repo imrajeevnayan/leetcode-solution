@@ -781,17 +781,18 @@
     "GeeksForGeeks_Find_the_Frequency": true,
     "GeeksForGeeks_Maximum_Index": true,
     "GeeksForGeeks_Subarrays_with_equal_1s_and_0s": true,
-    "GeeksForGeeks_Partition_Equal_Subset_Sum": true
+    "GeeksForGeeks_Partition_Equal_Subset_Sum": true,
+    "LeetCode_Minimum_Window_Substring": true
   },
-  "totalSolved": 309,
+  "totalSolved": 310,
   "difficultyCounts": {
     "easy": 98,
     "medium": 137,
-    "hard": 4,
+    "hard": 5,
     "basic": 70
   },
   "currentStreak": 6,
-  "todayCount": 6,
+  "todayCount": 7,
   "lastSyncDate": "2026-07-11",
   "maxStreak": 15,
   "activityHistory": {
@@ -838,7 +839,7 @@
     "2026-07-08": 9,
     "2026-07-09": 4,
     "2026-07-10": 8,
-    "2026-07-11": 6
+    "2026-07-11": 7
   },
   "todayProblems": [
     "Most Frequent Character",
@@ -1148,6 +1149,7 @@
     "Find the Frequency",
     "Maximum Index",
     "Subarrays with equal 1s and 0s",
-    "Partition Equal Subset Sum"
+    "Partition Equal Subset Sum",
+    "Minimum Window Substring"
   ]
 }
