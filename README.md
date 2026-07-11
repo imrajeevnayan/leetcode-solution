@@ -4,7 +4,7 @@ Automatically organized collection of LeetCode solutions.
 
 ## 📊 Statistics
 
-- **Total Problems Solved:** 287
+- **Total Problems Solved:** 289
 - **Current Streak:** 3 days
 - **Longest Streak:** 14 days
 
@@ -13,7 +13,7 @@ Automatically organized collection of LeetCode solutions.
 #### By Language
 - Sql: 27
 - Javascript: 2
-- Java: 258
+- Java: 260
 
 #### By Topic
 - Database: 27
@@ -22,7 +22,7 @@ Automatically organized collection of LeetCode solutions.
 - Divide-and-conquer: 1
 - Bit-manipulation: 1
 - Tree: 5
-- Hash-table: 23
+- Hash-table: 25
 - Linked-list: 18
 - String: 23
 - Stack: 1
@@ -166,6 +166,7 @@ Automatically organized collection of LeetCode solutions.
 | 412 | Fizz Buzz | math | easy | java | [Solution](solutions/java/math/easy/412_fizz-buzz_math_easy.java) |
 | 415 | Add Strings | math | easy | java | [Solution](solutions/java/math/easy/415_add-strings_math_easy.java) |
 | 424 | Longest Repeating Character Replacement | hash-table | medium | java | [Solution](solutions/java/hash-table/medium/424_longest-repeating-character-replacement_hash-table_medium.java) |
+| 438 | Find All Anagrams In A String | hash-table | medium | java | [Solution](solutions/java/hash-table/medium/438_find-all-anagrams-in-a-string_hash-table_medium.java) |
 | 442 | Find All Duplicates In An Array | array | medium | java | [Solution](solutions/java/array/medium/442_find-all-duplicates-in-an-array_array_medium.java) |
 | 445 | Add Two Numbers Ii | linked-list | medium | java | [Solution](solutions/java/linked-list/medium/445_add-two-numbers-ii_linked-list_medium.java) |
 | 448 | Find All Numbers Disappeared In An Array | array | easy | java | [Solution](solutions/java/array/easy/448_find-all-numbers-disappeared-in-an-array_array_easy.java) |
@@ -181,6 +182,7 @@ Automatically organized collection of LeetCode solutions.
 | 557 | Reverse Words In A String Iii | two-pointers | easy | java | [Solution](solutions/java/two-pointers/easy/557_reverse-words-in-a-string-iii_two-pointers_easy.java) |
 | 560 | Subarray Sum Equals K | array | medium | java | [Solution](solutions/java/array/medium/560_subarray-sum-equals-k_array_medium.java) |
 | 561 | Array Partition | array | easy | java | [Solution](solutions/java/array/easy/561_array-partition_array_easy.java) |
+| 567 | Permutation In String | hash-table | medium | java | [Solution](solutions/java/hash-table/medium/567_permutation-in-string_hash-table_medium.java) |
 | 581 | Shortest Unsorted Continuous Subarray | array | medium | java | [Solution](solutions/java/array/medium/581_shortest-unsorted-continuous-subarray_array_medium.java) |
 | 585 | Investments In 2016 | database | medium | sql | [Solution](solutions/sql/database/medium/585_investments-in-2016_database_medium.sql) |
 | 586 | Customer Placing The Largest Number Of Orders | database | easy | sql | [Solution](solutions/sql/database/easy/586_customer-placing-the-largest-number-of-orders_database_easy.sql) |
@@ -322,50 +324,3 @@ Automatically organized collection of LeetCode solutions.
 | 4216 | Weighted Word Mapping | array | easy | java | [Solution](solutions/java/array/easy/4216_weighted-word-mapping_array_easy.java) |
 | 4312 | Limit Occurrences In Sorted Array | array | easy | java | [Solution](solutions/java/array/easy/4312_limit-occurrences-in-sorted-array_array_easy.java) |
 | 4313 | Password Strength | hash-table | medium | java | [Solution](solutions/java/hash-table/medium/4313_password-strength_hash-table_medium.java) |
-
-<!---LeetCode Topics Start-->
-# LeetCode Topics
-## Array
-| Problem Name | Difficulty |
-| ------- | ------- |
-| [0011-container-with-most-water](https://github.com/imrajeevnayan/leetcode-solution/tree/main/0011-container-with-most-water/) | Medium |
-| [0167-two-sum-ii-input-array-is-sorted](https://github.com/imrajeevnayan/leetcode-solution/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
-| [0643-maximum-average-subarray-i](https://github.com/imrajeevnayan/leetcode-solution/tree/main/0643-maximum-average-subarray-i/) | Easy |
-| [0713-subarray-product-less-than-k](https://github.com/imrajeevnayan/leetcode-solution/tree/main/0713-subarray-product-less-than-k/) | Medium |
-## Binary Search
-| Problem Name | Difficulty |
-| ------- | ------- |
-| [0167-two-sum-ii-input-array-is-sorted](https://github.com/imrajeevnayan/leetcode-solution/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
-| [0713-subarray-product-less-than-k](https://github.com/imrajeevnayan/leetcode-solution/tree/main/0713-subarray-product-less-than-k/) | Medium |
-## Sliding Window
-| Problem Name | Difficulty |
-| ------- | ------- |
-| [0438-find-all-anagrams-in-a-string](https://github.com/imrajeevnayan/leetcode-solution/tree/main/0438-find-all-anagrams-in-a-string/) | Medium |
-| [0567-permutation-in-string](https://github.com/imrajeevnayan/leetcode-solution/tree/main/0567-permutation-in-string/) | Medium |
-| [0643-maximum-average-subarray-i](https://github.com/imrajeevnayan/leetcode-solution/tree/main/0643-maximum-average-subarray-i/) | Easy |
-| [0713-subarray-product-less-than-k](https://github.com/imrajeevnayan/leetcode-solution/tree/main/0713-subarray-product-less-than-k/) | Medium |
-## Prefix Sum
-| Problem Name | Difficulty |
-| ------- | ------- |
-| [0713-subarray-product-less-than-k](https://github.com/imrajeevnayan/leetcode-solution/tree/main/0713-subarray-product-less-than-k/) | Medium |
-## Two Pointers
-| Problem Name | Difficulty |
-| ------- | ------- |
-| [0011-container-with-most-water](https://github.com/imrajeevnayan/leetcode-solution/tree/main/0011-container-with-most-water/) | Medium |
-| [0167-two-sum-ii-input-array-is-sorted](https://github.com/imrajeevnayan/leetcode-solution/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
-| [0567-permutation-in-string](https://github.com/imrajeevnayan/leetcode-solution/tree/main/0567-permutation-in-string/) | Medium |
-## Greedy
-| Problem Name | Difficulty |
-| ------- | ------- |
-| [0011-container-with-most-water](https://github.com/imrajeevnayan/leetcode-solution/tree/main/0011-container-with-most-water/) | Medium |
-## Hash Table
-| Problem Name | Difficulty |
-| ------- | ------- |
-| [0438-find-all-anagrams-in-a-string](https://github.com/imrajeevnayan/leetcode-solution/tree/main/0438-find-all-anagrams-in-a-string/) | Medium |
-| [0567-permutation-in-string](https://github.com/imrajeevnayan/leetcode-solution/tree/main/0567-permutation-in-string/) | Medium |
-## String
-| Problem Name | Difficulty |
-| ------- | ------- |
-| [0438-find-all-anagrams-in-a-string](https://github.com/imrajeevnayan/leetcode-solution/tree/main/0438-find-all-anagrams-in-a-string/) | Medium |
-| [0567-permutation-in-string](https://github.com/imrajeevnayan/leetcode-solution/tree/main/0567-permutation-in-string/) | Medium |
-<!---LeetCode Topics End-->
