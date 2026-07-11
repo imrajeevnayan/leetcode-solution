@@ -4,7 +4,7 @@ Automatically organized collection of LeetCode solutions.
 
 ## 📊 Statistics
 
-- **Total Problems Solved:** 295
+- **Total Problems Solved:** 296
 - **Current Streak:** 3 days
 - **Longest Streak:** 14 days
 
@@ -13,7 +13,7 @@ Automatically organized collection of LeetCode solutions.
 #### By Language
 - Sql: 27
 - Javascript: 2
-- Java: 266
+- Java: 267
 
 #### By Topic
 - Database: 27
@@ -23,7 +23,7 @@ Automatically organized collection of LeetCode solutions.
 - Bit-manipulation: 1
 - Tree: 5
 - Hash-table: 27
-- Linked-list: 18
+- Linked-list: 19
 - String: 23
 - Stack: 1
 - Dynamic-programming: 2
@@ -299,6 +299,7 @@ Automatically organized collection of LeetCode solutions.
 | 2809 | Create Hello World Function | general | easy | javascript | [Solution](solutions/javascript/general/easy/2809_create-hello-world-function_general_easy.js) |
 | 2812 | Find The Maximum Achievable Number | math | easy | java | [Solution](solutions/java/math/easy/2812_find-the-maximum-achievable-number_math_easy.java) |
 | 2886 | Faulty Keyboard | string | easy | java | [Solution](solutions/java/string/easy/2886_faulty-keyboard_string_easy.java) |
+| 2903 | Insert Greatest Common Divisors In Linked List | linked-list | medium | java | [Solution](solutions/java/linked-list/medium/2903_insert-greatest-common-divisors-in-linked-list_linked-list_medium.java) |
 | 2914 | Find The Safest Path In A Grid | array | medium | java | [Solution](solutions/java/array/medium/2914_find-the-safest-path-in-a-grid_array_medium.java) |
 | 3172 | Divisible And Non Divisible Sums Difference | math | easy | java | [Solution](solutions/java/math/easy/3172_divisible-and-non-divisible-sums-difference_math_easy.java) |
 | 3194 | Find Words Containing Character | array | easy | java | [Solution](solutions/java/array/easy/3194_find-words-containing-character_array_easy.java) |
@@ -330,19 +331,3 @@ Automatically organized collection of LeetCode solutions.
 | 4299 | Concatenate Array With Reverse | array | easy | java | [Solution](solutions/java/array/easy/4299_concatenate-array-with-reverse_array_easy.java) |
 | 4312 | Limit Occurrences In Sorted Array | array | easy | java | [Solution](solutions/java/array/easy/4312_limit-occurrences-in-sorted-array_array_easy.java) |
 | 4313 | Password Strength | hash-table | medium | java | [Solution](solutions/java/hash-table/medium/4313_password-strength_hash-table_medium.java) |
-
-<!---LeetCode Topics Start-->
-# LeetCode Topics
-## Linked List
-| Problem Name | Difficulty |
-| ------- | ------- |
-| [2807-insert-greatest-common-divisors-in-linked-list](https://github.com/imrajeevnayan/leetcode-solution/tree/main/2807-insert-greatest-common-divisors-in-linked-list/) | Medium |
-## Math
-| Problem Name | Difficulty |
-| ------- | ------- |
-| [2807-insert-greatest-common-divisors-in-linked-list](https://github.com/imrajeevnayan/leetcode-solution/tree/main/2807-insert-greatest-common-divisors-in-linked-list/) | Medium |
-## Number Theory
-| Problem Name | Difficulty |
-| ------- | ------- |
-| [2807-insert-greatest-common-divisors-in-linked-list](https://github.com/imrajeevnayan/leetcode-solution/tree/main/2807-insert-greatest-common-divisors-in-linked-list/) | Medium |
-<!---LeetCode Topics End-->
