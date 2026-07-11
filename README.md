@@ -4,7 +4,7 @@ Automatically organized collection of LeetCode solutions.
 
 ## 📊 Statistics
 
-- **Total Problems Solved:** 276
+- **Total Problems Solved:** 278
 - **Current Streak:** 3 days
 - **Longest Streak:** 14 days
 
@@ -13,11 +13,11 @@ Automatically organized collection of LeetCode solutions.
 #### By Language
 - Sql: 27
 - Javascript: 2
-- Java: 247
+- Java: 249
 
 #### By Topic
 - Database: 27
-- Array: 141
+- Array: 142
 - General: 1
 - Divide-and-conquer: 1
 - Bit-manipulation: 1
@@ -28,7 +28,7 @@ Automatically organized collection of LeetCode solutions.
 - Stack: 1
 - Dynamic-programming: 2
 - Binary-search: 1
-- Math: 25
+- Math: 26
 - Two-pointers: 10
 
 ## 📂 Solutions
@@ -288,6 +288,7 @@ Automatically organized collection of LeetCode solutions.
 | 2608 | Count The Digits That Divide A Number | math | easy | java | [Solution](solutions/java/math/easy/2608_count-the-digits-that-divide-a-number_math_easy.java) |
 | 2646 | Kth Largest Sum In A Binary Tree | tree | medium | java | [Solution](solutions/java/tree/medium/2646_kth-largest-sum-in-a-binary-tree_tree_medium.java) |
 | 2809 | Create Hello World Function | general | easy | javascript | [Solution](solutions/javascript/general/easy/2809_create-hello-world-function_general_easy.js) |
+| 2812 | Find The Maximum Achievable Number | math | easy | java | [Solution](solutions/java/math/easy/2812_find-the-maximum-achievable-number_math_easy.java) |
 | 2886 | Faulty Keyboard | string | easy | java | [Solution](solutions/java/string/easy/2886_faulty-keyboard_string_easy.java) |
 | 2914 | Find The Safest Path In A Grid | array | medium | java | [Solution](solutions/java/array/medium/2914_find-the-safest-path-in-a-grid_array_medium.java) |
 | 3194 | Find Words Containing Character | array | easy | java | [Solution](solutions/java/array/easy/3194_find-words-containing-character_array_easy.java) |
@@ -303,6 +304,7 @@ Automatically organized collection of LeetCode solutions.
 | 3644 | Minimum Positive Sum Subarray  | array | easy | java | [Solution](solutions/java/array/easy/3644_minimum-positive-sum-subarray-_array_easy.java) |
 | 3685 | Count Subarrays Of Length Three With A Condition | array | easy | java | [Solution](solutions/java/array/easy/3685_count-subarrays-of-length-three-with-a-condition_array_easy.java) |
 | 3832 | Minimum Cost To Reach Every Position | array | easy | java | [Solution](solutions/java/array/easy/3832_minimum-cost-to-reach-every-position_array_easy.java) |
+| 3846 | Minimum Operations To Make Array Sum Divisible By K | array | easy | java | [Solution](solutions/java/array/easy/3846_minimum-operations-to-make-array-sum-divisible-by-k_array_easy.java) |
 | 3914 | Check If Any Element Has Prime Frequency | array | easy | java | [Solution](solutions/java/array/easy/3914_check-if-any-element-has-prime-frequency_array_easy.java) |
 | 3962 | Number Of Zigzag Arrays I | dynamic-programming | hard | java | [Solution](solutions/java/dynamic-programming/hard/3962_number-of-zigzag-arrays-i_dynamic-programming_hard.java) |
 | 4068 | Sum Of Elements With Frequency Divisible By K | array | easy | java | [Solution](solutions/java/array/easy/4068_sum-of-elements-with-frequency-divisible-by-k_array_easy.java) |
@@ -311,16 +313,3 @@ Automatically organized collection of LeetCode solutions.
 | 4216 | Weighted Word Mapping | array | easy | java | [Solution](solutions/java/array/easy/4216_weighted-word-mapping_array_easy.java) |
 | 4312 | Limit Occurrences In Sorted Array | array | easy | java | [Solution](solutions/java/array/easy/4312_limit-occurrences-in-sorted-array_array_easy.java) |
 | 4313 | Password Strength | hash-table | medium | java | [Solution](solutions/java/hash-table/medium/4313_password-strength_hash-table_medium.java) |
-
-<!---LeetCode Topics Start-->
-# LeetCode Topics
-## Array
-| Problem Name | Difficulty |
-| ------- | ------- |
-| [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/imrajeevnayan/leetcode-solution/tree/main/3512-minimum-operations-to-make-array-sum-divisible-by-k/) | Easy |
-## Math
-| Problem Name | Difficulty |
-| ------- | ------- |
-| [2769-find-the-maximum-achievable-number](https://github.com/imrajeevnayan/leetcode-solution/tree/main/2769-find-the-maximum-achievable-number/) | Easy |
-| [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/imrajeevnayan/leetcode-solution/tree/main/3512-minimum-operations-to-make-array-sum-divisible-by-k/) | Easy |
-<!---LeetCode Topics End-->
