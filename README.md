@@ -323,6 +323,7 @@ Automatically organized collection of LeetCode solutions.
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [1684-count-the-number-of-consistent-strings](https://github.com/imrajeevnayan/leetcode-solution/tree/main/1684-count-the-number-of-consistent-strings/) | Easy |
 | [2044-count-number-of-maximum-bitwise-or-subsets](https://github.com/imrajeevnayan/leetcode-solution/tree/main/2044-count-number-of-maximum-bitwise-or-subsets/) | Medium |
 ## Backtracking
 | Problem Name | Difficulty |
@@ -331,9 +332,22 @@ Automatically organized collection of LeetCode solutions.
 ## Bit Manipulation
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [1684-count-the-number-of-consistent-strings](https://github.com/imrajeevnayan/leetcode-solution/tree/main/1684-count-the-number-of-consistent-strings/) | Easy |
 | [2044-count-number-of-maximum-bitwise-or-subsets](https://github.com/imrajeevnayan/leetcode-solution/tree/main/2044-count-number-of-maximum-bitwise-or-subsets/) | Medium |
 ## Enumeration
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [2044-count-number-of-maximum-bitwise-or-subsets](https://github.com/imrajeevnayan/leetcode-solution/tree/main/2044-count-number-of-maximum-bitwise-or-subsets/) | Medium |
+## Hash Table
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1684-count-the-number-of-consistent-strings](https://github.com/imrajeevnayan/leetcode-solution/tree/main/1684-count-the-number-of-consistent-strings/) | Easy |
+## String
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1684-count-the-number-of-consistent-strings](https://github.com/imrajeevnayan/leetcode-solution/tree/main/1684-count-the-number-of-consistent-strings/) | Easy |
+## Counting
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1684-count-the-number-of-consistent-strings](https://github.com/imrajeevnayan/leetcode-solution/tree/main/1684-count-the-number-of-consistent-strings/) | Easy |
 <!---LeetCode Topics End-->
