@@ -4,7 +4,7 @@ Automatically organized collection of LeetCode solutions.
 
 ## 📊 Statistics
 
-- **Total Problems Solved:** 282
+- **Total Problems Solved:** 285
 - **Current Streak:** 3 days
 - **Longest Streak:** 14 days
 
@@ -13,16 +13,16 @@ Automatically organized collection of LeetCode solutions.
 #### By Language
 - Sql: 27
 - Javascript: 2
-- Java: 253
+- Java: 256
 
 #### By Topic
 - Database: 27
-- Array: 144
+- Array: 146
 - General: 1
 - Divide-and-conquer: 1
 - Bit-manipulation: 1
 - Tree: 5
-- Hash-table: 22
+- Hash-table: 23
 - Linked-list: 18
 - String: 22
 - Stack: 1
@@ -263,6 +263,7 @@ Automatically organized collection of LeetCode solutions.
 | 1724 | Customer Who Visited But Did Not Make Any Transactions | database | easy | sql | [Solution](solutions/sql/database/easy/1724_customer-who-visited-but-did-not-make-any-transactions_database_easy.sql) |
 | 1741 | Sort Array By Increasing Frequency | array | easy | java | [Solution](solutions/java/array/easy/1741_sort-array-by-increasing-frequency_array_easy.java) |
 | 1764 | Maximum Repeating Substring | string | easy | java | [Solution](solutions/java/string/easy/1764_maximum-repeating-substring_string_easy.java) |
+| 1786 | Count The Number Of Consistent Strings | array | easy | java | [Solution](solutions/java/array/easy/1786_count-the-number-of-consistent-strings_array_easy.java) |
 | 1791 | Richest Customer Wealth | array | easy | java | [Solution](solutions/java/array/easy/1791_richest-customer-wealth_array_easy.java) |
 | 1811 | Fix Names In A Table | database | easy | sql | [Solution](solutions/sql/database/easy/1811_fix-names-in-a-table_database_easy.sql) |
 | 1833 | Find The Highest Altitude | array | easy | java | [Solution](solutions/java/array/easy/1833_find-the-highest-altitude_array_easy.java) |
@@ -276,6 +277,7 @@ Automatically organized collection of LeetCode solutions.
 | 2058 | Concatenation Of Array | array | easy | java | [Solution](solutions/java/array/easy/2058_concatenation-of-array_array_easy.java) |
 | 2106 | Find Greatest Common Divisor Of Array | array | easy | java | [Solution](solutions/java/array/easy/2106_find-greatest-common-divisor-of-array_array_easy.java) |
 | 2113 | Find The Kth Largest Integer In The Array | array | medium | java | [Solution](solutions/java/array/medium/2113_find-the-kth-largest-integer-in-the-array_array_medium.java) |
+| 2170 | Count Number Of Maximum Bitwise Or Subsets | array | medium | java | [Solution](solutions/java/array/medium/2170_count-number-of-maximum-bitwise-or-subsets_array_medium.java) |
 | 2177 | Check Whether Two Strings Are Almost Equivalent | hash-table | easy | java | [Solution](solutions/java/hash-table/easy/2177_check-whether-two-strings-are-almost-equivalent_hash-table_easy.java) |
 | 2195 | Time Needed To Buy Tickets | array | easy | java | [Solution](solutions/java/array/easy/2195_time-needed-to-buy-tickets_array_easy.java) |
 | 2216 | Delete The Middle Node Of A Linked List | linked-list | medium | java | [Solution](solutions/java/linked-list/medium/2216_delete-the-middle-node-of-a-linked-list_linked-list_medium.java) |
@@ -299,6 +301,7 @@ Automatically organized collection of LeetCode solutions.
 | 3225 | Length Of Longest Subarray With At Most K Frequency | array | medium | java | [Solution](solutions/java/array/medium/3225_length-of-longest-subarray-with-at-most-k-frequency_array_medium.java) |
 | 3314 | Most Frequent Prime | array | medium | java | [Solution](solutions/java/array/medium/3314_most-frequent-prime_array_medium.java) |
 | 3379 | Score Of A String | string | easy | java | [Solution](solutions/java/string/easy/3379_score-of-a-string_string_easy.java) |
+| 3412 | Permutation Difference Between Two Strings | hash-table | easy | java | [Solution](solutions/java/hash-table/easy/3412_permutation-difference-between-two-strings_hash-table_easy.java) |
 | 3414 | Find Number Of Ways To Reach The K Th Stair | math | hard | java | [Solution](solutions/java/math/hard/3414_find-number-of-ways-to-reach-the-k-th-stair_math_hard.java) |
 | 3420 | Find Occurrences Of An Element In An Array | array | medium | java | [Solution](solutions/java/array/medium/3420_find-occurrences-of-an-element-in-an-array_array_medium.java) |
 | 3453 | Generate Binary Strings Without Adjacent Zeros | string | medium | java | [Solution](solutions/java/string/medium/3453_generate-binary-strings-without-adjacent-zeros_string_medium.java) |
@@ -317,39 +320,3 @@ Automatically organized collection of LeetCode solutions.
 | 4216 | Weighted Word Mapping | array | easy | java | [Solution](solutions/java/array/easy/4216_weighted-word-mapping_array_easy.java) |
 | 4312 | Limit Occurrences In Sorted Array | array | easy | java | [Solution](solutions/java/array/easy/4312_limit-occurrences-in-sorted-array_array_easy.java) |
 | 4313 | Password Strength | hash-table | medium | java | [Solution](solutions/java/hash-table/medium/4313_password-strength_hash-table_medium.java) |
-
-<!---LeetCode Topics Start-->
-# LeetCode Topics
-## Array
-| Problem Name | Difficulty |
-| ------- | ------- |
-| [1684-count-the-number-of-consistent-strings](https://github.com/imrajeevnayan/leetcode-solution/tree/main/1684-count-the-number-of-consistent-strings/) | Easy |
-| [2044-count-number-of-maximum-bitwise-or-subsets](https://github.com/imrajeevnayan/leetcode-solution/tree/main/2044-count-number-of-maximum-bitwise-or-subsets/) | Medium |
-## Backtracking
-| Problem Name | Difficulty |
-| ------- | ------- |
-| [2044-count-number-of-maximum-bitwise-or-subsets](https://github.com/imrajeevnayan/leetcode-solution/tree/main/2044-count-number-of-maximum-bitwise-or-subsets/) | Medium |
-## Bit Manipulation
-| Problem Name | Difficulty |
-| ------- | ------- |
-| [1684-count-the-number-of-consistent-strings](https://github.com/imrajeevnayan/leetcode-solution/tree/main/1684-count-the-number-of-consistent-strings/) | Easy |
-| [2044-count-number-of-maximum-bitwise-or-subsets](https://github.com/imrajeevnayan/leetcode-solution/tree/main/2044-count-number-of-maximum-bitwise-or-subsets/) | Medium |
-## Enumeration
-| Problem Name | Difficulty |
-| ------- | ------- |
-| [2044-count-number-of-maximum-bitwise-or-subsets](https://github.com/imrajeevnayan/leetcode-solution/tree/main/2044-count-number-of-maximum-bitwise-or-subsets/) | Medium |
-## Hash Table
-| Problem Name | Difficulty |
-| ------- | ------- |
-| [1684-count-the-number-of-consistent-strings](https://github.com/imrajeevnayan/leetcode-solution/tree/main/1684-count-the-number-of-consistent-strings/) | Easy |
-| [3146-permutation-difference-between-two-strings](https://github.com/imrajeevnayan/leetcode-solution/tree/main/3146-permutation-difference-between-two-strings/) | Easy |
-## String
-| Problem Name | Difficulty |
-| ------- | ------- |
-| [1684-count-the-number-of-consistent-strings](https://github.com/imrajeevnayan/leetcode-solution/tree/main/1684-count-the-number-of-consistent-strings/) | Easy |
-| [3146-permutation-difference-between-two-strings](https://github.com/imrajeevnayan/leetcode-solution/tree/main/3146-permutation-difference-between-two-strings/) | Easy |
-## Counting
-| Problem Name | Difficulty |
-| ------- | ------- |
-| [1684-count-the-number-of-consistent-strings](https://github.com/imrajeevnayan/leetcode-solution/tree/main/1684-count-the-number-of-consistent-strings/) | Easy |
-<!---LeetCode Topics End-->
