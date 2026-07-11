@@ -4,7 +4,7 @@ Automatically organized collection of LeetCode solutions.
 
 ## 📊 Statistics
 
-- **Total Problems Solved:** 286
+- **Total Problems Solved:** 287
 - **Current Streak:** 3 days
 - **Longest Streak:** 14 days
 
@@ -13,7 +13,7 @@ Automatically organized collection of LeetCode solutions.
 #### By Language
 - Sql: 27
 - Javascript: 2
-- Java: 257
+- Java: 258
 
 #### By Topic
 - Database: 27
@@ -28,7 +28,7 @@ Automatically organized collection of LeetCode solutions.
 - Stack: 1
 - Dynamic-programming: 2
 - Binary-search: 1
-- Math: 27
+- Math: 28
 - Two-pointers: 10
 
 ## 📂 Solutions
@@ -307,6 +307,7 @@ Automatically organized collection of LeetCode solutions.
 | 3453 | Generate Binary Strings Without Adjacent Zeros | string | medium | java | [Solution](solutions/java/string/medium/3453_generate-binary-strings-without-adjacent-zeros_string_medium.java) |
 | 3476 | Find Minimum Operations To Make All Elements Divisible By Three | array | easy | java | [Solution](solutions/java/array/easy/3476_find-minimum-operations-to-make-all-elements-divisible-by-three_array_easy.java) |
 | 3558 | Find A Safe Walk Through A Grid | array | medium | java | [Solution](solutions/java/array/medium/3558_find-a-safe-walk-through-a-grid_array_medium.java) |
+| 3567 | Convert Date To Binary | math | easy | java | [Solution](solutions/java/math/easy/3567_convert-date-to-binary_math_easy.java) |
 | 3644 | Minimum Positive Sum Subarray  | array | easy | java | [Solution](solutions/java/array/easy/3644_minimum-positive-sum-subarray-_array_easy.java) |
 | 3685 | Count Subarrays Of Length Three With A Condition | array | easy | java | [Solution](solutions/java/array/easy/3685_count-subarrays-of-length-three-with-a-condition_array_easy.java) |
 | 3811 | Reverse Degree Of A String | string | easy | java | [Solution](solutions/java/string/easy/3811_reverse-degree-of-a-string_string_easy.java) |
@@ -321,15 +322,3 @@ Automatically organized collection of LeetCode solutions.
 | 4216 | Weighted Word Mapping | array | easy | java | [Solution](solutions/java/array/easy/4216_weighted-word-mapping_array_easy.java) |
 | 4312 | Limit Occurrences In Sorted Array | array | easy | java | [Solution](solutions/java/array/easy/4312_limit-occurrences-in-sorted-array_array_easy.java) |
 | 4313 | Password Strength | hash-table | medium | java | [Solution](solutions/java/hash-table/medium/4313_password-strength_hash-table_medium.java) |
-
-<!---LeetCode Topics Start-->
-# LeetCode Topics
-## Math
-| Problem Name | Difficulty |
-| ------- | ------- |
-| [3280-convert-date-to-binary](https://github.com/imrajeevnayan/leetcode-solution/tree/main/3280-convert-date-to-binary/) | Easy |
-## String
-| Problem Name | Difficulty |
-| ------- | ------- |
-| [3280-convert-date-to-binary](https://github.com/imrajeevnayan/leetcode-solution/tree/main/3280-convert-date-to-binary/) | Easy |
-<!---LeetCode Topics End-->
