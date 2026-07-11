@@ -4,7 +4,7 @@ Automatically organized collection of LeetCode solutions.
 
 ## 📊 Statistics
 
-- **Total Problems Solved:** 279
+- **Total Problems Solved:** 280
 - **Current Streak:** 3 days
 - **Longest Streak:** 14 days
 
@@ -13,11 +13,11 @@ Automatically organized collection of LeetCode solutions.
 #### By Language
 - Sql: 27
 - Javascript: 2
-- Java: 250
+- Java: 251
 
 #### By Topic
 - Database: 27
-- Array: 142
+- Array: 143
 - General: 1
 - Divide-and-conquer: 1
 - Bit-manipulation: 1
@@ -301,6 +301,7 @@ Automatically organized collection of LeetCode solutions.
 | 3414 | Find Number Of Ways To Reach The K Th Stair | math | hard | java | [Solution](solutions/java/math/hard/3414_find-number-of-ways-to-reach-the-k-th-stair_math_hard.java) |
 | 3420 | Find Occurrences Of An Element In An Array | array | medium | java | [Solution](solutions/java/array/medium/3420_find-occurrences-of-an-element-in-an-array_array_medium.java) |
 | 3453 | Generate Binary Strings Without Adjacent Zeros | string | medium | java | [Solution](solutions/java/string/medium/3453_generate-binary-strings-without-adjacent-zeros_string_medium.java) |
+| 3476 | Find Minimum Operations To Make All Elements Divisible By Three | array | easy | java | [Solution](solutions/java/array/easy/3476_find-minimum-operations-to-make-all-elements-divisible-by-three_array_easy.java) |
 | 3558 | Find A Safe Walk Through A Grid | array | medium | java | [Solution](solutions/java/array/medium/3558_find-a-safe-walk-through-a-grid_array_medium.java) |
 | 3644 | Minimum Positive Sum Subarray  | array | easy | java | [Solution](solutions/java/array/easy/3644_minimum-positive-sum-subarray-_array_easy.java) |
 | 3685 | Count Subarrays Of Length Three With A Condition | array | easy | java | [Solution](solutions/java/array/easy/3685_count-subarrays-of-length-three-with-a-condition_array_easy.java) |
@@ -314,15 +315,3 @@ Automatically organized collection of LeetCode solutions.
 | 4216 | Weighted Word Mapping | array | easy | java | [Solution](solutions/java/array/easy/4216_weighted-word-mapping_array_easy.java) |
 | 4312 | Limit Occurrences In Sorted Array | array | easy | java | [Solution](solutions/java/array/easy/4312_limit-occurrences-in-sorted-array_array_easy.java) |
 | 4313 | Password Strength | hash-table | medium | java | [Solution](solutions/java/hash-table/medium/4313_password-strength_hash-table_medium.java) |
-
-<!---LeetCode Topics Start-->
-# LeetCode Topics
-## Array
-| Problem Name | Difficulty |
-| ------- | ------- |
-| [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/imrajeevnayan/leetcode-solution/tree/main/3190-find-minimum-operations-to-make-all-elements-divisible-by-three/) | Easy |
-## Math
-| Problem Name | Difficulty |
-| ------- | ------- |
-| [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/imrajeevnayan/leetcode-solution/tree/main/3190-find-minimum-operations-to-make-all-elements-divisible-by-three/) | Easy |
-<!---LeetCode Topics End-->
