@@ -4,7 +4,7 @@ Automatically organized collection of LeetCode solutions.
 
 ## 📊 Statistics
 
-- **Total Problems Solved:** 294
+- **Total Problems Solved:** 295
 - **Current Streak:** 3 days
 - **Longest Streak:** 14 days
 
@@ -13,11 +13,11 @@ Automatically organized collection of LeetCode solutions.
 #### By Language
 - Sql: 27
 - Javascript: 2
-- Java: 265
+- Java: 266
 
 #### By Topic
 - Database: 27
-- Array: 148
+- Array: 149
 - General: 1
 - Divide-and-conquer: 1
 - Bit-manipulation: 1
@@ -286,6 +286,7 @@ Automatically organized collection of LeetCode solutions.
 | 2195 | Time Needed To Buy Tickets | array | easy | java | [Solution](solutions/java/array/easy/2195_time-needed-to-buy-tickets_array_easy.java) |
 | 2216 | Delete The Middle Node Of A Linked List | linked-list | medium | java | [Solution](solutions/java/linked-list/medium/2216_delete-the-middle-node-of-a-linked-list_linked-list_medium.java) |
 | 2236 | Maximum Twin Sum Of A Linked List | linked-list | medium | java | [Solution](solutions/java/linked-list/medium/2236_maximum-twin-sum-of-a-linked-list_linked-list_medium.java) |
+| 2265 | Partition Array According To Given Pivot | array | medium | java | [Solution](solutions/java/array/medium/2265_partition-array-according-to-given-pivot_array_medium.java) |
 | 2331 | Intersection Of Multiple Arrays | array | easy | java | [Solution](solutions/java/array/easy/2331_intersection-of-multiple-arrays_array_easy.java) |
 | 2394 | Count Subarrays With Score Less Than K | array | hard | java | [Solution](solutions/java/array/hard/2394_count-subarrays-with-score-less-than-k_array_hard.java) |
 | 2432 | Number Of Zero Filled Subarrays | array | medium | java | [Solution](solutions/java/array/medium/2432_number-of-zero-filled-subarrays_array_medium.java) |
@@ -329,19 +330,3 @@ Automatically organized collection of LeetCode solutions.
 | 4299 | Concatenate Array With Reverse | array | easy | java | [Solution](solutions/java/array/easy/4299_concatenate-array-with-reverse_array_easy.java) |
 | 4312 | Limit Occurrences In Sorted Array | array | easy | java | [Solution](solutions/java/array/easy/4312_limit-occurrences-in-sorted-array_array_easy.java) |
 | 4313 | Password Strength | hash-table | medium | java | [Solution](solutions/java/hash-table/medium/4313_password-strength_hash-table_medium.java) |
-
-<!---LeetCode Topics Start-->
-# LeetCode Topics
-## Array
-| Problem Name | Difficulty |
-| ------- | ------- |
-| [2161-partition-array-according-to-given-pivot](https://github.com/imrajeevnayan/leetcode-solution/tree/main/2161-partition-array-according-to-given-pivot/) | Medium |
-## Two Pointers
-| Problem Name | Difficulty |
-| ------- | ------- |
-| [2161-partition-array-according-to-given-pivot](https://github.com/imrajeevnayan/leetcode-solution/tree/main/2161-partition-array-according-to-given-pivot/) | Medium |
-## Simulation
-| Problem Name | Difficulty |
-| ------- | ------- |
-| [2161-partition-array-according-to-given-pivot](https://github.com/imrajeevnayan/leetcode-solution/tree/main/2161-partition-array-according-to-given-pivot/) | Medium |
-<!---LeetCode Topics End-->
