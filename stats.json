@@ -779,17 +779,18 @@
     "LeetCode_Length_of_Longest_Subarray_With_at_Most_K_Frequency": true,
     "GeeksForGeeks_Subarrays_with_sum_K": true,
     "GeeksForGeeks_Find_the_Frequency": true,
-    "GeeksForGeeks_Maximum_Index": true
+    "GeeksForGeeks_Maximum_Index": true,
+    "GeeksForGeeks_Subarrays_with_equal_1s_and_0s": true
   },
-  "totalSolved": 307,
+  "totalSolved": 308,
   "difficultyCounts": {
     "easy": 98,
-    "medium": 135,
+    "medium": 136,
     "hard": 4,
     "basic": 70
   },
   "currentStreak": 6,
-  "todayCount": 4,
+  "todayCount": 5,
   "lastSyncDate": "2026-07-11",
   "maxStreak": 15,
   "activityHistory": {
@@ -836,7 +837,7 @@
     "2026-07-08": 9,
     "2026-07-09": 4,
     "2026-07-10": 8,
-    "2026-07-11": 4
+    "2026-07-11": 5
   },
   "todayProblems": [
     "Most Frequent Character",
@@ -1144,6 +1145,7 @@
     "Length of Longest Subarray With at Most K Frequency",
     "Subarrays with sum K",
     "Find the Frequency",
-    "Maximum Index"
+    "Maximum Index",
+    "Subarrays with equal 1s and 0s"
   ]
 }
