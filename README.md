@@ -4,7 +4,7 @@ Automatically organized collection of LeetCode solutions.
 
 ## 📊 Statistics
 
-- **Total Problems Solved:** 291
+- **Total Problems Solved:** 292
 - **Current Streak:** 3 days
 - **Longest Streak:** 14 days
 
@@ -13,7 +13,7 @@ Automatically organized collection of LeetCode solutions.
 #### By Language
 - Sql: 27
 - Javascript: 2
-- Java: 262
+- Java: 263
 
 #### By Topic
 - Database: 27
@@ -28,7 +28,7 @@ Automatically organized collection of LeetCode solutions.
 - Stack: 1
 - Dynamic-programming: 2
 - Binary-search: 1
-- Math: 28
+- Math: 29
 - Two-pointers: 10
 
 ## 📂 Solutions
@@ -289,6 +289,7 @@ Automatically organized collection of LeetCode solutions.
 | 2331 | Intersection Of Multiple Arrays | array | easy | java | [Solution](solutions/java/array/easy/2331_intersection-of-multiple-arrays_array_easy.java) |
 | 2394 | Count Subarrays With Score Less Than K | array | hard | java | [Solution](solutions/java/array/hard/2394_count-subarrays-with-score-less-than-k_array_hard.java) |
 | 2432 | Number Of Zero Filled Subarrays | array | medium | java | [Solution](solutions/java/array/medium/2432_number-of-zero-filled-subarrays_array_medium.java) |
+| 2481 | Strictly Palindromic Number | math | medium | java | [Solution](solutions/java/math/medium/2481_strictly-palindromic-number_math_medium.java) |
 | 2552 | Maximum Sum Of Distinct Subarrays With Length K | array | medium | java | [Solution](solutions/java/array/medium/2552_maximum-sum-of-distinct-subarrays-with-length-k_array_medium.java) |
 | 2571 | Find The Pivot Integer | math | easy | java | [Solution](solutions/java/math/easy/2571_find-the-pivot-integer_math_easy.java) |
 | 2573 | Remove Nodes From Linked List | linked-list | medium | java | [Solution](solutions/java/linked-list/medium/2573_remove-nodes-from-linked-list_linked-list_medium.java) |
@@ -326,19 +327,3 @@ Automatically organized collection of LeetCode solutions.
 | 4216 | Weighted Word Mapping | array | easy | java | [Solution](solutions/java/array/easy/4216_weighted-word-mapping_array_easy.java) |
 | 4312 | Limit Occurrences In Sorted Array | array | easy | java | [Solution](solutions/java/array/easy/4312_limit-occurrences-in-sorted-array_array_easy.java) |
 | 4313 | Password Strength | hash-table | medium | java | [Solution](solutions/java/hash-table/medium/4313_password-strength_hash-table_medium.java) |
-
-<!---LeetCode Topics Start-->
-# LeetCode Topics
-## Math
-| Problem Name | Difficulty |
-| ------- | ------- |
-| [2396-strictly-palindromic-number](https://github.com/imrajeevnayan/leetcode-solution/tree/main/2396-strictly-palindromic-number/) | Medium |
-## Two Pointers
-| Problem Name | Difficulty |
-| ------- | ------- |
-| [2396-strictly-palindromic-number](https://github.com/imrajeevnayan/leetcode-solution/tree/main/2396-strictly-palindromic-number/) | Medium |
-## Brainteaser
-| Problem Name | Difficulty |
-| ------- | ------- |
-| [2396-strictly-palindromic-number](https://github.com/imrajeevnayan/leetcode-solution/tree/main/2396-strictly-palindromic-number/) | Medium |
-<!---LeetCode Topics End-->
