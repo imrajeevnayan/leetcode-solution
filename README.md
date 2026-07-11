@@ -342,10 +342,12 @@ Automatically organized collection of LeetCode solutions.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1684-count-the-number-of-consistent-strings](https://github.com/imrajeevnayan/leetcode-solution/tree/main/1684-count-the-number-of-consistent-strings/) | Easy |
+| [3146-permutation-difference-between-two-strings](https://github.com/imrajeevnayan/leetcode-solution/tree/main/3146-permutation-difference-between-two-strings/) | Easy |
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1684-count-the-number-of-consistent-strings](https://github.com/imrajeevnayan/leetcode-solution/tree/main/1684-count-the-number-of-consistent-strings/) | Easy |
+| [3146-permutation-difference-between-two-strings](https://github.com/imrajeevnayan/leetcode-solution/tree/main/3146-permutation-difference-between-two-strings/) | Easy |
 ## Counting
 | Problem Name | Difficulty |
 | ------- | ------- |
