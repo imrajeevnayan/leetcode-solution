@@ -4,7 +4,7 @@ Automatically organized collection of LeetCode solutions.
 
 ## 📊 Statistics
 
-- **Total Problems Solved:** 293
+- **Total Problems Solved:** 294
 - **Current Streak:** 3 days
 - **Longest Streak:** 14 days
 
@@ -13,7 +13,7 @@ Automatically organized collection of LeetCode solutions.
 #### By Language
 - Sql: 27
 - Javascript: 2
-- Java: 264
+- Java: 265
 
 #### By Topic
 - Database: 27
@@ -22,7 +22,7 @@ Automatically organized collection of LeetCode solutions.
 - Divide-and-conquer: 1
 - Bit-manipulation: 1
 - Tree: 5
-- Hash-table: 26
+- Hash-table: 27
 - Linked-list: 18
 - String: 23
 - Stack: 1
@@ -322,21 +322,10 @@ Automatically organized collection of LeetCode solutions.
 | 3962 | Number Of Zigzag Arrays I | dynamic-programming | hard | java | [Solution](solutions/java/dynamic-programming/hard/3962_number-of-zigzag-arrays-i_dynamic-programming_hard.java) |
 | 4058 | Compute Alternating Sum | array | easy | java | [Solution](solutions/java/array/easy/4058_compute-alternating-sum_array_easy.java) |
 | 4068 | Sum Of Elements With Frequency Divisible By K | array | easy | java | [Solution](solutions/java/array/easy/4068_sum-of-elements-with-frequency-divisible-by-k_array_easy.java) |
+| 4087 | Maximum Substrings With Distinct Start | hash-table | medium | java | [Solution](solutions/java/hash-table/medium/4087_maximum-substrings-with-distinct-start_hash-table_medium.java) |
 | 4135 | Concatenate Non Zero Digits And Multiply By Sum I | math | easy | java | [Solution](solutions/java/math/easy/4135_concatenate-non-zero-digits-and-multiply-by-sum-i_math_easy.java) |
 | 4184 | Minimum Operations To Sort A Permutation | array | medium | java | [Solution](solutions/java/array/medium/4184_minimum-operations-to-sort-a-permutation_array_medium.java) |
 | 4216 | Weighted Word Mapping | array | easy | java | [Solution](solutions/java/array/easy/4216_weighted-word-mapping_array_easy.java) |
 | 4299 | Concatenate Array With Reverse | array | easy | java | [Solution](solutions/java/array/easy/4299_concatenate-array-with-reverse_array_easy.java) |
 | 4312 | Limit Occurrences In Sorted Array | array | easy | java | [Solution](solutions/java/array/easy/4312_limit-occurrences-in-sorted-array_array_easy.java) |
 | 4313 | Password Strength | hash-table | medium | java | [Solution](solutions/java/hash-table/medium/4313_password-strength_hash-table_medium.java) |
-
-<!---LeetCode Topics Start-->
-# LeetCode Topics
-## Hash Table
-| Problem Name | Difficulty |
-| ------- | ------- |
-| [3760-maximum-substrings-with-distinct-start](https://github.com/imrajeevnayan/leetcode-solution/tree/main/3760-maximum-substrings-with-distinct-start/) | Medium |
-## String
-| Problem Name | Difficulty |
-| ------- | ------- |
-| [3760-maximum-substrings-with-distinct-start](https://github.com/imrajeevnayan/leetcode-solution/tree/main/3760-maximum-substrings-with-distinct-start/) | Medium |
-<!---LeetCode Topics End-->
