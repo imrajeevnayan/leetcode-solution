@@ -4,7 +4,7 @@ Automatically organized collection of LeetCode solutions.
 
 ## 📊 Statistics
 
-- **Total Problems Solved:** 290
+- **Total Problems Solved:** 291
 - **Current Streak:** 3 days
 - **Longest Streak:** 14 days
 
@@ -13,7 +13,7 @@ Automatically organized collection of LeetCode solutions.
 #### By Language
 - Sql: 27
 - Javascript: 2
-- Java: 261
+- Java: 262
 
 #### By Topic
 - Database: 27
@@ -22,7 +22,7 @@ Automatically organized collection of LeetCode solutions.
 - Divide-and-conquer: 1
 - Bit-manipulation: 1
 - Tree: 5
-- Hash-table: 25
+- Hash-table: 26
 - Linked-list: 18
 - String: 23
 - Stack: 1
@@ -276,6 +276,7 @@ Automatically organized collection of LeetCode solutions.
 | 1904 | Second Largest Digit In A String | hash-table | easy | java | [Solution](solutions/java/hash-table/easy/1904_second-largest-digit-in-a-string_hash-table_easy.java) |
 | 1927 | Maximum Ascending Subarray Sum | array | easy | java | [Solution](solutions/java/array/easy/1927_maximum-ascending-subarray-sum_array_easy.java) |
 | 1966 | Frequency Of The Most Frequent Element | array | medium | java | [Solution](solutions/java/array/medium/1966_frequency-of-the-most-frequent-element_array_medium.java) |
+| 1987 | Substrings Of Size Three With Distinct Characters | hash-table | easy | java | [Solution](solutions/java/hash-table/easy/1987_substrings-of-size-three-with-distinct-characters_hash-table_easy.java) |
 | 2032 | Largest Odd Number In String | math | easy | java | [Solution](solutions/java/math/easy/2032_largest-odd-number-in-string_math_easy.java) |
 | 2058 | Concatenation Of Array | array | easy | java | [Solution](solutions/java/array/easy/2058_concatenation-of-array_array_easy.java) |
 | 2106 | Find Greatest Common Divisor Of Array | array | easy | java | [Solution](solutions/java/array/easy/2106_find-greatest-common-divisor-of-array_array_easy.java) |
@@ -325,25 +326,3 @@ Automatically organized collection of LeetCode solutions.
 | 4216 | Weighted Word Mapping | array | easy | java | [Solution](solutions/java/array/easy/4216_weighted-word-mapping_array_easy.java) |
 | 4312 | Limit Occurrences In Sorted Array | array | easy | java | [Solution](solutions/java/array/easy/4312_limit-occurrences-in-sorted-array_array_easy.java) |
 | 4313 | Password Strength | hash-table | medium | java | [Solution](solutions/java/hash-table/medium/4313_password-strength_hash-table_medium.java) |
-
-<!---LeetCode Topics Start-->
-# LeetCode Topics
-## String
-| Problem Name | Difficulty |
-| ------- | ------- |
-| [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/imrajeevnayan/leetcode-solution/tree/main/1456-maximum-number-of-vowels-in-a-substring-of-given-length/) | Medium |
-| [1876-substrings-of-size-three-with-distinct-characters](https://github.com/imrajeevnayan/leetcode-solution/tree/main/1876-substrings-of-size-three-with-distinct-characters/) | Easy |
-## Sliding Window
-| Problem Name | Difficulty |
-| ------- | ------- |
-| [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/imrajeevnayan/leetcode-solution/tree/main/1456-maximum-number-of-vowels-in-a-substring-of-given-length/) | Medium |
-| [1876-substrings-of-size-three-with-distinct-characters](https://github.com/imrajeevnayan/leetcode-solution/tree/main/1876-substrings-of-size-three-with-distinct-characters/) | Easy |
-## Hash Table
-| Problem Name | Difficulty |
-| ------- | ------- |
-| [1876-substrings-of-size-three-with-distinct-characters](https://github.com/imrajeevnayan/leetcode-solution/tree/main/1876-substrings-of-size-three-with-distinct-characters/) | Easy |
-## Counting
-| Problem Name | Difficulty |
-| ------- | ------- |
-| [1876-substrings-of-size-three-with-distinct-characters](https://github.com/imrajeevnayan/leetcode-solution/tree/main/1876-substrings-of-size-three-with-distinct-characters/) | Easy |
-<!---LeetCode Topics End-->
