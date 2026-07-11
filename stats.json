@@ -784,18 +784,19 @@
     "GeeksForGeeks_Partition_Equal_Subset_Sum": true,
     "LeetCode_Minimum_Window_Substring": true,
     "LeetCode_Contains_Duplicate_II": true,
-    "LeetCode_Number_of_Sub-arrays_of_Size_K_and_Average_Greater_than_or_Equal_to_Threshold": true
+    "LeetCode_Number_of_Sub-arrays_of_Size_K_and_Average_Greater_than_or_Equal_to_Threshold": true,
+    "LeetCode_Concatenate_Array_With_Reverse": true
   },
-  "totalSolved": 312,
+  "totalSolved": 313,
   "difficultyCounts": {
-    "easy": 99,
+    "easy": 100,
     "medium": 138,
     "hard": 5,
     "basic": 70
   },
-  "currentStreak": 6,
-  "todayCount": 9,
-  "lastSyncDate": "2026-07-11",
+  "currentStreak": 7,
+  "todayCount": 1,
+  "lastSyncDate": "2026-07-12",
   "maxStreak": 15,
   "activityHistory": {
     "2026-05-19": 2,
@@ -841,7 +842,8 @@
     "2026-07-08": 9,
     "2026-07-09": 4,
     "2026-07-10": 8,
-    "2026-07-11": 9
+    "2026-07-11": 9,
+    "2026-07-12": 1
   },
   "todayProblems": [
     "Most Frequent Character",
@@ -1154,6 +1156,7 @@
     "Partition Equal Subset Sum",
     "Minimum Window Substring",
     "Contains Duplicate II",
-    "Number of Sub-arrays of Size K and Average Greater than or Equal to Threshold"
+    "Number of Sub-arrays of Size K and Average Greater than or Equal to Threshold",
+    "Concatenate Array With Reverse"
   ]
 }
