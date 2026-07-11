@@ -325,3 +325,15 @@ Automatically organized collection of LeetCode solutions.
 | 4216 | Weighted Word Mapping | array | easy | java | [Solution](solutions/java/array/easy/4216_weighted-word-mapping_array_easy.java) |
 | 4312 | Limit Occurrences In Sorted Array | array | easy | java | [Solution](solutions/java/array/easy/4312_limit-occurrences-in-sorted-array_array_easy.java) |
 | 4313 | Password Strength | hash-table | medium | java | [Solution](solutions/java/hash-table/medium/4313_password-strength_hash-table_medium.java) |
+
+<!---LeetCode Topics Start-->
+# LeetCode Topics
+## String
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/imrajeevnayan/leetcode-solution/tree/main/1456-maximum-number-of-vowels-in-a-substring-of-given-length/) | Medium |
+## Sliding Window
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/imrajeevnayan/leetcode-solution/tree/main/1456-maximum-number-of-vowels-in-a-substring-of-given-length/) | Medium |
+<!---LeetCode Topics End-->
