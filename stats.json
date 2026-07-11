@@ -776,17 +776,18 @@
     "GeeksForGeeks_Subarrays_Product_Less_than_K": true,
     "LeetCode_Median_of_Two_Sorted_Arrays": true,
     "LeetCode_Subarray_Product_Less_Than_K": true,
-    "LeetCode_Length_of_Longest_Subarray_With_at_Most_K_Frequency": true
+    "LeetCode_Length_of_Longest_Subarray_With_at_Most_K_Frequency": true,
+    "GeeksForGeeks_Subarrays_with_sum_K": true
   },
-  "totalSolved": 304,
+  "totalSolved": 305,
   "difficultyCounts": {
     "easy": 97,
-    "medium": 133,
+    "medium": 134,
     "hard": 4,
     "basic": 70
   },
   "currentStreak": 6,
-  "todayCount": 1,
+  "todayCount": 2,
   "lastSyncDate": "2026-07-11",
   "maxStreak": 15,
   "activityHistory": {
@@ -833,7 +834,7 @@
     "2026-07-08": 9,
     "2026-07-09": 4,
     "2026-07-10": 8,
-    "2026-07-11": 1
+    "2026-07-11": 2
   },
   "todayProblems": [
     "Most Frequent Character",
@@ -1138,6 +1139,7 @@
     "Subarrays Product Less than K",
     "Median of Two Sorted Arrays",
     "Subarray Product Less Than K",
-    "Length of Longest Subarray With at Most K Frequency"
+    "Length of Longest Subarray With at Most K Frequency",
+    "Subarrays with sum K"
   ]
 }
