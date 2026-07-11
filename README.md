@@ -4,7 +4,7 @@ Automatically organized collection of LeetCode solutions.
 
 ## 📊 Statistics
 
-- **Total Problems Solved:** 281
+- **Total Problems Solved:** 282
 - **Current Streak:** 3 days
 - **Longest Streak:** 14 days
 
@@ -13,11 +13,11 @@ Automatically organized collection of LeetCode solutions.
 #### By Language
 - Sql: 27
 - Javascript: 2
-- Java: 252
+- Java: 253
 
 #### By Topic
 - Database: 27
-- Array: 143
+- Array: 144
 - General: 1
 - Divide-and-conquer: 1
 - Bit-manipulation: 1
@@ -310,21 +310,10 @@ Automatically organized collection of LeetCode solutions.
 | 3846 | Minimum Operations To Make Array Sum Divisible By K | array | easy | java | [Solution](solutions/java/array/easy/3846_minimum-operations-to-make-array-sum-divisible-by-k_array_easy.java) |
 | 3914 | Check If Any Element Has Prime Frequency | array | easy | java | [Solution](solutions/java/array/easy/3914_check-if-any-element-has-prime-frequency_array_easy.java) |
 | 3962 | Number Of Zigzag Arrays I | dynamic-programming | hard | java | [Solution](solutions/java/dynamic-programming/hard/3962_number-of-zigzag-arrays-i_dynamic-programming_hard.java) |
+| 4058 | Compute Alternating Sum | array | easy | java | [Solution](solutions/java/array/easy/4058_compute-alternating-sum_array_easy.java) |
 | 4068 | Sum Of Elements With Frequency Divisible By K | array | easy | java | [Solution](solutions/java/array/easy/4068_sum-of-elements-with-frequency-divisible-by-k_array_easy.java) |
 | 4135 | Concatenate Non Zero Digits And Multiply By Sum I | math | easy | java | [Solution](solutions/java/math/easy/4135_concatenate-non-zero-digits-and-multiply-by-sum-i_math_easy.java) |
 | 4184 | Minimum Operations To Sort A Permutation | array | medium | java | [Solution](solutions/java/array/medium/4184_minimum-operations-to-sort-a-permutation_array_medium.java) |
 | 4216 | Weighted Word Mapping | array | easy | java | [Solution](solutions/java/array/easy/4216_weighted-word-mapping_array_easy.java) |
 | 4312 | Limit Occurrences In Sorted Array | array | easy | java | [Solution](solutions/java/array/easy/4312_limit-occurrences-in-sorted-array_array_easy.java) |
 | 4313 | Password Strength | hash-table | medium | java | [Solution](solutions/java/hash-table/medium/4313_password-strength_hash-table_medium.java) |
-
-<!---LeetCode Topics Start-->
-# LeetCode Topics
-## Array
-| Problem Name | Difficulty |
-| ------- | ------- |
-| [3701-compute-alternating-sum](https://github.com/imrajeevnayan/leetcode-solution/tree/main/3701-compute-alternating-sum/) | Easy |
-## Simulation
-| Problem Name | Difficulty |
-| ------- | ------- |
-| [3701-compute-alternating-sum](https://github.com/imrajeevnayan/leetcode-solution/tree/main/3701-compute-alternating-sum/) | Easy |
-<!---LeetCode Topics End-->
