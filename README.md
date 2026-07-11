@@ -4,7 +4,7 @@ Automatically organized collection of LeetCode solutions.
 
 ## 📊 Statistics
 
-- **Total Problems Solved:** 280
+- **Total Problems Solved:** 281
 - **Current Streak:** 3 days
 - **Longest Streak:** 14 days
 
@@ -13,7 +13,7 @@ Automatically organized collection of LeetCode solutions.
 #### By Language
 - Sql: 27
 - Javascript: 2
-- Java: 251
+- Java: 252
 
 #### By Topic
 - Database: 27
@@ -22,7 +22,7 @@ Automatically organized collection of LeetCode solutions.
 - Divide-and-conquer: 1
 - Bit-manipulation: 1
 - Tree: 5
-- Hash-table: 21
+- Hash-table: 22
 - Linked-list: 18
 - String: 22
 - Stack: 1
@@ -203,6 +203,7 @@ Automatically organized collection of LeetCode solutions.
 | 747 | Min Cost Climbing Stairs | array | easy | java | [Solution](solutions/java/array/easy/747_min-cost-climbing-stairs_array_easy.java) |
 | 766 | Flatten A Multilevel Doubly Linked List | linked-list | medium | java | [Solution](solutions/java/linked-list/medium/766_flatten-a-multilevel-doubly-linked-list_linked-list_medium.java) |
 | 778 | Reorganize String | hash-table | medium | java | [Solution](solutions/java/hash-table/medium/778_reorganize-string_hash-table_medium.java) |
+| 782 | Jewels And Stones | hash-table | easy | java | [Solution](solutions/java/hash-table/easy/782_jewels-and-stones_hash-table_easy.java) |
 | 792 | Binary Search | array | easy | java | [Solution](solutions/java/array/easy/792_binary-search_array_easy.java) |
 | 816 | Design Hashset | array | easy | java | [Solution](solutions/java/array/easy/816_design-hashset_array_easy.java) |
 | 874 | Backspace String Compare | two-pointers | easy | java | [Solution](solutions/java/two-pointers/easy/874_backspace-string-compare_two-pointers_easy.java) |
@@ -315,15 +316,3 @@ Automatically organized collection of LeetCode solutions.
 | 4216 | Weighted Word Mapping | array | easy | java | [Solution](solutions/java/array/easy/4216_weighted-word-mapping_array_easy.java) |
 | 4312 | Limit Occurrences In Sorted Array | array | easy | java | [Solution](solutions/java/array/easy/4312_limit-occurrences-in-sorted-array_array_easy.java) |
 | 4313 | Password Strength | hash-table | medium | java | [Solution](solutions/java/hash-table/medium/4313_password-strength_hash-table_medium.java) |
-
-<!---LeetCode Topics Start-->
-# LeetCode Topics
-## Hash Table
-| Problem Name | Difficulty |
-| ------- | ------- |
-| [0771-jewels-and-stones](https://github.com/imrajeevnayan/leetcode-solution/tree/main/0771-jewels-and-stones/) | Easy |
-## String
-| Problem Name | Difficulty |
-| ------- | ------- |
-| [0771-jewels-and-stones](https://github.com/imrajeevnayan/leetcode-solution/tree/main/0771-jewels-and-stones/) | Easy |
-<!---LeetCode Topics End-->
