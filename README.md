@@ -4,7 +4,7 @@ Automatically organized collection of LeetCode solutions.
 
 ## 📊 Statistics
 
-- **Total Problems Solved:** 278
+- **Total Problems Solved:** 279
 - **Current Streak:** 3 days
 - **Longest Streak:** 14 days
 
@@ -13,7 +13,7 @@ Automatically organized collection of LeetCode solutions.
 #### By Language
 - Sql: 27
 - Javascript: 2
-- Java: 249
+- Java: 250
 
 #### By Topic
 - Database: 27
@@ -28,7 +28,7 @@ Automatically organized collection of LeetCode solutions.
 - Stack: 1
 - Dynamic-programming: 2
 - Binary-search: 1
-- Math: 26
+- Math: 27
 - Two-pointers: 10
 
 ## 📂 Solutions
@@ -291,6 +291,7 @@ Automatically organized collection of LeetCode solutions.
 | 2812 | Find The Maximum Achievable Number | math | easy | java | [Solution](solutions/java/math/easy/2812_find-the-maximum-achievable-number_math_easy.java) |
 | 2886 | Faulty Keyboard | string | easy | java | [Solution](solutions/java/string/easy/2886_faulty-keyboard_string_easy.java) |
 | 2914 | Find The Safest Path In A Grid | array | medium | java | [Solution](solutions/java/array/medium/2914_find-the-safest-path-in-a-grid_array_medium.java) |
+| 3172 | Divisible And Non Divisible Sums Difference | math | easy | java | [Solution](solutions/java/math/easy/3172_divisible-and-non-divisible-sums-difference_math_easy.java) |
 | 3194 | Find Words Containing Character | array | easy | java | [Solution](solutions/java/array/easy/3194_find-words-containing-character_array_easy.java) |
 | 3213 | Count Subarrays Where Max Element Appears At Least K Times | array | medium | java | [Solution](solutions/java/array/medium/3213_count-subarrays-where-max-element-appears-at-least-k-times_array_medium.java) |
 | 3221 | Find The Peaks | array | easy | java | [Solution](solutions/java/array/easy/3221_find-the-peaks_array_easy.java) |
@@ -313,11 +314,3 @@ Automatically organized collection of LeetCode solutions.
 | 4216 | Weighted Word Mapping | array | easy | java | [Solution](solutions/java/array/easy/4216_weighted-word-mapping_array_easy.java) |
 | 4312 | Limit Occurrences In Sorted Array | array | easy | java | [Solution](solutions/java/array/easy/4312_limit-occurrences-in-sorted-array_array_easy.java) |
 | 4313 | Password Strength | hash-table | medium | java | [Solution](solutions/java/hash-table/medium/4313_password-strength_hash-table_medium.java) |
-
-<!---LeetCode Topics Start-->
-# LeetCode Topics
-## Math
-| Problem Name | Difficulty |
-| ------- | ------- |
-| [2894-divisible-and-non-divisible-sums-difference](https://github.com/imrajeevnayan/leetcode-solution/tree/main/2894-divisible-and-non-divisible-sums-difference/) | Easy |
-<!---LeetCode Topics End-->
