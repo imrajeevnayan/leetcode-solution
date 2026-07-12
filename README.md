@@ -15,3 +15,19 @@
 | 13 | [Distinct Permutations of a String](https://www.geeksforgeeks.org/problems/permutations-of-a-given-string2041/1) | GeeksForGeeks | Medium | 13 Jul 2026 | 12:11 am |
 | 14 | [Count Pairs Divisible By K](https://www.geeksforgeeks.org/problems/count-pairs-in-array-divisible-by-k/1) | GeeksForGeeks | Medium | 13 Jul 2026 | 12:13 am |
 | 15 | [Tower Of Hanoi](https://www.geeksforgeeks.org/problems/tower-of-hanoi-1587115621/1) | GeeksForGeeks | Medium | 13 Jul 2026 | 12:20 am |
+
+<!---LeetCode Topics Start-->
+# LeetCode Topics
+## Array
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1331-rank-transform-of-an-array](https://github.com/imrajeevnayan/leetcode-solution/tree/main/1331-rank-transform-of-an-array/) | Easy |
+## Hash Table
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1331-rank-transform-of-an-array](https://github.com/imrajeevnayan/leetcode-solution/tree/main/1331-rank-transform-of-an-array/) | Easy |
+## Sorting
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1331-rank-transform-of-an-array](https://github.com/imrajeevnayan/leetcode-solution/tree/main/1331-rank-transform-of-an-array/) | Easy |
+<!---LeetCode Topics End-->
