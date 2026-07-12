@@ -14,3 +14,4 @@
 | 12 | [Raise to Power of Its Own Reverse](https://www.geeksforgeeks.org/problems/power-of-numbers-1587115620/1) | GeeksForGeeks | Medium | 12 Jul 2026 | 11:36 pm |
 | 13 | [Distinct Permutations of a String](https://www.geeksforgeeks.org/problems/permutations-of-a-given-string2041/1) | GeeksForGeeks | Medium | 13 Jul 2026 | 12:11 am |
 | 14 | [Count Pairs Divisible By K](https://www.geeksforgeeks.org/problems/count-pairs-in-array-divisible-by-k/1) | GeeksForGeeks | Medium | 13 Jul 2026 | 12:13 am |
+| 15 | [Tower Of Hanoi](https://www.geeksforgeeks.org/problems/tower-of-hanoi-1587115621/1) | GeeksForGeeks | Medium | 13 Jul 2026 | 12:20 am |
