@@ -11,3 +11,4 @@
 | 9 | [Remove character](https://www.geeksforgeeks.org/problems/remove-character3815/1?page=4&category=Strings&sortBy=accuracy) | GeeksForGeeks | Basic | 12 Jul 2026 | 04:44 pm |
 | 10 | [Sort by Frequency](https://www.geeksforgeeks.org/problems/sort-string-according-to-increasing-frequency/1?page=2&category=Strings&sortBy=accuracy) | GeeksForGeeks | Medium | 12 Jul 2026 | 04:59 pm |
 | 11 | [1 to n Without Loops](https://www.geeksforgeeks.org/problems/print-1-to-n-without-using-loops3621/1) | GeeksForGeeks | Basic | 12 Jul 2026 | 11:29 pm |
+| 12 | [Raise to Power of Its Own Reverse](https://www.geeksforgeeks.org/problems/power-of-numbers-1587115620/1) | GeeksForGeeks | Medium | 12 Jul 2026 | 11:36 pm |
