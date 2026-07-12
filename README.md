@@ -13,3 +13,4 @@
 | 11 | [1 to n Without Loops](https://www.geeksforgeeks.org/problems/print-1-to-n-without-using-loops3621/1) | GeeksForGeeks | Basic | 12 Jul 2026 | 11:29 pm |
 | 12 | [Raise to Power of Its Own Reverse](https://www.geeksforgeeks.org/problems/power-of-numbers-1587115620/1) | GeeksForGeeks | Medium | 12 Jul 2026 | 11:36 pm |
 | 13 | [Distinct Permutations of a String](https://www.geeksforgeeks.org/problems/permutations-of-a-given-string2041/1) | GeeksForGeeks | Medium | 13 Jul 2026 | 12:11 am |
+| 14 | [Count Pairs Divisible By K](https://www.geeksforgeeks.org/problems/count-pairs-in-array-divisible-by-k/1) | GeeksForGeeks | Medium | 13 Jul 2026 | 12:13 am |

@@ -798,17 +798,18 @@
     "GeeksForGeeks_Sort_by_Frequency": true,
     "GeeksForGeeks_1_to_n_Without_Loops": true,
     "GeeksForGeeks_Raise_to_Power_of_Its_Own_Reverse": true,
-    "GeeksForGeeks_Distinct_Permutations_of_a_String": true
+    "GeeksForGeeks_Distinct_Permutations_of_a_String": true,
+    "GeeksForGeeks_Count_Pairs_Divisible_By_K": true
   },
-  "totalSolved": 326,
+  "totalSolved": 327,
   "difficultyCounts": {
     "easy": 106,
-    "medium": 141,
+    "medium": 142,
     "hard": 5,
     "basic": 74
   },
   "currentStreak": 8,
-  "todayCount": 1,
+  "todayCount": 2,
   "lastSyncDate": "2026-07-13",
   "maxStreak": 15,
   "activityHistory": {
@@ -857,7 +858,7 @@
     "2026-07-10": 8,
     "2026-07-11": 9,
     "2026-07-12": 13,
-    "2026-07-13": 1
+    "2026-07-13": 2
   },
   "todayProblems": [
     "Most Frequent Character",
@@ -1184,6 +1185,7 @@
     "Sort by Frequency",
     "1 to n Without Loops",
     "Raise to Power of Its Own Reverse",
-    "Distinct Permutations of a String"
+    "Distinct Permutations of a String",
+    "Count Pairs Divisible By K"
   ]
 }
