@@ -790,17 +790,18 @@
     "GeeksForGeeks_Doubly_Linked_List_from_an_Array": true,
     "GeeksForGeeks_Palindrome_Numbers_in_a_Range": true,
     "GeeksForGeeks_Are_LinkedLists_Equal": true,
-    "GeeksForGeeks_Elements_Less_Than_K": true
+    "GeeksForGeeks_Elements_Less_Than_K": true,
+    "GeeksForGeeks_Repeating_Character": true
   },
-  "totalSolved": 318,
+  "totalSolved": 319,
   "difficultyCounts": {
-    "easy": 104,
+    "easy": 105,
     "medium": 138,
     "hard": 5,
     "basic": 71
   },
   "currentStreak": 7,
-  "todayCount": 6,
+  "todayCount": 7,
   "lastSyncDate": "2026-07-12",
   "maxStreak": 15,
   "activityHistory": {
@@ -848,7 +849,7 @@
     "2026-07-09": 4,
     "2026-07-10": 8,
     "2026-07-11": 9,
-    "2026-07-12": 6
+    "2026-07-12": 7
   },
   "todayProblems": [
     "Most Frequent Character",
@@ -1167,6 +1168,7 @@
     "Doubly Linked List from an Array",
     "Palindrome Numbers in a Range",
     "Are LinkedLists Equal",
-    "Elements Less Than K"
+    "Elements Less Than K",
+    "Repeating Character"
   ]
 }

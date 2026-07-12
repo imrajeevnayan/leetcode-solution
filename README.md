@@ -5,3 +5,4 @@
 | 3 | [Palindrome Numbers in a Range](https://www.geeksforgeeks.org/problems/print-all-palindromes-in-the-given-range/1?page=1&sortBy=accuracy) | GeeksForGeeks | Easy | 12 Jul 2026 | 04:28 pm |
 | 4 | [Are LinkedLists Equal](https://www.geeksforgeeks.org/problems/are-linkedlists-equal/1?page=3&sortBy=accuracy) | GeeksForGeeks | Basic | 12 Jul 2026 | 04:32 pm |
 | 5 | [Elements Less Than K](https://www.geeksforgeeks.org/problems/elements-less-than-k/1?page=3&sortBy=accuracy) | GeeksForGeeks | Easy | 12 Jul 2026 | 04:33 pm |
+| 6 | [Repeating Character](https://www.geeksforgeeks.org/problems/repeating-character-first-appearance-leftmost/1?page=3&category=Strings&sortBy=accuracy) | GeeksForGeeks | Easy | 12 Jul 2026 | 04:38 pm |
