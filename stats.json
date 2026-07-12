@@ -791,17 +791,18 @@
     "GeeksForGeeks_Palindrome_Numbers_in_a_Range": true,
     "GeeksForGeeks_Are_LinkedLists_Equal": true,
     "GeeksForGeeks_Elements_Less_Than_K": true,
-    "GeeksForGeeks_Repeating_Character": true
+    "GeeksForGeeks_Repeating_Character": true,
+    "GeeksForGeeks_Concatenate_and_Reverse": true
   },
-  "totalSolved": 319,
+  "totalSolved": 320,
   "difficultyCounts": {
     "easy": 105,
     "medium": 138,
     "hard": 5,
-    "basic": 71
+    "basic": 72
   },
   "currentStreak": 7,
-  "todayCount": 7,
+  "todayCount": 8,
   "lastSyncDate": "2026-07-12",
   "maxStreak": 15,
   "activityHistory": {
@@ -849,7 +850,7 @@
     "2026-07-09": 4,
     "2026-07-10": 8,
     "2026-07-11": 9,
-    "2026-07-12": 7
+    "2026-07-12": 8
   },
   "todayProblems": [
     "Most Frequent Character",
@@ -1169,6 +1170,7 @@
     "Palindrome Numbers in a Range",
     "Are LinkedLists Equal",
     "Elements Less Than K",
-    "Repeating Character"
+    "Repeating Character",
+    "Concatenate and Reverse"
   ]
 }
