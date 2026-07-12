@@ -9,3 +9,4 @@
 | 7 | [Concatenate and Reverse](https://www.geeksforgeeks.org/problems/java-strings-set-15112/1?page=3&category=Strings&sortBy=accuracy) | GeeksForGeeks | Basic | 12 Jul 2026 | 04:40 pm |
 | 8 | [Longest Balanced Substring](https://www.geeksforgeeks.org/problems/longest-even-length-substring--113837/1?page=4&category=Strings&sortBy=accuracy) | GeeksForGeeks | Easy | 12 Jul 2026 | 04:43 pm |
 | 9 | [Remove character](https://www.geeksforgeeks.org/problems/remove-character3815/1?page=4&category=Strings&sortBy=accuracy) | GeeksForGeeks | Basic | 12 Jul 2026 | 04:44 pm |
+| 10 | [Sort by Frequency](https://www.geeksforgeeks.org/problems/sort-string-according-to-increasing-frequency/1?page=2&category=Strings&sortBy=accuracy) | GeeksForGeeks | Medium | 12 Jul 2026 | 04:59 pm |

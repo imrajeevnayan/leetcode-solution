@@ -794,17 +794,18 @@
     "GeeksForGeeks_Repeating_Character": true,
     "GeeksForGeeks_Concatenate_and_Reverse": true,
     "GeeksForGeeks_Longest_Balanced_Substring": true,
-    "GeeksForGeeks_Remove_character": true
+    "GeeksForGeeks_Remove_character": true,
+    "GeeksForGeeks_Sort_by_Frequency": true
   },
-  "totalSolved": 322,
+  "totalSolved": 323,
   "difficultyCounts": {
     "easy": 106,
-    "medium": 138,
+    "medium": 139,
     "hard": 5,
     "basic": 73
   },
   "currentStreak": 7,
-  "todayCount": 10,
+  "todayCount": 11,
   "lastSyncDate": "2026-07-12",
   "maxStreak": 15,
   "activityHistory": {
@@ -852,7 +853,7 @@
     "2026-07-09": 4,
     "2026-07-10": 8,
     "2026-07-11": 9,
-    "2026-07-12": 10
+    "2026-07-12": 11
   },
   "todayProblems": [
     "Most Frequent Character",
@@ -1175,6 +1176,7 @@
     "Repeating Character",
     "Concatenate and Reverse",
     "Longest Balanced Substring",
-    "Remove character"
+    "Remove character",
+    "Sort by Frequency"
   ]
 }
