@@ -785,17 +785,18 @@
     "LeetCode_Minimum_Window_Substring": true,
     "LeetCode_Contains_Duplicate_II": true,
     "LeetCode_Number_of_Sub-arrays_of_Size_K_and_Average_Greater_than_or_Equal_to_Threshold": true,
-    "LeetCode_Concatenate_Array_With_Reverse": true
+    "LeetCode_Concatenate_Array_With_Reverse": true,
+    "LeetCode_Substrings_of_Size_Three_with_Distinct_Characters": true
   },
-  "totalSolved": 313,
+  "totalSolved": 314,
   "difficultyCounts": {
-    "easy": 100,
+    "easy": 101,
     "medium": 138,
     "hard": 5,
     "basic": 70
   },
   "currentStreak": 7,
-  "todayCount": 1,
+  "todayCount": 2,
   "lastSyncDate": "2026-07-12",
   "maxStreak": 15,
   "activityHistory": {
@@ -843,7 +844,7 @@
     "2026-07-09": 4,
     "2026-07-10": 8,
     "2026-07-11": 9,
-    "2026-07-12": 1
+    "2026-07-12": 2
   },
   "todayProblems": [
     "Most Frequent Character",
@@ -1157,6 +1158,7 @@
     "Minimum Window Substring",
     "Contains Duplicate II",
     "Number of Sub-arrays of Size K and Average Greater than or Equal to Threshold",
-    "Concatenate Array With Reverse"
+    "Concatenate Array With Reverse",
+    "Substrings of Size Three with Distinct Characters"
   ]
 }
