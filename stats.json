@@ -788,17 +788,18 @@
     "LeetCode_Concatenate_Array_With_Reverse": true,
     "LeetCode_Substrings_of_Size_Three_with_Distinct_Characters": true,
     "GeeksForGeeks_Doubly_Linked_List_from_an_Array": true,
-    "GeeksForGeeks_Palindrome_Numbers_in_a_Range": true
+    "GeeksForGeeks_Palindrome_Numbers_in_a_Range": true,
+    "GeeksForGeeks_Are_LinkedLists_Equal": true
   },
-  "totalSolved": 316,
+  "totalSolved": 317,
   "difficultyCounts": {
     "easy": 103,
     "medium": 138,
     "hard": 5,
-    "basic": 70
+    "basic": 71
   },
   "currentStreak": 7,
-  "todayCount": 4,
+  "todayCount": 5,
   "lastSyncDate": "2026-07-12",
   "maxStreak": 15,
   "activityHistory": {
@@ -846,7 +847,7 @@
     "2026-07-09": 4,
     "2026-07-10": 8,
     "2026-07-11": 9,
-    "2026-07-12": 4
+    "2026-07-12": 5
   },
   "todayProblems": [
     "Most Frequent Character",
@@ -1163,6 +1164,7 @@
     "Concatenate Array With Reverse",
     "Substrings of Size Three with Distinct Characters",
     "Doubly Linked List from an Array",
-    "Palindrome Numbers in a Range"
+    "Palindrome Numbers in a Range",
+    "Are LinkedLists Equal"
   ]
 }
