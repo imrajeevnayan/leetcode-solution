@@ -332,3 +332,31 @@ Automatically organized collection of LeetCode solutions.
 | 4299 | Concatenate Array With Reverse | array | easy | java | [Solution](solutions/java/array/easy/4299_concatenate-array-with-reverse_array_easy.java) |
 | 4312 | Limit Occurrences In Sorted Array | array | easy | java | [Solution](solutions/java/array/easy/4312_limit-occurrences-in-sorted-array_array_easy.java) |
 | 4313 | Password Strength | hash-table | medium | java | [Solution](solutions/java/hash-table/medium/4313_password-strength_hash-table_medium.java) |
+
+<!---LeetCode Topics Start-->
+# LeetCode Topics
+## Hash Table
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0187-repeated-dna-sequences](https://github.com/imrajeevnayan/leetcode-solution/tree/main/0187-repeated-dna-sequences/) | Medium |
+## String
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0187-repeated-dna-sequences](https://github.com/imrajeevnayan/leetcode-solution/tree/main/0187-repeated-dna-sequences/) | Medium |
+## Bit Manipulation
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0187-repeated-dna-sequences](https://github.com/imrajeevnayan/leetcode-solution/tree/main/0187-repeated-dna-sequences/) | Medium |
+## Sliding Window
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0187-repeated-dna-sequences](https://github.com/imrajeevnayan/leetcode-solution/tree/main/0187-repeated-dna-sequences/) | Medium |
+## Rolling Hash
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0187-repeated-dna-sequences](https://github.com/imrajeevnayan/leetcode-solution/tree/main/0187-repeated-dna-sequences/) | Medium |
+## Hash Function
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0187-repeated-dna-sequences](https://github.com/imrajeevnayan/leetcode-solution/tree/main/0187-repeated-dna-sequences/) | Medium |
+<!---LeetCode Topics End-->
