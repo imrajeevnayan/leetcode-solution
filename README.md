@@ -4,7 +4,7 @@ Automatically organized collection of LeetCode solutions.
 
 ## 📊 Statistics
 
-- **Total Problems Solved:** 301
+- **Total Problems Solved:** 302
 - **Current Streak:** 5 days
 - **Longest Streak:** 14 days
 
@@ -13,7 +13,7 @@ Automatically organized collection of LeetCode solutions.
 #### By Language
 - Sql: 27
 - Javascript: 2
-- Java: 272
+- Java: 273
 
 #### By Topic
 - Database: 27
@@ -30,7 +30,7 @@ Automatically organized collection of LeetCode solutions.
 - Dynamic-programming: 2
 - Binary-search: 1
 - Math: 29
-- Two-pointers: 10
+- Two-pointers: 11
 
 ## 📂 Solutions
 
@@ -308,6 +308,7 @@ Automatically organized collection of LeetCode solutions.
 | 2914 | Find The Safest Path In A Grid | array | medium | java | [Solution](solutions/java/array/medium/2914_find-the-safest-path-in-a-grid_array_medium.java) |
 | 3172 | Divisible And Non Divisible Sums Difference | math | easy | java | [Solution](solutions/java/math/easy/3172_divisible-and-non-divisible-sums-difference_math_easy.java) |
 | 3194 | Find Words Containing Character | array | easy | java | [Solution](solutions/java/array/easy/3194_find-words-containing-character_array_easy.java) |
+| 3195 | Separate Black And White Balls | two-pointers | medium | java | [Solution](solutions/java/two-pointers/medium/3195_separate-black-and-white-balls_two-pointers_medium.java) |
 | 3213 | Count Subarrays Where Max Element Appears At Least K Times | array | medium | java | [Solution](solutions/java/array/medium/3213_count-subarrays-where-max-element-appears-at-least-k-times_array_medium.java) |
 | 3221 | Find The Peaks | array | easy | java | [Solution](solutions/java/array/easy/3221_find-the-peaks_array_easy.java) |
 | 3225 | Length Of Longest Subarray With At Most K Frequency | array | medium | java | [Solution](solutions/java/array/medium/3225_length-of-longest-subarray-with-at-most-k-frequency_array_medium.java) |
@@ -337,31 +338,3 @@ Automatically organized collection of LeetCode solutions.
 | 4299 | Concatenate Array With Reverse | array | easy | java | [Solution](solutions/java/array/easy/4299_concatenate-array-with-reverse_array_easy.java) |
 | 4312 | Limit Occurrences In Sorted Array | array | easy | java | [Solution](solutions/java/array/easy/4312_limit-occurrences-in-sorted-array_array_easy.java) |
 | 4313 | Password Strength | hash-table | medium | java | [Solution](solutions/java/hash-table/medium/4313_password-strength_hash-table_medium.java) |
-
-<!---LeetCode Topics Start-->
-# LeetCode Topics
-## Array
-| Problem Name | Difficulty |
-| ------- | ------- |
-| [0004-median-of-two-sorted-arrays](https://github.com/imrajeevnayan/leetcode-solution/tree/main/0004-median-of-two-sorted-arrays/) | Hard |
-## Binary Search
-| Problem Name | Difficulty |
-| ------- | ------- |
-| [0004-median-of-two-sorted-arrays](https://github.com/imrajeevnayan/leetcode-solution/tree/main/0004-median-of-two-sorted-arrays/) | Hard |
-## Divide and Conquer
-| Problem Name | Difficulty |
-| ------- | ------- |
-| [0004-median-of-two-sorted-arrays](https://github.com/imrajeevnayan/leetcode-solution/tree/main/0004-median-of-two-sorted-arrays/) | Hard |
-## Two Pointers
-| Problem Name | Difficulty |
-| ------- | ------- |
-| [2938-separate-black-and-white-balls](https://github.com/imrajeevnayan/leetcode-solution/tree/main/2938-separate-black-and-white-balls/) | Medium |
-## String
-| Problem Name | Difficulty |
-| ------- | ------- |
-| [2938-separate-black-and-white-balls](https://github.com/imrajeevnayan/leetcode-solution/tree/main/2938-separate-black-and-white-balls/) | Medium |
-## Greedy
-| Problem Name | Difficulty |
-| ------- | ------- |
-| [2938-separate-black-and-white-balls](https://github.com/imrajeevnayan/leetcode-solution/tree/main/2938-separate-black-and-white-balls/) | Medium |
-<!---LeetCode Topics End-->
