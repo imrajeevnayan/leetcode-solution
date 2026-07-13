@@ -343,6 +343,7 @@ Automatically organized collection of LeetCode solutions.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0016-3sum-closest](https://github.com/imrajeevnayan/leetcode-solution/tree/main/0016-3sum-closest/) | Medium |
+| [0862-shortest-subarray-with-sum-at-least-k](https://github.com/imrajeevnayan/leetcode-solution/tree/main/0862-shortest-subarray-with-sum-at-least-k/) | Hard |
 | [0881-boats-to-save-people](https://github.com/imrajeevnayan/leetcode-solution/tree/main/0881-boats-to-save-people/) | Medium |
 ## Two Pointers
 | Problem Name | Difficulty |
@@ -358,4 +359,28 @@ Automatically organized collection of LeetCode solutions.
 | ------- | ------- |
 | [0016-3sum-closest](https://github.com/imrajeevnayan/leetcode-solution/tree/main/0016-3sum-closest/) | Medium |
 | [0881-boats-to-save-people](https://github.com/imrajeevnayan/leetcode-solution/tree/main/0881-boats-to-save-people/) | Medium |
+## Binary Search
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0862-shortest-subarray-with-sum-at-least-k](https://github.com/imrajeevnayan/leetcode-solution/tree/main/0862-shortest-subarray-with-sum-at-least-k/) | Hard |
+## Queue
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0862-shortest-subarray-with-sum-at-least-k](https://github.com/imrajeevnayan/leetcode-solution/tree/main/0862-shortest-subarray-with-sum-at-least-k/) | Hard |
+## Sliding Window
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0862-shortest-subarray-with-sum-at-least-k](https://github.com/imrajeevnayan/leetcode-solution/tree/main/0862-shortest-subarray-with-sum-at-least-k/) | Hard |
+## Heap (Priority Queue)
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0862-shortest-subarray-with-sum-at-least-k](https://github.com/imrajeevnayan/leetcode-solution/tree/main/0862-shortest-subarray-with-sum-at-least-k/) | Hard |
+## Prefix Sum
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0862-shortest-subarray-with-sum-at-least-k](https://github.com/imrajeevnayan/leetcode-solution/tree/main/0862-shortest-subarray-with-sum-at-least-k/) | Hard |
+## Monotonic Queue
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0862-shortest-subarray-with-sum-at-least-k](https://github.com/imrajeevnayan/leetcode-solution/tree/main/0862-shortest-subarray-with-sum-at-least-k/) | Hard |
 <!---LeetCode Topics End-->
