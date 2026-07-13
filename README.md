@@ -345,8 +345,21 @@ Automatically organized collection of LeetCode solutions.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/imrajeevnayan/leetcode-solution/tree/main/0153-find-minimum-in-rotated-sorted-array/) | Medium |
+| [0781-rabbits-in-forest](https://github.com/imrajeevnayan/leetcode-solution/tree/main/0781-rabbits-in-forest/) | Medium |
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/imrajeevnayan/leetcode-solution/tree/main/0153-find-minimum-in-rotated-sorted-array/) | Medium |
+## Hash Table
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0781-rabbits-in-forest](https://github.com/imrajeevnayan/leetcode-solution/tree/main/0781-rabbits-in-forest/) | Medium |
+## Math
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0781-rabbits-in-forest](https://github.com/imrajeevnayan/leetcode-solution/tree/main/0781-rabbits-in-forest/) | Medium |
+## Greedy
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0781-rabbits-in-forest](https://github.com/imrajeevnayan/leetcode-solution/tree/main/0781-rabbits-in-forest/) | Medium |
 <!---LeetCode Topics End-->
