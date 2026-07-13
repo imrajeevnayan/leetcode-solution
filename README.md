@@ -352,4 +352,16 @@ Automatically organized collection of LeetCode solutions.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/imrajeevnayan/leetcode-solution/tree/main/0004-median-of-two-sorted-arrays/) | Hard |
+## Two Pointers
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [2938-separate-black-and-white-balls](https://github.com/imrajeevnayan/leetcode-solution/tree/main/2938-separate-black-and-white-balls/) | Medium |
+## String
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [2938-separate-black-and-white-balls](https://github.com/imrajeevnayan/leetcode-solution/tree/main/2938-separate-black-and-white-balls/) | Medium |
+## Greedy
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [2938-separate-black-and-white-balls](https://github.com/imrajeevnayan/leetcode-solution/tree/main/2938-separate-black-and-white-balls/) | Medium |
 <!---LeetCode Topics End-->
