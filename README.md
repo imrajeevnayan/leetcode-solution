@@ -342,10 +342,12 @@ Automatically organized collection of LeetCode solutions.
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0016-3sum-closest](https://github.com/imrajeevnayan/leetcode-solution/tree/main/0016-3sum-closest/) | Medium |
 | [0881-boats-to-save-people](https://github.com/imrajeevnayan/leetcode-solution/tree/main/0881-boats-to-save-people/) | Medium |
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0016-3sum-closest](https://github.com/imrajeevnayan/leetcode-solution/tree/main/0016-3sum-closest/) | Medium |
 | [0881-boats-to-save-people](https://github.com/imrajeevnayan/leetcode-solution/tree/main/0881-boats-to-save-people/) | Medium |
 ## Greedy
 | Problem Name | Difficulty |
@@ -354,5 +356,6 @@ Automatically organized collection of LeetCode solutions.
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0016-3sum-closest](https://github.com/imrajeevnayan/leetcode-solution/tree/main/0016-3sum-closest/) | Medium |
 | [0881-boats-to-save-people](https://github.com/imrajeevnayan/leetcode-solution/tree/main/0881-boats-to-save-people/) | Medium |
 <!---LeetCode Topics End-->
