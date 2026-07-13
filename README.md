@@ -4,7 +4,7 @@ Automatically organized collection of LeetCode solutions.
 
 ## 📊 Statistics
 
-- **Total Problems Solved:** 302
+- **Total Problems Solved:** 303
 - **Current Streak:** 5 days
 - **Longest Streak:** 14 days
 
@@ -13,11 +13,11 @@ Automatically organized collection of LeetCode solutions.
 #### By Language
 - Sql: 27
 - Javascript: 2
-- Java: 273
+- Java: 274
 
 #### By Topic
 - Database: 27
-- Array: 152
+- Array: 153
 - General: 1
 - Enumeration: 1
 - Divide-and-conquer: 1
@@ -209,6 +209,7 @@ Automatically organized collection of LeetCode solutions.
 | 778 | Reorganize String | hash-table | medium | java | [Solution](solutions/java/hash-table/medium/778_reorganize-string_hash-table_medium.java) |
 | 782 | Jewels And Stones | hash-table | easy | java | [Solution](solutions/java/hash-table/easy/782_jewels-and-stones_hash-table_easy.java) |
 | 792 | Binary Search | array | easy | java | [Solution](solutions/java/array/easy/792_binary-search_array_easy.java) |
+| 797 | Rabbits In Forest | array | medium | java | [Solution](solutions/java/array/medium/797_rabbits-in-forest_array_medium.java) |
 | 816 | Design Hashset | array | easy | java | [Solution](solutions/java/array/easy/816_design-hashset_array_easy.java) |
 | 874 | Backspace String Compare | two-pointers | easy | java | [Solution](solutions/java/two-pointers/easy/874_backspace-string-compare_two-pointers_easy.java) |
 | 882 | Peak Index In A Mountain Array | array | medium | java | [Solution](solutions/java/array/medium/882_peak-index-in-a-mountain-array_array_medium.java) |
@@ -338,28 +339,3 @@ Automatically organized collection of LeetCode solutions.
 | 4299 | Concatenate Array With Reverse | array | easy | java | [Solution](solutions/java/array/easy/4299_concatenate-array-with-reverse_array_easy.java) |
 | 4312 | Limit Occurrences In Sorted Array | array | easy | java | [Solution](solutions/java/array/easy/4312_limit-occurrences-in-sorted-array_array_easy.java) |
 | 4313 | Password Strength | hash-table | medium | java | [Solution](solutions/java/hash-table/medium/4313_password-strength_hash-table_medium.java) |
-
-<!---LeetCode Topics Start-->
-# LeetCode Topics
-## Array
-| Problem Name | Difficulty |
-| ------- | ------- |
-| [0153-find-minimum-in-rotated-sorted-array](https://github.com/imrajeevnayan/leetcode-solution/tree/main/0153-find-minimum-in-rotated-sorted-array/) | Medium |
-| [0781-rabbits-in-forest](https://github.com/imrajeevnayan/leetcode-solution/tree/main/0781-rabbits-in-forest/) | Medium |
-## Binary Search
-| Problem Name | Difficulty |
-| ------- | ------- |
-| [0153-find-minimum-in-rotated-sorted-array](https://github.com/imrajeevnayan/leetcode-solution/tree/main/0153-find-minimum-in-rotated-sorted-array/) | Medium |
-## Hash Table
-| Problem Name | Difficulty |
-| ------- | ------- |
-| [0781-rabbits-in-forest](https://github.com/imrajeevnayan/leetcode-solution/tree/main/0781-rabbits-in-forest/) | Medium |
-## Math
-| Problem Name | Difficulty |
-| ------- | ------- |
-| [0781-rabbits-in-forest](https://github.com/imrajeevnayan/leetcode-solution/tree/main/0781-rabbits-in-forest/) | Medium |
-## Greedy
-| Problem Name | Difficulty |
-| ------- | ------- |
-| [0781-rabbits-in-forest](https://github.com/imrajeevnayan/leetcode-solution/tree/main/0781-rabbits-in-forest/) | Medium |
-<!---LeetCode Topics End-->
