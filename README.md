@@ -4,7 +4,7 @@ Automatically organized collection of LeetCode solutions.
 
 ## 📊 Statistics
 
-- **Total Problems Solved:** 300
+- **Total Problems Solved:** 301
 - **Current Streak:** 5 days
 - **Longest Streak:** 14 days
 
@@ -13,11 +13,11 @@ Automatically organized collection of LeetCode solutions.
 #### By Language
 - Sql: 27
 - Javascript: 2
-- Java: 271
+- Java: 272
 
 #### By Topic
 - Database: 27
-- Array: 151
+- Array: 152
 - General: 1
 - Enumeration: 1
 - Divide-and-conquer: 1
@@ -213,6 +213,7 @@ Automatically organized collection of LeetCode solutions.
 | 874 | Backspace String Compare | two-pointers | easy | java | [Solution](solutions/java/two-pointers/easy/874_backspace-string-compare_two-pointers_easy.java) |
 | 882 | Peak Index In A Mountain Array | array | medium | java | [Solution](solutions/java/array/medium/882_peak-index-in-a-mountain-array_array_medium.java) |
 | 889 | Buddy Strings | hash-table | easy | java | [Solution](solutions/java/hash-table/easy/889_buddy-strings_hash-table_easy.java) |
+| 892 | Shortest Subarray With Sum At Least K | array | hard | java | [Solution](solutions/java/array/hard/892_shortest-subarray-with-sum-at-least-k_array_hard.java) |
 | 908 | Middle Of The Linked List | linked-list | easy | java | [Solution](solutions/java/linked-list/easy/908_middle-of-the-linked-list_linked-list_easy.java) |
 | 917 | Boats To Save People | array | medium | java | [Solution](solutions/java/array/medium/917_boats-to-save-people_array_medium.java) |
 | 940 | Fruit Into Baskets | array | medium | java | [Solution](solutions/java/array/medium/940_fruit-into-baskets_array_medium.java) |
@@ -336,51 +337,3 @@ Automatically organized collection of LeetCode solutions.
 | 4299 | Concatenate Array With Reverse | array | easy | java | [Solution](solutions/java/array/easy/4299_concatenate-array-with-reverse_array_easy.java) |
 | 4312 | Limit Occurrences In Sorted Array | array | easy | java | [Solution](solutions/java/array/easy/4312_limit-occurrences-in-sorted-array_array_easy.java) |
 | 4313 | Password Strength | hash-table | medium | java | [Solution](solutions/java/hash-table/medium/4313_password-strength_hash-table_medium.java) |
-
-<!---LeetCode Topics Start-->
-# LeetCode Topics
-## Array
-| Problem Name | Difficulty |
-| ------- | ------- |
-| [0016-3sum-closest](https://github.com/imrajeevnayan/leetcode-solution/tree/main/0016-3sum-closest/) | Medium |
-| [0862-shortest-subarray-with-sum-at-least-k](https://github.com/imrajeevnayan/leetcode-solution/tree/main/0862-shortest-subarray-with-sum-at-least-k/) | Hard |
-| [0881-boats-to-save-people](https://github.com/imrajeevnayan/leetcode-solution/tree/main/0881-boats-to-save-people/) | Medium |
-## Two Pointers
-| Problem Name | Difficulty |
-| ------- | ------- |
-| [0016-3sum-closest](https://github.com/imrajeevnayan/leetcode-solution/tree/main/0016-3sum-closest/) | Medium |
-| [0881-boats-to-save-people](https://github.com/imrajeevnayan/leetcode-solution/tree/main/0881-boats-to-save-people/) | Medium |
-## Greedy
-| Problem Name | Difficulty |
-| ------- | ------- |
-| [0881-boats-to-save-people](https://github.com/imrajeevnayan/leetcode-solution/tree/main/0881-boats-to-save-people/) | Medium |
-## Sorting
-| Problem Name | Difficulty |
-| ------- | ------- |
-| [0016-3sum-closest](https://github.com/imrajeevnayan/leetcode-solution/tree/main/0016-3sum-closest/) | Medium |
-| [0881-boats-to-save-people](https://github.com/imrajeevnayan/leetcode-solution/tree/main/0881-boats-to-save-people/) | Medium |
-## Binary Search
-| Problem Name | Difficulty |
-| ------- | ------- |
-| [0862-shortest-subarray-with-sum-at-least-k](https://github.com/imrajeevnayan/leetcode-solution/tree/main/0862-shortest-subarray-with-sum-at-least-k/) | Hard |
-## Queue
-| Problem Name | Difficulty |
-| ------- | ------- |
-| [0862-shortest-subarray-with-sum-at-least-k](https://github.com/imrajeevnayan/leetcode-solution/tree/main/0862-shortest-subarray-with-sum-at-least-k/) | Hard |
-## Sliding Window
-| Problem Name | Difficulty |
-| ------- | ------- |
-| [0862-shortest-subarray-with-sum-at-least-k](https://github.com/imrajeevnayan/leetcode-solution/tree/main/0862-shortest-subarray-with-sum-at-least-k/) | Hard |
-## Heap (Priority Queue)
-| Problem Name | Difficulty |
-| ------- | ------- |
-| [0862-shortest-subarray-with-sum-at-least-k](https://github.com/imrajeevnayan/leetcode-solution/tree/main/0862-shortest-subarray-with-sum-at-least-k/) | Hard |
-## Prefix Sum
-| Problem Name | Difficulty |
-| ------- | ------- |
-| [0862-shortest-subarray-with-sum-at-least-k](https://github.com/imrajeevnayan/leetcode-solution/tree/main/0862-shortest-subarray-with-sum-at-least-k/) | Hard |
-## Monotonic Queue
-| Problem Name | Difficulty |
-| ------- | ------- |
-| [0862-shortest-subarray-with-sum-at-least-k](https://github.com/imrajeevnayan/leetcode-solution/tree/main/0862-shortest-subarray-with-sum-at-least-k/) | Hard |
-<!---LeetCode Topics End-->
