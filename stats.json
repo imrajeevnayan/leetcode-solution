@@ -804,17 +804,18 @@
     "LeetCode_Valid_Palindrome": true,
     "LeetCode_Generate_Parentheses": true,
     "GeeksForGeeks_Array_Search": true,
-    "GeeksForGeeks_Sum_of_Array": true
+    "GeeksForGeeks_Sum_of_Array": true,
+    "GeeksForGeeks_Sum_Of_Digits": true
   },
-  "totalSolved": 332,
+  "totalSolved": 333,
   "difficultyCounts": {
-    "easy": 107,
+    "easy": 108,
     "medium": 144,
     "hard": 5,
     "basic": 76
   },
   "currentStreak": 9,
-  "todayCount": 3,
+  "todayCount": 4,
   "lastSyncDate": "2026-07-14",
   "maxStreak": 15,
   "activityHistory": {
@@ -864,7 +865,7 @@
     "2026-07-11": 9,
     "2026-07-12": 13,
     "2026-07-13": 4,
-    "2026-07-14": 3
+    "2026-07-14": 4
   },
   "todayProblems": [
     "Most Frequent Character",
@@ -1197,6 +1198,7 @@
     "Valid Palindrome",
     "Generate Parentheses",
     "Array Search",
-    "Sum of Array"
+    "Sum of Array",
+    "Sum Of Digits"
   ]
 }
