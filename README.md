@@ -4,7 +4,7 @@ Automatically organized collection of LeetCode solutions.
 
 ## 📊 Statistics
 
-- **Total Problems Solved:** 305
+- **Total Problems Solved:** 306
 - **Current Streak:** 6 days
 - **Longest Streak:** 14 days
 
@@ -13,11 +13,11 @@ Automatically organized collection of LeetCode solutions.
 #### By Language
 - Sql: 27
 - Javascript: 2
-- Java: 276
+- Java: 277
 
 #### By Topic
 - Database: 27
-- Array: 153
+- Array: 154
 - General: 1
 - Enumeration: 1
 - Divide-and-conquer: 1
@@ -102,6 +102,7 @@ Automatically organized collection of LeetCode solutions.
 | 121 | Best Time To Buy And Sell Stock | array | easy | java | [Solution](solutions/java/array/easy/121_best-time-to-buy-and-sell-stock_array_easy.java) |
 | 122 | Best Time To Buy And Sell Stock Ii | array | medium | java | [Solution](solutions/java/array/medium/122_best-time-to-buy-and-sell-stock-ii_array_medium.java) |
 | 125 | Valid Palindrome | two-pointers | easy | java | [Solution](solutions/java/two-pointers/easy/125_valid-palindrome_two-pointers_easy.java) |
+| 128 | Longest Consecutive Sequence | array | medium | java | [Solution](solutions/java/array/medium/128_longest-consecutive-sequence_array_medium.java) |
 | 134 | Gas Station | array | medium | java | [Solution](solutions/java/array/medium/134_gas-station_array_medium.java) |
 | 135 | Candy | array | hard | java | [Solution](solutions/java/array/hard/135_candy_array_hard.java) |
 | 136 | Single Number | array | easy | java | [Solution](solutions/java/array/easy/136_single-number_array_easy.java) |
@@ -341,19 +342,3 @@ Automatically organized collection of LeetCode solutions.
 | 4299 | Concatenate Array With Reverse | array | easy | java | [Solution](solutions/java/array/easy/4299_concatenate-array-with-reverse_array_easy.java) |
 | 4312 | Limit Occurrences In Sorted Array | array | easy | java | [Solution](solutions/java/array/easy/4312_limit-occurrences-in-sorted-array_array_easy.java) |
 | 4313 | Password Strength | hash-table | medium | java | [Solution](solutions/java/hash-table/medium/4313_password-strength_hash-table_medium.java) |
-
-<!---LeetCode Topics Start-->
-# LeetCode Topics
-## Array
-| Problem Name | Difficulty |
-| ------- | ------- |
-| [0128-longest-consecutive-sequence](https://github.com/imrajeevnayan/leetcode-solution/tree/main/0128-longest-consecutive-sequence/) | Medium |
-## Hash Table
-| Problem Name | Difficulty |
-| ------- | ------- |
-| [0128-longest-consecutive-sequence](https://github.com/imrajeevnayan/leetcode-solution/tree/main/0128-longest-consecutive-sequence/) | Medium |
-## Union-Find
-| Problem Name | Difficulty |
-| ------- | ------- |
-| [0128-longest-consecutive-sequence](https://github.com/imrajeevnayan/leetcode-solution/tree/main/0128-longest-consecutive-sequence/) | Medium |
-<!---LeetCode Topics End-->
