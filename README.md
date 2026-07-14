@@ -21,6 +21,10 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0007-reverse-integer](https://github.com/imrajeevnayan/leetcode-solution/tree/main/0007-reverse-integer/) | Medium |
+## String
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1446-consecutive-characters](https://github.com/imrajeevnayan/leetcode-solution/tree/main/1446-consecutive-characters/) | Easy |
 <!---LeetCode Topics End-->
 | 2 | [Array Search](https://www.geeksforgeeks.org/problems/search-an-element-in-an-array-1587115621/1?sortBy=submissions&category%5B%5D=Arrays&page=1&difficulty%5B%5D=-1) | GeeksForGeeks | Basic | 14 Jul 2026 | 08:35 pm |
 | 3 | [Sum of Array](https://www.geeksforgeeks.org/problems/sum-all-array-elements/1) | GeeksForGeeks | Basic | 14 Jul 2026 | 08:48 pm |
