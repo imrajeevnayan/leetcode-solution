@@ -349,6 +349,7 @@ Automatically organized collection of LeetCode solutions.
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0022-generate-parentheses](https://github.com/imrajeevnayan/leetcode-solution/tree/main/0022-generate-parentheses/) | Medium |
 | [0345-reverse-vowels-of-a-string](https://github.com/imrajeevnayan/leetcode-solution/tree/main/0345-reverse-vowels-of-a-string/) | Easy |
 ## Array
 | Problem Name | Difficulty |
@@ -358,4 +359,12 @@ Automatically organized collection of LeetCode solutions.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/imrajeevnayan/leetcode-solution/tree/main/0153-find-minimum-in-rotated-sorted-array/) | Medium |
+## Dynamic Programming
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0022-generate-parentheses](https://github.com/imrajeevnayan/leetcode-solution/tree/main/0022-generate-parentheses/) | Medium |
+## Backtracking
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0022-generate-parentheses](https://github.com/imrajeevnayan/leetcode-solution/tree/main/0022-generate-parentheses/) | Medium |
 <!---LeetCode Topics End-->
