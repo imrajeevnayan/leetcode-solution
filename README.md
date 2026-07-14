@@ -22,3 +22,4 @@
 | 3 | [Sum of Array](https://www.geeksforgeeks.org/problems/sum-all-array-elements/1) | GeeksForGeeks | Basic | 14 Jul 2026 | 08:48 pm |
 | 4 | [Sum Of Digits](https://www.geeksforgeeks.org/problems/sum-of-digits1742/1) | GeeksForGeeks | Easy | 14 Jul 2026 | 08:52 pm |
 | 5 | [Alternates in an Array](https://www.geeksforgeeks.org/problems/print-alternate-elements-of-an-array/1) | GeeksForGeeks | Basic | 14 Jul 2026 | 08:56 pm |
+| 6 | [C++ Input / Output](https://www.geeksforgeeks.org/problems/c-input-output2432/1) | GeeksForGeeks | Basic | 14 Jul 2026 | 11:41 pm |
