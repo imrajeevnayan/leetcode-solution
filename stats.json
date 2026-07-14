@@ -805,17 +805,18 @@
     "LeetCode_Generate_Parentheses": true,
     "GeeksForGeeks_Array_Search": true,
     "GeeksForGeeks_Sum_of_Array": true,
-    "GeeksForGeeks_Sum_Of_Digits": true
+    "GeeksForGeeks_Sum_Of_Digits": true,
+    "GeeksForGeeks_Alternates_in_an_Array": true
   },
-  "totalSolved": 333,
+  "totalSolved": 334,
   "difficultyCounts": {
     "easy": 108,
     "medium": 144,
     "hard": 5,
-    "basic": 76
+    "basic": 77
   },
   "currentStreak": 9,
-  "todayCount": 4,
+  "todayCount": 5,
   "lastSyncDate": "2026-07-14",
   "maxStreak": 15,
   "activityHistory": {
@@ -865,7 +866,7 @@
     "2026-07-11": 9,
     "2026-07-12": 13,
     "2026-07-13": 4,
-    "2026-07-14": 4
+    "2026-07-14": 5
   },
   "todayProblems": [
     "Most Frequent Character",
@@ -1199,6 +1200,7 @@
     "Generate Parentheses",
     "Array Search",
     "Sum of Array",
-    "Sum Of Digits"
+    "Sum Of Digits",
+    "Alternates in an Array"
   ]
 }
