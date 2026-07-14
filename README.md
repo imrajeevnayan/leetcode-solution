@@ -4,8 +4,8 @@ Automatically organized collection of LeetCode solutions.
 
 ## 📊 Statistics
 
-- **Total Problems Solved:** 303
-- **Current Streak:** 5 days
+- **Total Problems Solved:** 304
+- **Current Streak:** 6 days
 - **Longest Streak:** 14 days
 
 ### 🧩 Breakdown
@@ -13,7 +13,7 @@ Automatically organized collection of LeetCode solutions.
 #### By Language
 - Sql: 27
 - Javascript: 2
-- Java: 274
+- Java: 275
 
 #### By Topic
 - Database: 27
@@ -25,7 +25,7 @@ Automatically organized collection of LeetCode solutions.
 - Tree: 5
 - Hash-table: 28
 - Linked-list: 19
-- String: 23
+- String: 24
 - Stack: 1
 - Dynamic-programming: 2
 - Binary-search: 1
@@ -56,6 +56,7 @@ Automatically organized collection of LeetCode solutions.
 | 19 | Remove Nth Node From End Of List | linked-list | medium | java | [Solution](solutions/java/linked-list/medium/19_remove-nth-node-from-end-of-list_linked-list_medium.java) |
 | 20 | Valid Parentheses | string | easy | java | [Solution](solutions/java/string/easy/20_valid-parentheses_string_easy.java) |
 | 21 | Merge Two Sorted Lists | linked-list | easy | java | [Solution](solutions/java/linked-list/easy/21_merge-two-sorted-lists_linked-list_easy.java) |
+| 22 | Generate Parentheses | string | medium | java | [Solution](solutions/java/string/medium/22_generate-parentheses_string_medium.java) |
 | 23 | Merge K Sorted Lists | linked-list | hard | java | [Solution](solutions/java/linked-list/hard/23_merge-k-sorted-lists_linked-list_hard.java) |
 | 25 | Reverse Nodes In K Group | linked-list | hard | java | [Solution](solutions/java/linked-list/hard/25_reverse-nodes-in-k-group_linked-list_hard.java) |
 | 26 | Remove Duplicates From Sorted Array | array | easy | java | [Solution](solutions/java/array/easy/26_remove-duplicates-from-sorted-array_array_easy.java) |
@@ -339,32 +340,3 @@ Automatically organized collection of LeetCode solutions.
 | 4299 | Concatenate Array With Reverse | array | easy | java | [Solution](solutions/java/array/easy/4299_concatenate-array-with-reverse_array_easy.java) |
 | 4312 | Limit Occurrences In Sorted Array | array | easy | java | [Solution](solutions/java/array/easy/4312_limit-occurrences-in-sorted-array_array_easy.java) |
 | 4313 | Password Strength | hash-table | medium | java | [Solution](solutions/java/hash-table/medium/4313_password-strength_hash-table_medium.java) |
-
-<!---LeetCode Topics Start-->
-# LeetCode Topics
-## Two Pointers
-| Problem Name | Difficulty |
-| ------- | ------- |
-| [0345-reverse-vowels-of-a-string](https://github.com/imrajeevnayan/leetcode-solution/tree/main/0345-reverse-vowels-of-a-string/) | Easy |
-## String
-| Problem Name | Difficulty |
-| ------- | ------- |
-| [0022-generate-parentheses](https://github.com/imrajeevnayan/leetcode-solution/tree/main/0022-generate-parentheses/) | Medium |
-| [0345-reverse-vowels-of-a-string](https://github.com/imrajeevnayan/leetcode-solution/tree/main/0345-reverse-vowels-of-a-string/) | Easy |
-## Array
-| Problem Name | Difficulty |
-| ------- | ------- |
-| [0153-find-minimum-in-rotated-sorted-array](https://github.com/imrajeevnayan/leetcode-solution/tree/main/0153-find-minimum-in-rotated-sorted-array/) | Medium |
-## Binary Search
-| Problem Name | Difficulty |
-| ------- | ------- |
-| [0153-find-minimum-in-rotated-sorted-array](https://github.com/imrajeevnayan/leetcode-solution/tree/main/0153-find-minimum-in-rotated-sorted-array/) | Medium |
-## Dynamic Programming
-| Problem Name | Difficulty |
-| ------- | ------- |
-| [0022-generate-parentheses](https://github.com/imrajeevnayan/leetcode-solution/tree/main/0022-generate-parentheses/) | Medium |
-## Backtracking
-| Problem Name | Difficulty |
-| ------- | ------- |
-| [0022-generate-parentheses](https://github.com/imrajeevnayan/leetcode-solution/tree/main/0022-generate-parentheses/) | Medium |
-<!---LeetCode Topics End-->
