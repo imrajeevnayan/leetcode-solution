@@ -803,17 +803,18 @@
     "GeeksForGeeks_Tower_Of_Hanoi": true,
     "LeetCode_Valid_Palindrome": true,
     "LeetCode_Generate_Parentheses": true,
-    "GeeksForGeeks_Array_Search": true
+    "GeeksForGeeks_Array_Search": true,
+    "GeeksForGeeks_Sum_of_Array": true
   },
-  "totalSolved": 331,
+  "totalSolved": 332,
   "difficultyCounts": {
     "easy": 107,
     "medium": 144,
     "hard": 5,
-    "basic": 75
+    "basic": 76
   },
   "currentStreak": 9,
-  "todayCount": 2,
+  "todayCount": 3,
   "lastSyncDate": "2026-07-14",
   "maxStreak": 15,
   "activityHistory": {
@@ -863,7 +864,7 @@
     "2026-07-11": 9,
     "2026-07-12": 13,
     "2026-07-13": 4,
-    "2026-07-14": 2
+    "2026-07-14": 3
   },
   "todayProblems": [
     "Most Frequent Character",
@@ -1195,6 +1196,7 @@
     "Tower Of Hanoi",
     "Valid Palindrome",
     "Generate Parentheses",
-    "Array Search"
+    "Array Search",
+    "Sum of Array"
   ]
 }
