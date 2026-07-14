@@ -5,9 +5,9 @@ class Solution {
          if(n==1){
          count++;
          maxCount=Math.max(maxCount,count);
-      }
+        }
         else count=0;
-         }
+      }
        return  maxCount;
     }
 }
