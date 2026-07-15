@@ -1,0 +1,14 @@
+class Solution {
+    public List<Integer> frequencyCount(int[] arr) {
+        int n = arr.length;
+        int[] freq = new int[n];
+        for (int num : arr) {
+            if (num >= 1 && num <= n) {
+                freq[num - 1]++;
+            }
+        }
+        List<Integer> res = new ArrayList<>();
+        for (int f : freq)res.add(f);
+        return res;
+    }
+}
