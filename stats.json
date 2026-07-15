@@ -807,18 +807,19 @@
     "GeeksForGeeks_Sum_of_Array": true,
     "GeeksForGeeks_Sum_Of_Digits": true,
     "GeeksForGeeks_Alternates_in_an_Array": true,
-    "GeeksForGeeks_C++_Input_/_Output": true
+    "GeeksForGeeks_C++_Input_/_Output": true,
+    "GeeksForGeeks_Reverse_digits": true
   },
-  "totalSolved": 335,
+  "totalSolved": 336,
   "difficultyCounts": {
     "easy": 108,
     "medium": 144,
     "hard": 5,
-    "basic": 78
+    "basic": 79
   },
-  "currentStreak": 9,
-  "todayCount": 6,
-  "lastSyncDate": "2026-07-14",
+  "currentStreak": 10,
+  "todayCount": 1,
+  "lastSyncDate": "2026-07-15",
   "maxStreak": 15,
   "activityHistory": {
     "2026-05-19": 2,
@@ -867,7 +868,8 @@
     "2026-07-11": 9,
     "2026-07-12": 13,
     "2026-07-13": 4,
-    "2026-07-14": 6
+    "2026-07-14": 6,
+    "2026-07-15": 1
   },
   "todayProblems": [
     "Most Frequent Character",
@@ -1203,6 +1205,7 @@
     "Sum of Array",
     "Sum Of Digits",
     "Alternates in an Array",
-    "C++ Input / Output"
+    "C++ Input / Output",
+    "Reverse digits"
   ]
 }
