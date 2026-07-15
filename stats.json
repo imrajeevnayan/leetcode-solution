@@ -809,17 +809,18 @@
     "GeeksForGeeks_Alternates_in_an_Array": true,
     "GeeksForGeeks_C++_Input_/_Output": true,
     "GeeksForGeeks_Reverse_digits": true,
-    "GeeksForGeeks_Frequencies_in_a_Limited_Array": true
+    "GeeksForGeeks_Frequencies_in_a_Limited_Array": true,
+    "LeetCode_Top_K_Frequent_Elements": true
   },
-  "totalSolved": 337,
+  "totalSolved": 338,
   "difficultyCounts": {
     "easy": 108,
-    "medium": 145,
+    "medium": 146,
     "hard": 5,
     "basic": 79
   },
   "currentStreak": 10,
-  "todayCount": 2,
+  "todayCount": 3,
   "lastSyncDate": "2026-07-15",
   "maxStreak": 15,
   "activityHistory": {
@@ -870,7 +871,7 @@
     "2026-07-12": 13,
     "2026-07-13": 4,
     "2026-07-14": 6,
-    "2026-07-15": 2
+    "2026-07-15": 3
   },
   "todayProblems": [
     "Most Frequent Character",
@@ -1208,6 +1209,7 @@
     "Alternates in an Array",
     "C++ Input / Output",
     "Reverse digits",
-    "Frequencies in a Limited Array"
+    "Frequencies in a Limited Array",
+    "Top K Frequent Elements"
   ]
 }
