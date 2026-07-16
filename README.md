@@ -19,6 +19,7 @@
 | [0125-valid-palindrome](https://github.com/imrajeevnayan/leetcode-solution/tree/main/0125-valid-palindrome/) | Easy |
 | [0451-sort-characters-by-frequency](https://github.com/imrajeevnayan/leetcode-solution/tree/main/0451-sort-characters-by-frequency/) | Medium |
 | [0692-top-k-frequent-words](https://github.com/imrajeevnayan/leetcode-solution/tree/main/0692-top-k-frequent-words/) | Medium |
+| [3110-score-of-a-string](https://github.com/imrajeevnayan/leetcode-solution/tree/main/3110-score-of-a-string/) | Easy |
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
