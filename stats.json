@@ -810,18 +810,19 @@
     "GeeksForGeeks_C++_Input_/_Output": true,
     "GeeksForGeeks_Reverse_digits": true,
     "GeeksForGeeks_Frequencies_in_a_Limited_Array": true,
-    "LeetCode_Top_K_Frequent_Elements": true
+    "LeetCode_Top_K_Frequent_Elements": true,
+    "LeetCode_GCD_of_Odd_and_Even_Sums": true
   },
-  "totalSolved": 338,
+  "totalSolved": 339,
   "difficultyCounts": {
-    "easy": 108,
+    "easy": 109,
     "medium": 146,
     "hard": 5,
     "basic": 79
   },
-  "currentStreak": 10,
-  "todayCount": 3,
-  "lastSyncDate": "2026-07-15",
+  "currentStreak": 1,
+  "todayCount": 1,
+  "lastSyncDate": "2026-07-17",
   "maxStreak": 15,
   "activityHistory": {
     "2026-05-19": 2,
@@ -871,7 +872,8 @@
     "2026-07-12": 13,
     "2026-07-13": 4,
     "2026-07-14": 6,
-    "2026-07-15": 3
+    "2026-07-15": 3,
+    "2026-07-17": 1
   },
   "todayProblems": [
     "Most Frequent Character",
@@ -1210,6 +1212,7 @@
     "C++ Input / Output",
     "Reverse digits",
     "Frequencies in a Limited Array",
-    "Top K Frequent Elements"
+    "Top K Frequent Elements",
+    "GCD of Odd and Even Sums"
   ]
 }
