@@ -1,23 +1,15 @@
 class Solution {
     public List<List<Integer>> generate(int numRows) {
-        List<List<Integer>> triangle = new ArrayList<>();
-        
-        for (int i = 0; i < numRows; i++) {
-            List<Integer> row = new ArrayList<>();
-            
-            for (int j = 0; j <= i; j++) {
-                // First and last elements of each row are always 1
-                if (j == 0 || j == i) {
-                    row.add(1);
-                } else {
-                    // DP relation: current element is sum of two elements above it
-                    int val = triangle.get(i - 1).get(j - 1) + triangle.get(i - 1).get(j);
-                    row.add(val);
-                }
-            }
-            triangle.add(row);
+     List<List<Integer>>res=new ArrayList<>();
+     for(int i=0;i<numRows;i++){
+        List<Integer>ans=new ArrayList<>();
+        int val=1;
+        for(int j=0;j<=i;j++){
+            ans.add(val);
+            val=val*(i-j)/(j+1);
         }
-        
-        return triangle;
+        res.add(ans);
+     }
+     return res;    
     }
 }
