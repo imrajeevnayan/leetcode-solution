@@ -8,11 +8,13 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0009-palindrome-number](https://github.com/imrajeevnayan/leetcode-solution/tree/main/0009-palindrome-number/) | Easy |
+| [0189-rotate-array](https://github.com/imrajeevnayan/leetcode-solution/tree/main/0189-rotate-array/) | Medium |
 | [0509-fibonacci-number](https://github.com/imrajeevnayan/leetcode-solution/tree/main/0509-fibonacci-number/) | Easy |
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0125-valid-palindrome](https://github.com/imrajeevnayan/leetcode-solution/tree/main/0125-valid-palindrome/) | Easy |
+| [0189-rotate-array](https://github.com/imrajeevnayan/leetcode-solution/tree/main/0189-rotate-array/) | Medium |
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -35,6 +37,7 @@
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0189-rotate-array](https://github.com/imrajeevnayan/leetcode-solution/tree/main/0189-rotate-array/) | Medium |
 | [0215-kth-largest-element-in-an-array](https://github.com/imrajeevnayan/leetcode-solution/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
 | [0238-product-of-array-except-self](https://github.com/imrajeevnayan/leetcode-solution/tree/main/0238-product-of-array-except-self/) | Medium |
 | [0347-top-k-frequent-elements](https://github.com/imrajeevnayan/leetcode-solution/tree/main/0347-top-k-frequent-elements/) | Medium |
