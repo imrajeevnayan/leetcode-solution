@@ -4,7 +4,7 @@ Automatically organized collection of LeetCode solutions.
 
 ## 📊 Statistics
 
-- **Total Problems Solved:** 309
+- **Total Problems Solved:** 310
 - **Current Streak:** 2 days
 - **Longest Streak:** 14 days
 
@@ -13,7 +13,7 @@ Automatically organized collection of LeetCode solutions.
 #### By Language
 - Sql: 27
 - Javascript: 2
-- Java: 280
+- Java: 281
 
 #### By Topic
 - Database: 27
@@ -25,7 +25,7 @@ Automatically organized collection of LeetCode solutions.
 - Enumeration: 1
 - Dynamic-programming: 2
 - Binary-search: 1
-- Two-pointers: 12
+- Two-pointers: 13
 - Tree: 5
 - Hash-table: 28
 - Bit-manipulation: 1
@@ -290,6 +290,7 @@ Automatically organized collection of LeetCode solutions.
 | 2058 | Concatenation Of Array | array | easy | java | [Solution](solutions/java/array/easy/2058_concatenation-of-array_array_easy.java) |
 | 2106 | Find Greatest Common Divisor Of Array | array | easy | java | [Solution](solutions/java/array/easy/2106_find-greatest-common-divisor-of-array_array_easy.java) |
 | 2113 | Find The Kth Largest Integer In The Array | array | medium | java | [Solution](solutions/java/array/medium/2113_find-the-kth-largest-integer-in-the-array_array_medium.java) |
+| 2128 | Reverse Prefix Of Word | two-pointers | easy | java | [Solution](solutions/java/two-pointers/easy/2128_reverse-prefix-of-word_two-pointers_easy.java) |
 | 2170 | Count Number Of Maximum Bitwise Or Subsets | array | medium | java | [Solution](solutions/java/array/medium/2170_count-number-of-maximum-bitwise-or-subsets_array_medium.java) |
 | 2177 | Check Whether Two Strings Are Almost Equivalent | hash-table | easy | java | [Solution](solutions/java/hash-table/easy/2177_check-whether-two-strings-are-almost-equivalent_hash-table_easy.java) |
 | 2195 | Time Needed To Buy Tickets | array | easy | java | [Solution](solutions/java/array/easy/2195_time-needed-to-buy-tickets_array_easy.java) |
@@ -345,19 +346,3 @@ Automatically organized collection of LeetCode solutions.
 | 4299 | Concatenate Array With Reverse | array | easy | java | [Solution](solutions/java/array/easy/4299_concatenate-array-with-reverse_array_easy.java) |
 | 4312 | Limit Occurrences In Sorted Array | array | easy | java | [Solution](solutions/java/array/easy/4312_limit-occurrences-in-sorted-array_array_easy.java) |
 | 4313 | Password Strength | hash-table | medium | java | [Solution](solutions/java/hash-table/medium/4313_password-strength_hash-table_medium.java) |
-
-<!---LeetCode Topics Start-->
-# LeetCode Topics
-## Two Pointers
-| Problem Name | Difficulty |
-| ------- | ------- |
-| [2000-reverse-prefix-of-word](https://github.com/imrajeevnayan/leetcode-solution/tree/main/2000-reverse-prefix-of-word/) | Easy |
-## String
-| Problem Name | Difficulty |
-| ------- | ------- |
-| [2000-reverse-prefix-of-word](https://github.com/imrajeevnayan/leetcode-solution/tree/main/2000-reverse-prefix-of-word/) | Easy |
-## Stack
-| Problem Name | Difficulty |
-| ------- | ------- |
-| [2000-reverse-prefix-of-word](https://github.com/imrajeevnayan/leetcode-solution/tree/main/2000-reverse-prefix-of-word/) | Easy |
-<!---LeetCode Topics End-->
