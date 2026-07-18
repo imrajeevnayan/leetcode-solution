@@ -4,7 +4,7 @@ Automatically organized collection of LeetCode solutions.
 
 ## 📊 Statistics
 
-- **Total Problems Solved:** 308
+- **Total Problems Solved:** 309
 - **Current Streak:** 2 days
 - **Longest Streak:** 14 days
 
@@ -13,12 +13,12 @@ Automatically organized collection of LeetCode solutions.
 #### By Language
 - Sql: 27
 - Javascript: 2
-- Java: 279
+- Java: 280
 
 #### By Topic
 - Database: 27
 - General: 1
-- Array: 154
+- Array: 155
 - Math: 30
 - Divide-and-conquer: 1
 - Linked-list: 19
@@ -294,6 +294,7 @@ Automatically organized collection of LeetCode solutions.
 | 2177 | Check Whether Two Strings Are Almost Equivalent | hash-table | easy | java | [Solution](solutions/java/hash-table/easy/2177_check-whether-two-strings-are-almost-equivalent_hash-table_easy.java) |
 | 2195 | Time Needed To Buy Tickets | array | easy | java | [Solution](solutions/java/array/easy/2195_time-needed-to-buy-tickets_array_easy.java) |
 | 2216 | Delete The Middle Node Of A Linked List | linked-list | medium | java | [Solution](solutions/java/linked-list/medium/2216_delete-the-middle-node-of-a-linked-list_linked-list_medium.java) |
+| 2219 | Maximum Number Of Words Found In Sentences | array | easy | java | [Solution](solutions/java/array/easy/2219_maximum-number-of-words-found-in-sentences_array_easy.java) |
 | 2236 | Maximum Twin Sum Of A Linked List | linked-list | medium | java | [Solution](solutions/java/linked-list/medium/2236_maximum-twin-sum-of-a-linked-list_linked-list_medium.java) |
 | 2265 | Partition Array According To Given Pivot | array | medium | java | [Solution](solutions/java/array/medium/2265_partition-array-according-to-given-pivot_array_medium.java) |
 | 2331 | Intersection Of Multiple Arrays | array | easy | java | [Solution](solutions/java/array/easy/2331_intersection-of-multiple-arrays_array_easy.java) |
@@ -344,15 +345,3 @@ Automatically organized collection of LeetCode solutions.
 | 4299 | Concatenate Array With Reverse | array | easy | java | [Solution](solutions/java/array/easy/4299_concatenate-array-with-reverse_array_easy.java) |
 | 4312 | Limit Occurrences In Sorted Array | array | easy | java | [Solution](solutions/java/array/easy/4312_limit-occurrences-in-sorted-array_array_easy.java) |
 | 4313 | Password Strength | hash-table | medium | java | [Solution](solutions/java/hash-table/medium/4313_password-strength_hash-table_medium.java) |
-
-<!---LeetCode Topics Start-->
-# LeetCode Topics
-## Array
-| Problem Name | Difficulty |
-| ------- | ------- |
-| [2114-maximum-number-of-words-found-in-sentences](https://github.com/imrajeevnayan/leetcode-solution/tree/main/2114-maximum-number-of-words-found-in-sentences/) | Easy |
-## String
-| Problem Name | Difficulty |
-| ------- | ------- |
-| [2114-maximum-number-of-words-found-in-sentences](https://github.com/imrajeevnayan/leetcode-solution/tree/main/2114-maximum-number-of-words-found-in-sentences/) | Easy |
-<!---LeetCode Topics End-->
