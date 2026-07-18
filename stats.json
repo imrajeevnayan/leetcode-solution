@@ -814,18 +814,19 @@
     "LeetCode_GCD_of_Odd_and_Even_Sums": true,
     "GeeksForGeeks_Numbers_with_Given_Digit_Sum": true,
     "GeeksForGeeks_All_Subsequences_of_a_String": true,
-    "GeeksForGeeks_Distinct_Sorted": true
+    "GeeksForGeeks_Distinct_Sorted": true,
+    "GeeksForGeeks_Delete_without_head_pointer": true
   },
-  "totalSolved": 342,
+  "totalSolved": 343,
   "difficultyCounts": {
     "easy": 109,
-    "medium": 148,
+    "medium": 149,
     "hard": 5,
     "basic": 80
   },
-  "currentStreak": 2,
-  "todayCount": 2,
-  "lastSyncDate": "2026-07-18",
+  "currentStreak": 3,
+  "todayCount": 1,
+  "lastSyncDate": "2026-07-19",
   "maxStreak": 15,
   "activityHistory": {
     "2026-05-19": 2,
@@ -877,7 +878,8 @@
     "2026-07-14": 6,
     "2026-07-15": 3,
     "2026-07-17": 2,
-    "2026-07-18": 2
+    "2026-07-18": 2,
+    "2026-07-19": 1
   },
   "todayProblems": [
     "Most Frequent Character",
@@ -1220,6 +1222,7 @@
     "GCD of Odd and Even Sums",
     "Numbers with Given Digit Sum",
     "All Subsequences of a String",
-    "Distinct Sorted"
+    "Distinct Sorted",
+    "Delete without head pointer"
   ]
 }
