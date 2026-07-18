@@ -25,5 +25,13 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/imrajeevnayan/leetcode-solution/tree/main/1979-find-greatest-common-divisor-of-array/) | Easy |
+## Two Pointers
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3794-reverse-string-prefix](https://github.com/imrajeevnayan/leetcode-solution/tree/main/3794-reverse-string-prefix/) | Easy |
+## String
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3794-reverse-string-prefix](https://github.com/imrajeevnayan/leetcode-solution/tree/main/3794-reverse-string-prefix/) | Easy |
 <!---LeetCode Topics End-->
 | 2 | [All Subsequences of a String](https://www.geeksforgeeks.org/problems/power-set4302/1) | GeeksForGeeks | Medium | 18 Jul 2026 | 05:31 pm |
