@@ -812,18 +812,19 @@
     "GeeksForGeeks_Frequencies_in_a_Limited_Array": true,
     "LeetCode_Top_K_Frequent_Elements": true,
     "LeetCode_GCD_of_Odd_and_Even_Sums": true,
-    "GeeksForGeeks_Numbers_with_Given_Digit_Sum": true
+    "GeeksForGeeks_Numbers_with_Given_Digit_Sum": true,
+    "GeeksForGeeks_All_Subsequences_of_a_String": true
   },
-  "totalSolved": 340,
+  "totalSolved": 341,
   "difficultyCounts": {
     "easy": 109,
-    "medium": 147,
+    "medium": 148,
     "hard": 5,
     "basic": 79
   },
-  "currentStreak": 1,
-  "todayCount": 2,
-  "lastSyncDate": "2026-07-17",
+  "currentStreak": 2,
+  "todayCount": 1,
+  "lastSyncDate": "2026-07-18",
   "maxStreak": 15,
   "activityHistory": {
     "2026-05-19": 2,
@@ -874,7 +875,8 @@
     "2026-07-13": 4,
     "2026-07-14": 6,
     "2026-07-15": 3,
-    "2026-07-17": 2
+    "2026-07-17": 2,
+    "2026-07-18": 1
   },
   "todayProblems": [
     "Most Frequent Character",
@@ -1215,6 +1217,7 @@
     "Frequencies in a Limited Array",
     "Top K Frequent Elements",
     "GCD of Odd and Even Sums",
-    "Numbers with Given Digit Sum"
+    "Numbers with Given Digit Sum",
+    "All Subsequences of a String"
   ]
 }
