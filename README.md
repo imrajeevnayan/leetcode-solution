@@ -354,6 +354,7 @@ Automatically organized collection of LeetCode solutions.
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0055-jump-game](https://github.com/imrajeevnayan/leetcode-solution/tree/main/0055-jump-game/) | Medium |
 | [0442-find-all-duplicates-in-an-array](https://github.com/imrajeevnayan/leetcode-solution/tree/main/0442-find-all-duplicates-in-an-array/) | Medium |
 ## Hash Table
 | Problem Name | Difficulty |
@@ -363,4 +364,12 @@ Automatically organized collection of LeetCode solutions.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0442-find-all-duplicates-in-an-array](https://github.com/imrajeevnayan/leetcode-solution/tree/main/0442-find-all-duplicates-in-an-array/) | Medium |
+## Dynamic Programming
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0055-jump-game](https://github.com/imrajeevnayan/leetcode-solution/tree/main/0055-jump-game/) | Medium |
+## Greedy
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0055-jump-game](https://github.com/imrajeevnayan/leetcode-solution/tree/main/0055-jump-game/) | Medium |
 <!---LeetCode Topics End-->
