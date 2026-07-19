@@ -8,8 +8,6 @@ class Solution {
         // Base Cases--
         if (i == nums.length - 1) return true;
         if (i >= nums.length) return false;
-        if (nums[i] == 0) return false;
-
         if (dp[i] != -1)return dp[i] == 1;
 
         boolean reAns = false;
