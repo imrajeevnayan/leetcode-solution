@@ -816,17 +816,18 @@
     "GeeksForGeeks_All_Subsequences_of_a_String": true,
     "GeeksForGeeks_Distinct_Sorted": true,
     "GeeksForGeeks_Delete_without_head_pointer": true,
-    "GeeksForGeeks_Anagrams_in_Linked_List": true
+    "GeeksForGeeks_Anagrams_in_Linked_List": true,
+    "GeeksForGeeks_K-th_Missing_Element_in_Natural_Numbers": true
   },
-  "totalSolved": 344,
+  "totalSolved": 345,
   "difficultyCounts": {
     "easy": 109,
-    "medium": 150,
+    "medium": 151,
     "hard": 5,
     "basic": 80
   },
   "currentStreak": 3,
-  "todayCount": 2,
+  "todayCount": 3,
   "lastSyncDate": "2026-07-19",
   "maxStreak": 15,
   "activityHistory": {
@@ -880,7 +881,7 @@
     "2026-07-15": 3,
     "2026-07-17": 2,
     "2026-07-18": 2,
-    "2026-07-19": 2
+    "2026-07-19": 3
   },
   "todayProblems": [
     "Most Frequent Character",
@@ -1225,6 +1226,7 @@
     "All Subsequences of a String",
     "Distinct Sorted",
     "Delete without head pointer",
-    "Anagrams in Linked List"
+    "Anagrams in Linked List",
+    "K-th Missing Element in Natural Numbers"
   ]
 }
