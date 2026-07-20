@@ -355,6 +355,7 @@ Automatically organized collection of LeetCode solutions.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0055-jump-game](https://github.com/imrajeevnayan/leetcode-solution/tree/main/0055-jump-game/) | Medium |
+| [0213-house-robber-ii](https://github.com/imrajeevnayan/leetcode-solution/tree/main/0213-house-robber-ii/) | Medium |
 | [0442-find-all-duplicates-in-an-array](https://github.com/imrajeevnayan/leetcode-solution/tree/main/0442-find-all-duplicates-in-an-array/) | Medium |
 ## Hash Table
 | Problem Name | Difficulty |
@@ -368,6 +369,7 @@ Automatically organized collection of LeetCode solutions.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0055-jump-game](https://github.com/imrajeevnayan/leetcode-solution/tree/main/0055-jump-game/) | Medium |
+| [0213-house-robber-ii](https://github.com/imrajeevnayan/leetcode-solution/tree/main/0213-house-robber-ii/) | Medium |
 ## Greedy
 | Problem Name | Difficulty |
 | ------- | ------- |
