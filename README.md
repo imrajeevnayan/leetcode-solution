@@ -361,6 +361,19 @@ Automatically organized collection of LeetCode solutions.
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0337-house-robber-iii](https://github.com/imrajeevnayan/leetcode-solution/tree/main/0337-house-robber-iii/) | Medium |
 | [1911-maximum-alternating-subsequence-sum](https://github.com/imrajeevnayan/leetcode-solution/tree/main/1911-maximum-alternating-subsequence-sum/) | Medium |
 | [2140-solving-questions-with-brainpower](https://github.com/imrajeevnayan/leetcode-solution/tree/main/2140-solving-questions-with-brainpower/) | Medium |
+## Tree
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0337-house-robber-iii](https://github.com/imrajeevnayan/leetcode-solution/tree/main/0337-house-robber-iii/) | Medium |
+## Depth-First Search
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0337-house-robber-iii](https://github.com/imrajeevnayan/leetcode-solution/tree/main/0337-house-robber-iii/) | Medium |
+## Binary Tree
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0337-house-robber-iii](https://github.com/imrajeevnayan/leetcode-solution/tree/main/0337-house-robber-iii/) | Medium |
 <!---LeetCode Topics End-->
