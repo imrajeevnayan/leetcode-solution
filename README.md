@@ -4,8 +4,8 @@ Automatically organized collection of LeetCode solutions.
 
 ## 📊 Statistics
 
-- **Total Problems Solved:** 312
-- **Current Streak:** 3 days
+- **Total Problems Solved:** 313
+- **Current Streak:** 1 days
 - **Longest Streak:** 14 days
 
 ### 🧩 Breakdown
@@ -13,12 +13,12 @@ Automatically organized collection of LeetCode solutions.
 #### By Language
 - Sql: 27
 - Javascript: 2
-- Java: 283
+- Java: 284
 
 #### By Topic
 - Database: 27
 - General: 1
-- Array: 156
+- Array: 157
 - Math: 30
 - Divide-and-conquer: 1
 - Linked-list: 19
@@ -207,6 +207,7 @@ Automatically organized collection of LeetCode solutions.
 | 692 | Top K Frequent Words | array | medium | java | [Solution](solutions/java/array/medium/692_top-k-frequent-words_array_medium.java) |
 | 713 | Subarray Product Less Than K | array | medium | java | [Solution](solutions/java/array/medium/713_subarray-product-less-than-k_array_medium.java) |
 | 724 | Find Pivot Index | array | easy | java | [Solution](solutions/java/array/easy/724_find-pivot-index_array_easy.java) |
+| 740 | Delete And Earn | array | medium | java | [Solution](solutions/java/array/medium/740_delete-and-earn_array_medium.java) |
 | 747 | Min Cost Climbing Stairs | array | easy | java | [Solution](solutions/java/array/easy/747_min-cost-climbing-stairs_array_easy.java) |
 | 766 | Flatten A Multilevel Doubly Linked List | linked-list | medium | java | [Solution](solutions/java/linked-list/medium/766_flatten-a-multilevel-doubly-linked-list_linked-list_medium.java) |
 | 778 | Reorganize String | hash-table | medium | java | [Solution](solutions/java/hash-table/medium/778_reorganize-string_hash-table_medium.java) |
@@ -348,33 +349,3 @@ Automatically organized collection of LeetCode solutions.
 | 4299 | Concatenate Array With Reverse | array | easy | java | [Solution](solutions/java/array/easy/4299_concatenate-array-with-reverse_array_easy.java) |
 | 4312 | Limit Occurrences In Sorted Array | array | easy | java | [Solution](solutions/java/array/easy/4312_limit-occurrences-in-sorted-array_array_easy.java) |
 | 4313 | Password Strength | hash-table | medium | java | [Solution](solutions/java/hash-table/medium/4313_password-strength_hash-table_medium.java) |
-
-<!---LeetCode Topics Start-->
-# LeetCode Topics
-## Array
-| Problem Name | Difficulty |
-| ------- | ------- |
-| [0055-jump-game](https://github.com/imrajeevnayan/leetcode-solution/tree/main/0055-jump-game/) | Medium |
-| [0213-house-robber-ii](https://github.com/imrajeevnayan/leetcode-solution/tree/main/0213-house-robber-ii/) | Medium |
-| [0442-find-all-duplicates-in-an-array](https://github.com/imrajeevnayan/leetcode-solution/tree/main/0442-find-all-duplicates-in-an-array/) | Medium |
-| [0740-delete-and-earn](https://github.com/imrajeevnayan/leetcode-solution/tree/main/0740-delete-and-earn/) | Medium |
-## Hash Table
-| Problem Name | Difficulty |
-| ------- | ------- |
-| [0442-find-all-duplicates-in-an-array](https://github.com/imrajeevnayan/leetcode-solution/tree/main/0442-find-all-duplicates-in-an-array/) | Medium |
-| [0740-delete-and-earn](https://github.com/imrajeevnayan/leetcode-solution/tree/main/0740-delete-and-earn/) | Medium |
-## Sorting
-| Problem Name | Difficulty |
-| ------- | ------- |
-| [0442-find-all-duplicates-in-an-array](https://github.com/imrajeevnayan/leetcode-solution/tree/main/0442-find-all-duplicates-in-an-array/) | Medium |
-## Dynamic Programming
-| Problem Name | Difficulty |
-| ------- | ------- |
-| [0055-jump-game](https://github.com/imrajeevnayan/leetcode-solution/tree/main/0055-jump-game/) | Medium |
-| [0213-house-robber-ii](https://github.com/imrajeevnayan/leetcode-solution/tree/main/0213-house-robber-ii/) | Medium |
-| [0740-delete-and-earn](https://github.com/imrajeevnayan/leetcode-solution/tree/main/0740-delete-and-earn/) | Medium |
-## Greedy
-| Problem Name | Difficulty |
-| ------- | ------- |
-| [0055-jump-game](https://github.com/imrajeevnayan/leetcode-solution/tree/main/0055-jump-game/) | Medium |
-<!---LeetCode Topics End-->
