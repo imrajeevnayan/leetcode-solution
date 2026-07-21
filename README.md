@@ -4,7 +4,7 @@ Automatically organized collection of LeetCode solutions.
 
 ## 📊 Statistics
 
-- **Total Problems Solved:** 316
+- **Total Problems Solved:** 317
 - **Current Streak:** 1 days
 - **Longest Streak:** 14 days
 
@@ -13,12 +13,12 @@ Automatically organized collection of LeetCode solutions.
 #### By Language
 - Sql: 27
 - Javascript: 2
-- Java: 287
+- Java: 288
 
 #### By Topic
 - Database: 27
 - General: 1
-- Array: 159
+- Array: 160
 - Math: 30
 - Divide-and-conquer: 1
 - Linked-list: 19
@@ -184,6 +184,7 @@ Automatically organized collection of LeetCode solutions.
 | 503 | Next Greater Element Ii | array | medium | java | [Solution](solutions/java/array/medium/503_next-greater-element-ii_array_medium.java) |
 | 507 | Perfect Number | math | easy | java | [Solution](solutions/java/math/easy/507_perfect-number_math_easy.java) |
 | 516 | Longest Palindromic Subsequence | string | medium | java | [Solution](solutions/java/string/medium/516_longest-palindromic-subsequence_string_medium.java) |
+| 518 | Coin Change Ii | array | medium | java | [Solution](solutions/java/array/medium/518_coin-change-ii_array_medium.java) |
 | 525 | Contiguous Array | array | medium | java | [Solution](solutions/java/array/medium/525_contiguous-array_array_medium.java) |
 | 557 | Reverse Words In A String Iii | two-pointers | easy | java | [Solution](solutions/java/two-pointers/easy/557_reverse-words-in-a-string-iii_two-pointers_easy.java) |
 | 560 | Subarray Sum Equals K | array | medium | java | [Solution](solutions/java/array/medium/560_subarray-sum-equals-k_array_medium.java) |
@@ -352,15 +353,3 @@ Automatically organized collection of LeetCode solutions.
 | 4299 | Concatenate Array With Reverse | array | easy | java | [Solution](solutions/java/array/easy/4299_concatenate-array-with-reverse_array_easy.java) |
 | 4312 | Limit Occurrences In Sorted Array | array | easy | java | [Solution](solutions/java/array/easy/4312_limit-occurrences-in-sorted-array_array_easy.java) |
 | 4313 | Password Strength | hash-table | medium | java | [Solution](solutions/java/hash-table/medium/4313_password-strength_hash-table_medium.java) |
-
-<!---LeetCode Topics Start-->
-# LeetCode Topics
-## Array
-| Problem Name | Difficulty |
-| ------- | ------- |
-| [0518-coin-change-ii](https://github.com/imrajeevnayan/leetcode-solution/tree/main/0518-coin-change-ii/) | Medium |
-## Dynamic Programming
-| Problem Name | Difficulty |
-| ------- | ------- |
-| [0518-coin-change-ii](https://github.com/imrajeevnayan/leetcode-solution/tree/main/0518-coin-change-ii/) | Medium |
-<!---LeetCode Topics End-->
