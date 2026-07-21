@@ -357,8 +357,10 @@ Automatically organized collection of LeetCode solutions.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1911-maximum-alternating-subsequence-sum](https://github.com/imrajeevnayan/leetcode-solution/tree/main/1911-maximum-alternating-subsequence-sum/) | Medium |
+| [2140-solving-questions-with-brainpower](https://github.com/imrajeevnayan/leetcode-solution/tree/main/2140-solving-questions-with-brainpower/) | Medium |
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1911-maximum-alternating-subsequence-sum](https://github.com/imrajeevnayan/leetcode-solution/tree/main/1911-maximum-alternating-subsequence-sum/) | Medium |
+| [2140-solving-questions-with-brainpower](https://github.com/imrajeevnayan/leetcode-solution/tree/main/2140-solving-questions-with-brainpower/) | Medium |
 <!---LeetCode Topics End-->
