@@ -4,7 +4,7 @@ Automatically organized collection of LeetCode solutions.
 
 ## 📊 Statistics
 
-- **Total Problems Solved:** 317
+- **Total Problems Solved:** 318
 - **Current Streak:** 1 days
 - **Longest Streak:** 14 days
 
@@ -13,12 +13,12 @@ Automatically organized collection of LeetCode solutions.
 #### By Language
 - Sql: 27
 - Javascript: 2
-- Java: 288
+- Java: 289
 
 #### By Topic
 - Database: 27
 - General: 1
-- Array: 160
+- Array: 161
 - Math: 30
 - Divide-and-conquer: 1
 - Linked-list: 19
@@ -162,6 +162,7 @@ Automatically organized collection of LeetCode solutions.
 | 345 | Reverse Vowels Of A String | two-pointers | easy | java | [Solution](solutions/java/two-pointers/easy/345_reverse-vowels-of-a-string_two-pointers_easy.java) |
 | 347 | Top K Frequent Elements | array | medium | java | [Solution](solutions/java/array/medium/347_top-k-frequent-elements_array_medium.java) |
 | 371 | Sum Of Two Integers | math | medium | java | [Solution](solutions/java/math/medium/371_sum-of-two-integers_math_medium.java) |
+| 377 | Combination Sum Iv | array | medium | java | [Solution](solutions/java/array/medium/377_combination-sum-iv_array_medium.java) |
 | 380 | Insert Delete Getrandom O(1) | array | medium | java | [Solution](solutions/java/array/medium/380_insert-delete-getrandom-o(1)_array_medium.java) |
 | 389 | Find The Difference | hash-table | easy | java | [Solution](solutions/java/hash-table/easy/389_find-the-difference_hash-table_easy.java) |
 | 392 | Is Subsequence | two-pointers | easy | java | [Solution](solutions/java/two-pointers/easy/392_is-subsequence_two-pointers_easy.java) |
