@@ -357,10 +357,12 @@ Automatically organized collection of LeetCode solutions.
 | [0055-jump-game](https://github.com/imrajeevnayan/leetcode-solution/tree/main/0055-jump-game/) | Medium |
 | [0213-house-robber-ii](https://github.com/imrajeevnayan/leetcode-solution/tree/main/0213-house-robber-ii/) | Medium |
 | [0442-find-all-duplicates-in-an-array](https://github.com/imrajeevnayan/leetcode-solution/tree/main/0442-find-all-duplicates-in-an-array/) | Medium |
+| [0740-delete-and-earn](https://github.com/imrajeevnayan/leetcode-solution/tree/main/0740-delete-and-earn/) | Medium |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0442-find-all-duplicates-in-an-array](https://github.com/imrajeevnayan/leetcode-solution/tree/main/0442-find-all-duplicates-in-an-array/) | Medium |
+| [0740-delete-and-earn](https://github.com/imrajeevnayan/leetcode-solution/tree/main/0740-delete-and-earn/) | Medium |
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -370,6 +372,7 @@ Automatically organized collection of LeetCode solutions.
 | ------- | ------- |
 | [0055-jump-game](https://github.com/imrajeevnayan/leetcode-solution/tree/main/0055-jump-game/) | Medium |
 | [0213-house-robber-ii](https://github.com/imrajeevnayan/leetcode-solution/tree/main/0213-house-robber-ii/) | Medium |
+| [0740-delete-and-earn](https://github.com/imrajeevnayan/leetcode-solution/tree/main/0740-delete-and-earn/) | Medium |
 ## Greedy
 | Problem Name | Difficulty |
 | ------- | ------- |
