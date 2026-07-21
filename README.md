@@ -4,7 +4,7 @@ Automatically organized collection of LeetCode solutions.
 
 ## 📊 Statistics
 
-- **Total Problems Solved:** 314
+- **Total Problems Solved:** 316
 - **Current Streak:** 1 days
 - **Longest Streak:** 14 days
 
@@ -13,17 +13,17 @@ Automatically organized collection of LeetCode solutions.
 #### By Language
 - Sql: 27
 - Javascript: 2
-- Java: 285
+- Java: 287
 
 #### By Topic
 - Database: 27
 - General: 1
-- Array: 158
+- Array: 159
 - Math: 30
 - Divide-and-conquer: 1
 - Linked-list: 19
 - Enumeration: 1
-- Dynamic-programming: 2
+- Dynamic-programming: 3
 - Binary-search: 1
 - Two-pointers: 13
 - Tree: 5
@@ -156,6 +156,7 @@ Automatically organized collection of LeetCode solutions.
 | 326 | Power Of Three | math | easy | java | [Solution](solutions/java/math/easy/326_power-of-three_math_easy.java) |
 | 328 | Odd Even Linked List | linked-list | medium | java | [Solution](solutions/java/linked-list/medium/328_odd-even-linked-list_linked-list_medium.java) |
 | 334 | Increasing Triplet Subsequence | array | medium | java | [Solution](solutions/java/array/medium/334_increasing-triplet-subsequence_array_medium.java) |
+| 337 | House Robber Iii | dynamic-programming | medium | java | [Solution](solutions/java/dynamic-programming/medium/337_house-robber-iii_dynamic-programming_medium.java) |
 | 338 | Counting Bits | dynamic-programming | easy | java | [Solution](solutions/java/dynamic-programming/easy/338_counting-bits_dynamic-programming_easy.java) |
 | 342 | Power Of Four | math | easy | java | [Solution](solutions/java/math/easy/342_power-of-four_math_easy.java) |
 | 345 | Reverse Vowels Of A String | two-pointers | easy | java | [Solution](solutions/java/two-pointers/easy/345_reverse-vowels-of-a-string_two-pointers_easy.java) |
@@ -301,6 +302,7 @@ Automatically organized collection of LeetCode solutions.
 | 2216 | Delete The Middle Node Of A Linked List | linked-list | medium | java | [Solution](solutions/java/linked-list/medium/2216_delete-the-middle-node-of-a-linked-list_linked-list_medium.java) |
 | 2219 | Maximum Number Of Words Found In Sentences | array | easy | java | [Solution](solutions/java/array/easy/2219_maximum-number-of-words-found-in-sentences_array_easy.java) |
 | 2236 | Maximum Twin Sum Of A Linked List | linked-list | medium | java | [Solution](solutions/java/linked-list/medium/2236_maximum-twin-sum-of-a-linked-list_linked-list_medium.java) |
+| 2262 | Solving Questions With Brainpower | array | medium | java | [Solution](solutions/java/array/medium/2262_solving-questions-with-brainpower_array_medium.java) |
 | 2265 | Partition Array According To Given Pivot | array | medium | java | [Solution](solutions/java/array/medium/2265_partition-array-according-to-given-pivot_array_medium.java) |
 | 2331 | Intersection Of Multiple Arrays | array | easy | java | [Solution](solutions/java/array/easy/2331_intersection-of-multiple-arrays_array_easy.java) |
 | 2394 | Count Subarrays With Score Less Than K | array | hard | java | [Solution](solutions/java/array/hard/2394_count-subarrays-with-score-less-than-k_array_hard.java) |
@@ -350,30 +352,3 @@ Automatically organized collection of LeetCode solutions.
 | 4299 | Concatenate Array With Reverse | array | easy | java | [Solution](solutions/java/array/easy/4299_concatenate-array-with-reverse_array_easy.java) |
 | 4312 | Limit Occurrences In Sorted Array | array | easy | java | [Solution](solutions/java/array/easy/4312_limit-occurrences-in-sorted-array_array_easy.java) |
 | 4313 | Password Strength | hash-table | medium | java | [Solution](solutions/java/hash-table/medium/4313_password-strength_hash-table_medium.java) |
-
-<!---LeetCode Topics Start-->
-# LeetCode Topics
-## Array
-| Problem Name | Difficulty |
-| ------- | ------- |
-| [1911-maximum-alternating-subsequence-sum](https://github.com/imrajeevnayan/leetcode-solution/tree/main/1911-maximum-alternating-subsequence-sum/) | Medium |
-| [2140-solving-questions-with-brainpower](https://github.com/imrajeevnayan/leetcode-solution/tree/main/2140-solving-questions-with-brainpower/) | Medium |
-## Dynamic Programming
-| Problem Name | Difficulty |
-| ------- | ------- |
-| [0337-house-robber-iii](https://github.com/imrajeevnayan/leetcode-solution/tree/main/0337-house-robber-iii/) | Medium |
-| [1911-maximum-alternating-subsequence-sum](https://github.com/imrajeevnayan/leetcode-solution/tree/main/1911-maximum-alternating-subsequence-sum/) | Medium |
-| [2140-solving-questions-with-brainpower](https://github.com/imrajeevnayan/leetcode-solution/tree/main/2140-solving-questions-with-brainpower/) | Medium |
-## Tree
-| Problem Name | Difficulty |
-| ------- | ------- |
-| [0337-house-robber-iii](https://github.com/imrajeevnayan/leetcode-solution/tree/main/0337-house-robber-iii/) | Medium |
-## Depth-First Search
-| Problem Name | Difficulty |
-| ------- | ------- |
-| [0337-house-robber-iii](https://github.com/imrajeevnayan/leetcode-solution/tree/main/0337-house-robber-iii/) | Medium |
-## Binary Tree
-| Problem Name | Difficulty |
-| ------- | ------- |
-| [0337-house-robber-iii](https://github.com/imrajeevnayan/leetcode-solution/tree/main/0337-house-robber-iii/) | Medium |
-<!---LeetCode Topics End-->
