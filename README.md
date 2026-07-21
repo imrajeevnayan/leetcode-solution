@@ -4,7 +4,7 @@ Automatically organized collection of LeetCode solutions.
 
 ## 📊 Statistics
 
-- **Total Problems Solved:** 313
+- **Total Problems Solved:** 314
 - **Current Streak:** 1 days
 - **Longest Streak:** 14 days
 
@@ -13,12 +13,12 @@ Automatically organized collection of LeetCode solutions.
 #### By Language
 - Sql: 27
 - Javascript: 2
-- Java: 284
+- Java: 285
 
 #### By Topic
 - Database: 27
 - General: 1
-- Array: 157
+- Array: 158
 - Math: 30
 - Divide-and-conquer: 1
 - Linked-list: 19
@@ -289,6 +289,7 @@ Automatically organized collection of LeetCode solutions.
 | 1927 | Maximum Ascending Subarray Sum | array | easy | java | [Solution](solutions/java/array/easy/1927_maximum-ascending-subarray-sum_array_easy.java) |
 | 1966 | Frequency Of The Most Frequent Element | array | medium | java | [Solution](solutions/java/array/medium/1966_frequency-of-the-most-frequent-element_array_medium.java) |
 | 1987 | Substrings Of Size Three With Distinct Characters | hash-table | easy | java | [Solution](solutions/java/hash-table/easy/1987_substrings-of-size-three-with-distinct-characters_hash-table_easy.java) |
+| 2022 | Maximum Alternating Subsequence Sum | array | medium | java | [Solution](solutions/java/array/medium/2022_maximum-alternating-subsequence-sum_array_medium.java) |
 | 2032 | Largest Odd Number In String | math | easy | java | [Solution](solutions/java/math/easy/2032_largest-odd-number-in-string_math_easy.java) |
 | 2058 | Concatenation Of Array | array | easy | java | [Solution](solutions/java/array/easy/2058_concatenation-of-array_array_easy.java) |
 | 2106 | Find Greatest Common Divisor Of Array | array | easy | java | [Solution](solutions/java/array/easy/2106_find-greatest-common-divisor-of-array_array_easy.java) |
