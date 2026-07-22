@@ -4,8 +4,8 @@ Automatically organized collection of LeetCode solutions.
 
 ## 📊 Statistics
 
-- **Total Problems Solved:** 318
-- **Current Streak:** 1 days
+- **Total Problems Solved:** 319
+- **Current Streak:** 2 days
 - **Longest Streak:** 14 days
 
 ### 🧩 Breakdown
@@ -13,7 +13,7 @@ Automatically organized collection of LeetCode solutions.
 #### By Language
 - Sql: 27
 - Javascript: 2
-- Java: 289
+- Java: 290
 
 #### By Topic
 - Database: 27
@@ -29,7 +29,7 @@ Automatically organized collection of LeetCode solutions.
 - Tree: 5
 - Hash-table: 28
 - Bit-manipulation: 1
-- String: 26
+- String: 27
 - Stack: 1
 
 ## 📂 Solutions
@@ -137,6 +137,7 @@ Automatically organized collection of LeetCode solutions.
 | 206 | Reverse Linked List | linked-list | easy | java | [Solution](solutions/java/linked-list/easy/206_reverse-linked-list_linked-list_easy.java) |
 | 209 | Minimum Size Subarray Sum | array | medium | java | [Solution](solutions/java/array/medium/209_minimum-size-subarray-sum_array_medium.java) |
 | 213 | House Robber Ii | array | medium | java | [Solution](solutions/java/array/medium/213_house-robber-ii_array_medium.java) |
+| 214 | Shortest Palindrome | string | hard | java | [Solution](solutions/java/string/hard/214_shortest-palindrome_string_hard.java) |
 | 215 | Kth Largest Element In An Array | array | medium | java | [Solution](solutions/java/array/medium/215_kth-largest-element-in-an-array_array_medium.java) |
 | 217 | Contains Duplicate | array | easy | java | [Solution](solutions/java/array/easy/217_contains-duplicate_array_easy.java) |
 | 219 | Contains Duplicate Ii | array | easy | java | [Solution](solutions/java/array/easy/219_contains-duplicate-ii_array_easy.java) |
@@ -354,37 +355,3 @@ Automatically organized collection of LeetCode solutions.
 | 4299 | Concatenate Array With Reverse | array | easy | java | [Solution](solutions/java/array/easy/4299_concatenate-array-with-reverse_array_easy.java) |
 | 4312 | Limit Occurrences In Sorted Array | array | easy | java | [Solution](solutions/java/array/easy/4312_limit-occurrences-in-sorted-array_array_easy.java) |
 | 4313 | Password Strength | hash-table | medium | java | [Solution](solutions/java/hash-table/medium/4313_password-strength_hash-table_medium.java) |
-
-<!---LeetCode Topics Start-->
-# LeetCode Topics
-## Array
-| Problem Name | Difficulty |
-| ------- | ------- |
-| [0377-combination-sum-iv](https://github.com/imrajeevnayan/leetcode-solution/tree/main/0377-combination-sum-iv/) | Medium |
-## Dynamic Programming
-| Problem Name | Difficulty |
-| ------- | ------- |
-| [0377-combination-sum-iv](https://github.com/imrajeevnayan/leetcode-solution/tree/main/0377-combination-sum-iv/) | Medium |
-## Two Pointers
-| Problem Name | Difficulty |
-| ------- | ------- |
-| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/imrajeevnayan/leetcode-solution/tree/main/0028-find-the-index-of-the-first-occurrence-in-a-string/) | Easy |
-## String
-| Problem Name | Difficulty |
-| ------- | ------- |
-| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/imrajeevnayan/leetcode-solution/tree/main/0028-find-the-index-of-the-first-occurrence-in-a-string/) | Easy |
-| [0214-shortest-palindrome](https://github.com/imrajeevnayan/leetcode-solution/tree/main/0214-shortest-palindrome/) | Hard |
-## String Matching
-| Problem Name | Difficulty |
-| ------- | ------- |
-| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/imrajeevnayan/leetcode-solution/tree/main/0028-find-the-index-of-the-first-occurrence-in-a-string/) | Easy |
-| [0214-shortest-palindrome](https://github.com/imrajeevnayan/leetcode-solution/tree/main/0214-shortest-palindrome/) | Hard |
-## Rolling Hash
-| Problem Name | Difficulty |
-| ------- | ------- |
-| [0214-shortest-palindrome](https://github.com/imrajeevnayan/leetcode-solution/tree/main/0214-shortest-palindrome/) | Hard |
-## Hash Function
-| Problem Name | Difficulty |
-| ------- | ------- |
-| [0214-shortest-palindrome](https://github.com/imrajeevnayan/leetcode-solution/tree/main/0214-shortest-palindrome/) | Hard |
-<!---LeetCode Topics End-->
