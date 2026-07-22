@@ -827,17 +827,18 @@
     "GeeksForGeeks_Flatten_binary_tree_to_linked_list": true,
     "GeeksForGeeks_Reverse_a_linked_list": true,
     "GeeksForGeeks_Middle_of_a_Linked_List": true,
-    "GeeksForGeeks_Linked_List_Group_Reverse": true
+    "GeeksForGeeks_Linked_List_Group_Reverse": true,
+    "GeeksForGeeks_Check_If_Circular_Linked_List": true
   },
-  "totalSolved": 355,
+  "totalSolved": 356,
   "difficultyCounts": {
-    "easy": 112,
+    "easy": 113,
     "medium": 156,
     "hard": 6,
     "basic": 81
   },
   "currentStreak": 1,
-  "todayCount": 9,
+  "todayCount": 10,
   "lastSyncDate": "2026-07-22",
   "maxStreak": 15,
   "activityHistory": {
@@ -892,7 +893,7 @@
     "2026-07-17": 2,
     "2026-07-18": 2,
     "2026-07-19": 4,
-    "2026-07-22": 9
+    "2026-07-22": 10
   },
   "todayProblems": [
     "Most Frequent Character",
@@ -1247,6 +1248,7 @@
     "Flatten binary tree to linked list",
     "Reverse a linked list",
     "Middle of a Linked List",
-    "Linked List Group Reverse"
+    "Linked List Group Reverse",
+    "Check If Circular Linked List"
   ]
 }
