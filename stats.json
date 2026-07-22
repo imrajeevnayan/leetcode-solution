@@ -820,17 +820,18 @@
     "GeeksForGeeks_K-th_Missing_Element_in_Natural_Numbers": true,
     "LeetCode_Partition_Equal_Subset_Sum": true,
     "GeeksForGeeks_Compress_String": true,
-    "GeeksForGeeks_Check_if_two_strings_are_same_or_not": true
+    "GeeksForGeeks_Check_if_two_strings_are_same_or_not": true,
+    "GeeksForGeeks_Insertion_at_the_beginning_of_Circular_Linked_List": true
   },
-  "totalSolved": 348,
+  "totalSolved": 349,
   "difficultyCounts": {
     "easy": 111,
-    "medium": 152,
+    "medium": 153,
     "hard": 5,
     "basic": 80
   },
   "currentStreak": 1,
-  "todayCount": 2,
+  "todayCount": 3,
   "lastSyncDate": "2026-07-22",
   "maxStreak": 15,
   "activityHistory": {
@@ -885,7 +886,7 @@
     "2026-07-17": 2,
     "2026-07-18": 2,
     "2026-07-19": 4,
-    "2026-07-22": 2
+    "2026-07-22": 3
   },
   "todayProblems": [
     "Most Frequent Character",
@@ -1233,6 +1234,7 @@
     "Anagrams in Linked List",
     "K-th Missing Element in Natural Numbers",
     "Compress String",
-    "Check if two strings are same or not"
+    "Check if two strings are same or not",
+    "Insertion at the beginning of Circular Linked List"
   ]
 }
