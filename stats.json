@@ -828,17 +828,18 @@
     "GeeksForGeeks_Reverse_a_linked_list": true,
     "GeeksForGeeks_Middle_of_a_Linked_List": true,
     "GeeksForGeeks_Linked_List_Group_Reverse": true,
-    "GeeksForGeeks_Check_If_Circular_Linked_List": true
+    "GeeksForGeeks_Check_If_Circular_Linked_List": true,
+    "GeeksForGeeks_Union_of_Two_Linked_Lists": true
   },
-  "totalSolved": 356,
+  "totalSolved": 357,
   "difficultyCounts": {
     "easy": 113,
-    "medium": 156,
+    "medium": 157,
     "hard": 6,
     "basic": 81
   },
   "currentStreak": 1,
-  "todayCount": 10,
+  "todayCount": 11,
   "lastSyncDate": "2026-07-22",
   "maxStreak": 15,
   "activityHistory": {
@@ -893,7 +894,7 @@
     "2026-07-17": 2,
     "2026-07-18": 2,
     "2026-07-19": 4,
-    "2026-07-22": 10
+    "2026-07-22": 11
   },
   "todayProblems": [
     "Most Frequent Character",
@@ -1249,6 +1250,7 @@
     "Reverse a linked list",
     "Middle of a Linked List",
     "Linked List Group Reverse",
-    "Check If Circular Linked List"
+    "Check If Circular Linked List",
+    "Union of Two Linked Lists"
   ]
 }
