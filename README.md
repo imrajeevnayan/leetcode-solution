@@ -7,3 +7,4 @@
 | 5 | [Length of Linked List](https://www.geeksforgeeks.org/problems/count-nodes-of-linked-list/1?page=1&category=Linked%20List&sortBy=accuracy) | GeeksForGeeks | Basic | 22 Jul 2026 | 09:36 pm |
 | 6 | [Flatten binary tree to linked list](https://www.geeksforgeeks.org/problems/flatten-binary-tree-to-linked-list/1?page=1&category=Linked%20List&sortBy=accuracy) | GeeksForGeeks | Medium | 22 Jul 2026 | 09:42 pm |
 | 7 | [Reverse a linked list](https://www.geeksforgeeks.org/problems/reverse-a-linked-list/1?page=1&category=Linked%20List&sortBy=accuracy) | GeeksForGeeks | Easy | 22 Jul 2026 | 09:55 pm |
+| 8 | [Middle of a Linked List](https://www.geeksforgeeks.org/problems/finding-middle-element-in-a-linked-list/1?page=3&category=Linked%20List&sortBy=accuracy) | GeeksForGeeks | Medium | 22 Jul 2026 | 10:20 pm |
