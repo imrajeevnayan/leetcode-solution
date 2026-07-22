@@ -4,3 +4,4 @@
 | 2 | [Check if two strings are same or not](https://www.geeksforgeeks.org/problems/check-if-two-strings-are-same-or-not--155406/1?page=1&category=Strings&status=unsolved&sortBy=accuracy) | GeeksForGeeks | Easy | 22 Jul 2026 | 06:14 pm |
 | 3 | [Insertion at the beginning of Circular Linked List](https://www.geeksforgeeks.org/problems/insertion-at-the-beginning-of-circular-linked-list/1?page=1&category=Linked%20List&sortBy=accuracy) | GeeksForGeeks | Medium | 22 Jul 2026 | 09:02 pm |
 | 4 | [Insertion Sort Linked List](https://www.geeksforgeeks.org/problems/insertion-sort-list/1?page=1&category=Linked%20List&sortBy=accuracy) | GeeksForGeeks | Medium | 22 Jul 2026 | 09:24 pm |
+| 5 | [Length of Linked List](https://www.geeksforgeeks.org/problems/count-nodes-of-linked-list/1?page=1&category=Linked%20List&sortBy=accuracy) | GeeksForGeeks | Basic | 22 Jul 2026 | 09:36 pm |

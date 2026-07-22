@@ -822,17 +822,18 @@
     "GeeksForGeeks_Compress_String": true,
     "GeeksForGeeks_Check_if_two_strings_are_same_or_not": true,
     "GeeksForGeeks_Insertion_at_the_beginning_of_Circular_Linked_List": true,
-    "GeeksForGeeks_Insertion_Sort_Linked_List": true
+    "GeeksForGeeks_Insertion_Sort_Linked_List": true,
+    "GeeksForGeeks_Length_of_Linked_List": true
   },
-  "totalSolved": 350,
+  "totalSolved": 351,
   "difficultyCounts": {
     "easy": 111,
     "medium": 154,
     "hard": 5,
-    "basic": 80
+    "basic": 81
   },
   "currentStreak": 1,
-  "todayCount": 4,
+  "todayCount": 5,
   "lastSyncDate": "2026-07-22",
   "maxStreak": 15,
   "activityHistory": {
@@ -887,7 +888,7 @@
     "2026-07-17": 2,
     "2026-07-18": 2,
     "2026-07-19": 4,
-    "2026-07-22": 4
+    "2026-07-22": 5
   },
   "todayProblems": [
     "Most Frequent Character",
@@ -1237,6 +1238,7 @@
     "Compress String",
     "Check if two strings are same or not",
     "Insertion at the beginning of Circular Linked List",
-    "Insertion Sort Linked List"
+    "Insertion Sort Linked List",
+    "Length of Linked List"
   ]
 }
