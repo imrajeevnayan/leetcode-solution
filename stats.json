@@ -818,18 +818,19 @@
     "GeeksForGeeks_Delete_without_head_pointer": true,
     "GeeksForGeeks_Anagrams_in_Linked_List": true,
     "GeeksForGeeks_K-th_Missing_Element_in_Natural_Numbers": true,
-    "LeetCode_Partition_Equal_Subset_Sum": true
+    "LeetCode_Partition_Equal_Subset_Sum": true,
+    "GeeksForGeeks_Compress_String": true
   },
-  "totalSolved": 346,
+  "totalSolved": 347,
   "difficultyCounts": {
-    "easy": 109,
+    "easy": 110,
     "medium": 152,
     "hard": 5,
     "basic": 80
   },
-  "currentStreak": 3,
-  "todayCount": 4,
-  "lastSyncDate": "2026-07-19",
+  "currentStreak": 1,
+  "todayCount": 1,
+  "lastSyncDate": "2026-07-22",
   "maxStreak": 15,
   "activityHistory": {
     "2026-05-19": 2,
@@ -882,7 +883,8 @@
     "2026-07-15": 3,
     "2026-07-17": 2,
     "2026-07-18": 2,
-    "2026-07-19": 4
+    "2026-07-19": 4,
+    "2026-07-22": 1
   },
   "todayProblems": [
     "Most Frequent Character",
@@ -1228,6 +1230,7 @@
     "Distinct Sorted",
     "Delete without head pointer",
     "Anagrams in Linked List",
-    "K-th Missing Element in Natural Numbers"
+    "K-th Missing Element in Natural Numbers",
+    "Compress String"
   ]
 }
