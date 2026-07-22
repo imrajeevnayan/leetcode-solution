@@ -4,7 +4,7 @@ Automatically organized collection of LeetCode solutions.
 
 ## 📊 Statistics
 
-- **Total Problems Solved:** 319
+- **Total Problems Solved:** 320
 - **Current Streak:** 2 days
 - **Longest Streak:** 14 days
 
@@ -13,7 +13,7 @@ Automatically organized collection of LeetCode solutions.
 #### By Language
 - Sql: 27
 - Javascript: 2
-- Java: 290
+- Java: 291
 
 #### By Topic
 - Database: 27
@@ -25,7 +25,7 @@ Automatically organized collection of LeetCode solutions.
 - Enumeration: 1
 - Dynamic-programming: 3
 - Binary-search: 1
-- Two-pointers: 13
+- Two-pointers: 14
 - Tree: 5
 - Hash-table: 28
 - Bit-manipulation: 1
@@ -176,6 +176,7 @@ Automatically organized collection of LeetCode solutions.
 | 424 | Longest Repeating Character Replacement | hash-table | medium | java | [Solution](solutions/java/hash-table/medium/424_longest-repeating-character-replacement_hash-table_medium.java) |
 | 438 | Find All Anagrams In A String | hash-table | medium | java | [Solution](solutions/java/hash-table/medium/438_find-all-anagrams-in-a-string_hash-table_medium.java) |
 | 442 | Find All Duplicates In An Array | array | medium | java | [Solution](solutions/java/array/medium/442_find-all-duplicates-in-an-array_array_medium.java) |
+| 443 | String Compression | two-pointers | medium | java | [Solution](solutions/java/two-pointers/medium/443_string-compression_two-pointers_medium.java) |
 | 445 | Add Two Numbers Ii | linked-list | medium | java | [Solution](solutions/java/linked-list/medium/445_add-two-numbers-ii_linked-list_medium.java) |
 | 448 | Find All Numbers Disappeared In An Array | array | easy | java | [Solution](solutions/java/array/easy/448_find-all-numbers-disappeared-in-an-array_array_easy.java) |
 | 451 | Sort Characters By Frequency | hash-table | medium | java | [Solution](solutions/java/hash-table/medium/451_sort-characters-by-frequency_hash-table_medium.java) |
