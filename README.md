@@ -365,4 +365,16 @@ Automatically organized collection of LeetCode solutions.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0377-combination-sum-iv](https://github.com/imrajeevnayan/leetcode-solution/tree/main/0377-combination-sum-iv/) | Medium |
+## Two Pointers
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/imrajeevnayan/leetcode-solution/tree/main/0028-find-the-index-of-the-first-occurrence-in-a-string/) | Easy |
+## String
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/imrajeevnayan/leetcode-solution/tree/main/0028-find-the-index-of-the-first-occurrence-in-a-string/) | Easy |
+## String Matching
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/imrajeevnayan/leetcode-solution/tree/main/0028-find-the-index-of-the-first-occurrence-in-a-string/) | Easy |
 <!---LeetCode Topics End-->
