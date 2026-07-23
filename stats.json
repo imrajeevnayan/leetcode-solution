@@ -835,17 +835,18 @@
     "LeetCode_Prime_Palindrome": true,
     "GeeksForGeeks_Print_Linked_List": true,
     "GeeksForGeeks_Check_Preorder_of_BST": true,
-    "GeeksForGeeks_First_Repeating_Element": true
+    "GeeksForGeeks_First_Repeating_Element": true,
+    "GeeksForGeeks_K-th_element_of_two_Arrays": true
   },
-  "totalSolved": 363,
+  "totalSolved": 364,
   "difficultyCounts": {
     "easy": 115,
-    "medium": 160,
+    "medium": 161,
     "hard": 6,
     "basic": 82
   },
   "currentStreak": 2,
-  "todayCount": 5,
+  "todayCount": 6,
   "lastSyncDate": "2026-07-23",
   "maxStreak": 15,
   "activityHistory": {
@@ -901,7 +902,7 @@
     "2026-07-18": 2,
     "2026-07-19": 4,
     "2026-07-22": 12,
-    "2026-07-23": 5
+    "2026-07-23": 6
   },
   "todayProblems": [
     "Most Frequent Character",
@@ -1264,6 +1265,7 @@
     "Prime Palindrome",
     "Print Linked List",
     "Check Preorder of BST",
-    "First Repeating Element"
+    "First Repeating Element",
+    "K-th element of two Arrays"
   ]
 }
