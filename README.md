@@ -366,3 +366,19 @@ Automatically organized collection of LeetCode solutions.
 | 4299 | Concatenate Array With Reverse | array | easy | java | [Solution](solutions/java/array/easy/4299_concatenate-array-with-reverse_array_easy.java) |
 | 4312 | Limit Occurrences In Sorted Array | array | easy | java | [Solution](solutions/java/array/easy/4312_limit-occurrences-in-sorted-array_array_easy.java) |
 | 4313 | Password Strength | hash-table | medium | java | [Solution](solutions/java/hash-table/medium/4313_password-strength_hash-table_medium.java) |
+
+<!---LeetCode Topics Start-->
+# LeetCode Topics
+## Array
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [2108-find-first-palindromic-string-in-the-array](https://github.com/imrajeevnayan/leetcode-solution/tree/main/2108-find-first-palindromic-string-in-the-array/) | Easy |
+## Two Pointers
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [2108-find-first-palindromic-string-in-the-array](https://github.com/imrajeevnayan/leetcode-solution/tree/main/2108-find-first-palindromic-string-in-the-array/) | Easy |
+## String
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [2108-find-first-palindromic-string-in-the-array](https://github.com/imrajeevnayan/leetcode-solution/tree/main/2108-find-first-palindromic-string-in-the-array/) | Easy |
+<!---LeetCode Topics End-->
