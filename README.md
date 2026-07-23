@@ -18,6 +18,7 @@
 | ------- | ------- |
 | [0014-longest-common-prefix](https://github.com/imrajeevnayan/leetcode-solution/tree/main/0014-longest-common-prefix/) | Easy |
 | [1539-kth-missing-positive-number](https://github.com/imrajeevnayan/leetcode-solution/tree/main/1539-kth-missing-positive-number/) | Easy |
+| [1720-decode-xored-array](https://github.com/imrajeevnayan/leetcode-solution/tree/main/1720-decode-xored-array/) | Easy |
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -30,6 +31,10 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0014-longest-common-prefix](https://github.com/imrajeevnayan/leetcode-solution/tree/main/0014-longest-common-prefix/) | Easy |
+## Bit Manipulation
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1720-decode-xored-array](https://github.com/imrajeevnayan/leetcode-solution/tree/main/1720-decode-xored-array/) | Easy |
 <!---LeetCode Topics End-->
 | 11 | [Union of Two Linked Lists](https://www.geeksforgeeks.org/problems/union-of-two-linked-list/1?page=3&category=Linked%20List&sortBy=accuracy) | GeeksForGeeks | Medium | 22 Jul 2026 | 11:23 pm |
 | 12 | [Delete Alternate Nodes](https://www.geeksforgeeks.org/problems/delete-alternate-nodes/1?page=3&category=Linked%20List&sortBy=accuracy) | GeeksForGeeks | Medium | 22 Jul 2026 | 11:30 pm |
