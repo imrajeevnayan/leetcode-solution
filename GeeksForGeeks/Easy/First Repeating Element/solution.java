@@ -1,0 +1,10 @@
+class Solution {
+    public int firstRepeated(int[] arr) {
+     HashMap<Integer,Integer>map=new HashMap<>();
+     for(int n:arr)map.put(n,map.getOrDefault(n,0)+1);
+     for(int i=0;i<arr.length;i++){
+         if(map.get(arr[i])>1)return i+1;
+     }
+     return -1;
+    }
+}
