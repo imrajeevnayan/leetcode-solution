@@ -4,33 +4,33 @@ Automatically organized collection of LeetCode solutions.
 
 ## 📊 Statistics
 
-- **Total Problems Solved:** 330
+- **Total Problems Solved:** 331
 - **Current Streak:** 3 days
 - **Longest Streak:** 14 days
 
 ### 🧩 Breakdown
 
 #### By Language
-- Sql: 27
 - Javascript: 2
-- Java: 301
+- Java: 302
+- Sql: 27
 
 #### By Topic
-- Database: 27
 - General: 1
-- Array: 164
-- Math: 31
+- Array: 165
 - Divide-and-conquer: 1
+- Dynamic-programming: 3
+- Hash-table: 28
+- String: 27
+- Math: 31
+- Binary-search: 1
 - Linked-list: 19
 - Enumeration: 1
-- Dynamic-programming: 3
-- Binary-search: 1
-- Two-pointers: 14
 - Tree: 7
-- Hash-table: 28
+- Two-pointers: 14
 - Bit-manipulation: 1
-- String: 27
 - Stack: 5
+- Database: 27
 
 ## 📂 Solutions
 
@@ -314,6 +314,7 @@ Automatically organized collection of LeetCode solutions.
 | 2195 | Time Needed To Buy Tickets | array | easy | java | [Solution](solutions/java/array/easy/2195_time-needed-to-buy-tickets_array_easy.java) |
 | 2216 | Delete The Middle Node Of A Linked List | linked-list | medium | java | [Solution](solutions/java/linked-list/medium/2216_delete-the-middle-node-of-a-linked-list_linked-list_medium.java) |
 | 2219 | Maximum Number Of Words Found In Sentences | array | easy | java | [Solution](solutions/java/array/easy/2219_maximum-number-of-words-found-in-sentences_array_easy.java) |
+| 2231 | Find First Palindromic String In The Array | array | easy | java | [Solution](solutions/java/array/easy/2231_find-first-palindromic-string-in-the-array_array_easy.java) |
 | 2236 | Maximum Twin Sum Of A Linked List | linked-list | medium | java | [Solution](solutions/java/linked-list/medium/2236_maximum-twin-sum-of-a-linked-list_linked-list_medium.java) |
 | 2262 | Solving Questions With Brainpower | array | medium | java | [Solution](solutions/java/array/medium/2262_solving-questions-with-brainpower_array_medium.java) |
 | 2265 | Partition Array According To Given Pivot | array | medium | java | [Solution](solutions/java/array/medium/2265_partition-array-according-to-given-pivot_array_medium.java) |
@@ -366,19 +367,3 @@ Automatically organized collection of LeetCode solutions.
 | 4299 | Concatenate Array With Reverse | array | easy | java | [Solution](solutions/java/array/easy/4299_concatenate-array-with-reverse_array_easy.java) |
 | 4312 | Limit Occurrences In Sorted Array | array | easy | java | [Solution](solutions/java/array/easy/4312_limit-occurrences-in-sorted-array_array_easy.java) |
 | 4313 | Password Strength | hash-table | medium | java | [Solution](solutions/java/hash-table/medium/4313_password-strength_hash-table_medium.java) |
-
-<!---LeetCode Topics Start-->
-# LeetCode Topics
-## Array
-| Problem Name | Difficulty |
-| ------- | ------- |
-| [2108-find-first-palindromic-string-in-the-array](https://github.com/imrajeevnayan/leetcode-solution/tree/main/2108-find-first-palindromic-string-in-the-array/) | Easy |
-## Two Pointers
-| Problem Name | Difficulty |
-| ------- | ------- |
-| [2108-find-first-palindromic-string-in-the-array](https://github.com/imrajeevnayan/leetcode-solution/tree/main/2108-find-first-palindromic-string-in-the-array/) | Easy |
-## String
-| Problem Name | Difficulty |
-| ------- | ------- |
-| [2108-find-first-palindromic-string-in-the-array](https://github.com/imrajeevnayan/leetcode-solution/tree/main/2108-find-first-palindromic-string-in-the-array/) | Easy |
-<!---LeetCode Topics End-->
