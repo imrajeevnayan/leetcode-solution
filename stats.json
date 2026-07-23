@@ -830,18 +830,19 @@
     "GeeksForGeeks_Linked_List_Group_Reverse": true,
     "GeeksForGeeks_Check_If_Circular_Linked_List": true,
     "GeeksForGeeks_Union_of_Two_Linked_Lists": true,
-    "GeeksForGeeks_Delete_Alternate_Nodes": true
+    "GeeksForGeeks_Delete_Alternate_Nodes": true,
+    "LeetCode_Binary_Tree_Inorder_Traversal": true
   },
-  "totalSolved": 358,
+  "totalSolved": 359,
   "difficultyCounts": {
-    "easy": 113,
+    "easy": 114,
     "medium": 158,
     "hard": 6,
     "basic": 81
   },
-  "currentStreak": 1,
-  "todayCount": 12,
-  "lastSyncDate": "2026-07-22",
+  "currentStreak": 2,
+  "todayCount": 1,
+  "lastSyncDate": "2026-07-23",
   "maxStreak": 15,
   "activityHistory": {
     "2026-05-19": 2,
@@ -895,7 +896,8 @@
     "2026-07-17": 2,
     "2026-07-18": 2,
     "2026-07-19": 4,
-    "2026-07-22": 12
+    "2026-07-22": 12,
+    "2026-07-23": 1
   },
   "todayProblems": [
     "Most Frequent Character",
@@ -1253,6 +1255,7 @@
     "Linked List Group Reverse",
     "Check If Circular Linked List",
     "Union of Two Linked Lists",
-    "Delete Alternate Nodes"
+    "Delete Alternate Nodes",
+    "Binary Tree Inorder Traversal"
   ]
 }
