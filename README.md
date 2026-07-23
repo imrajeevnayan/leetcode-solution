@@ -384,4 +384,20 @@ Automatically organized collection of LeetCode solutions.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0100-same-tree](https://github.com/imrajeevnayan/leetcode-solution/tree/main/0100-same-tree/) | Easy |
+## Array
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0204-count-primes](https://github.com/imrajeevnayan/leetcode-solution/tree/main/0204-count-primes/) | Medium |
+## Math
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0204-count-primes](https://github.com/imrajeevnayan/leetcode-solution/tree/main/0204-count-primes/) | Medium |
+## Enumeration
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0204-count-primes](https://github.com/imrajeevnayan/leetcode-solution/tree/main/0204-count-primes/) | Medium |
+## Number Theory
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0204-count-primes](https://github.com/imrajeevnayan/leetcode-solution/tree/main/0204-count-primes/) | Medium |
 <!---LeetCode Topics End-->
