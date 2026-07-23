@@ -4,33 +4,33 @@ Automatically organized collection of LeetCode solutions.
 
 ## 📊 Statistics
 
-- **Total Problems Solved:** 331
+- **Total Problems Solved:** 332
 - **Current Streak:** 3 days
 - **Longest Streak:** 14 days
 
 ### 🧩 Breakdown
 
 #### By Language
-- Javascript: 2
-- Java: 302
 - Sql: 27
+- Javascript: 2
+- Java: 303
 
 #### By Topic
+- Database: 27
 - General: 1
-- Array: 165
-- Divide-and-conquer: 1
-- Dynamic-programming: 3
-- Hash-table: 28
-- String: 27
+- Array: 166
 - Math: 31
-- Binary-search: 1
+- Divide-and-conquer: 1
 - Linked-list: 19
 - Enumeration: 1
-- Tree: 7
+- Dynamic-programming: 3
+- Binary-search: 1
 - Two-pointers: 14
+- Tree: 7
+- Hash-table: 28
 - Bit-manipulation: 1
+- String: 27
 - Stack: 5
-- Database: 27
 
 ## 📂 Solutions
 
@@ -301,6 +301,7 @@ Automatically organized collection of LeetCode solutions.
 | 1894 | Merge Strings Alternately | two-pointers | easy | java | [Solution](solutions/java/two-pointers/easy/1894_merge-strings-alternately_two-pointers_easy.java) |
 | 1904 | Second Largest Digit In A String | hash-table | easy | java | [Solution](solutions/java/hash-table/easy/1904_second-largest-digit-in-a-string_hash-table_easy.java) |
 | 1927 | Maximum Ascending Subarray Sum | array | easy | java | [Solution](solutions/java/array/easy/1927_maximum-ascending-subarray-sum_array_easy.java) |
+| 1944 | Truncate Sentence | array | easy | java | [Solution](solutions/java/array/easy/1944_truncate-sentence_array_easy.java) |
 | 1966 | Frequency Of The Most Frequent Element | array | medium | java | [Solution](solutions/java/array/medium/1966_frequency-of-the-most-frequent-element_array_medium.java) |
 | 1987 | Substrings Of Size Three With Distinct Characters | hash-table | easy | java | [Solution](solutions/java/hash-table/easy/1987_substrings-of-size-three-with-distinct-characters_hash-table_easy.java) |
 | 2022 | Maximum Alternating Subsequence Sum | array | medium | java | [Solution](solutions/java/array/medium/2022_maximum-alternating-subsequence-sum_array_medium.java) |
@@ -367,15 +368,3 @@ Automatically organized collection of LeetCode solutions.
 | 4299 | Concatenate Array With Reverse | array | easy | java | [Solution](solutions/java/array/easy/4299_concatenate-array-with-reverse_array_easy.java) |
 | 4312 | Limit Occurrences In Sorted Array | array | easy | java | [Solution](solutions/java/array/easy/4312_limit-occurrences-in-sorted-array_array_easy.java) |
 | 4313 | Password Strength | hash-table | medium | java | [Solution](solutions/java/hash-table/medium/4313_password-strength_hash-table_medium.java) |
-
-<!---LeetCode Topics Start-->
-# LeetCode Topics
-## Array
-| Problem Name | Difficulty |
-| ------- | ------- |
-| [1816-truncate-sentence](https://github.com/imrajeevnayan/leetcode-solution/tree/main/1816-truncate-sentence/) | Easy |
-## String
-| Problem Name | Difficulty |
-| ------- | ------- |
-| [1816-truncate-sentence](https://github.com/imrajeevnayan/leetcode-solution/tree/main/1816-truncate-sentence/) | Easy |
-<!---LeetCode Topics End-->
