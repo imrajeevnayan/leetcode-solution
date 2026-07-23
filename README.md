@@ -4,7 +4,7 @@ Automatically organized collection of LeetCode solutions.
 
 ## 📊 Statistics
 
-- **Total Problems Solved:** 321
+- **Total Problems Solved:** 322
 - **Current Streak:** 3 days
 - **Longest Streak:** 14 days
 
@@ -13,12 +13,12 @@ Automatically organized collection of LeetCode solutions.
 #### By Language
 - Sql: 27
 - Javascript: 2
-- Java: 292
+- Java: 293
 
 #### By Topic
 - Database: 27
 - General: 1
-- Array: 162
+- Array: 163
 - Math: 30
 - Divide-and-conquer: 1
 - Linked-list: 19
@@ -206,6 +206,7 @@ Automatically organized collection of LeetCode solutions.
 | 628 | Maximum Product Of Three Numbers | array | easy | java | [Solution](solutions/java/array/easy/628_maximum-product-of-three-numbers_array_easy.java) |
 | 643 | Maximum Average Subarray I | array | easy | java | [Solution](solutions/java/array/easy/643_maximum-average-subarray-i_array_easy.java) |
 | 645 | Set Mismatch | array | easy | java | [Solution](solutions/java/array/easy/645_set-mismatch_array_easy.java) |
+| 654 | Maximum Binary Tree | array | medium | java | [Solution](solutions/java/array/medium/654_maximum-binary-tree_array_medium.java) |
 | 670 | Maximum Swap | math | medium | java | [Solution](solutions/java/math/medium/670_maximum-swap_math_medium.java) |
 | 678 | Valid Parenthesis String | string | medium | java | [Solution](solutions/java/string/medium/678_valid-parenthesis-string_string_medium.java) |
 | 680 | Valid Palindrome Ii | two-pointers | easy | java | [Solution](solutions/java/two-pointers/easy/680_valid-palindrome-ii_two-pointers_easy.java) |
@@ -357,31 +358,3 @@ Automatically organized collection of LeetCode solutions.
 | 4299 | Concatenate Array With Reverse | array | easy | java | [Solution](solutions/java/array/easy/4299_concatenate-array-with-reverse_array_easy.java) |
 | 4312 | Limit Occurrences In Sorted Array | array | easy | java | [Solution](solutions/java/array/easy/4312_limit-occurrences-in-sorted-array_array_easy.java) |
 | 4313 | Password Strength | hash-table | medium | java | [Solution](solutions/java/hash-table/medium/4313_password-strength_hash-table_medium.java) |
-
-<!---LeetCode Topics Start-->
-# LeetCode Topics
-## Array
-| Problem Name | Difficulty |
-| ------- | ------- |
-| [0654-maximum-binary-tree](https://github.com/imrajeevnayan/leetcode-solution/tree/main/0654-maximum-binary-tree/) | Medium |
-## Divide and Conquer
-| Problem Name | Difficulty |
-| ------- | ------- |
-| [0654-maximum-binary-tree](https://github.com/imrajeevnayan/leetcode-solution/tree/main/0654-maximum-binary-tree/) | Medium |
-## Stack
-| Problem Name | Difficulty |
-| ------- | ------- |
-| [0654-maximum-binary-tree](https://github.com/imrajeevnayan/leetcode-solution/tree/main/0654-maximum-binary-tree/) | Medium |
-## Tree
-| Problem Name | Difficulty |
-| ------- | ------- |
-| [0654-maximum-binary-tree](https://github.com/imrajeevnayan/leetcode-solution/tree/main/0654-maximum-binary-tree/) | Medium |
-## Monotonic Stack
-| Problem Name | Difficulty |
-| ------- | ------- |
-| [0654-maximum-binary-tree](https://github.com/imrajeevnayan/leetcode-solution/tree/main/0654-maximum-binary-tree/) | Medium |
-## Binary Tree
-| Problem Name | Difficulty |
-| ------- | ------- |
-| [0654-maximum-binary-tree](https://github.com/imrajeevnayan/leetcode-solution/tree/main/0654-maximum-binary-tree/) | Medium |
-<!---LeetCode Topics End-->
