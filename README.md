@@ -4,7 +4,7 @@ Automatically organized collection of LeetCode solutions.
 
 ## 📊 Statistics
 
-- **Total Problems Solved:** 327
+- **Total Problems Solved:** 329
 - **Current Streak:** 3 days
 - **Longest Streak:** 14 days
 
@@ -13,7 +13,7 @@ Automatically organized collection of LeetCode solutions.
 #### By Language
 - Sql: 27
 - Javascript: 2
-- Java: 298
+- Java: 300
 
 #### By Topic
 - Database: 27
@@ -30,7 +30,7 @@ Automatically organized collection of LeetCode solutions.
 - Hash-table: 28
 - Bit-manipulation: 1
 - String: 27
-- Stack: 3
+- Stack: 5
 
 ## 📂 Solutions
 
@@ -114,6 +114,7 @@ Automatically organized collection of LeetCode solutions.
 | 142 | Linked List Cycle Ii | hash-table | medium | java | [Solution](solutions/java/hash-table/medium/142_linked-list-cycle-ii_hash-table_medium.java) |
 | 143 | Reorder List | linked-list | medium | java | [Solution](solutions/java/linked-list/medium/143_reorder-list_linked-list_medium.java) |
 | 144 | Binary Tree Preorder Traversal | stack | easy | java | [Solution](solutions/java/stack/easy/144_binary-tree-preorder-traversal_stack_easy.java) |
+| 145 | Binary Tree Postorder Traversal | stack | easy | java | [Solution](solutions/java/stack/easy/145_binary-tree-postorder-traversal_stack_easy.java) |
 | 146 | Lru Cache | hash-table | medium | java | [Solution](solutions/java/hash-table/medium/146_lru-cache_hash-table_medium.java) |
 | 151 | Reverse Words In A String | two-pointers | medium | java | [Solution](solutions/java/two-pointers/medium/151_reverse-words-in-a-string_two-pointers_medium.java) |
 | 152 | Maximum Product Subarray | array | medium | java | [Solution](solutions/java/array/medium/152_maximum-product-subarray_array_medium.java) |
@@ -220,6 +221,7 @@ Automatically organized collection of LeetCode solutions.
 | 740 | Delete And Earn | array | medium | java | [Solution](solutions/java/array/medium/740_delete-and-earn_array_medium.java) |
 | 747 | Min Cost Climbing Stairs | array | easy | java | [Solution](solutions/java/array/easy/747_min-cost-climbing-stairs_array_easy.java) |
 | 766 | Flatten A Multilevel Doubly Linked List | linked-list | medium | java | [Solution](solutions/java/linked-list/medium/766_flatten-a-multilevel-doubly-linked-list_linked-list_medium.java) |
+| 776 | N Ary Tree Postorder Traversal | stack | easy | java | [Solution](solutions/java/stack/easy/776_n-ary-tree-postorder-traversal_stack_easy.java) |
 | 778 | Reorganize String | hash-table | medium | java | [Solution](solutions/java/hash-table/medium/778_reorganize-string_hash-table_medium.java) |
 | 782 | Jewels And Stones | hash-table | easy | java | [Solution](solutions/java/hash-table/easy/782_jewels-and-stones_hash-table_easy.java) |
 | 792 | Binary Search | array | easy | java | [Solution](solutions/java/array/easy/792_binary-search_array_easy.java) |
@@ -363,26 +365,3 @@ Automatically organized collection of LeetCode solutions.
 | 4299 | Concatenate Array With Reverse | array | easy | java | [Solution](solutions/java/array/easy/4299_concatenate-array-with-reverse_array_easy.java) |
 | 4312 | Limit Occurrences In Sorted Array | array | easy | java | [Solution](solutions/java/array/easy/4312_limit-occurrences-in-sorted-array_array_easy.java) |
 | 4313 | Password Strength | hash-table | medium | java | [Solution](solutions/java/hash-table/medium/4313_password-strength_hash-table_medium.java) |
-
-<!---LeetCode Topics Start-->
-# LeetCode Topics
-## Stack
-| Problem Name | Difficulty |
-| ------- | ------- |
-| [0145-binary-tree-postorder-traversal](https://github.com/imrajeevnayan/leetcode-solution/tree/main/0145-binary-tree-postorder-traversal/) | Easy |
-| [0590-n-ary-tree-postorder-traversal](https://github.com/imrajeevnayan/leetcode-solution/tree/main/0590-n-ary-tree-postorder-traversal/) | Easy |
-## Tree
-| Problem Name | Difficulty |
-| ------- | ------- |
-| [0145-binary-tree-postorder-traversal](https://github.com/imrajeevnayan/leetcode-solution/tree/main/0145-binary-tree-postorder-traversal/) | Easy |
-| [0590-n-ary-tree-postorder-traversal](https://github.com/imrajeevnayan/leetcode-solution/tree/main/0590-n-ary-tree-postorder-traversal/) | Easy |
-## Depth-First Search
-| Problem Name | Difficulty |
-| ------- | ------- |
-| [0145-binary-tree-postorder-traversal](https://github.com/imrajeevnayan/leetcode-solution/tree/main/0145-binary-tree-postorder-traversal/) | Easy |
-| [0590-n-ary-tree-postorder-traversal](https://github.com/imrajeevnayan/leetcode-solution/tree/main/0590-n-ary-tree-postorder-traversal/) | Easy |
-## Binary Tree
-| Problem Name | Difficulty |
-| ------- | ------- |
-| [0145-binary-tree-postorder-traversal](https://github.com/imrajeevnayan/leetcode-solution/tree/main/0145-binary-tree-postorder-traversal/) | Easy |
-<!---LeetCode Topics End-->
