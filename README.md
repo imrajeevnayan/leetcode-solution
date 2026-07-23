@@ -4,7 +4,7 @@ Automatically organized collection of LeetCode solutions.
 
 ## 📊 Statistics
 
-- **Total Problems Solved:** 323
+- **Total Problems Solved:** 324
 - **Current Streak:** 3 days
 - **Longest Streak:** 14 days
 
@@ -13,7 +13,7 @@ Automatically organized collection of LeetCode solutions.
 #### By Language
 - Sql: 27
 - Javascript: 2
-- Java: 294
+- Java: 295
 
 #### By Topic
 - Database: 27
@@ -30,7 +30,7 @@ Automatically organized collection of LeetCode solutions.
 - Hash-table: 28
 - Bit-manipulation: 1
 - String: 27
-- Stack: 1
+- Stack: 2
 
 ## 📂 Solutions
 
@@ -94,6 +94,7 @@ Automatically organized collection of LeetCode solutions.
 | 83 | Remove Duplicates From Sorted List | linked-list | easy | java | [Solution](solutions/java/linked-list/easy/83_remove-duplicates-from-sorted-list_linked-list_easy.java) |
 | 88 | Merge Sorted Array | array | easy | java | [Solution](solutions/java/array/easy/88_merge-sorted-array_array_easy.java) |
 | 90 | Subsets Ii | array | medium | java | [Solution](solutions/java/array/medium/90_subsets-ii_array_medium.java) |
+| 94 | Binary Tree Inorder Traversal | stack | easy | java | [Solution](solutions/java/stack/easy/94_binary-tree-inorder-traversal_stack_easy.java) |
 | 100 | Same Tree | tree | easy | java | [Solution](solutions/java/tree/easy/100_same-tree_tree_easy.java) |
 | 108 | Convert Sorted Array To Binary Search Tree | array | easy | java | [Solution](solutions/java/array/easy/108_convert-sorted-array-to-binary-search-tree_array_easy.java) |
 | 112 | Path Sum | tree | easy | java | [Solution](solutions/java/tree/easy/112_path-sum_tree_easy.java) |
@@ -359,23 +360,3 @@ Automatically organized collection of LeetCode solutions.
 | 4299 | Concatenate Array With Reverse | array | easy | java | [Solution](solutions/java/array/easy/4299_concatenate-array-with-reverse_array_easy.java) |
 | 4312 | Limit Occurrences In Sorted Array | array | easy | java | [Solution](solutions/java/array/easy/4312_limit-occurrences-in-sorted-array_array_easy.java) |
 | 4313 | Password Strength | hash-table | medium | java | [Solution](solutions/java/hash-table/medium/4313_password-strength_hash-table_medium.java) |
-
-<!---LeetCode Topics Start-->
-# LeetCode Topics
-## Stack
-| Problem Name | Difficulty |
-| ------- | ------- |
-| [0094-binary-tree-inorder-traversal](https://github.com/imrajeevnayan/leetcode-solution/tree/main/0094-binary-tree-inorder-traversal/) | Easy |
-## Tree
-| Problem Name | Difficulty |
-| ------- | ------- |
-| [0094-binary-tree-inorder-traversal](https://github.com/imrajeevnayan/leetcode-solution/tree/main/0094-binary-tree-inorder-traversal/) | Easy |
-## Depth-First Search
-| Problem Name | Difficulty |
-| ------- | ------- |
-| [0094-binary-tree-inorder-traversal](https://github.com/imrajeevnayan/leetcode-solution/tree/main/0094-binary-tree-inorder-traversal/) | Easy |
-## Binary Tree
-| Problem Name | Difficulty |
-| ------- | ------- |
-| [0094-binary-tree-inorder-traversal](https://github.com/imrajeevnayan/leetcode-solution/tree/main/0094-binary-tree-inorder-traversal/) | Easy |
-<!---LeetCode Topics End-->
