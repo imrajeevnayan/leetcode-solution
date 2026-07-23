@@ -4,7 +4,7 @@ Automatically organized collection of LeetCode solutions.
 
 ## 📊 Statistics
 
-- **Total Problems Solved:** 322
+- **Total Problems Solved:** 323
 - **Current Streak:** 3 days
 - **Longest Streak:** 14 days
 
@@ -13,12 +13,12 @@ Automatically organized collection of LeetCode solutions.
 #### By Language
 - Sql: 27
 - Javascript: 2
-- Java: 293
+- Java: 294
 
 #### By Topic
 - Database: 27
 - General: 1
-- Array: 163
+- Array: 164
 - Math: 30
 - Divide-and-conquer: 1
 - Linked-list: 19
@@ -280,6 +280,7 @@ Automatically organized collection of LeetCode solutions.
 | 1603 | Running Sum Of 1D Array | array | easy | java | [Solution](solutions/java/array/easy/1603_running-sum-of-1d-array_array_easy.java) |
 | 1631 | Number Of Sub Arrays With Odd Sum | array | medium | java | [Solution](solutions/java/array/medium/1631_number-of-sub-arrays-with-odd-sum_array_medium.java) |
 | 1646 | Kth Missing Positive Number | array | easy | java | [Solution](solutions/java/array/easy/1646_kth-missing-positive-number_array_easy.java) |
+| 1656 | Count Good Triplets | array | easy | java | [Solution](solutions/java/array/easy/1656_count-good-triplets_array_easy.java) |
 | 1666 | Make The String Great | string | easy | java | [Solution](solutions/java/string/easy/1666_make-the-string-great_string_easy.java) |
 | 1724 | Customer Who Visited But Did Not Make Any Transactions | database | easy | sql | [Solution](solutions/sql/database/easy/1724_customer-who-visited-but-did-not-make-any-transactions_database_easy.sql) |
 | 1741 | Sort Array By Increasing Frequency | array | easy | java | [Solution](solutions/java/array/easy/1741_sort-array-by-increasing-frequency_array_easy.java) |
@@ -358,15 +359,3 @@ Automatically organized collection of LeetCode solutions.
 | 4299 | Concatenate Array With Reverse | array | easy | java | [Solution](solutions/java/array/easy/4299_concatenate-array-with-reverse_array_easy.java) |
 | 4312 | Limit Occurrences In Sorted Array | array | easy | java | [Solution](solutions/java/array/easy/4312_limit-occurrences-in-sorted-array_array_easy.java) |
 | 4313 | Password Strength | hash-table | medium | java | [Solution](solutions/java/hash-table/medium/4313_password-strength_hash-table_medium.java) |
-
-<!---LeetCode Topics Start-->
-# LeetCode Topics
-## Array
-| Problem Name | Difficulty |
-| ------- | ------- |
-| [1534-count-good-triplets](https://github.com/imrajeevnayan/leetcode-solution/tree/main/1534-count-good-triplets/) | Easy |
-## Enumeration
-| Problem Name | Difficulty |
-| ------- | ------- |
-| [1534-count-good-triplets](https://github.com/imrajeevnayan/leetcode-solution/tree/main/1534-count-good-triplets/) | Easy |
-<!---LeetCode Topics End-->
