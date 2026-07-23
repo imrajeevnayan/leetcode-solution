@@ -833,17 +833,18 @@
     "GeeksForGeeks_Delete_Alternate_Nodes": true,
     "LeetCode_Binary_Tree_Inorder_Traversal": true,
     "LeetCode_Prime_Palindrome": true,
-    "GeeksForGeeks_Print_Linked_List": true
+    "GeeksForGeeks_Print_Linked_List": true,
+    "GeeksForGeeks_Check_Preorder_of_BST": true
   },
-  "totalSolved": 361,
+  "totalSolved": 362,
   "difficultyCounts": {
     "easy": 114,
-    "medium": 159,
+    "medium": 160,
     "hard": 6,
     "basic": 82
   },
   "currentStreak": 2,
-  "todayCount": 3,
+  "todayCount": 4,
   "lastSyncDate": "2026-07-23",
   "maxStreak": 15,
   "activityHistory": {
@@ -899,7 +900,7 @@
     "2026-07-18": 2,
     "2026-07-19": 4,
     "2026-07-22": 12,
-    "2026-07-23": 3
+    "2026-07-23": 4
   },
   "todayProblems": [
     "Most Frequent Character",
@@ -1260,6 +1261,7 @@
     "Delete Alternate Nodes",
     "Binary Tree Inorder Traversal",
     "Prime Palindrome",
-    "Print Linked List"
+    "Print Linked List",
+    "Check Preorder of BST"
   ]
 }
