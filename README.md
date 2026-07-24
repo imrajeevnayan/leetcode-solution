@@ -14,6 +14,7 @@
 | ------- | ------- |
 | [0268-missing-number](https://github.com/imrajeevnayan/leetcode-solution/tree/main/0268-missing-number/) | Easy |
 | [0704-binary-search](https://github.com/imrajeevnayan/leetcode-solution/tree/main/0704-binary-search/) | Easy |
+| [3731-find-missing-elements](https://github.com/imrajeevnayan/leetcode-solution/tree/main/3731-find-missing-elements/) | Easy |
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -23,6 +24,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0268-missing-number](https://github.com/imrajeevnayan/leetcode-solution/tree/main/0268-missing-number/) | Easy |
+| [3731-find-missing-elements](https://github.com/imrajeevnayan/leetcode-solution/tree/main/3731-find-missing-elements/) | Easy |
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -35,5 +37,6 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0268-missing-number](https://github.com/imrajeevnayan/leetcode-solution/tree/main/0268-missing-number/) | Easy |
+| [3731-find-missing-elements](https://github.com/imrajeevnayan/leetcode-solution/tree/main/3731-find-missing-elements/) | Easy |
 <!---LeetCode Topics End-->
 | 7 | [Missing Number](https://leetcode.com/problems/missing-number/) | LeetCode | Easy | 24 Jul 2026 | 04:51 pm |
