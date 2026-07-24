@@ -839,17 +839,18 @@
     "GeeksForGeeks_K-th_element_of_two_Arrays": true,
     "GeeksForGeeks_Longest_Increasing_Subsequence": true,
     "GeeksForGeeks_K_Closest_in_a_Sorted_Array": true,
-    "GeeksForGeeks_Sorted_and_Rotated_Minimum": true
+    "GeeksForGeeks_Sorted_and_Rotated_Minimum": true,
+    "GeeksForGeeks_Find_the_closest_number": true
   },
-  "totalSolved": 367,
+  "totalSolved": 368,
   "difficultyCounts": {
-    "easy": 116,
+    "easy": 117,
     "medium": 163,
     "hard": 6,
     "basic": 82
   },
   "currentStreak": 3,
-  "todayCount": 2,
+  "todayCount": 3,
   "lastSyncDate": "2026-07-24",
   "maxStreak": 15,
   "activityHistory": {
@@ -906,7 +907,7 @@
     "2026-07-19": 4,
     "2026-07-22": 12,
     "2026-07-23": 7,
-    "2026-07-24": 2
+    "2026-07-24": 3
   },
   "todayProblems": [
     "Most Frequent Character",
@@ -1273,6 +1274,7 @@
     "K-th element of two Arrays",
     "Longest Increasing Subsequence",
     "K Closest in a Sorted Array",
-    "Sorted and Rotated Minimum"
+    "Sorted and Rotated Minimum",
+    "Find the closest number"
   ]
 }
