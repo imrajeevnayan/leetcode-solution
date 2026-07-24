@@ -6,3 +6,15 @@
 | 4 | [K Closest in a Sorted Array](https://www.geeksforgeeks.org/problems/k-closest-elements3619/1?page=1&category=Binary%20Search&sortBy=submissions) | GeeksForGeeks | Medium | 24 Jul 2026 | 10:50 am |
 | 5 | [Sorted and Rotated Minimum](https://www.geeksforgeeks.org/problems/minimum-element-in-a-sorted-and-rotated-array3611/1?page=2&category=Binary%20Search&sortBy=submissions) | GeeksForGeeks | Easy | 24 Jul 2026 | 10:58 am |
 | 6 | [Find the closest number](https://www.geeksforgeeks.org/problems/find-the-closest-number5513/1?page=2&category=Binary%20Search&sortBy=submissions) | GeeksForGeeks | Easy | 24 Jul 2026 | 11:01 am |
+
+<!---LeetCode Topics Start-->
+# LeetCode Topics
+## Array
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0704-binary-search](https://github.com/imrajeevnayan/leetcode-solution/tree/main/0704-binary-search/) | Easy |
+## Binary Search
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0704-binary-search](https://github.com/imrajeevnayan/leetcode-solution/tree/main/0704-binary-search/) | Easy |
+<!---LeetCode Topics End-->
