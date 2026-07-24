@@ -4,3 +4,15 @@
 | 2 | [Search in an almost Sorted Array](https://www.geeksforgeeks.org/problems/search-in-an-almost-sorted-array/1?page=2&category=Binary%20Search&sortBy=accuracy) | GeeksForGeeks | Medium | 24 Jul 2026 | 06:00 pm |
 | 3 | [Smaller Sum](https://www.geeksforgeeks.org/problems/smaller-sum--170647/1?page=2&category=Binary%20Search&sortBy=accuracy) | GeeksForGeeks | Medium | 24 Jul 2026 | 06:03 pm |
 | 4 | [Sum of Middle of two sorted arrays](https://www.geeksforgeeks.org/problems/sum-of-middle-elements-of-two-sorted-arrays2305/1?page=3&category=Binary%20Search&sortBy=accuracy) | GeeksForGeeks | Medium | 24 Jul 2026 | 06:04 pm |
+
+<!---LeetCode Topics Start-->
+# LeetCode Topics
+## Linked List
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [2181-merge-nodes-in-between-zeros](https://github.com/imrajeevnayan/leetcode-solution/tree/main/2181-merge-nodes-in-between-zeros/) | Medium |
+## Simulation
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [2181-merge-nodes-in-between-zeros](https://github.com/imrajeevnayan/leetcode-solution/tree/main/2181-merge-nodes-in-between-zeros/) | Medium |
+<!---LeetCode Topics End-->
