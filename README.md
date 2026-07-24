@@ -4,7 +4,7 @@ Automatically organized collection of LeetCode solutions.
 
 ## 📊 Statistics
 
-- **Total Problems Solved:** 339
+- **Total Problems Solved:** 340
 - **Current Streak:** 4 days
 - **Longest Streak:** 14 days
 
@@ -12,12 +12,12 @@ Automatically organized collection of LeetCode solutions.
 
 #### By Language
 - Javascript: 2
-- Java: 310
+- Java: 311
 - Sql: 27
 
 #### By Topic
 - General: 1
-- Array: 172
+- Array: 173
 - Divide-and-conquer: 1
 - Dynamic-programming: 3
 - Hash-table: 28
@@ -220,6 +220,7 @@ Automatically organized collection of LeetCode solutions.
 | 713 | Subarray Product Less Than K | array | medium | java | [Solution](solutions/java/array/medium/713_subarray-product-less-than-k_array_medium.java) |
 | 724 | Find Pivot Index | array | easy | java | [Solution](solutions/java/array/easy/724_find-pivot-index_array_easy.java) |
 | 740 | Delete And Earn | array | medium | java | [Solution](solutions/java/array/medium/740_delete-and-earn_array_medium.java) |
+| 745 | Find Smallest Letter Greater Than Target | array | easy | java | [Solution](solutions/java/array/easy/745_find-smallest-letter-greater-than-target_array_easy.java) |
 | 747 | Min Cost Climbing Stairs | array | easy | java | [Solution](solutions/java/array/easy/747_min-cost-climbing-stairs_array_easy.java) |
 | 766 | Flatten A Multilevel Doubly Linked List | linked-list | medium | java | [Solution](solutions/java/linked-list/medium/766_flatten-a-multilevel-doubly-linked-list_linked-list_medium.java) |
 | 776 | N Ary Tree Postorder Traversal | stack | easy | java | [Solution](solutions/java/stack/easy/776_n-ary-tree-postorder-traversal_stack_easy.java) |
@@ -375,17 +376,3 @@ Automatically organized collection of LeetCode solutions.
 | 4299 | Concatenate Array With Reverse | array | easy | java | [Solution](solutions/java/array/easy/4299_concatenate-array-with-reverse_array_easy.java) |
 | 4312 | Limit Occurrences In Sorted Array | array | easy | java | [Solution](solutions/java/array/easy/4312_limit-occurrences-in-sorted-array_array_easy.java) |
 | 4313 | Password Strength | hash-table | medium | java | [Solution](solutions/java/hash-table/medium/4313_password-strength_hash-table_medium.java) |
-
-<!---LeetCode Topics Start-->
-# LeetCode Topics
-## Array
-| Problem Name | Difficulty |
-| ------- | ------- |
-| [0035-search-insert-position](https://github.com/imrajeevnayan/leetcode-solution/tree/main/0035-search-insert-position/) | Easy |
-| [0744-find-smallest-letter-greater-than-target](https://github.com/imrajeevnayan/leetcode-solution/tree/main/0744-find-smallest-letter-greater-than-target/) | Easy |
-## Binary Search
-| Problem Name | Difficulty |
-| ------- | ------- |
-| [0035-search-insert-position](https://github.com/imrajeevnayan/leetcode-solution/tree/main/0035-search-insert-position/) | Easy |
-| [0744-find-smallest-letter-greater-than-target](https://github.com/imrajeevnayan/leetcode-solution/tree/main/0744-find-smallest-letter-greater-than-target/) | Easy |
-<!---LeetCode Topics End-->
