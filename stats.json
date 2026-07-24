@@ -844,17 +844,18 @@
     "LeetCode_Missing_Number": true,
     "GeeksForGeeks_Minimum_in_Decreasing_Increasing_Array": true,
     "GeeksForGeeks_Search_in_an_almost_Sorted_Array": true,
-    "GeeksForGeeks_Smaller_Sum": true
+    "GeeksForGeeks_Smaller_Sum": true,
+    "GeeksForGeeks_Sum_of_Middle_of_two_sorted_arrays": true
   },
-  "totalSolved": 372,
+  "totalSolved": 373,
   "difficultyCounts": {
     "easy": 119,
-    "medium": 165,
+    "medium": 166,
     "hard": 6,
     "basic": 82
   },
   "currentStreak": 3,
-  "todayCount": 7,
+  "todayCount": 8,
   "lastSyncDate": "2026-07-24",
   "maxStreak": 15,
   "activityHistory": {
@@ -911,7 +912,7 @@
     "2026-07-19": 4,
     "2026-07-22": 12,
     "2026-07-23": 7,
-    "2026-07-24": 7
+    "2026-07-24": 8
   },
   "todayProblems": [
     "Most Frequent Character",
@@ -1283,6 +1284,7 @@
     "Missing Number",
     "Minimum in Decreasing Increasing Array",
     "Search in an almost Sorted Array",
-    "Smaller Sum"
+    "Smaller Sum",
+    "Sum of Middle of two sorted arrays"
   ]
 }
