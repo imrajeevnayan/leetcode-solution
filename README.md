@@ -4,7 +4,7 @@ Automatically organized collection of LeetCode solutions.
 
 ## 📊 Statistics
 
-- **Total Problems Solved:** 337
+- **Total Problems Solved:** 338
 - **Current Streak:** 4 days
 - **Longest Streak:** 14 days
 
@@ -12,12 +12,12 @@ Automatically organized collection of LeetCode solutions.
 
 #### By Language
 - Javascript: 2
-- Java: 308
+- Java: 309
 - Sql: 27
 
 #### By Topic
 - General: 1
-- Array: 171
+- Array: 172
 - Divide-and-conquer: 1
 - Dynamic-programming: 3
 - Hash-table: 28
@@ -286,6 +286,7 @@ Automatically organized collection of LeetCode solutions.
 | 1574 | Maximum Product Of Two Elements In An Array | array | easy | java | [Solution](solutions/java/array/easy/1574_maximum-product-of-two-elements-in-an-array_array_easy.java) |
 | 1586 | Longest Subarray Of 1'S After Deleting One Element | array | medium | java | [Solution](solutions/java/array/medium/1586_longest-subarray-of-1's-after-deleting-one-element_array_medium.java) |
 | 1603 | Running Sum Of 1D Array | array | easy | java | [Solution](solutions/java/array/easy/1603_running-sum-of-1d-array_array_easy.java) |
+| 1615 | Range Sum Of Sorted Subarray Sums | array | medium | java | [Solution](solutions/java/array/medium/1615_range-sum-of-sorted-subarray-sums_array_medium.java) |
 | 1631 | Number Of Sub Arrays With Odd Sum | array | medium | java | [Solution](solutions/java/array/medium/1631_number-of-sub-arrays-with-odd-sum_array_medium.java) |
 | 1646 | Kth Missing Positive Number | array | easy | java | [Solution](solutions/java/array/easy/1646_kth-missing-positive-number_array_easy.java) |
 | 1656 | Count Good Triplets | array | easy | java | [Solution](solutions/java/array/easy/1656_count-good-triplets_array_easy.java) |
@@ -373,27 +374,3 @@ Automatically organized collection of LeetCode solutions.
 | 4299 | Concatenate Array With Reverse | array | easy | java | [Solution](solutions/java/array/easy/4299_concatenate-array-with-reverse_array_easy.java) |
 | 4312 | Limit Occurrences In Sorted Array | array | easy | java | [Solution](solutions/java/array/easy/4312_limit-occurrences-in-sorted-array_array_easy.java) |
 | 4313 | Password Strength | hash-table | medium | java | [Solution](solutions/java/hash-table/medium/4313_password-strength_hash-table_medium.java) |
-
-<!---LeetCode Topics Start-->
-# LeetCode Topics
-## Array
-| Problem Name | Difficulty |
-| ------- | ------- |
-| [1508-range-sum-of-sorted-subarray-sums](https://github.com/imrajeevnayan/leetcode-solution/tree/main/1508-range-sum-of-sorted-subarray-sums/) | Medium |
-## Two Pointers
-| Problem Name | Difficulty |
-| ------- | ------- |
-| [1508-range-sum-of-sorted-subarray-sums](https://github.com/imrajeevnayan/leetcode-solution/tree/main/1508-range-sum-of-sorted-subarray-sums/) | Medium |
-## Binary Search
-| Problem Name | Difficulty |
-| ------- | ------- |
-| [1508-range-sum-of-sorted-subarray-sums](https://github.com/imrajeevnayan/leetcode-solution/tree/main/1508-range-sum-of-sorted-subarray-sums/) | Medium |
-## Sorting
-| Problem Name | Difficulty |
-| ------- | ------- |
-| [1508-range-sum-of-sorted-subarray-sums](https://github.com/imrajeevnayan/leetcode-solution/tree/main/1508-range-sum-of-sorted-subarray-sums/) | Medium |
-## Prefix Sum
-| Problem Name | Difficulty |
-| ------- | ------- |
-| [1508-range-sum-of-sorted-subarray-sums](https://github.com/imrajeevnayan/leetcode-solution/tree/main/1508-range-sum-of-sorted-subarray-sums/) | Medium |
-<!---LeetCode Topics End-->
