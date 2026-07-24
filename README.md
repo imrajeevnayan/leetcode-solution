@@ -4,7 +4,7 @@ Automatically organized collection of LeetCode solutions.
 
 ## 📊 Statistics
 
-- **Total Problems Solved:** 340
+- **Total Problems Solved:** 341
 - **Current Streak:** 4 days
 - **Longest Streak:** 14 days
 
@@ -12,7 +12,7 @@ Automatically organized collection of LeetCode solutions.
 
 #### By Language
 - Javascript: 2
-- Java: 311
+- Java: 312
 - Sql: 27
 
 #### By Topic
@@ -23,7 +23,7 @@ Automatically organized collection of LeetCode solutions.
 - Hash-table: 28
 - String: 27
 - Math: 31
-- Binary-search: 1
+- Binary-search: 2
 - Linked-list: 20
 - Enumeration: 1
 - Tree: 7
@@ -169,6 +169,7 @@ Automatically organized collection of LeetCode solutions.
 | 345 | Reverse Vowels Of A String | two-pointers | easy | java | [Solution](solutions/java/two-pointers/easy/345_reverse-vowels-of-a-string_two-pointers_easy.java) |
 | 347 | Top K Frequent Elements | array | medium | java | [Solution](solutions/java/array/medium/347_top-k-frequent-elements_array_medium.java) |
 | 371 | Sum Of Two Integers | math | medium | java | [Solution](solutions/java/math/medium/371_sum-of-two-integers_math_medium.java) |
+| 374 | Guess Number Higher Or Lower | binary-search | easy | java | [Solution](solutions/java/binary-search/easy/374_guess-number-higher-or-lower_binary-search_easy.java) |
 | 377 | Combination Sum Iv | array | medium | java | [Solution](solutions/java/array/medium/377_combination-sum-iv_array_medium.java) |
 | 380 | Insert Delete Getrandom O(1) | array | medium | java | [Solution](solutions/java/array/medium/380_insert-delete-getrandom-o(1)_array_medium.java) |
 | 389 | Find The Difference | hash-table | easy | java | [Solution](solutions/java/hash-table/easy/389_find-the-difference_hash-table_easy.java) |
@@ -376,15 +377,3 @@ Automatically organized collection of LeetCode solutions.
 | 4299 | Concatenate Array With Reverse | array | easy | java | [Solution](solutions/java/array/easy/4299_concatenate-array-with-reverse_array_easy.java) |
 | 4312 | Limit Occurrences In Sorted Array | array | easy | java | [Solution](solutions/java/array/easy/4312_limit-occurrences-in-sorted-array_array_easy.java) |
 | 4313 | Password Strength | hash-table | medium | java | [Solution](solutions/java/hash-table/medium/4313_password-strength_hash-table_medium.java) |
-
-<!---LeetCode Topics Start-->
-# LeetCode Topics
-## Binary Search
-| Problem Name | Difficulty |
-| ------- | ------- |
-| [0374-guess-number-higher-or-lower](https://github.com/imrajeevnayan/leetcode-solution/tree/main/0374-guess-number-higher-or-lower/) | Easy |
-## Interactive
-| Problem Name | Difficulty |
-| ------- | ------- |
-| [0374-guess-number-higher-or-lower](https://github.com/imrajeevnayan/leetcode-solution/tree/main/0374-guess-number-higher-or-lower/) | Easy |
-<!---LeetCode Topics End-->
