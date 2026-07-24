@@ -842,17 +842,18 @@
     "GeeksForGeeks_Sorted_and_Rotated_Minimum": true,
     "GeeksForGeeks_Find_the_closest_number": true,
     "LeetCode_Missing_Number": true,
-    "GeeksForGeeks_Minimum_in_Decreasing_Increasing_Array": true
+    "GeeksForGeeks_Minimum_in_Decreasing_Increasing_Array": true,
+    "GeeksForGeeks_Search_in_an_almost_Sorted_Array": true
   },
-  "totalSolved": 370,
+  "totalSolved": 371,
   "difficultyCounts": {
     "easy": 119,
-    "medium": 163,
+    "medium": 164,
     "hard": 6,
     "basic": 82
   },
   "currentStreak": 3,
-  "todayCount": 5,
+  "todayCount": 6,
   "lastSyncDate": "2026-07-24",
   "maxStreak": 15,
   "activityHistory": {
@@ -909,7 +910,7 @@
     "2026-07-19": 4,
     "2026-07-22": 12,
     "2026-07-23": 7,
-    "2026-07-24": 5
+    "2026-07-24": 6
   },
   "todayProblems": [
     "Most Frequent Character",
@@ -1279,6 +1280,7 @@
     "Sorted and Rotated Minimum",
     "Find the closest number",
     "Missing Number",
-    "Minimum in Decreasing Increasing Array"
+    "Minimum in Decreasing Increasing Array",
+    "Search in an almost Sorted Array"
   ]
 }
