@@ -4,7 +4,7 @@ Automatically organized collection of LeetCode solutions.
 
 ## 📊 Statistics
 
-- **Total Problems Solved:** 335
+- **Total Problems Solved:** 336
 - **Current Streak:** 4 days
 - **Longest Streak:** 14 days
 
@@ -12,12 +12,12 @@ Automatically organized collection of LeetCode solutions.
 
 #### By Language
 - Javascript: 2
-- Java: 306
+- Java: 307
 - Sql: 27
 
 #### By Topic
 - General: 1
-- Array: 169
+- Array: 170
 - Divide-and-conquer: 1
 - Dynamic-programming: 3
 - Hash-table: 28
@@ -314,6 +314,7 @@ Automatically organized collection of LeetCode solutions.
 | 2170 | Count Number Of Maximum Bitwise Or Subsets | array | medium | java | [Solution](solutions/java/array/medium/2170_count-number-of-maximum-bitwise-or-subsets_array_medium.java) |
 | 2177 | Check Whether Two Strings Are Almost Equivalent | hash-table | easy | java | [Solution](solutions/java/hash-table/easy/2177_check-whether-two-strings-are-almost-equivalent_hash-table_easy.java) |
 | 2195 | Time Needed To Buy Tickets | array | easy | java | [Solution](solutions/java/array/easy/2195_time-needed-to-buy-tickets_array_easy.java) |
+| 2210 | Find Target Indices After Sorting Array | array | easy | java | [Solution](solutions/java/array/easy/2210_find-target-indices-after-sorting-array_array_easy.java) |
 | 2216 | Delete The Middle Node Of A Linked List | linked-list | medium | java | [Solution](solutions/java/linked-list/medium/2216_delete-the-middle-node-of-a-linked-list_linked-list_medium.java) |
 | 2219 | Maximum Number Of Words Found In Sentences | array | easy | java | [Solution](solutions/java/array/easy/2219_maximum-number-of-words-found-in-sentences_array_easy.java) |
 | 2231 | Find First Palindromic String In The Array | array | easy | java | [Solution](solutions/java/array/easy/2231_find-first-palindromic-string-in-the-array_array_easy.java) |
@@ -371,19 +372,3 @@ Automatically organized collection of LeetCode solutions.
 | 4299 | Concatenate Array With Reverse | array | easy | java | [Solution](solutions/java/array/easy/4299_concatenate-array-with-reverse_array_easy.java) |
 | 4312 | Limit Occurrences In Sorted Array | array | easy | java | [Solution](solutions/java/array/easy/4312_limit-occurrences-in-sorted-array_array_easy.java) |
 | 4313 | Password Strength | hash-table | medium | java | [Solution](solutions/java/hash-table/medium/4313_password-strength_hash-table_medium.java) |
-
-<!---LeetCode Topics Start-->
-# LeetCode Topics
-## Array
-| Problem Name | Difficulty |
-| ------- | ------- |
-| [2089-find-target-indices-after-sorting-array](https://github.com/imrajeevnayan/leetcode-solution/tree/main/2089-find-target-indices-after-sorting-array/) | Easy |
-## Binary Search
-| Problem Name | Difficulty |
-| ------- | ------- |
-| [2089-find-target-indices-after-sorting-array](https://github.com/imrajeevnayan/leetcode-solution/tree/main/2089-find-target-indices-after-sorting-array/) | Easy |
-## Sorting
-| Problem Name | Difficulty |
-| ------- | ------- |
-| [2089-find-target-indices-after-sorting-array](https://github.com/imrajeevnayan/leetcode-solution/tree/main/2089-find-target-indices-after-sorting-array/) | Easy |
-<!---LeetCode Topics End-->
