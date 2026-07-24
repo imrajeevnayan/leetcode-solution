@@ -4,7 +4,7 @@ Automatically organized collection of LeetCode solutions.
 
 ## 📊 Statistics
 
-- **Total Problems Solved:** 336
+- **Total Problems Solved:** 337
 - **Current Streak:** 4 days
 - **Longest Streak:** 14 days
 
@@ -12,12 +12,12 @@ Automatically organized collection of LeetCode solutions.
 
 #### By Language
 - Javascript: 2
-- Java: 307
+- Java: 308
 - Sql: 27
 
 #### By Topic
 - General: 1
-- Array: 170
+- Array: 171
 - Divide-and-conquer: 1
 - Dynamic-programming: 3
 - Hash-table: 28
@@ -280,6 +280,7 @@ Automatically organized collection of LeetCode solutions.
 | 1473 | Find The Longest Substring Containing Vowels In Even Counts | hash-table | medium | java | [Solution](solutions/java/hash-table/medium/1473_find-the-longest-substring-containing-vowels-in-even-counts_hash-table_medium.java) |
 | 1480 | Movie Rating | database | medium | sql | [Solution](solutions/sql/database/medium/1480_movie-rating_database_medium.sql) |
 | 1482 | How Many Numbers Are Smaller Than The Current Number | array | easy | java | [Solution](solutions/java/array/easy/1482_how-many-numbers-are-smaller-than-the-current-number_array_easy.java) |
+| 1486 | Find The Distance Value Between Two Arrays | array | easy | java | [Solution](solutions/java/array/easy/1486_find-the-distance-value-between-two-arrays_array_easy.java) |
 | 1542 | Consecutive Characters | string | easy | java | [Solution](solutions/java/string/easy/1542_consecutive-characters_string_easy.java) |
 | 1567 | Maximum Number Of Vowels In A Substring Of Given Length | string | medium | java | [Solution](solutions/java/string/medium/1567_maximum-number-of-vowels-in-a-substring-of-given-length_string_medium.java) |
 | 1574 | Maximum Product Of Two Elements In An Array | array | easy | java | [Solution](solutions/java/array/easy/1574_maximum-product-of-two-elements-in-an-array_array_easy.java) |
@@ -372,23 +373,3 @@ Automatically organized collection of LeetCode solutions.
 | 4299 | Concatenate Array With Reverse | array | easy | java | [Solution](solutions/java/array/easy/4299_concatenate-array-with-reverse_array_easy.java) |
 | 4312 | Limit Occurrences In Sorted Array | array | easy | java | [Solution](solutions/java/array/easy/4312_limit-occurrences-in-sorted-array_array_easy.java) |
 | 4313 | Password Strength | hash-table | medium | java | [Solution](solutions/java/hash-table/medium/4313_password-strength_hash-table_medium.java) |
-
-<!---LeetCode Topics Start-->
-# LeetCode Topics
-## Array
-| Problem Name | Difficulty |
-| ------- | ------- |
-| [1385-find-the-distance-value-between-two-arrays](https://github.com/imrajeevnayan/leetcode-solution/tree/main/1385-find-the-distance-value-between-two-arrays/) | Easy |
-## Two Pointers
-| Problem Name | Difficulty |
-| ------- | ------- |
-| [1385-find-the-distance-value-between-two-arrays](https://github.com/imrajeevnayan/leetcode-solution/tree/main/1385-find-the-distance-value-between-two-arrays/) | Easy |
-## Binary Search
-| Problem Name | Difficulty |
-| ------- | ------- |
-| [1385-find-the-distance-value-between-two-arrays](https://github.com/imrajeevnayan/leetcode-solution/tree/main/1385-find-the-distance-value-between-two-arrays/) | Easy |
-## Sorting
-| Problem Name | Difficulty |
-| ------- | ------- |
-| [1385-find-the-distance-value-between-two-arrays](https://github.com/imrajeevnayan/leetcode-solution/tree/main/1385-find-the-distance-value-between-two-arrays/) | Easy |
-<!---LeetCode Topics End-->
