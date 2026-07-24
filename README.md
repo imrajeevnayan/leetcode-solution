@@ -4,7 +4,7 @@ Automatically organized collection of LeetCode solutions.
 
 ## 📊 Statistics
 
-- **Total Problems Solved:** 334
+- **Total Problems Solved:** 335
 - **Current Streak:** 4 days
 - **Longest Streak:** 14 days
 
@@ -12,12 +12,12 @@ Automatically organized collection of LeetCode solutions.
 
 #### By Language
 - Javascript: 2
-- Java: 305
+- Java: 306
 - Sql: 27
 
 #### By Topic
 - General: 1
-- Array: 168
+- Array: 169
 - Divide-and-conquer: 1
 - Dynamic-programming: 3
 - Hash-table: 28
@@ -334,6 +334,7 @@ Automatically organized collection of LeetCode solutions.
 | 2886 | Faulty Keyboard | string | easy | java | [Solution](solutions/java/string/easy/2886_faulty-keyboard_string_easy.java) |
 | 2903 | Insert Greatest Common Divisors In Linked List | linked-list | medium | java | [Solution](solutions/java/linked-list/medium/2903_insert-greatest-common-divisors-in-linked-list_linked-list_medium.java) |
 | 2914 | Find The Safest Path In A Grid | array | medium | java | [Solution](solutions/java/array/medium/2914_find-the-safest-path-in-a-grid_array_medium.java) |
+| 2917 | Count Pairs Whose Sum Is Less Than Target | array | easy | java | [Solution](solutions/java/array/easy/2917_count-pairs-whose-sum-is-less-than-target_array_easy.java) |
 | 3172 | Divisible And Non Divisible Sums Difference | math | easy | java | [Solution](solutions/java/math/easy/3172_divisible-and-non-divisible-sums-difference_math_easy.java) |
 | 3194 | Find Words Containing Character | array | easy | java | [Solution](solutions/java/array/easy/3194_find-words-containing-character_array_easy.java) |
 | 3195 | Separate Black And White Balls | two-pointers | medium | java | [Solution](solutions/java/two-pointers/medium/3195_separate-black-and-white-balls_two-pointers_medium.java) |
@@ -370,23 +371,3 @@ Automatically organized collection of LeetCode solutions.
 | 4299 | Concatenate Array With Reverse | array | easy | java | [Solution](solutions/java/array/easy/4299_concatenate-array-with-reverse_array_easy.java) |
 | 4312 | Limit Occurrences In Sorted Array | array | easy | java | [Solution](solutions/java/array/easy/4312_limit-occurrences-in-sorted-array_array_easy.java) |
 | 4313 | Password Strength | hash-table | medium | java | [Solution](solutions/java/hash-table/medium/4313_password-strength_hash-table_medium.java) |
-
-<!---LeetCode Topics Start-->
-# LeetCode Topics
-## Array
-| Problem Name | Difficulty |
-| ------- | ------- |
-| [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/imrajeevnayan/leetcode-solution/tree/main/2824-count-pairs-whose-sum-is-less-than-target/) | Easy |
-## Two Pointers
-| Problem Name | Difficulty |
-| ------- | ------- |
-| [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/imrajeevnayan/leetcode-solution/tree/main/2824-count-pairs-whose-sum-is-less-than-target/) | Easy |
-## Binary Search
-| Problem Name | Difficulty |
-| ------- | ------- |
-| [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/imrajeevnayan/leetcode-solution/tree/main/2824-count-pairs-whose-sum-is-less-than-target/) | Easy |
-## Sorting
-| Problem Name | Difficulty |
-| ------- | ------- |
-| [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/imrajeevnayan/leetcode-solution/tree/main/2824-count-pairs-whose-sum-is-less-than-target/) | Easy |
-<!---LeetCode Topics End-->
