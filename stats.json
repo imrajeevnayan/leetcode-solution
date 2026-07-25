@@ -847,17 +847,18 @@
     "GeeksForGeeks_Smaller_Sum": true,
     "GeeksForGeeks_Sum_of_Middle_of_two_sorted_arrays": true,
     "LeetCode_Employees_Earning_More_Than_Their_Managers": true,
-    "GeeksForGeeks_Sort_Elements_by_Decreasing_Frequency": true
+    "GeeksForGeeks_Sort_Elements_by_Decreasing_Frequency": true,
+    "GeeksForGeeks_4_Sum_-_All_Quadruples": true
   },
-  "totalSolved": 375,
+  "totalSolved": 376,
   "difficultyCounts": {
     "easy": 120,
-    "medium": 167,
+    "medium": 168,
     "hard": 6,
     "basic": 82
   },
   "currentStreak": 5,
-  "todayCount": 1,
+  "todayCount": 2,
   "lastSyncDate": "2026-07-26",
   "maxStreak": 15,
   "activityHistory": {
@@ -916,7 +917,7 @@
     "2026-07-23": 7,
     "2026-07-24": 8,
     "2026-07-25": 1,
-    "2026-07-26": 1
+    "2026-07-26": 2
   },
   "todayProblems": [
     "Most Frequent Character",
@@ -1291,6 +1292,7 @@
     "Smaller Sum",
     "Sum of Middle of two sorted arrays",
     "Employees Earning More Than Their Managers",
-    "Sort Elements by Decreasing Frequency"
+    "Sort Elements by Decreasing Frequency",
+    "4 Sum - All Quadruples"
   ]
 }
