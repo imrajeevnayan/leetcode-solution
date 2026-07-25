@@ -12,4 +12,5 @@
 | [0177-nth-highest-salary](https://github.com/imrajeevnayan/leetcode-solution/tree/main/0177-nth-highest-salary/) | Medium |
 | [0178-rank-scores](https://github.com/imrajeevnayan/leetcode-solution/tree/main/0178-rank-scores/) | Medium |
 | [0180-consecutive-numbers](https://github.com/imrajeevnayan/leetcode-solution/tree/main/0180-consecutive-numbers/) | Medium |
+| [0182-duplicate-emails](https://github.com/imrajeevnayan/leetcode-solution/tree/main/0182-duplicate-emails/) | Easy |
 <!---LeetCode Topics End-->
