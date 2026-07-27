@@ -4,7 +4,7 @@ Automatically organized collection of LeetCode solutions.
 
 ## 📊 Statistics
 
-- **Total Problems Solved:** 344
+- **Total Problems Solved:** 345
 - **Current Streak:** 1 days
 - **Longest Streak:** 14 days
 
@@ -12,11 +12,11 @@ Automatically organized collection of LeetCode solutions.
 
 #### By Language
 - Javascript: 2
-- Java: 314
+- Java: 315
 - Sql: 28
 
 #### By Topic
-- General: 1
+- General: 2
 - Array: 175
 - Divide-and-conquer: 1
 - Dynamic-programming: 3
@@ -380,32 +380,4 @@ Automatically organized collection of LeetCode solutions.
 | 4299 | Concatenate Array With Reverse | array | easy | java | [Solution](solutions/java/array/easy/4299_concatenate-array-with-reverse_array_easy.java) |
 | 4312 | Limit Occurrences In Sorted Array | array | easy | java | [Solution](solutions/java/array/easy/4312_limit-occurrences-in-sorted-array_array_easy.java) |
 | 4313 | Password Strength | hash-table | medium | java | [Solution](solutions/java/hash-table/medium/4313_password-strength_hash-table_medium.java) |
-
-<!---LeetCode Topics Start-->
-# LeetCode Topics
-## Two Pointers
-| Problem Name | Difficulty |
-| ------- | ------- |
-| [0151-reverse-words-in-a-string](https://github.com/imrajeevnayan/leetcode-solution/tree/main/0151-reverse-words-in-a-string/) | Medium |
-| [0345-reverse-vowels-of-a-string](https://github.com/imrajeevnayan/leetcode-solution/tree/main/0345-reverse-vowels-of-a-string/) | Easy |
-| [0443-string-compression](https://github.com/imrajeevnayan/leetcode-solution/tree/main/0443-string-compression/) | Medium |
-## String
-| Problem Name | Difficulty |
-| ------- | ------- |
-| [0151-reverse-words-in-a-string](https://github.com/imrajeevnayan/leetcode-solution/tree/main/0151-reverse-words-in-a-string/) | Medium |
-| [0345-reverse-vowels-of-a-string](https://github.com/imrajeevnayan/leetcode-solution/tree/main/0345-reverse-vowels-of-a-string/) | Easy |
-| [0443-string-compression](https://github.com/imrajeevnayan/leetcode-solution/tree/main/0443-string-compression/) | Medium |
-## Array
-| Problem Name | Difficulty |
-| ------- | ------- |
-| [0238-product-of-array-except-self](https://github.com/imrajeevnayan/leetcode-solution/tree/main/0238-product-of-array-except-self/) | Medium |
-| [0334-increasing-triplet-subsequence](https://github.com/imrajeevnayan/leetcode-solution/tree/main/0334-increasing-triplet-subsequence/) | Medium |
-## Prefix Sum
-| Problem Name | Difficulty |
-| ------- | ------- |
-| [0238-product-of-array-except-self](https://github.com/imrajeevnayan/leetcode-solution/tree/main/0238-product-of-array-except-self/) | Medium |
-## Greedy
-| Problem Name | Difficulty |
-| ------- | ------- |
-| [0334-increasing-triplet-subsequence](https://github.com/imrajeevnayan/leetcode-solution/tree/main/0334-increasing-triplet-subsequence/) | Medium |
-<!---LeetCode Topics End-->
+| 4353 | Largest Integer With Given Digit Sum | general | easy | java | [Solution](solutions/java/general/easy/4353_largest-integer-with-given-digit-sum_general_easy.java) |
