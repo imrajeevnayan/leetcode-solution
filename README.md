@@ -8,6 +8,7 @@
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0605-can-place-flowers](https://github.com/imrajeevnayan/leetcode-solution/tree/main/0605-can-place-flowers/) | Easy |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/imrajeevnayan/leetcode-solution/tree/main/1431-kids-with-the-greatest-number-of-candies/) | Easy |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/imrajeevnayan/leetcode-solution/tree/main/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
 ## Sorting
@@ -37,5 +38,9 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1071-greatest-common-divisor-of-strings](https://github.com/imrajeevnayan/leetcode-solution/tree/main/1071-greatest-common-divisor-of-strings/) | Easy |
+## Greedy
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0605-can-place-flowers](https://github.com/imrajeevnayan/leetcode-solution/tree/main/0605-can-place-flowers/) | Easy |
 <!---LeetCode Topics End-->
 | 3 | [Maximum Product of Two Elements in an Array](https://leetcode.com/problems/maximum-product-of-two-elements-in-an-array/) | LeetCode | Easy | 27 Jul 2026 | 01:58 pm |
