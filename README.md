@@ -8,6 +8,7 @@
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [1431-kids-with-the-greatest-number-of-candies](https://github.com/imrajeevnayan/leetcode-solution/tree/main/1431-kids-with-the-greatest-number-of-candies/) | Easy |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/imrajeevnayan/leetcode-solution/tree/main/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
 ## Sorting
 | Problem Name | Difficulty |
