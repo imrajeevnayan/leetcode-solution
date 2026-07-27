@@ -20,6 +20,7 @@
 ## Linked List
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0328-odd-even-linked-list](https://github.com/imrajeevnayan/leetcode-solution/tree/main/0328-odd-even-linked-list/) | Medium |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/imrajeevnayan/leetcode-solution/tree/main/2095-delete-the-middle-node-of-a-linked-list/) | Medium |
 ## Two Pointers
 | Problem Name | Difficulty |
