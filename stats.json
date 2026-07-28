@@ -850,17 +850,18 @@
     "GeeksForGeeks_Sort_Elements_by_Decreasing_Frequency": true,
     "GeeksForGeeks_4_Sum_-_All_Quadruples": true,
     "LeetCode_Maximum_Product_of_Two_Elements_in_an_Array": true,
-    "GeeksForGeeks_Complete_Binary_Tree_Traversal_with_Array_Input": true
+    "GeeksForGeeks_Complete_Binary_Tree_Traversal_with_Array_Input": true,
+    "LeetCode_Remove_Outermost_Parentheses": true
   },
-  "totalSolved": 378,
+  "totalSolved": 379,
   "difficultyCounts": {
-    "easy": 121,
+    "easy": 122,
     "medium": 169,
     "hard": 6,
     "basic": 82
   },
   "currentStreak": 7,
-  "todayCount": 1,
+  "todayCount": 2,
   "lastSyncDate": "2026-07-28",
   "maxStreak": 15,
   "activityHistory": {
@@ -921,7 +922,7 @@
     "2026-07-25": 1,
     "2026-07-26": 2,
     "2026-07-27": 1,
-    "2026-07-28": 1
+    "2026-07-28": 2
   },
   "todayProblems": [
     "Most Frequent Character",
@@ -1299,6 +1300,7 @@
     "Sort Elements by Decreasing Frequency",
     "4 Sum - All Quadruples",
     "Maximum Product of Two Elements in an Array",
-    "Complete Binary Tree Traversal with Array Input"
+    "Complete Binary Tree Traversal with Array Input",
+    "Remove Outermost Parentheses"
   ]
 }
