@@ -1,0 +1,35 @@
+class Solution {
+    public int minimumGroups(String[] words) {
+        Set<String> set = new HashSet<>();
+        for (String w : words) set.add(canonical(w));
+        return set.size();
+    }
+    
+    private String canonical(String s) {
+        StringBuilder e = new StringBuilder(), o = new StringBuilder();
+        for (int i = 0; i < s.length(); i++) {
+            if (i % 2 == 0) e.append(s.charAt(i));
+            else o.append(s.charAt(i));
+        }
+        return minRot(e.toString()) + "|" + minRot(o.toString());
+    }
+    
+    private String minRot(String s) {
+        if (s.isEmpty()) return s;
+        int n = s.length();
+        String d = s + s;
+        int i = 0, j = 1, k = 0;
+        while (i < n && j < n && k < n) {
+            char a = d.charAt(i + k), b = d.charAt(j + k);
+            if (a == b) k++;
+            else {
+                if (a > b) i += k + 1;
+                else j += k + 1;
+                if (i == j) i++;
+                k = 0;
+            }
+        }
+        int start = Math.min(i, j);
+        return d.substring(start, start + n);
+    }
+}
