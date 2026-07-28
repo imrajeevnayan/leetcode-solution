@@ -4,7 +4,7 @@ Automatically organized collection of LeetCode solutions.
 
 ## 📊 Statistics
 
-- **Total Problems Solved:** 351
+- **Total Problems Solved:** 352
 - **Current Streak:** 2 days
 - **Longest Streak:** 14 days
 
@@ -12,7 +12,7 @@ Automatically organized collection of LeetCode solutions.
 
 #### By Language
 - Javascript: 2
-- Java: 321
+- Java: 322
 - Sql: 28
 
 #### By Topic
@@ -26,7 +26,7 @@ Automatically organized collection of LeetCode solutions.
 - Binary-search: 2
 - Linked-list: 20
 - Enumeration: 1
-- Tree: 7
+- Tree: 8
 - Two-pointers: 14
 - Bit-manipulation: 1
 - Stack: 5
@@ -98,6 +98,7 @@ Automatically organized collection of LeetCode solutions.
 | 100 | Same Tree | tree | easy | java | [Solution](solutions/java/tree/easy/100_same-tree_tree_easy.java) |
 | 101 | Symmetric Tree | tree | easy | java | [Solution](solutions/java/tree/easy/101_symmetric-tree_tree_easy.java) |
 | 102 | Binary Tree Level Order Traversal | tree | medium | java | [Solution](solutions/java/tree/medium/102_binary-tree-level-order-traversal_tree_medium.java) |
+| 104 | Maximum Depth Of Binary Tree | tree | easy | java | [Solution](solutions/java/tree/easy/104_maximum-depth-of-binary-tree_tree_easy.java) |
 | 108 | Convert Sorted Array To Binary Search Tree | array | easy | java | [Solution](solutions/java/array/easy/108_convert-sorted-array-to-binary-search-tree_array_easy.java) |
 | 112 | Path Sum | tree | easy | java | [Solution](solutions/java/tree/easy/112_path-sum_tree_easy.java) |
 | 118 | Pascal'S Triangle | array | easy | java | [Solution](solutions/java/array/easy/118_pascal's-triangle_array_easy.java) |
@@ -387,23 +388,3 @@ Automatically organized collection of LeetCode solutions.
 | 4312 | Limit Occurrences In Sorted Array | array | easy | java | [Solution](solutions/java/array/easy/4312_limit-occurrences-in-sorted-array_array_easy.java) |
 | 4313 | Password Strength | hash-table | medium | java | [Solution](solutions/java/hash-table/medium/4313_password-strength_hash-table_medium.java) |
 | 4353 | Largest Integer With Given Digit Sum | general | easy | java | [Solution](solutions/java/general/easy/4353_largest-integer-with-given-digit-sum_general_easy.java) |
-
-<!---LeetCode Topics Start-->
-# LeetCode Topics
-## Tree
-| Problem Name | Difficulty |
-| ------- | ------- |
-| [0104-maximum-depth-of-binary-tree](https://github.com/imrajeevnayan/leetcode-solution/tree/main/0104-maximum-depth-of-binary-tree/) | Easy |
-## Depth-First Search
-| Problem Name | Difficulty |
-| ------- | ------- |
-| [0104-maximum-depth-of-binary-tree](https://github.com/imrajeevnayan/leetcode-solution/tree/main/0104-maximum-depth-of-binary-tree/) | Easy |
-## Breadth-First Search
-| Problem Name | Difficulty |
-| ------- | ------- |
-| [0104-maximum-depth-of-binary-tree](https://github.com/imrajeevnayan/leetcode-solution/tree/main/0104-maximum-depth-of-binary-tree/) | Easy |
-## Binary Tree
-| Problem Name | Difficulty |
-| ------- | ------- |
-| [0104-maximum-depth-of-binary-tree](https://github.com/imrajeevnayan/leetcode-solution/tree/main/0104-maximum-depth-of-binary-tree/) | Easy |
-<!---LeetCode Topics End-->
