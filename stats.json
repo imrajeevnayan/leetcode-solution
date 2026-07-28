@@ -849,18 +849,19 @@
     "LeetCode_Employees_Earning_More_Than_Their_Managers": true,
     "GeeksForGeeks_Sort_Elements_by_Decreasing_Frequency": true,
     "GeeksForGeeks_4_Sum_-_All_Quadruples": true,
-    "LeetCode_Maximum_Product_of_Two_Elements_in_an_Array": true
+    "LeetCode_Maximum_Product_of_Two_Elements_in_an_Array": true,
+    "GeeksForGeeks_Complete_Binary_Tree_Traversal_with_Array_Input": true
   },
-  "totalSolved": 377,
+  "totalSolved": 378,
   "difficultyCounts": {
     "easy": 121,
-    "medium": 168,
+    "medium": 169,
     "hard": 6,
     "basic": 82
   },
-  "currentStreak": 6,
+  "currentStreak": 7,
   "todayCount": 1,
-  "lastSyncDate": "2026-07-27",
+  "lastSyncDate": "2026-07-28",
   "maxStreak": 15,
   "activityHistory": {
     "2026-05-19": 2,
@@ -919,7 +920,8 @@
     "2026-07-24": 8,
     "2026-07-25": 1,
     "2026-07-26": 2,
-    "2026-07-27": 1
+    "2026-07-27": 1,
+    "2026-07-28": 1
   },
   "todayProblems": [
     "Most Frequent Character",
@@ -1296,6 +1298,7 @@
     "Employees Earning More Than Their Managers",
     "Sort Elements by Decreasing Frequency",
     "4 Sum - All Quadruples",
-    "Maximum Product of Two Elements in an Array"
+    "Maximum Product of Two Elements in an Array",
+    "Complete Binary Tree Traversal with Array Input"
   ]
 }
