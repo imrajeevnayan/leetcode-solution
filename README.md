@@ -4,7 +4,7 @@ Automatically organized collection of LeetCode solutions.
 
 ## 📊 Statistics
 
-- **Total Problems Solved:** 348
+- **Total Problems Solved:** 349
 - **Current Streak:** 2 days
 - **Longest Streak:** 14 days
 
@@ -12,12 +12,12 @@ Automatically organized collection of LeetCode solutions.
 
 #### By Language
 - Javascript: 2
-- Java: 318
+- Java: 319
 - Sql: 28
 
 #### By Topic
 - General: 3
-- Array: 176
+- Array: 177
 - Divide-and-conquer: 1
 - Dynamic-programming: 3
 - Hash-table: 28
@@ -301,6 +301,7 @@ Automatically organized collection of LeetCode solutions.
 | 1764 | Maximum Repeating Substring | string | easy | java | [Solution](solutions/java/string/easy/1764_maximum-repeating-substring_string_easy.java) |
 | 1786 | Count The Number Of Consistent Strings | array | easy | java | [Solution](solutions/java/array/easy/1786_count-the-number-of-consistent-strings_array_easy.java) |
 | 1791 | Richest Customer Wealth | array | easy | java | [Solution](solutions/java/array/easy/1791_richest-customer-wealth_array_easy.java) |
+| 1798 | Max Number Of K Sum Pairs | array | medium | java | [Solution](solutions/java/array/medium/1798_max-number-of-k-sum-pairs_array_medium.java) |
 | 1811 | Fix Names In A Table | database | easy | sql | [Solution](solutions/sql/database/easy/1811_fix-names-in-a-table_database_easy.sql) |
 | 1833 | Find The Highest Altitude | array | easy | java | [Solution](solutions/java/array/easy/1833_find-the-highest-altitude_array_easy.java) |
 | 1839 | Decode Xored Array | array | easy | java | [Solution](solutions/java/array/easy/1839_decode-xored-array_array_easy.java) |
@@ -384,23 +385,3 @@ Automatically organized collection of LeetCode solutions.
 | 4312 | Limit Occurrences In Sorted Array | array | easy | java | [Solution](solutions/java/array/easy/4312_limit-occurrences-in-sorted-array_array_easy.java) |
 | 4313 | Password Strength | hash-table | medium | java | [Solution](solutions/java/hash-table/medium/4313_password-strength_hash-table_medium.java) |
 | 4353 | Largest Integer With Given Digit Sum | general | easy | java | [Solution](solutions/java/general/easy/4353_largest-integer-with-given-digit-sum_general_easy.java) |
-
-<!---LeetCode Topics Start-->
-# LeetCode Topics
-## Array
-| Problem Name | Difficulty |
-| ------- | ------- |
-| [1679-max-number-of-k-sum-pairs](https://github.com/imrajeevnayan/leetcode-solution/tree/main/1679-max-number-of-k-sum-pairs/) | Medium |
-## Hash Table
-| Problem Name | Difficulty |
-| ------- | ------- |
-| [1679-max-number-of-k-sum-pairs](https://github.com/imrajeevnayan/leetcode-solution/tree/main/1679-max-number-of-k-sum-pairs/) | Medium |
-## Two Pointers
-| Problem Name | Difficulty |
-| ------- | ------- |
-| [1679-max-number-of-k-sum-pairs](https://github.com/imrajeevnayan/leetcode-solution/tree/main/1679-max-number-of-k-sum-pairs/) | Medium |
-## Sorting
-| Problem Name | Difficulty |
-| ------- | ------- |
-| [1679-max-number-of-k-sum-pairs](https://github.com/imrajeevnayan/leetcode-solution/tree/main/1679-max-number-of-k-sum-pairs/) | Medium |
-<!---LeetCode Topics End-->
