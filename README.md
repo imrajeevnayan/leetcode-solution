@@ -4,7 +4,7 @@ Automatically organized collection of LeetCode solutions.
 
 ## 📊 Statistics
 
-- **Total Problems Solved:** 347
+- **Total Problems Solved:** 348
 - **Current Streak:** 2 days
 - **Longest Streak:** 14 days
 
@@ -12,11 +12,11 @@ Automatically organized collection of LeetCode solutions.
 
 #### By Language
 - Javascript: 2
-- Java: 317
+- Java: 318
 - Sql: 28
 
 #### By Topic
-- General: 2
+- General: 3
 - Array: 176
 - Divide-and-conquer: 1
 - Dynamic-programming: 3
@@ -367,6 +367,7 @@ Automatically organized collection of LeetCode solutions.
 | 3824 | Number Of Unique Xor Triplets I | array | medium | java | [Solution](solutions/java/array/medium/3824_number-of-unique-xor-triplets-i_array_medium.java) |
 | 3832 | Minimum Cost To Reach Every Position | array | easy | java | [Solution](solutions/java/array/easy/3832_minimum-cost-to-reach-every-position_array_easy.java) |
 | 3846 | Minimum Operations To Make Array Sum Divisible By K | array | easy | java | [Solution](solutions/java/array/easy/3846_minimum-operations-to-make-array-sum-divisible-by-k_array_easy.java) |
+| 3895 | Minimum Number Of String Groups Through Transformations | general | hard | java | [Solution](solutions/java/general/hard/3895_minimum-number-of-string-groups-through-transformations_general_hard.java) |
 | 3914 | Check If Any Element Has Prime Frequency | array | easy | java | [Solution](solutions/java/array/easy/3914_check-if-any-element-has-prime-frequency_array_easy.java) |
 | 3962 | Number Of Zigzag Arrays I | dynamic-programming | hard | java | [Solution](solutions/java/dynamic-programming/hard/3962_number-of-zigzag-arrays-i_dynamic-programming_hard.java) |
 | 3995 | Gcd Of Odd And Even Sums | math | easy | java | [Solution](solutions/java/math/easy/3995_gcd-of-odd-and-even-sums_math_easy.java) |
