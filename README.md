@@ -4,7 +4,7 @@ Automatically organized collection of LeetCode solutions.
 
 ## 📊 Statistics
 
-- **Total Problems Solved:** 355
+- **Total Problems Solved:** 356
 - **Current Streak:** 2 days
 - **Longest Streak:** 14 days
 
@@ -12,12 +12,12 @@ Automatically organized collection of LeetCode solutions.
 
 #### By Language
 - Javascript: 2
-- Java: 325
+- Java: 326
 - Sql: 28
 
 #### By Topic
 - General: 3
-- Array: 180
+- Array: 181
 - Divide-and-conquer: 1
 - Dynamic-programming: 3
 - Hash-table: 30
@@ -300,6 +300,7 @@ Automatically organized collection of LeetCode solutions.
 | 1646 | Kth Missing Positive Number | array | easy | java | [Solution](solutions/java/array/easy/1646_kth-missing-positive-number_array_easy.java) |
 | 1656 | Count Good Triplets | array | easy | java | [Solution](solutions/java/array/easy/1656_count-good-triplets_array_easy.java) |
 | 1666 | Make The String Great | string | easy | java | [Solution](solutions/java/string/easy/1666_make-the-string-great_string_easy.java) |
+| 1693 | Sum Of All Odd Length Subarrays | array | easy | java | [Solution](solutions/java/array/easy/1693_sum-of-all-odd-length-subarrays_array_easy.java) |
 | 1724 | Customer Who Visited But Did Not Make Any Transactions | database | easy | sql | [Solution](solutions/sql/database/easy/1724_customer-who-visited-but-did-not-make-any-transactions_database_easy.sql) |
 | 1741 | Sort Array By Increasing Frequency | array | easy | java | [Solution](solutions/java/array/easy/1741_sort-array-by-increasing-frequency_array_easy.java) |
 | 1764 | Maximum Repeating Substring | string | easy | java | [Solution](solutions/java/string/easy/1764_maximum-repeating-substring_string_easy.java) |
