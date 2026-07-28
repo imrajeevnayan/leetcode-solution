@@ -397,8 +397,10 @@ Automatically organized collection of LeetCode solutions.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1480-running-sum-of-1d-array](https://github.com/imrajeevnayan/leetcode-solution/tree/main/1480-running-sum-of-1d-array/) | Easy |
+| [3427-sum-of-variable-length-subarrays](https://github.com/imrajeevnayan/leetcode-solution/tree/main/3427-sum-of-variable-length-subarrays/) | Easy |
 ## Prefix Sum
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1480-running-sum-of-1d-array](https://github.com/imrajeevnayan/leetcode-solution/tree/main/1480-running-sum-of-1d-array/) | Easy |
+| [3427-sum-of-variable-length-subarrays](https://github.com/imrajeevnayan/leetcode-solution/tree/main/3427-sum-of-variable-length-subarrays/) | Easy |
 <!---LeetCode Topics End-->
