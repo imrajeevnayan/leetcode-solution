@@ -4,15 +4,15 @@ Automatically organized collection of LeetCode solutions.
 
 ## 📊 Statistics
 
-- **Total Problems Solved:** 346
-- **Current Streak:** 1 days
+- **Total Problems Solved:** 347
+- **Current Streak:** 2 days
 - **Longest Streak:** 14 days
 
 ### 🧩 Breakdown
 
 #### By Language
 - Javascript: 2
-- Java: 316
+- Java: 317
 - Sql: 28
 
 #### By Topic
@@ -21,7 +21,7 @@ Automatically organized collection of LeetCode solutions.
 - Divide-and-conquer: 1
 - Dynamic-programming: 3
 - Hash-table: 28
-- String: 27
+- String: 28
 - Math: 31
 - Binary-search: 2
 - Linked-list: 20
@@ -363,6 +363,7 @@ Automatically organized collection of LeetCode solutions.
 | 3644 | Minimum Positive Sum Subarray  | array | easy | java | [Solution](solutions/java/array/easy/3644_minimum-positive-sum-subarray-_array_easy.java) |
 | 3685 | Count Subarrays Of Length Three With A Condition | array | easy | java | [Solution](solutions/java/array/easy/3685_count-subarrays-of-length-three-with-a-condition_array_easy.java) |
 | 3811 | Reverse Degree Of A String | string | easy | java | [Solution](solutions/java/string/easy/3811_reverse-degree-of-a-string_string_easy.java) |
+| 3812 | Smallest Palindromic Rearrangement I | string | medium | java | [Solution](solutions/java/string/medium/3812_smallest-palindromic-rearrangement-i_string_medium.java) |
 | 3824 | Number Of Unique Xor Triplets I | array | medium | java | [Solution](solutions/java/array/medium/3824_number-of-unique-xor-triplets-i_array_medium.java) |
 | 3832 | Minimum Cost To Reach Every Position | array | easy | java | [Solution](solutions/java/array/easy/3832_minimum-cost-to-reach-every-position_array_easy.java) |
 | 3846 | Minimum Operations To Make Array Sum Divisible By K | array | easy | java | [Solution](solutions/java/array/easy/3846_minimum-operations-to-make-array-sum-divisible-by-k_array_easy.java) |
@@ -382,27 +383,3 @@ Automatically organized collection of LeetCode solutions.
 | 4312 | Limit Occurrences In Sorted Array | array | easy | java | [Solution](solutions/java/array/easy/4312_limit-occurrences-in-sorted-array_array_easy.java) |
 | 4313 | Password Strength | hash-table | medium | java | [Solution](solutions/java/hash-table/medium/4313_password-strength_hash-table_medium.java) |
 | 4353 | Largest Integer With Given Digit Sum | general | easy | java | [Solution](solutions/java/general/easy/4353_largest-integer-with-given-digit-sum_general_easy.java) |
-
-<!---LeetCode Topics Start-->
-# LeetCode Topics
-## Array
-| Problem Name | Difficulty |
-| ------- | ------- |
-| [0852-peak-index-in-a-mountain-array](https://github.com/imrajeevnayan/leetcode-solution/tree/main/0852-peak-index-in-a-mountain-array/) | Medium |
-## Binary Search
-| Problem Name | Difficulty |
-| ------- | ------- |
-| [0852-peak-index-in-a-mountain-array](https://github.com/imrajeevnayan/leetcode-solution/tree/main/0852-peak-index-in-a-mountain-array/) | Medium |
-## String
-| Problem Name | Difficulty |
-| ------- | ------- |
-| [3517-smallest-palindromic-rearrangement-i](https://github.com/imrajeevnayan/leetcode-solution/tree/main/3517-smallest-palindromic-rearrangement-i/) | Medium |
-## Sorting
-| Problem Name | Difficulty |
-| ------- | ------- |
-| [3517-smallest-palindromic-rearrangement-i](https://github.com/imrajeevnayan/leetcode-solution/tree/main/3517-smallest-palindromic-rearrangement-i/) | Medium |
-## Counting Sort
-| Problem Name | Difficulty |
-| ------- | ------- |
-| [3517-smallest-palindromic-rearrangement-i](https://github.com/imrajeevnayan/leetcode-solution/tree/main/3517-smallest-palindromic-rearrangement-i/) | Medium |
-<!---LeetCode Topics End-->
