@@ -855,17 +855,18 @@
     "GeeksForGeeks_Aggressive_Cows": true,
     "GeeksForGeeks_Modular_Exponentiation": true,
     "GeeksForGeeks_Split_Array_Largest_Sum": true,
-    "GeeksForGeeks_Search_in_Rotated_Array_2": true
+    "GeeksForGeeks_Search_in_Rotated_Array_2": true,
+    "LeetCode_Kth_Largest_Element_in_an_Array": true
   },
-  "totalSolved": 383,
+  "totalSolved": 384,
   "difficultyCounts": {
     "easy": 122,
-    "medium": 172,
+    "medium": 173,
     "hard": 7,
     "basic": 82
   },
   "currentStreak": 7,
-  "todayCount": 6,
+  "todayCount": 7,
   "lastSyncDate": "2026-07-28",
   "maxStreak": 15,
   "activityHistory": {
@@ -926,7 +927,7 @@
     "2026-07-25": 1,
     "2026-07-26": 2,
     "2026-07-27": 1,
-    "2026-07-28": 6
+    "2026-07-28": 7
   },
   "todayProblems": [
     "Most Frequent Character",
@@ -1309,6 +1310,7 @@
     "Aggressive Cows",
     "Modular Exponentiation",
     "Split Array Largest Sum",
-    "Search in Rotated Array 2"
+    "Search in Rotated Array 2",
+    "Kth Largest Element in an Array"
   ]
 }
