@@ -4,7 +4,7 @@ Automatically organized collection of LeetCode solutions.
 
 ## 📊 Statistics
 
-- **Total Problems Solved:** 349
+- **Total Problems Solved:** 350
 - **Current Streak:** 2 days
 - **Longest Streak:** 14 days
 
@@ -12,7 +12,7 @@ Automatically organized collection of LeetCode solutions.
 
 #### By Language
 - Javascript: 2
-- Java: 319
+- Java: 320
 - Sql: 28
 
 #### By Topic
@@ -20,7 +20,7 @@ Automatically organized collection of LeetCode solutions.
 - Array: 177
 - Divide-and-conquer: 1
 - Dynamic-programming: 3
-- Hash-table: 28
+- Hash-table: 29
 - String: 28
 - Math: 31
 - Binary-search: 2
@@ -299,6 +299,7 @@ Automatically organized collection of LeetCode solutions.
 | 1724 | Customer Who Visited But Did Not Make Any Transactions | database | easy | sql | [Solution](solutions/sql/database/easy/1724_customer-who-visited-but-did-not-make-any-transactions_database_easy.sql) |
 | 1741 | Sort Array By Increasing Frequency | array | easy | java | [Solution](solutions/java/array/easy/1741_sort-array-by-increasing-frequency_array_easy.java) |
 | 1764 | Maximum Repeating Substring | string | easy | java | [Solution](solutions/java/string/easy/1764_maximum-repeating-substring_string_easy.java) |
+| 1777 | Determine If Two Strings Are Close | hash-table | medium | java | [Solution](solutions/java/hash-table/medium/1777_determine-if-two-strings-are-close_hash-table_medium.java) |
 | 1786 | Count The Number Of Consistent Strings | array | easy | java | [Solution](solutions/java/array/easy/1786_count-the-number-of-consistent-strings_array_easy.java) |
 | 1791 | Richest Customer Wealth | array | easy | java | [Solution](solutions/java/array/easy/1791_richest-customer-wealth_array_easy.java) |
 | 1798 | Max Number Of K Sum Pairs | array | medium | java | [Solution](solutions/java/array/medium/1798_max-number-of-k-sum-pairs_array_medium.java) |
