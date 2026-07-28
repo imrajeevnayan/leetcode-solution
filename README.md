@@ -4,7 +4,7 @@ Automatically organized collection of LeetCode solutions.
 
 ## 📊 Statistics
 
-- **Total Problems Solved:** 354
+- **Total Problems Solved:** 355
 - **Current Streak:** 2 days
 - **Longest Streak:** 14 days
 
@@ -12,12 +12,12 @@ Automatically organized collection of LeetCode solutions.
 
 #### By Language
 - Javascript: 2
-- Java: 324
+- Java: 325
 - Sql: 28
 
 #### By Topic
 - General: 3
-- Array: 179
+- Array: 180
 - Divide-and-conquer: 1
 - Dynamic-programming: 3
 - Hash-table: 30
@@ -368,6 +368,7 @@ Automatically organized collection of LeetCode solutions.
 | 3606 | Minimum Element After Replacement With Digit Sum | array | easy | java | [Solution](solutions/java/array/easy/3606_minimum-element-after-replacement-with-digit-sum_array_easy.java) |
 | 3644 | Minimum Positive Sum Subarray  | array | easy | java | [Solution](solutions/java/array/easy/3644_minimum-positive-sum-subarray-_array_easy.java) |
 | 3685 | Count Subarrays Of Length Three With A Condition | array | easy | java | [Solution](solutions/java/array/easy/3685_count-subarrays-of-length-three-with-a-condition_array_easy.java) |
+| 3731 | Sum Of Variable Length Subarrays | array | easy | java | [Solution](solutions/java/array/easy/3731_sum-of-variable-length-subarrays_array_easy.java) |
 | 3811 | Reverse Degree Of A String | string | easy | java | [Solution](solutions/java/string/easy/3811_reverse-degree-of-a-string_string_easy.java) |
 | 3812 | Smallest Palindromic Rearrangement I | string | medium | java | [Solution](solutions/java/string/medium/3812_smallest-palindromic-rearrangement-i_string_medium.java) |
 | 3824 | Number Of Unique Xor Triplets I | array | medium | java | [Solution](solutions/java/array/medium/3824_number-of-unique-xor-triplets-i_array_medium.java) |
@@ -390,17 +391,3 @@ Automatically organized collection of LeetCode solutions.
 | 4312 | Limit Occurrences In Sorted Array | array | easy | java | [Solution](solutions/java/array/easy/4312_limit-occurrences-in-sorted-array_array_easy.java) |
 | 4313 | Password Strength | hash-table | medium | java | [Solution](solutions/java/hash-table/medium/4313_password-strength_hash-table_medium.java) |
 | 4353 | Largest Integer With Given Digit Sum | general | easy | java | [Solution](solutions/java/general/easy/4353_largest-integer-with-given-digit-sum_general_easy.java) |
-
-<!---LeetCode Topics Start-->
-# LeetCode Topics
-## Array
-| Problem Name | Difficulty |
-| ------- | ------- |
-| [1480-running-sum-of-1d-array](https://github.com/imrajeevnayan/leetcode-solution/tree/main/1480-running-sum-of-1d-array/) | Easy |
-| [3427-sum-of-variable-length-subarrays](https://github.com/imrajeevnayan/leetcode-solution/tree/main/3427-sum-of-variable-length-subarrays/) | Easy |
-## Prefix Sum
-| Problem Name | Difficulty |
-| ------- | ------- |
-| [1480-running-sum-of-1d-array](https://github.com/imrajeevnayan/leetcode-solution/tree/main/1480-running-sum-of-1d-array/) | Easy |
-| [3427-sum-of-variable-length-subarrays](https://github.com/imrajeevnayan/leetcode-solution/tree/main/3427-sum-of-variable-length-subarrays/) | Easy |
-<!---LeetCode Topics End-->
