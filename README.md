@@ -405,4 +405,16 @@ Automatically organized collection of LeetCode solutions.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1657-determine-if-two-strings-are-close](https://github.com/imrajeevnayan/leetcode-solution/tree/main/1657-determine-if-two-strings-are-close/) | Medium |
+## Array
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0735-asteroid-collision](https://github.com/imrajeevnayan/leetcode-solution/tree/main/0735-asteroid-collision/) | Medium |
+## Stack
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0735-asteroid-collision](https://github.com/imrajeevnayan/leetcode-solution/tree/main/0735-asteroid-collision/) | Medium |
+## Simulation
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0735-asteroid-collision](https://github.com/imrajeevnayan/leetcode-solution/tree/main/0735-asteroid-collision/) | Medium |
 <!---LeetCode Topics End-->
