@@ -4,7 +4,7 @@ Automatically organized collection of LeetCode solutions.
 
 ## 📊 Statistics
 
-- **Total Problems Solved:** 350
+- **Total Problems Solved:** 351
 - **Current Streak:** 2 days
 - **Longest Streak:** 14 days
 
@@ -12,12 +12,12 @@ Automatically organized collection of LeetCode solutions.
 
 #### By Language
 - Javascript: 2
-- Java: 320
+- Java: 321
 - Sql: 28
 
 #### By Topic
 - General: 3
-- Array: 177
+- Array: 178
 - Divide-and-conquer: 1
 - Dynamic-programming: 3
 - Hash-table: 29
@@ -222,6 +222,7 @@ Automatically organized collection of LeetCode solutions.
 | 692 | Top K Frequent Words | array | medium | java | [Solution](solutions/java/array/medium/692_top-k-frequent-words_array_medium.java) |
 | 713 | Subarray Product Less Than K | array | medium | java | [Solution](solutions/java/array/medium/713_subarray-product-less-than-k_array_medium.java) |
 | 724 | Find Pivot Index | array | easy | java | [Solution](solutions/java/array/easy/724_find-pivot-index_array_easy.java) |
+| 735 | Asteroid Collision | array | medium | java | [Solution](solutions/java/array/medium/735_asteroid-collision_array_medium.java) |
 | 740 | Delete And Earn | array | medium | java | [Solution](solutions/java/array/medium/740_delete-and-earn_array_medium.java) |
 | 745 | Find Smallest Letter Greater Than Target | array | easy | java | [Solution](solutions/java/array/easy/745_find-smallest-letter-greater-than-target_array_easy.java) |
 | 747 | Min Cost Climbing Stairs | array | easy | java | [Solution](solutions/java/array/easy/747_min-cost-climbing-stairs_array_easy.java) |
@@ -386,35 +387,3 @@ Automatically organized collection of LeetCode solutions.
 | 4312 | Limit Occurrences In Sorted Array | array | easy | java | [Solution](solutions/java/array/easy/4312_limit-occurrences-in-sorted-array_array_easy.java) |
 | 4313 | Password Strength | hash-table | medium | java | [Solution](solutions/java/hash-table/medium/4313_password-strength_hash-table_medium.java) |
 | 4353 | Largest Integer With Given Digit Sum | general | easy | java | [Solution](solutions/java/general/easy/4353_largest-integer-with-given-digit-sum_general_easy.java) |
-
-<!---LeetCode Topics Start-->
-# LeetCode Topics
-## Hash Table
-| Problem Name | Difficulty |
-| ------- | ------- |
-| [1657-determine-if-two-strings-are-close](https://github.com/imrajeevnayan/leetcode-solution/tree/main/1657-determine-if-two-strings-are-close/) | Medium |
-## String
-| Problem Name | Difficulty |
-| ------- | ------- |
-| [1657-determine-if-two-strings-are-close](https://github.com/imrajeevnayan/leetcode-solution/tree/main/1657-determine-if-two-strings-are-close/) | Medium |
-## Sorting
-| Problem Name | Difficulty |
-| ------- | ------- |
-| [1657-determine-if-two-strings-are-close](https://github.com/imrajeevnayan/leetcode-solution/tree/main/1657-determine-if-two-strings-are-close/) | Medium |
-## Counting
-| Problem Name | Difficulty |
-| ------- | ------- |
-| [1657-determine-if-two-strings-are-close](https://github.com/imrajeevnayan/leetcode-solution/tree/main/1657-determine-if-two-strings-are-close/) | Medium |
-## Array
-| Problem Name | Difficulty |
-| ------- | ------- |
-| [0735-asteroid-collision](https://github.com/imrajeevnayan/leetcode-solution/tree/main/0735-asteroid-collision/) | Medium |
-## Stack
-| Problem Name | Difficulty |
-| ------- | ------- |
-| [0735-asteroid-collision](https://github.com/imrajeevnayan/leetcode-solution/tree/main/0735-asteroid-collision/) | Medium |
-## Simulation
-| Problem Name | Difficulty |
-| ------- | ------- |
-| [0735-asteroid-collision](https://github.com/imrajeevnayan/leetcode-solution/tree/main/0735-asteroid-collision/) | Medium |
-<!---LeetCode Topics End-->
