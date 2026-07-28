@@ -18,3 +18,4 @@
 | ------- | ------- |
 | [1370-increasing-decreasing-string](https://github.com/imrajeevnayan/leetcode-solution/tree/main/1370-increasing-decreasing-string/) | Easy |
 <!---LeetCode Topics End-->
+| 3 | [Aggressive Cows](https://www.geeksforgeeks.org/problems/aggressive-cows/1?page=1&category=Binary%20Search&sortBy=submissions) | GeeksForGeeks | Medium | 28 Jul 2026 | 02:38 pm |
