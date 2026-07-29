@@ -409,4 +409,9 @@ Automatically organized collection of LeetCode solutions.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0072-edit-distance](https://github.com/imrajeevnayan/leetcode-solution/tree/main/0072-edit-distance/) | Medium |
+| [0338-counting-bits](https://github.com/imrajeevnayan/leetcode-solution/tree/main/0338-counting-bits/) | Easy |
+## Bit Manipulation
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0338-counting-bits](https://github.com/imrajeevnayan/leetcode-solution/tree/main/0338-counting-bits/) | Easy |
 <!---LeetCode Topics End-->
