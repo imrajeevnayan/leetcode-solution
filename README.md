@@ -4,7 +4,7 @@ Automatically organized collection of LeetCode solutions.
 
 ## 📊 Statistics
 
-- **Total Problems Solved:** 360
+- **Total Problems Solved:** 362
 - **Current Streak:** 3 days
 - **Longest Streak:** 14 days
 
@@ -12,15 +12,15 @@ Automatically organized collection of LeetCode solutions.
 
 #### By Language
 - Javascript: 2
-- Java: 330
+- Java: 332
 - Sql: 28
 
 #### By Topic
 - General: 3
-- Array: 184
+- Array: 185
 - Divide-and-conquer: 1
 - Dynamic-programming: 3
-- Hash-table: 31
+- Hash-table: 32
 - String: 28
 - Math: 31
 - Binary-search: 2
@@ -340,6 +340,8 @@ Automatically organized collection of LeetCode solutions.
 | 2299 | Merge Nodes In Between Zeros | linked-list | medium | java | [Solution](solutions/java/linked-list/medium/2299_merge-nodes-in-between-zeros_linked-list_medium.java) |
 | 2331 | Intersection Of Multiple Arrays | array | easy | java | [Solution](solutions/java/array/easy/2331_intersection-of-multiple-arrays_array_easy.java) |
 | 2394 | Count Subarrays With Score Less Than K | array | hard | java | [Solution](solutions/java/array/hard/2394_count-subarrays-with-score-less-than-k_array_hard.java) |
+| 2413 | Smallest Number In Infinite Set | hash-table | medium | java | [Solution](solutions/java/hash-table/medium/2413_smallest-number-in-infinite-set_hash-table_medium.java) |
+| 2428 | Equal Row And Column Pairs | array | medium | java | [Solution](solutions/java/array/medium/2428_equal-row-and-column-pairs_array_medium.java) |
 | 2432 | Number Of Zero Filled Subarrays | array | medium | java | [Solution](solutions/java/array/medium/2432_number-of-zero-filled-subarrays_array_medium.java) |
 | 2481 | Strictly Palindromic Number | math | medium | java | [Solution](solutions/java/math/medium/2481_strictly-palindromic-number_math_medium.java) |
 | 2552 | Maximum Sum Of Distinct Subarrays With Length K | array | medium | java | [Solution](solutions/java/array/medium/2552_maximum-sum-of-distinct-subarrays-with-length-k_array_medium.java) |
@@ -396,36 +398,3 @@ Automatically organized collection of LeetCode solutions.
 | 4312 | Limit Occurrences In Sorted Array | array | easy | java | [Solution](solutions/java/array/easy/4312_limit-occurrences-in-sorted-array_array_easy.java) |
 | 4313 | Password Strength | hash-table | medium | java | [Solution](solutions/java/hash-table/medium/4313_password-strength_hash-table_medium.java) |
 | 4353 | Largest Integer With Given Digit Sum | general | easy | java | [Solution](solutions/java/general/easy/4353_largest-integer-with-given-digit-sum_general_easy.java) |
-
-<!---LeetCode Topics Start-->
-# LeetCode Topics
-## Array
-| Problem Name | Difficulty |
-| ------- | ------- |
-| [2352-equal-row-and-column-pairs](https://github.com/imrajeevnayan/leetcode-solution/tree/main/2352-equal-row-and-column-pairs/) | Medium |
-## Hash Table
-| Problem Name | Difficulty |
-| ------- | ------- |
-| [2336-smallest-number-in-infinite-set](https://github.com/imrajeevnayan/leetcode-solution/tree/main/2336-smallest-number-in-infinite-set/) | Medium |
-| [2352-equal-row-and-column-pairs](https://github.com/imrajeevnayan/leetcode-solution/tree/main/2352-equal-row-and-column-pairs/) | Medium |
-## Matrix
-| Problem Name | Difficulty |
-| ------- | ------- |
-| [2352-equal-row-and-column-pairs](https://github.com/imrajeevnayan/leetcode-solution/tree/main/2352-equal-row-and-column-pairs/) | Medium |
-## Simulation
-| Problem Name | Difficulty |
-| ------- | ------- |
-| [2352-equal-row-and-column-pairs](https://github.com/imrajeevnayan/leetcode-solution/tree/main/2352-equal-row-and-column-pairs/) | Medium |
-## Design
-| Problem Name | Difficulty |
-| ------- | ------- |
-| [2336-smallest-number-in-infinite-set](https://github.com/imrajeevnayan/leetcode-solution/tree/main/2336-smallest-number-in-infinite-set/) | Medium |
-## Heap (Priority Queue)
-| Problem Name | Difficulty |
-| ------- | ------- |
-| [2336-smallest-number-in-infinite-set](https://github.com/imrajeevnayan/leetcode-solution/tree/main/2336-smallest-number-in-infinite-set/) | Medium |
-## Ordered Set
-| Problem Name | Difficulty |
-| ------- | ------- |
-| [2336-smallest-number-in-infinite-set](https://github.com/imrajeevnayan/leetcode-solution/tree/main/2336-smallest-number-in-infinite-set/) | Medium |
-<!---LeetCode Topics End-->
