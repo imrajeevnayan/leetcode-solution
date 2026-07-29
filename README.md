@@ -10,6 +10,7 @@
 | [0162-find-peak-element](https://github.com/imrajeevnayan/leetcode-solution/tree/main/0162-find-peak-element/) | Medium |
 | [0852-peak-index-in-a-mountain-array](https://github.com/imrajeevnayan/leetcode-solution/tree/main/0852-peak-index-in-a-mountain-array/) | Medium |
 | [1901-find-a-peak-element-ii](https://github.com/imrajeevnayan/leetcode-solution/tree/main/1901-find-a-peak-element-ii/) | Medium |
+| [3187-peaks-in-array](https://github.com/imrajeevnayan/leetcode-solution/tree/main/3187-peaks-in-array/) | Hard |
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -20,4 +21,12 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1901-find-a-peak-element-ii](https://github.com/imrajeevnayan/leetcode-solution/tree/main/1901-find-a-peak-element-ii/) | Medium |
+## Binary Indexed Tree
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3187-peaks-in-array](https://github.com/imrajeevnayan/leetcode-solution/tree/main/3187-peaks-in-array/) | Hard |
+## Segment Tree
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3187-peaks-in-array](https://github.com/imrajeevnayan/leetcode-solution/tree/main/3187-peaks-in-array/) | Hard |
 <!---LeetCode Topics End-->
