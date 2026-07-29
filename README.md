@@ -4,7 +4,7 @@ Automatically organized collection of LeetCode solutions.
 
 ## 📊 Statistics
 
-- **Total Problems Solved:** 359
+- **Total Problems Solved:** 360
 - **Current Streak:** 3 days
 - **Longest Streak:** 14 days
 
@@ -12,12 +12,12 @@ Automatically organized collection of LeetCode solutions.
 
 #### By Language
 - Javascript: 2
-- Java: 329
+- Java: 330
 - Sql: 28
 
 #### By Topic
 - General: 3
-- Array: 183
+- Array: 184
 - Divide-and-conquer: 1
 - Dynamic-programming: 3
 - Hash-table: 31
@@ -311,6 +311,7 @@ Automatically organized collection of LeetCode solutions.
 | 1811 | Fix Names In A Table | database | easy | sql | [Solution](solutions/sql/database/easy/1811_fix-names-in-a-table_database_easy.sql) |
 | 1833 | Find The Highest Altitude | array | easy | java | [Solution](solutions/java/array/easy/1833_find-the-highest-altitude_array_easy.java) |
 | 1839 | Decode Xored Array | array | easy | java | [Solution](solutions/java/array/easy/1839_decode-xored-array_array_easy.java) |
+| 1876 | Map Of Highest Peak | array | medium | java | [Solution](solutions/java/array/medium/1876_map-of-highest-peak_array_medium.java) |
 | 1877 | Find Followers Count | database | easy | sql | [Solution](solutions/sql/database/easy/1877_find-followers-count_database_easy.sql) |
 | 1878 | Check If Array Is Sorted And Rotated | array | easy | java | [Solution](solutions/java/array/easy/1878_check-if-array-is-sorted-and-rotated_array_easy.java) |
 | 1894 | Merge Strings Alternately | two-pointers | easy | java | [Solution](solutions/java/two-pointers/easy/1894_merge-strings-alternately_two-pointers_easy.java) |
