@@ -9,9 +9,15 @@
 | ------- | ------- |
 | [0162-find-peak-element](https://github.com/imrajeevnayan/leetcode-solution/tree/main/0162-find-peak-element/) | Medium |
 | [0852-peak-index-in-a-mountain-array](https://github.com/imrajeevnayan/leetcode-solution/tree/main/0852-peak-index-in-a-mountain-array/) | Medium |
+| [1901-find-a-peak-element-ii](https://github.com/imrajeevnayan/leetcode-solution/tree/main/1901-find-a-peak-element-ii/) | Medium |
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0162-find-peak-element](https://github.com/imrajeevnayan/leetcode-solution/tree/main/0162-find-peak-element/) | Medium |
 | [0852-peak-index-in-a-mountain-array](https://github.com/imrajeevnayan/leetcode-solution/tree/main/0852-peak-index-in-a-mountain-array/) | Medium |
+| [1901-find-a-peak-element-ii](https://github.com/imrajeevnayan/leetcode-solution/tree/main/1901-find-a-peak-element-ii/) | Medium |
+## Matrix
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1901-find-a-peak-element-ii](https://github.com/imrajeevnayan/leetcode-solution/tree/main/1901-find-a-peak-element-ii/) | Medium |
 <!---LeetCode Topics End-->
