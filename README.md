@@ -417,9 +417,14 @@ Automatically organized collection of LeetCode solutions.
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0035-search-insert-position](https://github.com/imrajeevnayan/leetcode-solution/tree/main/0035-search-insert-position/) | Easy |
 | [0278-first-bad-version](https://github.com/imrajeevnayan/leetcode-solution/tree/main/0278-first-bad-version/) | Easy |
 ## Interactive
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0278-first-bad-version](https://github.com/imrajeevnayan/leetcode-solution/tree/main/0278-first-bad-version/) | Easy |
+## Array
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0035-search-insert-position](https://github.com/imrajeevnayan/leetcode-solution/tree/main/0035-search-insert-position/) | Easy |
 <!---LeetCode Topics End-->
