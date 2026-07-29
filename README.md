@@ -406,6 +406,7 @@ Automatically organized collection of LeetCode solutions.
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [2336-smallest-number-in-infinite-set](https://github.com/imrajeevnayan/leetcode-solution/tree/main/2336-smallest-number-in-infinite-set/) | Medium |
 | [2352-equal-row-and-column-pairs](https://github.com/imrajeevnayan/leetcode-solution/tree/main/2352-equal-row-and-column-pairs/) | Medium |
 ## Matrix
 | Problem Name | Difficulty |
@@ -415,4 +416,16 @@ Automatically organized collection of LeetCode solutions.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [2352-equal-row-and-column-pairs](https://github.com/imrajeevnayan/leetcode-solution/tree/main/2352-equal-row-and-column-pairs/) | Medium |
+## Design
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [2336-smallest-number-in-infinite-set](https://github.com/imrajeevnayan/leetcode-solution/tree/main/2336-smallest-number-in-infinite-set/) | Medium |
+## Heap (Priority Queue)
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [2336-smallest-number-in-infinite-set](https://github.com/imrajeevnayan/leetcode-solution/tree/main/2336-smallest-number-in-infinite-set/) | Medium |
+## Ordered Set
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [2336-smallest-number-in-infinite-set](https://github.com/imrajeevnayan/leetcode-solution/tree/main/2336-smallest-number-in-infinite-set/) | Medium |
 <!---LeetCode Topics End-->
