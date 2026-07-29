@@ -4,15 +4,15 @@ Automatically organized collection of LeetCode solutions.
 
 ## 📊 Statistics
 
-- **Total Problems Solved:** 356
-- **Current Streak:** 2 days
+- **Total Problems Solved:** 357
+- **Current Streak:** 3 days
 - **Longest Streak:** 14 days
 
 ### 🧩 Breakdown
 
 #### By Language
 - Javascript: 2
-- Java: 326
+- Java: 327
 - Sql: 28
 
 #### By Topic
@@ -20,7 +20,7 @@ Automatically organized collection of LeetCode solutions.
 - Array: 181
 - Divide-and-conquer: 1
 - Dynamic-programming: 3
-- Hash-table: 30
+- Hash-table: 31
 - String: 28
 - Math: 31
 - Binary-search: 2
@@ -372,6 +372,7 @@ Automatically organized collection of LeetCode solutions.
 | 3731 | Sum Of Variable Length Subarrays | array | easy | java | [Solution](solutions/java/array/easy/3731_sum-of-variable-length-subarrays_array_easy.java) |
 | 3811 | Reverse Degree Of A String | string | easy | java | [Solution](solutions/java/string/easy/3811_reverse-degree-of-a-string_string_easy.java) |
 | 3812 | Smallest Palindromic Rearrangement I | string | medium | java | [Solution](solutions/java/string/medium/3812_smallest-palindromic-rearrangement-i_string_medium.java) |
+| 3813 | Smallest Palindromic Rearrangement Ii | hash-table | hard | java | [Solution](solutions/java/hash-table/hard/3813_smallest-palindromic-rearrangement-ii_hash-table_hard.java) |
 | 3824 | Number Of Unique Xor Triplets I | array | medium | java | [Solution](solutions/java/array/medium/3824_number-of-unique-xor-triplets-i_array_medium.java) |
 | 3832 | Minimum Cost To Reach Every Position | array | easy | java | [Solution](solutions/java/array/easy/3832_minimum-cost-to-reach-every-position_array_easy.java) |
 | 3846 | Minimum Operations To Make Array Sum Divisible By K | array | easy | java | [Solution](solutions/java/array/easy/3846_minimum-operations-to-make-array-sum-divisible-by-k_array_easy.java) |
