@@ -861,17 +861,18 @@
     "GeeksForGeeks_Maximum_Subset_XOR": true,
     "GeeksForGeeks_Bitwise_Shift_Operators": true,
     "GeeksForGeeks_PriorityQueue_Insertion_-_1": true,
-    "GeeksForGeeks_Sorted_Elements_Of_BST": true
+    "GeeksForGeeks_Sorted_Elements_Of_BST": true,
+    "GeeksForGeeks_PriorityQueue_Insertion_-_2": true
   },
-  "totalSolved": 389,
+  "totalSolved": 390,
   "difficultyCounts": {
     "easy": 123,
     "medium": 175,
     "hard": 7,
-    "basic": 84
+    "basic": 85
   },
   "currentStreak": 9,
-  "todayCount": 4,
+  "todayCount": 5,
   "lastSyncDate": "2026-07-30",
   "maxStreak": 15,
   "activityHistory": {
@@ -934,7 +935,7 @@
     "2026-07-27": 1,
     "2026-07-28": 7,
     "2026-07-29": 1,
-    "2026-07-30": 4
+    "2026-07-30": 5
   },
   "todayProblems": [
     "Most Frequent Character",
@@ -1323,6 +1324,7 @@
     "Maximum Subset XOR",
     "Bitwise Shift Operators",
     "PriorityQueue Insertion - 1",
-    "Sorted Elements Of BST"
+    "Sorted Elements Of BST",
+    "PriorityQueue Insertion - 2"
   ]
 }
