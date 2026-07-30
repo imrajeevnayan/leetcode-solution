@@ -857,18 +857,19 @@
     "GeeksForGeeks_Split_Array_Largest_Sum": true,
     "GeeksForGeeks_Search_in_Rotated_Array_2": true,
     "LeetCode_Kth_Largest_Element_in_an_Array": true,
-    "LeetCode_Find_Peak_Element": true
+    "LeetCode_Find_Peak_Element": true,
+    "GeeksForGeeks_Maximum_Subset_XOR": true
   },
-  "totalSolved": 385,
+  "totalSolved": 386,
   "difficultyCounts": {
     "easy": 122,
-    "medium": 174,
+    "medium": 175,
     "hard": 7,
     "basic": 82
   },
-  "currentStreak": 8,
+  "currentStreak": 9,
   "todayCount": 1,
-  "lastSyncDate": "2026-07-29",
+  "lastSyncDate": "2026-07-30",
   "maxStreak": 15,
   "activityHistory": {
     "2026-05-19": 2,
@@ -929,7 +930,8 @@
     "2026-07-26": 2,
     "2026-07-27": 1,
     "2026-07-28": 7,
-    "2026-07-29": 1
+    "2026-07-29": 1,
+    "2026-07-30": 1
   },
   "todayProblems": [
     "Most Frequent Character",
@@ -1314,6 +1316,7 @@
     "Split Array Largest Sum",
     "Search in Rotated Array 2",
     "Kth Largest Element in an Array",
-    "Find Peak Element"
+    "Find Peak Element",
+    "Maximum Subset XOR"
   ]
 }
