@@ -5,3 +5,4 @@
 | 3 | [PriorityQueue Insertion - 1](https://www.geeksforgeeks.org/problems/priorityqueue-inserion/1?page=1&status=unsolved&sortBy=accuracy) | GeeksForGeeks | Basic | 30 Jul 2026 | 04:36 pm |
 | 4 | [Sorted Elements Of BST](https://www.geeksforgeeks.org/problems/sorted-elements-of-bst/1?page=1&status=unsolved&sortBy=accuracy) | GeeksForGeeks | Easy | 30 Jul 2026 | 04:38 pm |
 | 5 | [PriorityQueue Insertion - 2](https://www.geeksforgeeks.org/problems/priorityqueue-inserion-2/1?page=1&status=unsolved&sortBy=accuracy) | GeeksForGeeks | Basic | 30 Jul 2026 | 04:40 pm |
+| 6 | [Preorder traversal (Iterative)](https://www.geeksforgeeks.org/problems/preorder-traversal-iterative/1?page=1&difficulty=Medium&status=unsolved&sortBy=accuracy) | GeeksForGeeks | Medium | 30 Jul 2026 | 04:41 pm |
