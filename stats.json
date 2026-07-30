@@ -859,17 +859,18 @@
     "LeetCode_Kth_Largest_Element_in_an_Array": true,
     "LeetCode_Find_Peak_Element": true,
     "GeeksForGeeks_Maximum_Subset_XOR": true,
-    "GeeksForGeeks_Bitwise_Shift_Operators": true
+    "GeeksForGeeks_Bitwise_Shift_Operators": true,
+    "GeeksForGeeks_PriorityQueue_Insertion_-_1": true
   },
-  "totalSolved": 387,
+  "totalSolved": 388,
   "difficultyCounts": {
     "easy": 122,
     "medium": 175,
     "hard": 7,
-    "basic": 83
+    "basic": 84
   },
   "currentStreak": 9,
-  "todayCount": 2,
+  "todayCount": 3,
   "lastSyncDate": "2026-07-30",
   "maxStreak": 15,
   "activityHistory": {
@@ -932,7 +933,7 @@
     "2026-07-27": 1,
     "2026-07-28": 7,
     "2026-07-29": 1,
-    "2026-07-30": 2
+    "2026-07-30": 3
   },
   "todayProblems": [
     "Most Frequent Character",
@@ -1319,6 +1320,7 @@
     "Kth Largest Element in an Array",
     "Find Peak Element",
     "Maximum Subset XOR",
-    "Bitwise Shift Operators"
+    "Bitwise Shift Operators",
+    "PriorityQueue Insertion - 1"
   ]
 }
