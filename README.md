@@ -4,15 +4,15 @@ Automatically organized collection of LeetCode solutions.
 
 ## 📊 Statistics
 
-- **Total Problems Solved:** 362
-- **Current Streak:** 3 days
+- **Total Problems Solved:** 363
+- **Current Streak:** 4 days
 - **Longest Streak:** 14 days
 
 ### 🧩 Breakdown
 
 #### By Language
 - Javascript: 2
-- Java: 332
+- Java: 333
 - Sql: 28
 
 #### By Topic
@@ -22,7 +22,7 @@ Automatically organized collection of LeetCode solutions.
 - Dynamic-programming: 3
 - Hash-table: 32
 - String: 28
-- Math: 31
+- Math: 32
 - Binary-search: 2
 - Linked-list: 20
 - Enumeration: 1
@@ -361,6 +361,7 @@ Automatically organized collection of LeetCode solutions.
 | 3213 | Count Subarrays Where Max Element Appears At Least K Times | array | medium | java | [Solution](solutions/java/array/medium/3213_count-subarrays-where-max-element-appears-at-least-k-times_array_medium.java) |
 | 3221 | Find The Peaks | array | easy | java | [Solution](solutions/java/array/easy/3221_find-the-peaks_array_easy.java) |
 | 3225 | Length Of Longest Subarray With At Most K Frequency | array | medium | java | [Solution](solutions/java/array/medium/3225_length-of-longest-subarray-with-at-most-k-frequency_array_medium.java) |
+| 3275 | Minimum Number Of Pushes To Type Word I | math | easy | java | [Solution](solutions/java/math/easy/3275_minimum-number-of-pushes-to-type-word-i_math_easy.java) |
 | 3314 | Most Frequent Prime | array | medium | java | [Solution](solutions/java/array/medium/3314_most-frequent-prime_array_medium.java) |
 | 3379 | Score Of A String | string | easy | java | [Solution](solutions/java/string/easy/3379_score-of-a-string_string_easy.java) |
 | 3412 | Permutation Difference Between Two Strings | hash-table | easy | java | [Solution](solutions/java/hash-table/easy/3412_permutation-difference-between-two-strings_hash-table_easy.java) |
@@ -398,42 +399,3 @@ Automatically organized collection of LeetCode solutions.
 | 4312 | Limit Occurrences In Sorted Array | array | easy | java | [Solution](solutions/java/array/easy/4312_limit-occurrences-in-sorted-array_array_easy.java) |
 | 4313 | Password Strength | hash-table | medium | java | [Solution](solutions/java/hash-table/medium/4313_password-strength_hash-table_medium.java) |
 | 4353 | Largest Integer With Given Digit Sum | general | easy | java | [Solution](solutions/java/general/easy/4353_largest-integer-with-given-digit-sum_general_easy.java) |
-
-<!---LeetCode Topics Start-->
-# LeetCode Topics
-## String
-| Problem Name | Difficulty |
-| ------- | ------- |
-| [0072-edit-distance](https://github.com/imrajeevnayan/leetcode-solution/tree/main/0072-edit-distance/) | Medium |
-| [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/imrajeevnayan/leetcode-solution/tree/main/3014-minimum-number-of-pushes-to-type-word-i/) | Easy |
-## Dynamic Programming
-| Problem Name | Difficulty |
-| ------- | ------- |
-| [0072-edit-distance](https://github.com/imrajeevnayan/leetcode-solution/tree/main/0072-edit-distance/) | Medium |
-| [0338-counting-bits](https://github.com/imrajeevnayan/leetcode-solution/tree/main/0338-counting-bits/) | Easy |
-## Bit Manipulation
-| Problem Name | Difficulty |
-| ------- | ------- |
-| [0338-counting-bits](https://github.com/imrajeevnayan/leetcode-solution/tree/main/0338-counting-bits/) | Easy |
-## Binary Search
-| Problem Name | Difficulty |
-| ------- | ------- |
-| [0035-search-insert-position](https://github.com/imrajeevnayan/leetcode-solution/tree/main/0035-search-insert-position/) | Easy |
-| [0278-first-bad-version](https://github.com/imrajeevnayan/leetcode-solution/tree/main/0278-first-bad-version/) | Easy |
-## Interactive
-| Problem Name | Difficulty |
-| ------- | ------- |
-| [0278-first-bad-version](https://github.com/imrajeevnayan/leetcode-solution/tree/main/0278-first-bad-version/) | Easy |
-## Array
-| Problem Name | Difficulty |
-| ------- | ------- |
-| [0035-search-insert-position](https://github.com/imrajeevnayan/leetcode-solution/tree/main/0035-search-insert-position/) | Easy |
-## Math
-| Problem Name | Difficulty |
-| ------- | ------- |
-| [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/imrajeevnayan/leetcode-solution/tree/main/3014-minimum-number-of-pushes-to-type-word-i/) | Easy |
-## Greedy
-| Problem Name | Difficulty |
-| ------- | ------- |
-| [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/imrajeevnayan/leetcode-solution/tree/main/3014-minimum-number-of-pushes-to-type-word-i/) | Easy |
-<!---LeetCode Topics End-->
