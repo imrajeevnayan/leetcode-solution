@@ -864,18 +864,19 @@
     "GeeksForGeeks_Sorted_Elements_Of_BST": true,
     "GeeksForGeeks_PriorityQueue_Insertion_-_2": true,
     "GeeksForGeeks_Preorder_traversal_(Iterative)": true,
-    "GeeksForGeeks_Iterative_Postorder": true
+    "GeeksForGeeks_Iterative_Postorder": true,
+    "GeeksForGeeks_Generate_Permutations_of_an_array": true
   },
-  "totalSolved": 392,
+  "totalSolved": 393,
   "difficultyCounts": {
     "easy": 123,
-    "medium": 177,
+    "medium": 178,
     "hard": 7,
     "basic": 85
   },
-  "currentStreak": 9,
-  "todayCount": 7,
-  "lastSyncDate": "2026-07-30",
+  "currentStreak": 10,
+  "todayCount": 1,
+  "lastSyncDate": "2026-07-31",
   "maxStreak": 15,
   "activityHistory": {
     "2026-05-19": 2,
@@ -937,7 +938,8 @@
     "2026-07-27": 1,
     "2026-07-28": 7,
     "2026-07-29": 1,
-    "2026-07-30": 7
+    "2026-07-30": 7,
+    "2026-07-31": 1
   },
   "todayProblems": [
     "Most Frequent Character",
@@ -1329,6 +1331,7 @@
     "Sorted Elements Of BST",
     "PriorityQueue Insertion - 2",
     "Preorder traversal (Iterative)",
-    "Iterative Postorder"
+    "Iterative Postorder",
+    "Generate Permutations of an array"
   ]
 }
