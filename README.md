@@ -7,3 +7,27 @@
 | 5 | [PriorityQueue Insertion - 2](https://www.geeksforgeeks.org/problems/priorityqueue-inserion-2/1?page=1&status=unsolved&sortBy=accuracy) | GeeksForGeeks | Basic | 30 Jul 2026 | 04:40 pm |
 | 6 | [Preorder traversal (Iterative)](https://www.geeksforgeeks.org/problems/preorder-traversal-iterative/1?page=1&difficulty=Medium&status=unsolved&sortBy=accuracy) | GeeksForGeeks | Medium | 30 Jul 2026 | 04:41 pm |
 | 7 | [Iterative Postorder](https://www.geeksforgeeks.org/problems/postorder-traversal-iterative/1?page=1&difficulty=Medium&status=unsolved&sortBy=accuracy) | GeeksForGeeks | Medium | 30 Jul 2026 | 04:44 pm |
+
+<!---LeetCode Topics Start-->
+# LeetCode Topics
+## Hash Table
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/imrajeevnayan/leetcode-solution/tree/main/3016-minimum-number-of-pushes-to-type-word-ii/) | Medium |
+## String
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/imrajeevnayan/leetcode-solution/tree/main/3016-minimum-number-of-pushes-to-type-word-ii/) | Medium |
+## Greedy
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/imrajeevnayan/leetcode-solution/tree/main/3016-minimum-number-of-pushes-to-type-word-ii/) | Medium |
+## Sorting
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/imrajeevnayan/leetcode-solution/tree/main/3016-minimum-number-of-pushes-to-type-word-ii/) | Medium |
+## Counting
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/imrajeevnayan/leetcode-solution/tree/main/3016-minimum-number-of-pushes-to-type-word-ii/) | Medium |
+<!---LeetCode Topics End-->
