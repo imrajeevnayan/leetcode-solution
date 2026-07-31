@@ -19,3 +19,4 @@
 | ------- | ------- |
 | [0053-maximum-subarray](https://github.com/imrajeevnayan/leetcode-solution/tree/main/0053-maximum-subarray/) | Medium |
 <!---LeetCode Topics End-->
+| 4 | [Wave Array](https://www.geeksforgeeks.org/problems/wave-array-1587115621/1?page=1&category=Arrays&difficulty=Medium&sortBy=accuracy) | GeeksForGeeks | Medium | 01 Aug 2026 | 12:49 am |
