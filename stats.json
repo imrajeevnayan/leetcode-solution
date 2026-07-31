@@ -866,17 +866,18 @@
     "GeeksForGeeks_Preorder_traversal_(Iterative)": true,
     "GeeksForGeeks_Iterative_Postorder": true,
     "GeeksForGeeks_Generate_Permutations_of_an_array": true,
-    "GeeksForGeeks_Prefix_Sum_Range_Query": true
+    "GeeksForGeeks_Prefix_Sum_Range_Query": true,
+    "GeeksForGeeks_Minimum_Sum_Subarray": true
   },
-  "totalSolved": 394,
+  "totalSolved": 395,
   "difficultyCounts": {
     "easy": 123,
-    "medium": 179,
+    "medium": 180,
     "hard": 7,
     "basic": 85
   },
   "currentStreak": 10,
-  "todayCount": 2,
+  "todayCount": 3,
   "lastSyncDate": "2026-07-31",
   "maxStreak": 15,
   "activityHistory": {
@@ -940,7 +941,7 @@
     "2026-07-28": 7,
     "2026-07-29": 1,
     "2026-07-30": 7,
-    "2026-07-31": 2
+    "2026-07-31": 3
   },
   "todayProblems": [
     "Most Frequent Character",
@@ -1334,6 +1335,7 @@
     "Preorder traversal (Iterative)",
     "Iterative Postorder",
     "Generate Permutations of an array",
-    "Prefix Sum Range Query"
+    "Prefix Sum Range Query",
+    "Minimum Sum Subarray"
   ]
 }
