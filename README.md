@@ -4,7 +4,7 @@ Automatically organized collection of LeetCode solutions.
 
 ## 📊 Statistics
 
-- **Total Problems Solved:** 364
+- **Total Problems Solved:** 365
 - **Current Streak:** 5 days
 - **Longest Streak:** 14 days
 
@@ -12,7 +12,7 @@ Automatically organized collection of LeetCode solutions.
 
 #### By Language
 - Javascript: 2
-- Java: 334
+- Java: 335
 - Sql: 28
 
 #### By Topic
@@ -26,7 +26,7 @@ Automatically organized collection of LeetCode solutions.
 - Binary-search: 2
 - Linked-list: 20
 - Enumeration: 1
-- Tree: 8
+- Tree: 9
 - Two-pointers: 14
 - Bit-manipulation: 1
 - Stack: 5
@@ -257,6 +257,7 @@ Automatically organized collection of LeetCode solutions.
 | 1054 | Complement Of Base 10 Integer | bit-manipulation | easy | java | [Solution](solutions/java/bit-manipulation/easy/1054_complement-of-base-10-integer_bit-manipulation_easy.java) |
 | 1078 | Remove Outermost Parentheses | string | easy | java | [Solution](solutions/java/string/easy/1078_remove-outermost-parentheses_string_easy.java) |
 | 1086 | Divisor Game | math | easy | java | [Solution](solutions/java/math/easy/1086_divisor-game_math_easy.java) |
+| 1114 | Binary Search Tree To Greater Sum Tree | tree | medium | java | [Solution](solutions/java/tree/medium/1114_binary-search-tree-to-greater-sum-tree_tree_medium.java) |
 | 1127 | Last Stone Weight | array | easy | java | [Solution](solutions/java/array/easy/1127_last-stone-weight_array_easy.java) |
 | 1128 | Remove All Adjacent Duplicates In String | string | easy | java | [Solution](solutions/java/string/easy/1128_remove-all-adjacent-duplicates-in-string_string_easy.java) |
 | 1138 | Grumpy Bookstore Owner | array | medium | java | [Solution](solutions/java/array/medium/1138_grumpy-bookstore-owner_array_medium.java) |
@@ -400,23 +401,3 @@ Automatically organized collection of LeetCode solutions.
 | 4312 | Limit Occurrences In Sorted Array | array | easy | java | [Solution](solutions/java/array/easy/4312_limit-occurrences-in-sorted-array_array_easy.java) |
 | 4313 | Password Strength | hash-table | medium | java | [Solution](solutions/java/hash-table/medium/4313_password-strength_hash-table_medium.java) |
 | 4353 | Largest Integer With Given Digit Sum | general | easy | java | [Solution](solutions/java/general/easy/4353_largest-integer-with-given-digit-sum_general_easy.java) |
-
-<!---LeetCode Topics Start-->
-# LeetCode Topics
-## Tree
-| Problem Name | Difficulty |
-| ------- | ------- |
-| [1038-binary-search-tree-to-greater-sum-tree](https://github.com/imrajeevnayan/leetcode-solution/tree/main/1038-binary-search-tree-to-greater-sum-tree/) | Medium |
-## Depth-First Search
-| Problem Name | Difficulty |
-| ------- | ------- |
-| [1038-binary-search-tree-to-greater-sum-tree](https://github.com/imrajeevnayan/leetcode-solution/tree/main/1038-binary-search-tree-to-greater-sum-tree/) | Medium |
-## Binary Search Tree
-| Problem Name | Difficulty |
-| ------- | ------- |
-| [1038-binary-search-tree-to-greater-sum-tree](https://github.com/imrajeevnayan/leetcode-solution/tree/main/1038-binary-search-tree-to-greater-sum-tree/) | Medium |
-## Binary Tree
-| Problem Name | Difficulty |
-| ------- | ------- |
-| [1038-binary-search-tree-to-greater-sum-tree](https://github.com/imrajeevnayan/leetcode-solution/tree/main/1038-binary-search-tree-to-greater-sum-tree/) | Medium |
-<!---LeetCode Topics End-->
