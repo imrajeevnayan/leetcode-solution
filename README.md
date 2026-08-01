@@ -4,7 +4,7 @@ Automatically organized collection of LeetCode solutions.
 
 ## 📊 Statistics
 
-- **Total Problems Solved:** 366
+- **Total Problems Solved:** 367
 - **Current Streak:** 6 days
 - **Longest Streak:** 14 days
 
@@ -12,7 +12,7 @@ Automatically organized collection of LeetCode solutions.
 
 #### By Language
 - Javascript: 2
-- Java: 336
+- Java: 337
 - Sql: 28
 
 #### By Topic
@@ -30,6 +30,7 @@ Automatically organized collection of LeetCode solutions.
 - Two-pointers: 14
 - Bit-manipulation: 1
 - Stack: 5
+- Design: 1
 - Database: 28
 
 ## 📂 Solutions
@@ -246,6 +247,7 @@ Automatically organized collection of LeetCode solutions.
 | 941 | Sort Array By Parity | array | easy | java | [Solution](solutions/java/array/easy/941_sort-array-by-parity_array_easy.java) |
 | 957 | Minimum Add To Make Parentheses Valid | string | medium | java | [Solution](solutions/java/string/medium/957_minimum-add-to-make-parentheses-valid_string_medium.java) |
 | 958 | Sort Array By Parity Ii | array | easy | java | [Solution](solutions/java/array/easy/958_sort-array-by-parity-ii_array_easy.java) |
+| 969 | Number Of Recent Calls | design | easy | java | [Solution](solutions/java/design/easy/969_number-of-recent-calls_design_easy.java) |
 | 975 | Range Sum Of Bst | tree | easy | java | [Solution](solutions/java/tree/easy/975_range-sum-of-bst_tree_easy.java) |
 | 1013 | Fibonacci Number | math | easy | java | [Solution](solutions/java/math/easy/1013_fibonacci-number_math_easy.java) |
 | 1016 | Subarray Sums Divisible By K | array | medium | java | [Solution](solutions/java/array/medium/1016_subarray-sums-divisible-by-k_array_medium.java) |
@@ -402,19 +404,3 @@ Automatically organized collection of LeetCode solutions.
 | 4312 | Limit Occurrences In Sorted Array | array | easy | java | [Solution](solutions/java/array/easy/4312_limit-occurrences-in-sorted-array_array_easy.java) |
 | 4313 | Password Strength | hash-table | medium | java | [Solution](solutions/java/hash-table/medium/4313_password-strength_hash-table_medium.java) |
 | 4353 | Largest Integer With Given Digit Sum | general | easy | java | [Solution](solutions/java/general/easy/4353_largest-integer-with-given-digit-sum_general_easy.java) |
-
-<!---LeetCode Topics Start-->
-# LeetCode Topics
-## Design
-| Problem Name | Difficulty |
-| ------- | ------- |
-| [0933-number-of-recent-calls](https://github.com/imrajeevnayan/leetcode-solution/tree/main/0933-number-of-recent-calls/) | Easy |
-## Queue
-| Problem Name | Difficulty |
-| ------- | ------- |
-| [0933-number-of-recent-calls](https://github.com/imrajeevnayan/leetcode-solution/tree/main/0933-number-of-recent-calls/) | Easy |
-## Data Stream
-| Problem Name | Difficulty |
-| ------- | ------- |
-| [0933-number-of-recent-calls](https://github.com/imrajeevnayan/leetcode-solution/tree/main/0933-number-of-recent-calls/) | Easy |
-<!---LeetCode Topics End-->
