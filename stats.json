@@ -871,17 +871,18 @@
     "GeeksForGeeks_Wave_Array": true,
     "GeeksForGeeks_Longest_Subarray_of_Evens_and_Odds": true,
     "GeeksForGeeks_Rotate_Array": true,
-    "GeeksForGeeks_Red_OR_Green": true
+    "GeeksForGeeks_Red_OR_Green": true,
+    "GeeksForGeeks_Check_for_Isogram_String": true
   },
-  "totalSolved": 399,
+  "totalSolved": 400,
   "difficultyCounts": {
-    "easy": 123,
+    "easy": 124,
     "medium": 183,
     "hard": 7,
     "basic": 86
   },
   "currentStreak": 12,
-  "todayCount": 2,
+  "todayCount": 3,
   "lastSyncDate": "2026-08-02",
   "maxStreak": 15,
   "activityHistory": {
@@ -947,7 +948,7 @@
     "2026-07-30": 7,
     "2026-07-31": 3,
     "2026-08-01": 2,
-    "2026-08-02": 2
+    "2026-08-02": 3
   },
   "todayProblems": [
     "Most Frequent Character",
@@ -1346,6 +1347,7 @@
     "Wave Array",
     "Longest Subarray of Evens and Odds",
     "Rotate Array",
-    "Red OR Green"
+    "Red OR Green",
+    "Check for Isogram String"
   ]
 }
