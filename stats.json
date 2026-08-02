@@ -874,17 +874,18 @@
     "GeeksForGeeks_Red_OR_Green": true,
     "GeeksForGeeks_Check_for_Isogram_String": true,
     "GeeksForGeeks_Make_all_Substrings_Distinct": true,
-    "GeeksForGeeks_Change_the_Case_based_on_First_Character": true
+    "GeeksForGeeks_Change_the_Case_based_on_First_Character": true,
+    "GeeksForGeeks_Fizz_Buzz": true
   },
-  "totalSolved": 402,
+  "totalSolved": 403,
   "difficultyCounts": {
-    "easy": 125,
+    "easy": 126,
     "medium": 183,
     "hard": 7,
     "basic": 87
   },
   "currentStreak": 12,
-  "todayCount": 5,
+  "todayCount": 6,
   "lastSyncDate": "2026-08-02",
   "maxStreak": 15,
   "activityHistory": {
@@ -950,7 +951,7 @@
     "2026-07-30": 7,
     "2026-07-31": 3,
     "2026-08-01": 2,
-    "2026-08-02": 5
+    "2026-08-02": 6
   },
   "todayProblems": [
     "Most Frequent Character",
@@ -1352,6 +1353,7 @@
     "Red OR Green",
     "Check for Isogram String",
     "Make all Substrings Distinct",
-    "Change the Case based on First Character"
+    "Change the Case based on First Character",
+    "Fizz Buzz"
   ]
 }
