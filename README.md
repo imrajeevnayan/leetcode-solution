@@ -4,20 +4,20 @@ Automatically organized collection of LeetCode solutions.
 
 ## 📊 Statistics
 
-- **Total Problems Solved:** 367
-- **Current Streak:** 6 days
+- **Total Problems Solved:** 368
+- **Current Streak:** 7 days
 - **Longest Streak:** 14 days
 
 ### 🧩 Breakdown
 
 #### By Language
 - Javascript: 2
-- Java: 337
+- Java: 338
 - Sql: 28
 
 #### By Topic
 - General: 3
-- Array: 186
+- Array: 187
 - Divide-and-conquer: 1
 - Dynamic-programming: 3
 - Hash-table: 33
@@ -242,6 +242,7 @@ Automatically organized collection of LeetCode solutions.
 | 889 | Buddy Strings | hash-table | easy | java | [Solution](solutions/java/hash-table/easy/889_buddy-strings_hash-table_easy.java) |
 | 892 | Shortest Subarray With Sum At Least K | array | hard | java | [Solution](solutions/java/array/hard/892_shortest-subarray-with-sum-at-least-k_array_hard.java) |
 | 908 | Middle Of The Linked List | linked-list | easy | java | [Solution](solutions/java/linked-list/easy/908_middle-of-the-linked-list_linked-list_easy.java) |
+| 909 | Stone Game | array | medium | java | [Solution](solutions/java/array/medium/909_stone-game_array_medium.java) |
 | 917 | Boats To Save People | array | medium | java | [Solution](solutions/java/array/medium/917_boats-to-save-people_array_medium.java) |
 | 940 | Fruit Into Baskets | array | medium | java | [Solution](solutions/java/array/medium/940_fruit-into-baskets_array_medium.java) |
 | 941 | Sort Array By Parity | array | easy | java | [Solution](solutions/java/array/easy/941_sort-array-by-parity_array_easy.java) |
@@ -404,23 +405,3 @@ Automatically organized collection of LeetCode solutions.
 | 4312 | Limit Occurrences In Sorted Array | array | easy | java | [Solution](solutions/java/array/easy/4312_limit-occurrences-in-sorted-array_array_easy.java) |
 | 4313 | Password Strength | hash-table | medium | java | [Solution](solutions/java/hash-table/medium/4313_password-strength_hash-table_medium.java) |
 | 4353 | Largest Integer With Given Digit Sum | general | easy | java | [Solution](solutions/java/general/easy/4353_largest-integer-with-given-digit-sum_general_easy.java) |
-
-<!---LeetCode Topics Start-->
-# LeetCode Topics
-## Array
-| Problem Name | Difficulty |
-| ------- | ------- |
-| [0877-stone-game](https://github.com/imrajeevnayan/leetcode-solution/tree/main/0877-stone-game/) | Medium |
-## Math
-| Problem Name | Difficulty |
-| ------- | ------- |
-| [0877-stone-game](https://github.com/imrajeevnayan/leetcode-solution/tree/main/0877-stone-game/) | Medium |
-## Dynamic Programming
-| Problem Name | Difficulty |
-| ------- | ------- |
-| [0877-stone-game](https://github.com/imrajeevnayan/leetcode-solution/tree/main/0877-stone-game/) | Medium |
-## Game Theory
-| Problem Name | Difficulty |
-| ------- | ------- |
-| [0877-stone-game](https://github.com/imrajeevnayan/leetcode-solution/tree/main/0877-stone-game/) | Medium |
-<!---LeetCode Topics End-->
