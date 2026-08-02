@@ -869,18 +869,19 @@
     "GeeksForGeeks_Prefix_Sum_Range_Query": true,
     "GeeksForGeeks_Minimum_Sum_Subarray": true,
     "GeeksForGeeks_Wave_Array": true,
-    "GeeksForGeeks_Longest_Subarray_of_Evens_and_Odds": true
+    "GeeksForGeeks_Longest_Subarray_of_Evens_and_Odds": true,
+    "GeeksForGeeks_Rotate_Array": true
   },
-  "totalSolved": 397,
+  "totalSolved": 398,
   "difficultyCounts": {
     "easy": 123,
-    "medium": 182,
+    "medium": 183,
     "hard": 7,
     "basic": 85
   },
-  "currentStreak": 11,
-  "todayCount": 2,
-  "lastSyncDate": "2026-08-01",
+  "currentStreak": 12,
+  "todayCount": 1,
+  "lastSyncDate": "2026-08-02",
   "maxStreak": 15,
   "activityHistory": {
     "2026-05-19": 2,
@@ -944,7 +945,8 @@
     "2026-07-29": 1,
     "2026-07-30": 7,
     "2026-07-31": 3,
-    "2026-08-01": 2
+    "2026-08-01": 2,
+    "2026-08-02": 1
   },
   "todayProblems": [
     "Most Frequent Character",
@@ -1341,6 +1343,7 @@
     "Prefix Sum Range Query",
     "Minimum Sum Subarray",
     "Wave Array",
-    "Longest Subarray of Evens and Odds"
+    "Longest Subarray of Evens and Odds",
+    "Rotate Array"
   ]
 }
