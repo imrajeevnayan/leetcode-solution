@@ -6,3 +6,31 @@
 | 4 | [Make all Substrings Distinct](https://www.geeksforgeeks.org/problems/minimum-changes-to-make-all-substrings-distinct4722/1?page=3&category=Strings&sortBy=accuracy) | GeeksForGeeks | Easy | 02 Aug 2026 | 04:45 pm |
 | 5 | [Change the Case based on First Character](https://www.geeksforgeeks.org/problems/change-the-string3541/1?page=5&category=Strings&sortBy=accuracy) | GeeksForGeeks | Basic | 02 Aug 2026 | 04:59 pm |
 | 6 | [Fizz Buzz](https://www.geeksforgeeks.org/problems/fizz-buzz/1?page=5&category=Strings&sortBy=accuracy) | GeeksForGeeks | Easy | 02 Aug 2026 | 05:01 pm |
+
+<!---LeetCode Topics Start-->
+# LeetCode Topics
+## Array
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1406-stone-game-iii](https://github.com/imrajeevnayan/leetcode-solution/tree/main/1406-stone-game-iii/) | Hard |
+## Math
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1406-stone-game-iii](https://github.com/imrajeevnayan/leetcode-solution/tree/main/1406-stone-game-iii/) | Hard |
+## Dynamic Programming
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1406-stone-game-iii](https://github.com/imrajeevnayan/leetcode-solution/tree/main/1406-stone-game-iii/) | Hard |
+## Minimax
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1406-stone-game-iii](https://github.com/imrajeevnayan/leetcode-solution/tree/main/1406-stone-game-iii/) | Hard |
+## Game Theory
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1406-stone-game-iii](https://github.com/imrajeevnayan/leetcode-solution/tree/main/1406-stone-game-iii/) | Hard |
+## Zero-Sum Game
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1406-stone-game-iii](https://github.com/imrajeevnayan/leetcode-solution/tree/main/1406-stone-game-iii/) | Hard |
+<!---LeetCode Topics End-->
