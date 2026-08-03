@@ -876,17 +876,18 @@
     "GeeksForGeeks_Make_all_Substrings_Distinct": true,
     "GeeksForGeeks_Change_the_Case_based_on_First_Character": true,
     "GeeksForGeeks_Fizz_Buzz": true,
-    "GeeksForGeeks_Max_Sum_Subarray_of_Size_at_least_K": true
+    "GeeksForGeeks_Max_Sum_Subarray_of_Size_at_least_K": true,
+    "GeeksForGeeks_Quadratic_Equation_Roots": true
   },
-  "totalSolved": 404,
+  "totalSolved": 405,
   "difficultyCounts": {
     "easy": 126,
     "medium": 184,
     "hard": 7,
-    "basic": 87
+    "basic": 88
   },
   "currentStreak": 13,
-  "todayCount": 1,
+  "todayCount": 2,
   "lastSyncDate": "2026-08-03",
   "maxStreak": 15,
   "activityHistory": {
@@ -953,7 +954,7 @@
     "2026-07-31": 3,
     "2026-08-01": 2,
     "2026-08-02": 6,
-    "2026-08-03": 1
+    "2026-08-03": 2
   },
   "todayProblems": [
     "Most Frequent Character",
@@ -1357,6 +1358,7 @@
     "Make all Substrings Distinct",
     "Change the Case based on First Character",
     "Fizz Buzz",
-    "Max Sum Subarray of Size at least K"
+    "Max Sum Subarray of Size at least K",
+    "Quadratic Equation Roots"
   ]
 }
