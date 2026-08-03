@@ -880,17 +880,18 @@
     "GeeksForGeeks_Quadratic_Equation_Roots": true,
     "GeeksForGeeks_Count_Perfect_Squares": true,
     "GeeksForGeeks_Closest_to_n_and_Divisible_by_m": true,
-    "GeeksForGeeks_Greatest_of_three_numbers": true
+    "GeeksForGeeks_Greatest_of_three_numbers": true,
+    "GeeksForGeeks_Strong_Numbers": true
   },
-  "totalSolved": 408,
+  "totalSolved": 409,
   "difficultyCounts": {
     "easy": 126,
     "medium": 184,
     "hard": 7,
-    "basic": 91
+    "basic": 92
   },
   "currentStreak": 13,
-  "todayCount": 5,
+  "todayCount": 6,
   "lastSyncDate": "2026-08-03",
   "maxStreak": 15,
   "activityHistory": {
@@ -957,7 +958,7 @@
     "2026-07-31": 3,
     "2026-08-01": 2,
     "2026-08-02": 6,
-    "2026-08-03": 5
+    "2026-08-03": 6
   },
   "todayProblems": [
     "Most Frequent Character",
@@ -1365,6 +1366,7 @@
     "Quadratic Equation Roots",
     "Count Perfect Squares",
     "Closest to n and Divisible by m",
-    "Greatest of three numbers"
+    "Greatest of three numbers",
+    "Strong Numbers"
   ]
 }
