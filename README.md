@@ -15,3 +15,4 @@
 | 13 | [Rearrange Array Alternately](https://www.geeksforgeeks.org/problems/-rearrange-array-alternately-1587115620/1?page=1&category=Arrays&difficulty=Medium) | GeeksForGeeks | Medium | 03 Aug 2026 | 10:23 pm |
 | 14 | [Sum of 2 Primes](https://www.geeksforgeeks.org/problems/sum-of-prime4751/1?page=2&category=Arrays&difficulty=Medium) | GeeksForGeeks | Medium | 03 Aug 2026 | 10:39 pm |
 | 15 | [Justified Text](https://www.geeksforgeeks.org/problems/justified-text/1?page=1&category=Arrays&difficulty=Medium&sortBy=accuracy) | GeeksForGeeks | Medium | 03 Aug 2026 | 10:43 pm |
+| 16 | [Validate Stack Operations](https://www.geeksforgeeks.org/problems/stack-permutations/1?page=1&category=Arrays&difficulty=Medium&sortBy=accuracy) | GeeksForGeeks | Medium | 03 Aug 2026 | 10:44 pm |
