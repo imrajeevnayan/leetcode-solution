@@ -6,3 +6,4 @@
 | 4 | [Closest to n and Divisible by m](https://www.geeksforgeeks.org/problems/closest-number5728/1?page=1) | GeeksForGeeks | Basic | 03 Aug 2026 | 08:53 pm |
 | 5 | [Greatest of three numbers](https://www.geeksforgeeks.org/problems/greatest-of-three-numbers2520/1?page=1) | GeeksForGeeks | Basic | 03 Aug 2026 | 09:16 pm |
 | 6 | [Strong Numbers](https://www.geeksforgeeks.org/problems/strong-numbers4336/1?page=2) | GeeksForGeeks | Basic | 03 Aug 2026 | 09:22 pm |
+| 7 | [Smallest Divisible by 1 to n](https://www.geeksforgeeks.org/problems/smallest-divisible-number/1?page=2) | GeeksForGeeks | Basic | 03 Aug 2026 | 09:25 pm |

@@ -881,17 +881,18 @@
     "GeeksForGeeks_Count_Perfect_Squares": true,
     "GeeksForGeeks_Closest_to_n_and_Divisible_by_m": true,
     "GeeksForGeeks_Greatest_of_three_numbers": true,
-    "GeeksForGeeks_Strong_Numbers": true
+    "GeeksForGeeks_Strong_Numbers": true,
+    "GeeksForGeeks_Smallest_Divisible_by_1_to_n": true
   },
-  "totalSolved": 409,
+  "totalSolved": 410,
   "difficultyCounts": {
     "easy": 126,
     "medium": 184,
     "hard": 7,
-    "basic": 92
+    "basic": 93
   },
   "currentStreak": 13,
-  "todayCount": 6,
+  "todayCount": 7,
   "lastSyncDate": "2026-08-03",
   "maxStreak": 15,
   "activityHistory": {
@@ -958,7 +959,7 @@
     "2026-07-31": 3,
     "2026-08-01": 2,
     "2026-08-02": 6,
-    "2026-08-03": 6
+    "2026-08-03": 7
   },
   "todayProblems": [
     "Most Frequent Character",
@@ -1367,6 +1368,7 @@
     "Count Perfect Squares",
     "Closest to n and Divisible by m",
     "Greatest of three numbers",
-    "Strong Numbers"
+    "Strong Numbers",
+    "Smallest Divisible by 1 to n"
   ]
 }
