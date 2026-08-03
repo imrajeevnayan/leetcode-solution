@@ -887,17 +887,18 @@
     "GeeksForGeeks_Who_has_the_majority?": true,
     "GeeksForGeeks_Palindrome_Array": true,
     "GeeksForGeeks_Smaller_and_Larger_in_Sorted": true,
-    "GeeksForGeeks_Product_of_Array": true
+    "GeeksForGeeks_Product_of_Array": true,
+    "GeeksForGeeks_Rearrange_Array_Alternately": true
   },
-  "totalSolved": 415,
+  "totalSolved": 416,
   "difficultyCounts": {
     "easy": 127,
-    "medium": 184,
+    "medium": 185,
     "hard": 7,
     "basic": 97
   },
   "currentStreak": 13,
-  "todayCount": 12,
+  "todayCount": 13,
   "lastSyncDate": "2026-08-03",
   "maxStreak": 15,
   "activityHistory": {
@@ -964,7 +965,7 @@
     "2026-07-31": 3,
     "2026-08-01": 2,
     "2026-08-02": 6,
-    "2026-08-03": 12
+    "2026-08-03": 13
   },
   "todayProblems": [
     "Most Frequent Character",
@@ -1379,6 +1380,7 @@
     "Who has the majority?",
     "Palindrome Array",
     "Smaller and Larger in Sorted",
-    "Product of Array"
+    "Product of Array",
+    "Rearrange Array Alternately"
   ]
 }
