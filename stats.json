@@ -883,17 +883,18 @@
     "GeeksForGeeks_Greatest_of_three_numbers": true,
     "GeeksForGeeks_Strong_Numbers": true,
     "GeeksForGeeks_Smallest_Divisible_by_1_to_n": true,
-    "GeeksForGeeks_Array_Insert_at_Index": true
+    "GeeksForGeeks_Array_Insert_at_Index": true,
+    "GeeksForGeeks_Who_has_the_majority?": true
   },
-  "totalSolved": 411,
+  "totalSolved": 412,
   "difficultyCounts": {
     "easy": 126,
     "medium": 184,
     "hard": 7,
-    "basic": 94
+    "basic": 95
   },
   "currentStreak": 13,
-  "todayCount": 8,
+  "todayCount": 9,
   "lastSyncDate": "2026-08-03",
   "maxStreak": 15,
   "activityHistory": {
@@ -960,7 +961,7 @@
     "2026-07-31": 3,
     "2026-08-01": 2,
     "2026-08-02": 6,
-    "2026-08-03": 8
+    "2026-08-03": 9
   },
   "todayProblems": [
     "Most Frequent Character",
@@ -1371,6 +1372,7 @@
     "Greatest of three numbers",
     "Strong Numbers",
     "Smallest Divisible by 1 to n",
-    "Array Insert at Index"
+    "Array Insert at Index",
+    "Who has the majority?"
   ]
 }
