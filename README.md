@@ -16,3 +16,4 @@
 | 14 | [Sum of 2 Primes](https://www.geeksforgeeks.org/problems/sum-of-prime4751/1?page=2&category=Arrays&difficulty=Medium) | GeeksForGeeks | Medium | 03 Aug 2026 | 10:39 pm |
 | 15 | [Justified Text](https://www.geeksforgeeks.org/problems/justified-text/1?page=1&category=Arrays&difficulty=Medium&sortBy=accuracy) | GeeksForGeeks | Medium | 03 Aug 2026 | 10:43 pm |
 | 16 | [Validate Stack Operations](https://www.geeksforgeeks.org/problems/stack-permutations/1?page=1&category=Arrays&difficulty=Medium&sortBy=accuracy) | GeeksForGeeks | Medium | 03 Aug 2026 | 10:44 pm |
+| 17 | [Merge three sorted arrays](https://www.geeksforgeeks.org/problems/merge-three-sorted-arrays-1587115620/1?page=1&category=Arrays&difficulty=Medium&sortBy=accuracy) | GeeksForGeeks | Medium | 03 Aug 2026 | 10:46 pm |

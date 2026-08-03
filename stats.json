@@ -891,17 +891,18 @@
     "GeeksForGeeks_Rearrange_Array_Alternately": true,
     "GeeksForGeeks_Sum_of_2_Primes": true,
     "GeeksForGeeks_Justified_Text": true,
-    "GeeksForGeeks_Validate_Stack_Operations": true
+    "GeeksForGeeks_Validate_Stack_Operations": true,
+    "GeeksForGeeks_Merge_three_sorted_arrays": true
   },
-  "totalSolved": 419,
+  "totalSolved": 420,
   "difficultyCounts": {
     "easy": 127,
-    "medium": 188,
+    "medium": 189,
     "hard": 7,
     "basic": 97
   },
   "currentStreak": 13,
-  "todayCount": 16,
+  "todayCount": 17,
   "lastSyncDate": "2026-08-03",
   "maxStreak": 15,
   "activityHistory": {
@@ -968,7 +969,7 @@
     "2026-07-31": 3,
     "2026-08-01": 2,
     "2026-08-02": 6,
-    "2026-08-03": 16
+    "2026-08-03": 17
   },
   "todayProblems": [
     "Most Frequent Character",
@@ -1387,6 +1388,7 @@
     "Rearrange Array Alternately",
     "Sum of 2 Primes",
     "Justified Text",
-    "Validate Stack Operations"
+    "Validate Stack Operations",
+    "Merge three sorted arrays"
   ]
 }
