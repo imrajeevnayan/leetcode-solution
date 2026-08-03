@@ -879,17 +879,18 @@
     "GeeksForGeeks_Max_Sum_Subarray_of_Size_at_least_K": true,
     "GeeksForGeeks_Quadratic_Equation_Roots": true,
     "GeeksForGeeks_Count_Perfect_Squares": true,
-    "GeeksForGeeks_Closest_to_n_and_Divisible_by_m": true
+    "GeeksForGeeks_Closest_to_n_and_Divisible_by_m": true,
+    "GeeksForGeeks_Greatest_of_three_numbers": true
   },
-  "totalSolved": 407,
+  "totalSolved": 408,
   "difficultyCounts": {
     "easy": 126,
     "medium": 184,
     "hard": 7,
-    "basic": 90
+    "basic": 91
   },
   "currentStreak": 13,
-  "todayCount": 4,
+  "todayCount": 5,
   "lastSyncDate": "2026-08-03",
   "maxStreak": 15,
   "activityHistory": {
@@ -956,7 +957,7 @@
     "2026-07-31": 3,
     "2026-08-01": 2,
     "2026-08-02": 6,
-    "2026-08-03": 4
+    "2026-08-03": 5
   },
   "todayProblems": [
     "Most Frequent Character",
@@ -1363,6 +1364,7 @@
     "Max Sum Subarray of Size at least K",
     "Quadratic Equation Roots",
     "Count Perfect Squares",
-    "Closest to n and Divisible by m"
+    "Closest to n and Divisible by m",
+    "Greatest of three numbers"
   ]
 }

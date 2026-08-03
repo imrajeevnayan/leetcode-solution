@@ -4,3 +4,4 @@
 | 2 | [Quadratic Equation Roots](https://www.geeksforgeeks.org/problems/quadratic-equation-roots/1?page=1) | GeeksForGeeks | Basic | 03 Aug 2026 | 08:40 pm |
 | 3 | [Count Perfect Squares](https://www.geeksforgeeks.org/problems/count-squares3649/1?page=1) | GeeksForGeeks | Basic | 03 Aug 2026 | 08:41 pm |
 | 4 | [Closest to n and Divisible by m](https://www.geeksforgeeks.org/problems/closest-number5728/1?page=1) | GeeksForGeeks | Basic | 03 Aug 2026 | 08:53 pm |
+| 5 | [Greatest of three numbers](https://www.geeksforgeeks.org/problems/greatest-of-three-numbers2520/1?page=1) | GeeksForGeeks | Basic | 03 Aug 2026 | 09:16 pm |
