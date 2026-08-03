@@ -10,3 +10,4 @@
 | 8 | [Array Insert at Index](https://www.geeksforgeeks.org/problems/array-insert-at-index/1?page=1&category=Arrays) | GeeksForGeeks | Basic | 03 Aug 2026 | 09:52 pm |
 | 9 | [Who has the majority?](https://www.geeksforgeeks.org/problems/who-has-the-majority/1?page=1&category=Arrays) | GeeksForGeeks | Basic | 03 Aug 2026 | 09:53 pm |
 | 10 | [Palindrome Array](https://www.geeksforgeeks.org/problems/perfect-arrays4645/1?page=1&category=Arrays) | GeeksForGeeks | Basic | 03 Aug 2026 | 10:16 pm |
+| 11 | [Smaller and Larger in Sorted](https://www.geeksforgeeks.org/problems/smaller-and-larger4005/1?page=1&category=Arrays) | GeeksForGeeks | Basic | 03 Aug 2026 | 10:18 pm |
