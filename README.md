@@ -24,6 +24,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0238-product-of-array-except-self](https://github.com/imrajeevnayan/leetcode-solution/tree/main/0238-product-of-array-except-self/) | Medium |
+| [2542-maximum-subsequence-score](https://github.com/imrajeevnayan/leetcode-solution/tree/main/2542-maximum-subsequence-score/) | Medium |
 | [3731-find-missing-elements](https://github.com/imrajeevnayan/leetcode-solution/tree/main/3731-find-missing-elements/) | Easy |
 ## Prefix Sum
 | Problem Name | Difficulty |
@@ -36,5 +37,14 @@
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [2542-maximum-subsequence-score](https://github.com/imrajeevnayan/leetcode-solution/tree/main/2542-maximum-subsequence-score/) | Medium |
 | [3731-find-missing-elements](https://github.com/imrajeevnayan/leetcode-solution/tree/main/3731-find-missing-elements/) | Easy |
+## Greedy
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [2542-maximum-subsequence-score](https://github.com/imrajeevnayan/leetcode-solution/tree/main/2542-maximum-subsequence-score/) | Medium |
+## Heap (Priority Queue)
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [2542-maximum-subsequence-score](https://github.com/imrajeevnayan/leetcode-solution/tree/main/2542-maximum-subsequence-score/) | Medium |
 <!---LeetCode Topics End-->
