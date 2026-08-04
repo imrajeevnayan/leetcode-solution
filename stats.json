@@ -895,7 +895,7 @@
     "GeeksForGeeks_Merge_three_sorted_arrays": true,
     "GeeksForGeeks_Pairs_with_Less_Than_K_Diff": true,
     "GeeksForGeeks_Remove_Every_k'th_in_Linked_List": true,
-    "GeeksForGeeks_Array_to_Stack": true
+    "GeeksForGeeks_Pairwise_Consecutive_Elements": true
   },
   "totalSolved": 423,
   "difficultyCounts": {
@@ -1396,6 +1396,6 @@
     "Merge three sorted arrays",
     "Pairs with Less Than K Diff",
     "Remove Every k'th in Linked List",
-    "Array to Stack"
+    "Pairwise Consecutive Elements"
   ]
 }
