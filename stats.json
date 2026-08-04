@@ -893,17 +893,18 @@
     "GeeksForGeeks_Justified_Text": true,
     "GeeksForGeeks_Validate_Stack_Operations": true,
     "GeeksForGeeks_Merge_three_sorted_arrays": true,
-    "GeeksForGeeks_Pairs_with_Less_Than_K_Diff": true
+    "GeeksForGeeks_Pairs_with_Less_Than_K_Diff": true,
+    "GeeksForGeeks_Remove_Every_k'th_in_Linked_List": true
   },
-  "totalSolved": 421,
+  "totalSolved": 422,
   "difficultyCounts": {
-    "easy": 128,
+    "easy": 129,
     "medium": 189,
     "hard": 7,
     "basic": 97
   },
   "currentStreak": 14,
-  "todayCount": 1,
+  "todayCount": 2,
   "lastSyncDate": "2026-08-04",
   "maxStreak": 15,
   "activityHistory": {
@@ -971,7 +972,7 @@
     "2026-08-01": 2,
     "2026-08-02": 6,
     "2026-08-03": 17,
-    "2026-08-04": 1
+    "2026-08-04": 2
   },
   "todayProblems": [
     "Most Frequent Character",
@@ -1392,6 +1393,7 @@
     "Justified Text",
     "Validate Stack Operations",
     "Merge three sorted arrays",
-    "Pairs with Less Than K Diff"
+    "Pairs with Less Than K Diff",
+    "Remove Every k'th in Linked List"
   ]
 }
