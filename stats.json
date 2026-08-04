@@ -896,17 +896,18 @@
     "GeeksForGeeks_Pairs_with_Less_Than_K_Diff": true,
     "GeeksForGeeks_Remove_Every_k'th_in_Linked_List": true,
     "GeeksForGeeks_Pairwise_Consecutive_Elements": true,
-    "GeeksForGeeks_Special_Stack": true
+    "GeeksForGeeks_Special_Stack": true,
+    "GeeksForGeeks_Removing_K_Consecutive_Identical": true
   },
-  "totalSolved": 424,
+  "totalSolved": 425,
   "difficultyCounts": {
     "easy": 130,
-    "medium": 189,
+    "medium": 190,
     "hard": 7,
     "basic": 98
   },
   "currentStreak": 14,
-  "todayCount": 4,
+  "todayCount": 5,
   "lastSyncDate": "2026-08-04",
   "maxStreak": 15,
   "activityHistory": {
@@ -974,7 +975,7 @@
     "2026-08-01": 2,
     "2026-08-02": 6,
     "2026-08-03": 17,
-    "2026-08-04": 4
+    "2026-08-04": 5
   },
   "todayProblems": [
     "Most Frequent Character",
@@ -1398,6 +1399,7 @@
     "Pairs with Less Than K Diff",
     "Remove Every k'th in Linked List",
     "Pairwise Consecutive Elements",
-    "Special Stack"
+    "Special Stack",
+    "Removing K Consecutive Identical"
   ]
 }
