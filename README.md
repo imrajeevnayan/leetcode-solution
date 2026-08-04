@@ -5,3 +5,4 @@
 | 3 | [Pairwise Consecutive Elements](https://www.geeksforgeeks.org/problems/pairwise-consecutive-elements/1?page=1&category=Stack) | GeeksForGeeks | Basic | 04 Aug 2026 | 10:07 pm |
 | 4 | [Special Stack](https://www.geeksforgeeks.org/problems/special-stack/1?page=1&category=Stack) | GeeksForGeeks | Easy | 04 Aug 2026 | 10:11 pm |
 | 5 | [Removing K Consecutive Identical](https://www.geeksforgeeks.org/problems/restrictive-candy-crush--141631/1?page=3&category=Stack) | GeeksForGeeks | Medium | 04 Aug 2026 | 10:14 pm |
+| 6 | [Removing Consecutive Elements](https://www.geeksforgeeks.org/problems/removing-consecutive-elements/1?page=4&category=Stack) | GeeksForGeeks | Medium | 04 Aug 2026 | 10:16 pm |
