@@ -4,7 +4,7 @@ Automatically organized collection of LeetCode solutions.
 
 ## 📊 Statistics
 
-- **Total Problems Solved:** 372
+- **Total Problems Solved:** 373
 - **Current Streak:** 10 days
 - **Longest Streak:** 14 days
 
@@ -12,12 +12,12 @@ Automatically organized collection of LeetCode solutions.
 
 #### By Language
 - Javascript: 2
-- Java: 342
+- Java: 343
 - Sql: 28
 
 #### By Topic
 - General: 3
-- Array: 190
+- Array: 191
 - Divide-and-conquer: 1
 - Dynamic-programming: 3
 - Depth-first-search: 1
@@ -193,6 +193,7 @@ Automatically organized collection of LeetCode solutions.
 | 448 | Find All Numbers Disappeared In An Array | array | easy | java | [Solution](solutions/java/array/easy/448_find-all-numbers-disappeared-in-an-array_array_easy.java) |
 | 451 | Sort Characters By Frequency | hash-table | medium | java | [Solution](solutions/java/hash-table/medium/451_sort-characters-by-frequency_hash-table_medium.java) |
 | 455 | Assign Cookies | array | easy | java | [Solution](solutions/java/array/easy/455_assign-cookies_array_easy.java) |
+| 463 | Island Perimeter | array | easy | java | [Solution](solutions/java/array/easy/463_island-perimeter_array_easy.java) |
 | 485 | Max Consecutive Ones | array | easy | java | [Solution](solutions/java/array/easy/485_max-consecutive-ones_array_easy.java) |
 | 486 | Predict The Winner | array | medium | java | [Solution](solutions/java/array/medium/486_predict-the-winner_array_medium.java) |
 | 494 | Target Sum | array | medium | java | [Solution](solutions/java/array/medium/494_target-sum_array_medium.java) |
@@ -410,23 +411,3 @@ Automatically organized collection of LeetCode solutions.
 | 4312 | Limit Occurrences In Sorted Array | array | easy | java | [Solution](solutions/java/array/easy/4312_limit-occurrences-in-sorted-array_array_easy.java) |
 | 4313 | Password Strength | hash-table | medium | java | [Solution](solutions/java/hash-table/medium/4313_password-strength_hash-table_medium.java) |
 | 4353 | Largest Integer With Given Digit Sum | general | easy | java | [Solution](solutions/java/general/easy/4353_largest-integer-with-given-digit-sum_general_easy.java) |
-
-<!---LeetCode Topics Start-->
-# LeetCode Topics
-## Array
-| Problem Name | Difficulty |
-| ------- | ------- |
-| [0463-island-perimeter](https://github.com/imrajeevnayan/leetcode-solution/tree/main/0463-island-perimeter/) | Easy |
-## Depth-First Search
-| Problem Name | Difficulty |
-| ------- | ------- |
-| [0463-island-perimeter](https://github.com/imrajeevnayan/leetcode-solution/tree/main/0463-island-perimeter/) | Easy |
-## Breadth-First Search
-| Problem Name | Difficulty |
-| ------- | ------- |
-| [0463-island-perimeter](https://github.com/imrajeevnayan/leetcode-solution/tree/main/0463-island-perimeter/) | Easy |
-## Matrix
-| Problem Name | Difficulty |
-| ------- | ------- |
-| [0463-island-perimeter](https://github.com/imrajeevnayan/leetcode-solution/tree/main/0463-island-perimeter/) | Easy |
-<!---LeetCode Topics End-->
