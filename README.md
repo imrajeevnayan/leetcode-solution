@@ -4,7 +4,7 @@ Automatically organized collection of LeetCode solutions.
 
 ## 📊 Statistics
 
-- **Total Problems Solved:** 373
+- **Total Problems Solved:** 375
 - **Current Streak:** 10 days
 - **Longest Streak:** 14 days
 
@@ -12,18 +12,18 @@ Automatically organized collection of LeetCode solutions.
 
 #### By Language
 - Javascript: 2
-- Java: 343
+- Java: 345
 - Sql: 28
 
 #### By Topic
 - General: 3
-- Array: 191
+- Array: 192
 - Divide-and-conquer: 1
 - Dynamic-programming: 3
 - Depth-first-search: 1
 - Hash-table: 33
 - String: 28
-- Math: 32
+- Math: 33
 - Binary-search: 2
 - Linked-list: 20
 - Enumeration: 1
@@ -326,6 +326,7 @@ Automatically organized collection of LeetCode solutions.
 | 1894 | Merge Strings Alternately | two-pointers | easy | java | [Solution](solutions/java/two-pointers/easy/1894_merge-strings-alternately_two-pointers_easy.java) |
 | 1904 | Second Largest Digit In A String | hash-table | easy | java | [Solution](solutions/java/hash-table/easy/1904_second-largest-digit-in-a-string_hash-table_easy.java) |
 | 1927 | Maximum Ascending Subarray Sum | array | easy | java | [Solution](solutions/java/array/easy/1927_maximum-ascending-subarray-sum_array_easy.java) |
+| 1929 | Maximum Value At A Given Index In A Bounded Array | math | medium | java | [Solution](solutions/java/math/medium/1929_maximum-value-at-a-given-index-in-a-bounded-array_math_medium.java) |
 | 1944 | Truncate Sentence | array | easy | java | [Solution](solutions/java/array/easy/1944_truncate-sentence_array_easy.java) |
 | 1966 | Frequency Of The Most Frequent Element | array | medium | java | [Solution](solutions/java/array/medium/1966_frequency-of-the-most-frequent-element_array_medium.java) |
 | 1987 | Substrings Of Size Three With Distinct Characters | hash-table | easy | java | [Solution](solutions/java/hash-table/easy/1987_substrings-of-size-three-with-distinct-characters_hash-table_easy.java) |
@@ -391,6 +392,7 @@ Automatically organized collection of LeetCode solutions.
 | 3811 | Reverse Degree Of A String | string | easy | java | [Solution](solutions/java/string/easy/3811_reverse-degree-of-a-string_string_easy.java) |
 | 3812 | Smallest Palindromic Rearrangement I | string | medium | java | [Solution](solutions/java/string/medium/3812_smallest-palindromic-rearrangement-i_string_medium.java) |
 | 3813 | Smallest Palindromic Rearrangement Ii | hash-table | hard | java | [Solution](solutions/java/hash-table/hard/3813_smallest-palindromic-rearrangement-ii_hash-table_hard.java) |
+| 3820 | Number Of Unique Xor Triplets Ii | array | medium | java | [Solution](solutions/java/array/medium/3820_number-of-unique-xor-triplets-ii_array_medium.java) |
 | 3824 | Number Of Unique Xor Triplets I | array | medium | java | [Solution](solutions/java/array/medium/3824_number-of-unique-xor-triplets-i_array_medium.java) |
 | 3832 | Minimum Cost To Reach Every Position | array | easy | java | [Solution](solutions/java/array/easy/3832_minimum-cost-to-reach-every-position_array_easy.java) |
 | 3846 | Minimum Operations To Make Array Sum Divisible By K | array | easy | java | [Solution](solutions/java/array/easy/3846_minimum-operations-to-make-array-sum-divisible-by-k_array_easy.java) |
@@ -411,32 +413,3 @@ Automatically organized collection of LeetCode solutions.
 | 4312 | Limit Occurrences In Sorted Array | array | easy | java | [Solution](solutions/java/array/easy/4312_limit-occurrences-in-sorted-array_array_easy.java) |
 | 4313 | Password Strength | hash-table | medium | java | [Solution](solutions/java/hash-table/medium/4313_password-strength_hash-table_medium.java) |
 | 4353 | Largest Integer With Given Digit Sum | general | easy | java | [Solution](solutions/java/general/easy/4353_largest-integer-with-given-digit-sum_general_easy.java) |
-
-<!---LeetCode Topics Start-->
-# LeetCode Topics
-## Array
-| Problem Name | Difficulty |
-| ------- | ------- |
-| [3514-number-of-unique-xor-triplets-ii](https://github.com/imrajeevnayan/leetcode-solution/tree/main/3514-number-of-unique-xor-triplets-ii/) | Medium |
-## Math
-| Problem Name | Difficulty |
-| ------- | ------- |
-| [1802-maximum-value-at-a-given-index-in-a-bounded-array](https://github.com/imrajeevnayan/leetcode-solution/tree/main/1802-maximum-value-at-a-given-index-in-a-bounded-array/) | Medium |
-| [3514-number-of-unique-xor-triplets-ii](https://github.com/imrajeevnayan/leetcode-solution/tree/main/3514-number-of-unique-xor-triplets-ii/) | Medium |
-## Bit Manipulation
-| Problem Name | Difficulty |
-| ------- | ------- |
-| [3514-number-of-unique-xor-triplets-ii](https://github.com/imrajeevnayan/leetcode-solution/tree/main/3514-number-of-unique-xor-triplets-ii/) | Medium |
-## Enumeration
-| Problem Name | Difficulty |
-| ------- | ------- |
-| [3514-number-of-unique-xor-triplets-ii](https://github.com/imrajeevnayan/leetcode-solution/tree/main/3514-number-of-unique-xor-triplets-ii/) | Medium |
-## Binary Search
-| Problem Name | Difficulty |
-| ------- | ------- |
-| [1802-maximum-value-at-a-given-index-in-a-bounded-array](https://github.com/imrajeevnayan/leetcode-solution/tree/main/1802-maximum-value-at-a-given-index-in-a-bounded-array/) | Medium |
-## Greedy
-| Problem Name | Difficulty |
-| ------- | ------- |
-| [1802-maximum-value-at-a-given-index-in-a-bounded-array](https://github.com/imrajeevnayan/leetcode-solution/tree/main/1802-maximum-value-at-a-given-index-in-a-bounded-array/) | Medium |
-<!---LeetCode Topics End-->
