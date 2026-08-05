@@ -908,19 +908,20 @@
     "GeeksForGeeks_Maximum_Perimeter_of_Triangle_from_Array": true,
     "GeeksForGeeks_Chocolate_Distribution_Problem": true,
     "GeeksForGeeks_Intersection_of_Two_Sorted_Arrays": true,
-    "GeeksForGeeks_Addition_of_Two_Numbers": true
+    "GeeksForGeeks_Addition_of_Two_Numbers": true,
+    "GeeksForGeeks_Minimum_Increment_or_Double_Operations_to_Convert": true
   },
-  "totalSolved": 436,
+  "totalSolved": 437,
   "difficultyCounts": {
     "easy": 132,
-    "medium": 191,
+    "medium": 192,
     "hard": 7,
     "basic": 106
   },
-  "currentStreak": 15,
-  "todayCount": 10,
-  "lastSyncDate": "2026-08-05",
-  "maxStreak": 15,
+  "currentStreak": 16,
+  "todayCount": 1,
+  "lastSyncDate": "2026-08-06",
+  "maxStreak": 16,
   "activityHistory": {
     "2026-05-19": 2,
     "2026-05-20": 14,
@@ -987,7 +988,8 @@
     "2026-08-02": 6,
     "2026-08-03": 17,
     "2026-08-04": 6,
-    "2026-08-05": 10
+    "2026-08-05": 10,
+    "2026-08-06": 1
   },
   "todayProblems": [
     "Most Frequent Character",
@@ -1423,6 +1425,7 @@
     "Maximum Perimeter of Triangle from Array",
     "Chocolate Distribution Problem",
     "Intersection of Two Sorted Arrays",
-    "Addition of Two Numbers"
+    "Addition of Two Numbers",
+    "Minimum Increment or Double Operations to Convert"
   ]
 }
