@@ -6,3 +6,4 @@
 | 4 | [Minimum Product of k Elements](https://www.geeksforgeeks.org/problems/minimum-product-of-k-integers2553/1?page=1&category=Sorting) | GeeksForGeeks | Basic | 05 Aug 2026 | 04:37 pm |
 | 5 | [Min Diff Pair](https://www.geeksforgeeks.org/problems/minimum-difference-pair5444/1?page=1&category=Sorting) | GeeksForGeeks | Basic | 05 Aug 2026 | 04:38 pm |
 | 6 | [Sort the Two Parts Sorted](https://www.geeksforgeeks.org/problems/sort-the-half-sorted2157/1?page=1&category=Sorting) | GeeksForGeeks | Basic | 05 Aug 2026 | 04:54 pm |
+| 7 | [Maximum Perimeter of Triangle from Array](https://www.geeksforgeeks.org/problems/maximum-perimeter-of-triangle-from-array4322/1?page=1&category=Sorting) | GeeksForGeeks | Basic | 05 Aug 2026 | 04:58 pm |
