@@ -9,3 +9,4 @@
 | 7 | [Maximum Perimeter of Triangle from Array](https://www.geeksforgeeks.org/problems/maximum-perimeter-of-triangle-from-array4322/1?page=1&category=Sorting) | GeeksForGeeks | Basic | 05 Aug 2026 | 04:58 pm |
 | 8 | [Chocolate Distribution Problem](https://www.geeksforgeeks.org/problems/chocolate-distribution-problem3825/1?page=1&category=Sorting) | GeeksForGeeks | Easy | 05 Aug 2026 | 04:59 pm |
 | 9 | [Intersection of Two Sorted Arrays](https://www.geeksforgeeks.org/problems/intersection-of-two-sorted-array-1587115620/1?page=1&category=Sorting) | GeeksForGeeks | Easy | 05 Aug 2026 | 05:01 pm |
+| 10 | [Addition of Two Numbers](https://www.geeksforgeeks.org/problems/arithmetic-operators-1605594922/1?page=1) | GeeksForGeeks | Basic | 05 Aug 2026 | 05:47 pm |
