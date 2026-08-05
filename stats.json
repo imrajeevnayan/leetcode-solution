@@ -901,17 +901,18 @@
     "GeeksForGeeks_Removing_Consecutive_Elements": true,
     "GeeksForGeeks_At_least_Two_Greater": true,
     "GeeksForGeeks_Triplet_Family": true,
-    "GeeksForGeeks_Alternative_Sorting": true
+    "GeeksForGeeks_Alternative_Sorting": true,
+    "GeeksForGeeks_Minimum_Product_of_k_Elements": true
   },
-  "totalSolved": 429,
+  "totalSolved": 430,
   "difficultyCounts": {
     "easy": 130,
     "medium": 191,
     "hard": 7,
-    "basic": 101
+    "basic": 102
   },
   "currentStreak": 15,
-  "todayCount": 3,
+  "todayCount": 4,
   "lastSyncDate": "2026-08-05",
   "maxStreak": 15,
   "activityHistory": {
@@ -980,7 +981,7 @@
     "2026-08-02": 6,
     "2026-08-03": 17,
     "2026-08-04": 6,
-    "2026-08-05": 3
+    "2026-08-05": 4
   },
   "todayProblems": [
     "Most Frequent Character",
@@ -1409,6 +1410,7 @@
     "Removing Consecutive Elements",
     "At least Two Greater",
     "Triplet Family",
-    "Alternative Sorting"
+    "Alternative Sorting",
+    "Minimum Product of k Elements"
   ]
 }

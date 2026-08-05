@@ -1,0 +1,20 @@
+# Minimum Product of k Elements
+
+## Difficulty: Basic
+
+## Platform: GeeksForGeeks
+
+## Problem Link
+[View Problem](https://www.geeksforgeeks.org/problems/minimum-product-of-k-integers2553/1?page=1&category=Sorting)
+
+## Solved On
+05 Aug 2026 at 04:37 pm
+
+<h2><a href="https://www.geeksforgeeks.org/problems/minimum-product-of-k-integers2553/1?page=1&category=Sorting">Minimum Product of k Elements</a></h2><h3>Difficulty Level: Basic</h3><hr><p><span style="font-size: 14pt;">Given an array <code data-start="99" data-end="104">arr</code> of positive integers, return the minimum possible product of any <code data-start="170" data-end="173">k</code> elements from the array. Return the result modulo <strong data-start="224" data-end="235">1e9 + 7</strong>.</span></p>
+<p><span style="font-size: 14pt;"><strong>Examples:</strong></span></p>
+<pre><span style="font-size: 14pt;"><strong>Input:</strong> arr[] = [1, 2, 3, 4, 5], k = 2<br><strong>Output:</strong> 2
+<strong>Explanation: </strong>We will get the minimum product after multiplying 1 and 2 that is 2. So, the answer is 2.
+</span></pre>
+<pre><span style="font-size: 14pt;"><strong>Input:</strong> arr[] = [9, 10, 8], k = 3
+<strong>Output:</strong> 720<br><strong style="font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;">Explanation: </strong>We have to multiply all the numbers.</span></pre>
+<p><span style="font-size: 14pt;"><strong>Constraints:</strong><br>1 ≤ k, arr.size() ≤ 10<sup>5<br></sup>1 ≤ arr[i] ≤ 10<sup>5</sup></span></p>
