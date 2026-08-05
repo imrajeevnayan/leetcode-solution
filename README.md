@@ -421,6 +421,7 @@ Automatically organized collection of LeetCode solutions.
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [1802-maximum-value-at-a-given-index-in-a-bounded-array](https://github.com/imrajeevnayan/leetcode-solution/tree/main/1802-maximum-value-at-a-given-index-in-a-bounded-array/) | Medium |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/imrajeevnayan/leetcode-solution/tree/main/3514-number-of-unique-xor-triplets-ii/) | Medium |
 ## Bit Manipulation
 | Problem Name | Difficulty |
@@ -430,4 +431,12 @@ Automatically organized collection of LeetCode solutions.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/imrajeevnayan/leetcode-solution/tree/main/3514-number-of-unique-xor-triplets-ii/) | Medium |
+## Binary Search
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1802-maximum-value-at-a-given-index-in-a-bounded-array](https://github.com/imrajeevnayan/leetcode-solution/tree/main/1802-maximum-value-at-a-given-index-in-a-bounded-array/) | Medium |
+## Greedy
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1802-maximum-value-at-a-given-index-in-a-bounded-array](https://github.com/imrajeevnayan/leetcode-solution/tree/main/1802-maximum-value-at-a-given-index-in-a-bounded-array/) | Medium |
 <!---LeetCode Topics End-->
