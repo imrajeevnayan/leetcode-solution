@@ -905,17 +905,18 @@
     "GeeksForGeeks_Minimum_Product_of_k_Elements": true,
     "GeeksForGeeks_Min_Diff_Pair": true,
     "GeeksForGeeks_Sort_the_Two_Parts_Sorted": true,
-    "GeeksForGeeks_Maximum_Perimeter_of_Triangle_from_Array": true
+    "GeeksForGeeks_Maximum_Perimeter_of_Triangle_from_Array": true,
+    "GeeksForGeeks_Chocolate_Distribution_Problem": true
   },
-  "totalSolved": 433,
+  "totalSolved": 434,
   "difficultyCounts": {
-    "easy": 130,
+    "easy": 131,
     "medium": 191,
     "hard": 7,
     "basic": 105
   },
   "currentStreak": 15,
-  "todayCount": 7,
+  "todayCount": 8,
   "lastSyncDate": "2026-08-05",
   "maxStreak": 15,
   "activityHistory": {
@@ -984,7 +985,7 @@
     "2026-08-02": 6,
     "2026-08-03": 17,
     "2026-08-04": 6,
-    "2026-08-05": 7
+    "2026-08-05": 8
   },
   "todayProblems": [
     "Most Frequent Character",
@@ -1417,6 +1418,7 @@
     "Minimum Product of k Elements",
     "Min Diff Pair",
     "Sort the Two Parts Sorted",
-    "Maximum Perimeter of Triangle from Array"
+    "Maximum Perimeter of Triangle from Array",
+    "Chocolate Distribution Problem"
   ]
 }
