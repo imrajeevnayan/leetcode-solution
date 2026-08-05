@@ -899,17 +899,18 @@
     "GeeksForGeeks_Special_Stack": true,
     "GeeksForGeeks_Removing_K_Consecutive_Identical": true,
     "GeeksForGeeks_Removing_Consecutive_Elements": true,
-    "GeeksForGeeks_At_least_Two_Greater": true
+    "GeeksForGeeks_At_least_Two_Greater": true,
+    "GeeksForGeeks_Triplet_Family": true
   },
-  "totalSolved": 427,
+  "totalSolved": 428,
   "difficultyCounts": {
     "easy": 130,
     "medium": 191,
     "hard": 7,
-    "basic": 99
+    "basic": 100
   },
   "currentStreak": 15,
-  "todayCount": 1,
+  "todayCount": 2,
   "lastSyncDate": "2026-08-05",
   "maxStreak": 15,
   "activityHistory": {
@@ -978,7 +979,7 @@
     "2026-08-02": 6,
     "2026-08-03": 17,
     "2026-08-04": 6,
-    "2026-08-05": 1
+    "2026-08-05": 2
   },
   "todayProblems": [
     "Most Frequent Character",
@@ -1405,6 +1406,7 @@
     "Special Stack",
     "Removing K Consecutive Identical",
     "Removing Consecutive Elements",
-    "At least Two Greater"
+    "At least Two Greater",
+    "Triplet Family"
   ]
 }
