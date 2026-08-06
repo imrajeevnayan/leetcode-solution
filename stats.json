@@ -913,17 +913,18 @@
     "GeeksForGeeks_Segregate_Evens_and_Odds_in_a_Linked_List": true,
     "GeeksForGeeks_Decode_the_String": true,
     "GeeksForGeeks_Validate_an_IP_Address": true,
-    "GeeksForGeeks_Sort_an_array_of_strings_according_to_string_lengths": true
+    "GeeksForGeeks_Sort_an_array_of_strings_according_to_string_lengths": true,
+    "GeeksForGeeks_k-Anagram": true
   },
-  "totalSolved": 441,
+  "totalSolved": 442,
   "difficultyCounts": {
     "easy": 132,
-    "medium": 196,
+    "medium": 197,
     "hard": 7,
     "basic": 106
   },
   "currentStreak": 16,
-  "todayCount": 5,
+  "todayCount": 6,
   "lastSyncDate": "2026-08-06",
   "maxStreak": 16,
   "activityHistory": {
@@ -993,7 +994,7 @@
     "2026-08-03": 17,
     "2026-08-04": 6,
     "2026-08-05": 10,
-    "2026-08-06": 5
+    "2026-08-06": 6
   },
   "todayProblems": [
     "Most Frequent Character",
@@ -1434,6 +1435,7 @@
     "Segregate Evens and Odds in a Linked List",
     "Decode the String",
     "Validate an IP Address",
-    "Sort an array of strings according to string lengths"
+    "Sort an array of strings according to string lengths",
+    "k-Anagram"
   ]
 }
