@@ -911,17 +911,18 @@
     "GeeksForGeeks_Addition_of_Two_Numbers": true,
     "GeeksForGeeks_Minimum_Increment_or_Double_Operations_to_Convert": true,
     "GeeksForGeeks_Segregate_Evens_and_Odds_in_a_Linked_List": true,
-    "GeeksForGeeks_Decode_the_String": true
+    "GeeksForGeeks_Decode_the_String": true,
+    "GeeksForGeeks_Validate_an_IP_Address": true
   },
-  "totalSolved": 439,
+  "totalSolved": 440,
   "difficultyCounts": {
     "easy": 132,
-    "medium": 194,
+    "medium": 195,
     "hard": 7,
     "basic": 106
   },
   "currentStreak": 16,
-  "todayCount": 3,
+  "todayCount": 4,
   "lastSyncDate": "2026-08-06",
   "maxStreak": 16,
   "activityHistory": {
@@ -991,7 +992,7 @@
     "2026-08-03": 17,
     "2026-08-04": 6,
     "2026-08-05": 10,
-    "2026-08-06": 3
+    "2026-08-06": 4
   },
   "todayProblems": [
     "Most Frequent Character",
@@ -1430,6 +1431,7 @@
     "Addition of Two Numbers",
     "Minimum Increment or Double Operations to Convert",
     "Segregate Evens and Odds in a Linked List",
-    "Decode the String"
+    "Decode the String",
+    "Validate an IP Address"
   ]
 }
