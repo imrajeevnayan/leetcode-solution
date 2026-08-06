@@ -918,17 +918,18 @@
     "GeeksForGeeks_Find_k-th_character_in_string": true,
     "GeeksForGeeks_Frequency_of_a_Substring_in_a_String": true,
     "LeetCode_Merge_Sorted_Array": true,
-    "LeetCode_Design_HashMap": true
+    "LeetCode_Design_HashMap": true,
+    "LeetCode_Check_Balanced_String": true
   },
-  "totalSolved": 446,
+  "totalSolved": 447,
   "difficultyCounts": {
-    "easy": 134,
+    "easy": 135,
     "medium": 199,
     "hard": 7,
     "basic": 106
   },
   "currentStreak": 17,
-  "todayCount": 2,
+  "todayCount": 3,
   "lastSyncDate": "2026-08-07",
   "maxStreak": 17,
   "activityHistory": {
@@ -999,7 +1000,7 @@
     "2026-08-04": 6,
     "2026-08-05": 10,
     "2026-08-06": 8,
-    "2026-08-07": 2
+    "2026-08-07": 3
   },
   "todayProblems": [
     "Most Frequent Character",
@@ -1445,6 +1446,7 @@
     "Find k-th character in string",
     "Frequency of a Substring in a String",
     "Merge Sorted Array",
-    "Design HashMap"
+    "Design HashMap",
+    "Check Balanced String"
   ]
 }
