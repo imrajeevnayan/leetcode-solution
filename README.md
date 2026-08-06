@@ -6,3 +6,4 @@
 | 4 | [Sort an array of strings according to string lengths](https://www.geeksforgeeks.org/problems/sort-an-array-of-strings-according-to-string-lengths/1?page=2&category=Strings&difficulty=Medium) | GeeksForGeeks | Medium | 06 Aug 2026 | 12:31 pm |
 | 5 | [k-Anagram](https://www.geeksforgeeks.org/problems/check-if-two-strings-are-k-anagrams-or-not/1?page=3&category=Strings&difficulty=Medium) | GeeksForGeeks | Medium | 06 Aug 2026 | 12:32 pm |
 | 6 | [Find k-th character in string](https://www.geeksforgeeks.org/problems/find-k-th-character-in-string3841/1?page=1&category=Strings&difficulty=Medium) | GeeksForGeeks | Medium | 06 Aug 2026 | 12:35 pm |
+| 7 | [Frequency of a Substring in a String](https://www.geeksforgeeks.org/problems/frequency-of-a-substring-in-a-string/1?page=3&category=Strings&difficulty=Medium) | GeeksForGeeks | Medium | 06 Aug 2026 | 04:28 pm |
