@@ -14,6 +14,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/imrajeevnayan/leetcode-solution/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
+| [0706-design-hashmap](https://github.com/imrajeevnayan/leetcode-solution/tree/main/0706-design-hashmap/) | Easy |
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -22,5 +23,21 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/imrajeevnayan/leetcode-solution/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
+## Array
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0706-design-hashmap](https://github.com/imrajeevnayan/leetcode-solution/tree/main/0706-design-hashmap/) | Easy |
+## Linked List
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0706-design-hashmap](https://github.com/imrajeevnayan/leetcode-solution/tree/main/0706-design-hashmap/) | Easy |
+## Design
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0706-design-hashmap](https://github.com/imrajeevnayan/leetcode-solution/tree/main/0706-design-hashmap/) | Easy |
+## Hash Function
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0706-design-hashmap](https://github.com/imrajeevnayan/leetcode-solution/tree/main/0706-design-hashmap/) | Easy |
 <!---LeetCode Topics End-->
 | 8 | [Merge Sorted Array](https://leetcode.com/problems/merge-sorted-array/) | LeetCode | Easy | 07 Aug 2026 | 01:33 am |
