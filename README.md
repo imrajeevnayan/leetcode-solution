@@ -19,6 +19,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/imrajeevnayan/leetcode-solution/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
+| [2315-count-asterisks](https://github.com/imrajeevnayan/leetcode-solution/tree/main/2315-count-asterisks/) | Easy |
 ## Sliding Window
 | Problem Name | Difficulty |
 | ------- | ------- |
