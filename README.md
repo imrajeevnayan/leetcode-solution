@@ -20,6 +20,7 @@
 | ------- | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/imrajeevnayan/leetcode-solution/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
 | [2315-count-asterisks](https://github.com/imrajeevnayan/leetcode-solution/tree/main/2315-count-asterisks/) | Easy |
+| [2828-check-if-a-string-is-an-acronym-of-words](https://github.com/imrajeevnayan/leetcode-solution/tree/main/2828-check-if-a-string-is-an-acronym-of-words/) | Easy |
 ## Sliding Window
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -28,6 +29,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0706-design-hashmap](https://github.com/imrajeevnayan/leetcode-solution/tree/main/0706-design-hashmap/) | Easy |
+| [2828-check-if-a-string-is-an-acronym-of-words](https://github.com/imrajeevnayan/leetcode-solution/tree/main/2828-check-if-a-string-is-an-acronym-of-words/) | Easy |
 ## Linked List
 | Problem Name | Difficulty |
 | ------- | ------- |
