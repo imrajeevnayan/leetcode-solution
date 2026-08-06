@@ -914,17 +914,18 @@
     "GeeksForGeeks_Decode_the_String": true,
     "GeeksForGeeks_Validate_an_IP_Address": true,
     "GeeksForGeeks_Sort_an_array_of_strings_according_to_string_lengths": true,
-    "GeeksForGeeks_k-Anagram": true
+    "GeeksForGeeks_k-Anagram": true,
+    "GeeksForGeeks_Find_k-th_character_in_string": true
   },
-  "totalSolved": 442,
+  "totalSolved": 443,
   "difficultyCounts": {
     "easy": 132,
-    "medium": 197,
+    "medium": 198,
     "hard": 7,
     "basic": 106
   },
   "currentStreak": 16,
-  "todayCount": 6,
+  "todayCount": 7,
   "lastSyncDate": "2026-08-06",
   "maxStreak": 16,
   "activityHistory": {
@@ -994,7 +995,7 @@
     "2026-08-03": 17,
     "2026-08-04": 6,
     "2026-08-05": 10,
-    "2026-08-06": 6
+    "2026-08-06": 7
   },
   "todayProblems": [
     "Most Frequent Character",
@@ -1436,6 +1437,7 @@
     "Decode the String",
     "Validate an IP Address",
     "Sort an array of strings according to string lengths",
-    "k-Anagram"
+    "k-Anagram",
+    "Find k-th character in string"
   ]
 }
