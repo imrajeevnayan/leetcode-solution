@@ -41,3 +41,4 @@
 | [0706-design-hashmap](https://github.com/imrajeevnayan/leetcode-solution/tree/main/0706-design-hashmap/) | Easy |
 <!---LeetCode Topics End-->
 | 8 | [Merge Sorted Array](https://leetcode.com/problems/merge-sorted-array/) | LeetCode | Easy | 07 Aug 2026 | 01:33 am |
+| 9 | [Design HashMap](https://leetcode.com/problems/design-hashmap/) | LeetCode | Easy | 07 Aug 2026 | 01:38 am |
