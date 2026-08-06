@@ -11,3 +11,15 @@
 | 9 | [Intersection of Two Sorted Arrays](https://www.geeksforgeeks.org/problems/intersection-of-two-sorted-array-1587115620/1?page=1&category=Sorting) | GeeksForGeeks | Easy | 05 Aug 2026 | 05:01 pm |
 | 10 | [Addition of Two Numbers](https://www.geeksforgeeks.org/problems/arithmetic-operators-1605594922/1?page=1) | GeeksForGeeks | Basic | 05 Aug 2026 | 05:47 pm |
 | 11 | [Minimum Increment or Double Operations to Convert](https://www.geeksforgeeks.org/problems/minimum-steps-to-get-desired-array5519/1) | GeeksForGeeks | Medium | 06 Aug 2026 | 02:07 am |
+
+<!---LeetCode Topics Start-->
+# LeetCode Topics
+## Array
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0001-two-sum](https://github.com/imrajeevnayan/leetcode-solution/tree/main/0001-two-sum/) | Easy |
+## Hash Table
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0001-two-sum](https://github.com/imrajeevnayan/leetcode-solution/tree/main/0001-two-sum/) | Easy |
+<!---LeetCode Topics End-->
