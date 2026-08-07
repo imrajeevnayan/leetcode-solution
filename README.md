@@ -435,6 +435,7 @@ Automatically organized collection of LeetCode solutions.
 | ------- | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/imrajeevnayan/leetcode-solution/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
 | [0345-reverse-vowels-of-a-string](https://github.com/imrajeevnayan/leetcode-solution/tree/main/0345-reverse-vowels-of-a-string/) | Easy |
+| [2095-delete-the-middle-node-of-a-linked-list](https://github.com/imrajeevnayan/leetcode-solution/tree/main/2095-delete-the-middle-node-of-a-linked-list/) | Medium |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -459,4 +460,8 @@ Automatically organized collection of LeetCode solutions.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0345-reverse-vowels-of-a-string](https://github.com/imrajeevnayan/leetcode-solution/tree/main/0345-reverse-vowels-of-a-string/) | Easy |
+## Linked List
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [2095-delete-the-middle-node-of-a-linked-list](https://github.com/imrajeevnayan/leetcode-solution/tree/main/2095-delete-the-middle-node-of-a-linked-list/) | Medium |
 <!---LeetCode Topics End-->
