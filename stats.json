@@ -919,17 +919,18 @@
     "GeeksForGeeks_Frequency_of_a_Substring_in_a_String": true,
     "LeetCode_Merge_Sorted_Array": true,
     "LeetCode_Design_HashMap": true,
-    "LeetCode_Check_Balanced_String": true
+    "LeetCode_Check_Balanced_String": true,
+    "LeetCode_Delete_the_Middle_Node_of_a_Linked_List": true
   },
-  "totalSolved": 447,
+  "totalSolved": 448,
   "difficultyCounts": {
     "easy": 135,
-    "medium": 199,
+    "medium": 200,
     "hard": 7,
     "basic": 106
   },
   "currentStreak": 17,
-  "todayCount": 3,
+  "todayCount": 4,
   "lastSyncDate": "2026-08-07",
   "maxStreak": 17,
   "activityHistory": {
@@ -1000,7 +1001,7 @@
     "2026-08-04": 6,
     "2026-08-05": 10,
     "2026-08-06": 8,
-    "2026-08-07": 3
+    "2026-08-07": 4
   },
   "todayProblems": [
     "Most Frequent Character",
@@ -1447,6 +1448,7 @@
     "Frequency of a Substring in a String",
     "Merge Sorted Array",
     "Design HashMap",
-    "Check Balanced String"
+    "Check Balanced String",
+    "Delete the Middle Node of a Linked List"
   ]
 }
