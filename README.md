@@ -4,7 +4,7 @@ Automatically organized collection of LeetCode solutions.
 
 ## 📊 Statistics
 
-- **Total Problems Solved:** 385
+- **Total Problems Solved:** 386
 - **Current Streak:** 12 days
 - **Longest Streak:** 14 days
 
@@ -12,7 +12,7 @@ Automatically organized collection of LeetCode solutions.
 
 #### By Language
 - Javascript: 2
-- Java: 355
+- Java: 356
 - Sql: 28
 
 #### By Topic
@@ -21,7 +21,7 @@ Automatically organized collection of LeetCode solutions.
 - Divide-and-conquer: 1
 - Dynamic-programming: 3
 - Depth-first-search: 1
-- Hash-table: 33
+- Hash-table: 34
 - String: 31
 - Math: 35
 - Binary-search: 2
@@ -195,6 +195,7 @@ Automatically organized collection of LeetCode solutions.
 | 448 | Find All Numbers Disappeared In An Array | array | easy | java | [Solution](solutions/java/array/easy/448_find-all-numbers-disappeared-in-an-array_array_easy.java) |
 | 451 | Sort Characters By Frequency | hash-table | medium | java | [Solution](solutions/java/hash-table/medium/451_sort-characters-by-frequency_hash-table_medium.java) |
 | 455 | Assign Cookies | array | easy | java | [Solution](solutions/java/array/easy/455_assign-cookies_array_easy.java) |
+| 460 | Lfu Cache | hash-table | hard | java | [Solution](solutions/java/hash-table/hard/460_lfu-cache_hash-table_hard.java) |
 | 463 | Island Perimeter | array | easy | java | [Solution](solutions/java/array/easy/463_island-perimeter_array_easy.java) |
 | 485 | Max Consecutive Ones | array | easy | java | [Solution](solutions/java/array/easy/485_max-consecutive-ones_array_easy.java) |
 | 486 | Predict The Winner | array | medium | java | [Solution](solutions/java/array/medium/486_predict-the-winner_array_medium.java) |
@@ -423,44 +424,3 @@ Automatically organized collection of LeetCode solutions.
 | 4312 | Limit Occurrences In Sorted Array | array | easy | java | [Solution](solutions/java/array/easy/4312_limit-occurrences-in-sorted-array_array_easy.java) |
 | 4313 | Password Strength | hash-table | medium | java | [Solution](solutions/java/hash-table/medium/4313_password-strength_hash-table_medium.java) |
 | 4353 | Largest Integer With Given Digit Sum | general | easy | java | [Solution](solutions/java/general/easy/4353_largest-integer-with-given-digit-sum_general_easy.java) |
-
-<!---LeetCode Topics Start-->
-# LeetCode Topics
-## Array
-| Problem Name | Difficulty |
-| ------- | ------- |
-| [0198-house-robber](https://github.com/imrajeevnayan/leetcode-solution/tree/main/0198-house-robber/) | Medium |
-| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/imrajeevnayan/leetcode-solution/tree/main/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
-## Sorting
-| Problem Name | Difficulty |
-| ------- | ------- |
-| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/imrajeevnayan/leetcode-solution/tree/main/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
-## Heap (Priority Queue)
-| Problem Name | Difficulty |
-| ------- | ------- |
-| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/imrajeevnayan/leetcode-solution/tree/main/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
-## Hash Table
-| Problem Name | Difficulty |
-| ------- | ------- |
-| [0146-lru-cache](https://github.com/imrajeevnayan/leetcode-solution/tree/main/0146-lru-cache/) | Medium |
-| [0460-lfu-cache](https://github.com/imrajeevnayan/leetcode-solution/tree/main/0460-lfu-cache/) | Hard |
-## Linked List
-| Problem Name | Difficulty |
-| ------- | ------- |
-| [0146-lru-cache](https://github.com/imrajeevnayan/leetcode-solution/tree/main/0146-lru-cache/) | Medium |
-| [0460-lfu-cache](https://github.com/imrajeevnayan/leetcode-solution/tree/main/0460-lfu-cache/) | Hard |
-## Design
-| Problem Name | Difficulty |
-| ------- | ------- |
-| [0146-lru-cache](https://github.com/imrajeevnayan/leetcode-solution/tree/main/0146-lru-cache/) | Medium |
-| [0460-lfu-cache](https://github.com/imrajeevnayan/leetcode-solution/tree/main/0460-lfu-cache/) | Hard |
-## Doubly-Linked List
-| Problem Name | Difficulty |
-| ------- | ------- |
-| [0146-lru-cache](https://github.com/imrajeevnayan/leetcode-solution/tree/main/0146-lru-cache/) | Medium |
-| [0460-lfu-cache](https://github.com/imrajeevnayan/leetcode-solution/tree/main/0460-lfu-cache/) | Hard |
-## Dynamic Programming
-| Problem Name | Difficulty |
-| ------- | ------- |
-| [0198-house-robber](https://github.com/imrajeevnayan/leetcode-solution/tree/main/0198-house-robber/) | Medium |
-<!---LeetCode Topics End-->
