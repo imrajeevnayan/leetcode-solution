@@ -15,10 +15,12 @@
 | ------- | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/imrajeevnayan/leetcode-solution/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
 | [0706-design-hashmap](https://github.com/imrajeevnayan/leetcode-solution/tree/main/0706-design-hashmap/) | Easy |
+| [2053-kth-distinct-string-in-an-array](https://github.com/imrajeevnayan/leetcode-solution/tree/main/2053-kth-distinct-string-in-an-array/) | Easy |
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/imrajeevnayan/leetcode-solution/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
+| [2053-kth-distinct-string-in-an-array](https://github.com/imrajeevnayan/leetcode-solution/tree/main/2053-kth-distinct-string-in-an-array/) | Easy |
 | [2315-count-asterisks](https://github.com/imrajeevnayan/leetcode-solution/tree/main/2315-count-asterisks/) | Easy |
 | [2828-check-if-a-string-is-an-acronym-of-words](https://github.com/imrajeevnayan/leetcode-solution/tree/main/2828-check-if-a-string-is-an-acronym-of-words/) | Easy |
 | [3340-check-balanced-string](https://github.com/imrajeevnayan/leetcode-solution/tree/main/3340-check-balanced-string/) | Easy |
@@ -30,6 +32,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0706-design-hashmap](https://github.com/imrajeevnayan/leetcode-solution/tree/main/0706-design-hashmap/) | Easy |
+| [2053-kth-distinct-string-in-an-array](https://github.com/imrajeevnayan/leetcode-solution/tree/main/2053-kth-distinct-string-in-an-array/) | Easy |
 | [2828-check-if-a-string-is-an-acronym-of-words](https://github.com/imrajeevnayan/leetcode-solution/tree/main/2828-check-if-a-string-is-an-acronym-of-words/) | Easy |
 ## Linked List
 | Problem Name | Difficulty |
@@ -43,6 +46,10 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0706-design-hashmap](https://github.com/imrajeevnayan/leetcode-solution/tree/main/0706-design-hashmap/) | Easy |
+## Counting
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [2053-kth-distinct-string-in-an-array](https://github.com/imrajeevnayan/leetcode-solution/tree/main/2053-kth-distinct-string-in-an-array/) | Easy |
 <!---LeetCode Topics End-->
 | 8 | [Merge Sorted Array](https://leetcode.com/problems/merge-sorted-array/) | LeetCode | Easy | 07 Aug 2026 | 01:33 am |
 | 9 | [Design HashMap](https://leetcode.com/problems/design-hashmap/) | LeetCode | Easy | 07 Aug 2026 | 01:38 am |
