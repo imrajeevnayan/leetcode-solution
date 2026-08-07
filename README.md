@@ -429,6 +429,7 @@ Automatically organized collection of LeetCode solutions.
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0198-house-robber](https://github.com/imrajeevnayan/leetcode-solution/tree/main/0198-house-robber/) | Medium |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/imrajeevnayan/leetcode-solution/tree/main/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
 ## Sorting
 | Problem Name | Difficulty |
@@ -458,4 +459,8 @@ Automatically organized collection of LeetCode solutions.
 | ------- | ------- |
 | [0146-lru-cache](https://github.com/imrajeevnayan/leetcode-solution/tree/main/0146-lru-cache/) | Medium |
 | [0460-lfu-cache](https://github.com/imrajeevnayan/leetcode-solution/tree/main/0460-lfu-cache/) | Hard |
+## Dynamic Programming
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0198-house-robber](https://github.com/imrajeevnayan/leetcode-solution/tree/main/0198-house-robber/) | Medium |
 <!---LeetCode Topics End-->
