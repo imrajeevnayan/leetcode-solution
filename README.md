@@ -4,7 +4,7 @@ Automatically organized collection of LeetCode solutions.
 
 ## 📊 Statistics
 
-- **Total Problems Solved:** 383
+- **Total Problems Solved:** 384
 - **Current Streak:** 12 days
 - **Longest Streak:** 14 days
 
@@ -12,7 +12,7 @@ Automatically organized collection of LeetCode solutions.
 
 #### By Language
 - Javascript: 2
-- Java: 353
+- Java: 354
 - Sql: 28
 
 #### By Topic
@@ -27,7 +27,7 @@ Automatically organized collection of LeetCode solutions.
 - Binary-search: 2
 - Linked-list: 20
 - Enumeration: 1
-- Tree: 10
+- Tree: 11
 - Two-pointers: 14
 - Bit-manipulation: 1
 - Stack: 5
@@ -205,6 +205,7 @@ Automatically organized collection of LeetCode solutions.
 | 516 | Longest Palindromic Subsequence | string | medium | java | [Solution](solutions/java/string/medium/516_longest-palindromic-subsequence_string_medium.java) |
 | 518 | Coin Change Ii | array | medium | java | [Solution](solutions/java/array/medium/518_coin-change-ii_array_medium.java) |
 | 525 | Contiguous Array | array | medium | java | [Solution](solutions/java/array/medium/525_contiguous-array_array_medium.java) |
+| 543 | Diameter Of Binary Tree | tree | easy | java | [Solution](solutions/java/tree/easy/543_diameter-of-binary-tree_tree_easy.java) |
 | 557 | Reverse Words In A String Iii | two-pointers | easy | java | [Solution](solutions/java/two-pointers/easy/557_reverse-words-in-a-string-iii_two-pointers_easy.java) |
 | 560 | Subarray Sum Equals K | array | medium | java | [Solution](solutions/java/array/medium/560_subarray-sum-equals-k_array_medium.java) |
 | 561 | Array Partition | array | easy | java | [Solution](solutions/java/array/easy/561_array-partition_array_easy.java) |
@@ -421,39 +422,3 @@ Automatically organized collection of LeetCode solutions.
 | 4312 | Limit Occurrences In Sorted Array | array | easy | java | [Solution](solutions/java/array/easy/4312_limit-occurrences-in-sorted-array_array_easy.java) |
 | 4313 | Password Strength | hash-table | medium | java | [Solution](solutions/java/hash-table/medium/4313_password-strength_hash-table_medium.java) |
 | 4353 | Largest Integer With Given Digit Sum | general | easy | java | [Solution](solutions/java/general/easy/4353_largest-integer-with-given-digit-sum_general_easy.java) |
-
-<!---LeetCode Topics Start-->
-# LeetCode Topics
-## Tree
-| Problem Name | Difficulty |
-| ------- | ------- |
-| [0543-diameter-of-binary-tree](https://github.com/imrajeevnayan/leetcode-solution/tree/main/0543-diameter-of-binary-tree/) | Easy |
-## Depth-First Search
-| Problem Name | Difficulty |
-| ------- | ------- |
-| [0543-diameter-of-binary-tree](https://github.com/imrajeevnayan/leetcode-solution/tree/main/0543-diameter-of-binary-tree/) | Easy |
-## Binary Tree
-| Problem Name | Difficulty |
-| ------- | ------- |
-| [0543-diameter-of-binary-tree](https://github.com/imrajeevnayan/leetcode-solution/tree/main/0543-diameter-of-binary-tree/) | Easy |
-## DP on Trees
-| Problem Name | Difficulty |
-| ------- | ------- |
-| [0543-diameter-of-binary-tree](https://github.com/imrajeevnayan/leetcode-solution/tree/main/0543-diameter-of-binary-tree/) | Easy |
-## Array
-| Problem Name | Difficulty |
-| ------- | ------- |
-| [0026-remove-duplicates-from-sorted-array](https://github.com/imrajeevnayan/leetcode-solution/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
-| [0027-remove-element](https://github.com/imrajeevnayan/leetcode-solution/tree/main/0027-remove-element/) | Easy |
-| [0088-merge-sorted-array](https://github.com/imrajeevnayan/leetcode-solution/tree/main/0088-merge-sorted-array/) | Easy |
-## Two Pointers
-| Problem Name | Difficulty |
-| ------- | ------- |
-| [0026-remove-duplicates-from-sorted-array](https://github.com/imrajeevnayan/leetcode-solution/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
-| [0027-remove-element](https://github.com/imrajeevnayan/leetcode-solution/tree/main/0027-remove-element/) | Easy |
-| [0088-merge-sorted-array](https://github.com/imrajeevnayan/leetcode-solution/tree/main/0088-merge-sorted-array/) | Easy |
-## Sorting
-| Problem Name | Difficulty |
-| ------- | ------- |
-| [0088-merge-sorted-array](https://github.com/imrajeevnayan/leetcode-solution/tree/main/0088-merge-sorted-array/) | Easy |
-<!---LeetCode Topics End-->
