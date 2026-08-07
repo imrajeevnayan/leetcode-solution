@@ -4,35 +4,35 @@ Automatically organized collection of LeetCode solutions.
 
 ## 📊 Statistics
 
-- **Total Problems Solved:** 381
+- **Total Problems Solved:** 382
 - **Current Streak:** 12 days
 - **Longest Streak:** 14 days
 
 ### 🧩 Breakdown
 
 #### By Language
-- Sql: 28
 - Javascript: 2
-- Java: 351
+- Java: 352
+- Sql: 28
 
 #### By Topic
-- Database: 28
 - General: 3
 - Array: 195
-- Tree: 9
-- Hash-table: 33
-- String: 30
-- Bit-manipulation: 1
-- Stack: 5
-- Two-pointers: 14
-- Dynamic-programming: 3
-- Enumeration: 1
-- Depth-first-search: 1
 - Divide-and-conquer: 1
+- Dynamic-programming: 3
+- Depth-first-search: 1
+- Hash-table: 33
+- String: 31
+- Math: 34
 - Binary-search: 2
 - Linked-list: 20
+- Enumeration: 1
+- Tree: 9
+- Two-pointers: 14
+- Bit-manipulation: 1
+- Stack: 5
 - Design: 1
-- Math: 34
+- Database: 28
 
 ## 📂 Solutions
 
@@ -109,6 +109,7 @@ Automatically organized collection of LeetCode solutions.
 | 122 | Best Time To Buy And Sell Stock Ii | array | medium | java | [Solution](solutions/java/array/medium/122_best-time-to-buy-and-sell-stock-ii_array_medium.java) |
 | 125 | Valid Palindrome | two-pointers | easy | java | [Solution](solutions/java/two-pointers/easy/125_valid-palindrome_two-pointers_easy.java) |
 | 128 | Longest Consecutive Sequence | array | medium | java | [Solution](solutions/java/array/medium/128_longest-consecutive-sequence_array_medium.java) |
+| 131 | Palindrome Partitioning | string | medium | java | [Solution](solutions/java/string/medium/131_palindrome-partitioning_string_medium.java) |
 | 134 | Gas Station | array | medium | java | [Solution](solutions/java/array/medium/134_gas-station_array_medium.java) |
 | 135 | Candy | array | hard | java | [Solution](solutions/java/array/hard/135_candy_array_hard.java) |
 | 136 | Single Number | array | easy | java | [Solution](solutions/java/array/easy/136_single-number_array_easy.java) |
@@ -419,42 +420,3 @@ Automatically organized collection of LeetCode solutions.
 | 4312 | Limit Occurrences In Sorted Array | array | easy | java | [Solution](solutions/java/array/easy/4312_limit-occurrences-in-sorted-array_array_easy.java) |
 | 4313 | Password Strength | hash-table | medium | java | [Solution](solutions/java/hash-table/medium/4313_password-strength_hash-table_medium.java) |
 | 4353 | Largest Integer With Given Digit Sum | general | easy | java | [Solution](solutions/java/general/easy/4353_largest-integer-with-given-digit-sum_general_easy.java) |
-
-<!---LeetCode Topics Start-->
-# LeetCode Topics
-## String
-| Problem Name | Difficulty |
-| ------- | ------- |
-| [0022-generate-parentheses](https://github.com/imrajeevnayan/leetcode-solution/tree/main/0022-generate-parentheses/) | Medium |
-| [0131-palindrome-partitioning](https://github.com/imrajeevnayan/leetcode-solution/tree/main/0131-palindrome-partitioning/) | Medium |
-## Dynamic Programming
-| Problem Name | Difficulty |
-| ------- | ------- |
-| [0022-generate-parentheses](https://github.com/imrajeevnayan/leetcode-solution/tree/main/0022-generate-parentheses/) | Medium |
-| [0131-palindrome-partitioning](https://github.com/imrajeevnayan/leetcode-solution/tree/main/0131-palindrome-partitioning/) | Medium |
-## Backtracking
-| Problem Name | Difficulty |
-| ------- | ------- |
-| [0022-generate-parentheses](https://github.com/imrajeevnayan/leetcode-solution/tree/main/0022-generate-parentheses/) | Medium |
-| [0131-palindrome-partitioning](https://github.com/imrajeevnayan/leetcode-solution/tree/main/0131-palindrome-partitioning/) | Medium |
-## Bracket Sequences
-| Problem Name | Difficulty |
-| ------- | ------- |
-| [0022-generate-parentheses](https://github.com/imrajeevnayan/leetcode-solution/tree/main/0022-generate-parentheses/) | Medium |
-## Tree
-| Problem Name | Difficulty |
-| ------- | ------- |
-| [0104-maximum-depth-of-binary-tree](https://github.com/imrajeevnayan/leetcode-solution/tree/main/0104-maximum-depth-of-binary-tree/) | Easy |
-## Depth-First Search
-| Problem Name | Difficulty |
-| ------- | ------- |
-| [0104-maximum-depth-of-binary-tree](https://github.com/imrajeevnayan/leetcode-solution/tree/main/0104-maximum-depth-of-binary-tree/) | Easy |
-## Breadth-First Search
-| Problem Name | Difficulty |
-| ------- | ------- |
-| [0104-maximum-depth-of-binary-tree](https://github.com/imrajeevnayan/leetcode-solution/tree/main/0104-maximum-depth-of-binary-tree/) | Easy |
-## Binary Tree
-| Problem Name | Difficulty |
-| ------- | ------- |
-| [0104-maximum-depth-of-binary-tree](https://github.com/imrajeevnayan/leetcode-solution/tree/main/0104-maximum-depth-of-binary-tree/) | Easy |
-<!---LeetCode Topics End-->
