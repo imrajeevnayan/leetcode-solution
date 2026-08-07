@@ -4,7 +4,7 @@ Automatically organized collection of LeetCode solutions.
 
 ## 📊 Statistics
 
-- **Total Problems Solved:** 382
+- **Total Problems Solved:** 383
 - **Current Streak:** 12 days
 - **Longest Streak:** 14 days
 
@@ -12,7 +12,7 @@ Automatically organized collection of LeetCode solutions.
 
 #### By Language
 - Javascript: 2
-- Java: 352
+- Java: 353
 - Sql: 28
 
 #### By Topic
@@ -27,7 +27,7 @@ Automatically organized collection of LeetCode solutions.
 - Binary-search: 2
 - Linked-list: 20
 - Enumeration: 1
-- Tree: 9
+- Tree: 10
 - Two-pointers: 14
 - Bit-manipulation: 1
 - Stack: 5
@@ -97,6 +97,7 @@ Automatically organized collection of LeetCode solutions.
 | 88 | Merge Sorted Array | array | easy | java | [Solution](solutions/java/array/easy/88_merge-sorted-array_array_easy.java) |
 | 90 | Subsets Ii | array | medium | java | [Solution](solutions/java/array/medium/90_subsets-ii_array_medium.java) |
 | 94 | Binary Tree Inorder Traversal | stack | easy | java | [Solution](solutions/java/stack/easy/94_binary-tree-inorder-traversal_stack_easy.java) |
+| 98 | Validate Binary Search Tree | tree | medium | java | [Solution](solutions/java/tree/medium/98_validate-binary-search-tree_tree_medium.java) |
 | 100 | Same Tree | tree | easy | java | [Solution](solutions/java/tree/easy/100_same-tree_tree_easy.java) |
 | 101 | Symmetric Tree | tree | easy | java | [Solution](solutions/java/tree/easy/101_symmetric-tree_tree_easy.java) |
 | 102 | Binary Tree Level Order Traversal | tree | medium | java | [Solution](solutions/java/tree/medium/102_binary-tree-level-order-traversal_tree_medium.java) |
@@ -420,23 +421,3 @@ Automatically organized collection of LeetCode solutions.
 | 4312 | Limit Occurrences In Sorted Array | array | easy | java | [Solution](solutions/java/array/easy/4312_limit-occurrences-in-sorted-array_array_easy.java) |
 | 4313 | Password Strength | hash-table | medium | java | [Solution](solutions/java/hash-table/medium/4313_password-strength_hash-table_medium.java) |
 | 4353 | Largest Integer With Given Digit Sum | general | easy | java | [Solution](solutions/java/general/easy/4353_largest-integer-with-given-digit-sum_general_easy.java) |
-
-<!---LeetCode Topics Start-->
-# LeetCode Topics
-## Tree
-| Problem Name | Difficulty |
-| ------- | ------- |
-| [0098-validate-binary-search-tree](https://github.com/imrajeevnayan/leetcode-solution/tree/main/0098-validate-binary-search-tree/) | Medium |
-## Depth-First Search
-| Problem Name | Difficulty |
-| ------- | ------- |
-| [0098-validate-binary-search-tree](https://github.com/imrajeevnayan/leetcode-solution/tree/main/0098-validate-binary-search-tree/) | Medium |
-## Binary Search Tree
-| Problem Name | Difficulty |
-| ------- | ------- |
-| [0098-validate-binary-search-tree](https://github.com/imrajeevnayan/leetcode-solution/tree/main/0098-validate-binary-search-tree/) | Medium |
-## Binary Tree
-| Problem Name | Difficulty |
-| ------- | ------- |
-| [0098-validate-binary-search-tree](https://github.com/imrajeevnayan/leetcode-solution/tree/main/0098-validate-binary-search-tree/) | Medium |
-<!---LeetCode Topics End-->
