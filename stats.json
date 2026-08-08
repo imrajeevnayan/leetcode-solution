@@ -920,19 +920,20 @@
     "LeetCode_Merge_Sorted_Array": true,
     "LeetCode_Design_HashMap": true,
     "LeetCode_Check_Balanced_String": true,
-    "LeetCode_Delete_the_Middle_Node_of_a_Linked_List": true
+    "LeetCode_Delete_the_Middle_Node_of_a_Linked_List": true,
+    "GeeksForGeeks_Min_Edge_Movements_to_Connect_a_Graph": true
   },
-  "totalSolved": 448,
+  "totalSolved": 449,
   "difficultyCounts": {
     "easy": 135,
-    "medium": 200,
+    "medium": 201,
     "hard": 7,
     "basic": 106
   },
-  "currentStreak": 17,
-  "todayCount": 4,
-  "lastSyncDate": "2026-08-07",
-  "maxStreak": 17,
+  "currentStreak": 18,
+  "todayCount": 1,
+  "lastSyncDate": "2026-08-08",
+  "maxStreak": 18,
   "activityHistory": {
     "2026-05-19": 2,
     "2026-05-20": 14,
@@ -1001,7 +1002,8 @@
     "2026-08-04": 6,
     "2026-08-05": 10,
     "2026-08-06": 8,
-    "2026-08-07": 4
+    "2026-08-07": 4,
+    "2026-08-08": 1
   },
   "todayProblems": [
     "Most Frequent Character",
@@ -1449,6 +1451,7 @@
     "Merge Sorted Array",
     "Design HashMap",
     "Check Balanced String",
-    "Delete the Middle Node of a Linked List"
+    "Delete the Middle Node of a Linked List",
+    "Min Edge Movements to Connect a Graph"
   ]
 }
