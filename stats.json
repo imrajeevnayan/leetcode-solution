@@ -928,17 +928,18 @@
     "GeeksForGeeks_Design_HashMap": true,
     "GeeksForGeeks_Hashing_for_pair_-_1": true,
     "GeeksForGeeks_Hashing_for_pair_-_2": true,
-    "GeeksForGeeks_Winner_of_an_election": true
+    "GeeksForGeeks_Winner_of_an_election": true,
+    "GeeksForGeeks_Separate_Chaining_in_Hashing": true
   },
-  "totalSolved": 456,
+  "totalSolved": 457,
   "difficultyCounts": {
-    "easy": 140,
+    "easy": 141,
     "medium": 203,
     "hard": 7,
     "basic": 106
   },
   "currentStreak": 19,
-  "todayCount": 2,
+  "todayCount": 3,
   "lastSyncDate": "2026-08-09",
   "maxStreak": 19,
   "activityHistory": {
@@ -1011,7 +1012,7 @@
     "2026-08-06": 8,
     "2026-08-07": 4,
     "2026-08-08": 6,
-    "2026-08-09": 2
+    "2026-08-09": 3
   },
   "todayProblems": [
     "Most Frequent Character",
@@ -1466,6 +1467,7 @@
     "Count Square Submatrices with All Ones",
     "Hashing for pair - 1",
     "Hashing for pair - 2",
-    "Winner of an election"
+    "Winner of an election",
+    "Separate Chaining in Hashing"
   ]
 }
