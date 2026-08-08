@@ -432,5 +432,6 @@ Automatically organized collection of LeetCode solutions.
 ## Database
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0182-duplicate-emails](https://github.com/imrajeevnayan/leetcode-solution/tree/main/0182-duplicate-emails/) | Easy |
 | [1393-capital-gainloss](https://github.com/imrajeevnayan/leetcode-solution/tree/main/1393-capital-gainloss/) | Medium |
 <!---LeetCode Topics End-->
