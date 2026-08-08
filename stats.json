@@ -923,17 +923,18 @@
     "LeetCode_Delete_the_Middle_Node_of_a_Linked_List": true,
     "GeeksForGeeks_Min_Edge_Movements_to_Connect_a_Graph": true,
     "GeeksForGeeks_Count_Ways_with_3,_5_and_10": true,
-    "GeeksForGeeks_Build_Bit_Count_Array": true
+    "GeeksForGeeks_Build_Bit_Count_Array": true,
+    "GeeksForGeeks_Count_Square_Submatrices_with_All_Ones": true
   },
-  "totalSolved": 451,
+  "totalSolved": 452,
   "difficultyCounts": {
     "easy": 136,
-    "medium": 202,
+    "medium": 203,
     "hard": 7,
     "basic": 106
   },
   "currentStreak": 18,
-  "todayCount": 3,
+  "todayCount": 4,
   "lastSyncDate": "2026-08-08",
   "maxStreak": 18,
   "activityHistory": {
@@ -1005,7 +1006,7 @@
     "2026-08-05": 10,
     "2026-08-06": 8,
     "2026-08-07": 4,
-    "2026-08-08": 3
+    "2026-08-08": 4
   },
   "todayProblems": [
     "Most Frequent Character",
@@ -1456,6 +1457,7 @@
     "Delete the Middle Node of a Linked List",
     "Min Edge Movements to Connect a Graph",
     "Count Ways with 3, 5 and 10",
-    "Build Bit Count Array"
+    "Build Bit Count Array",
+    "Count Square Submatrices with All Ones"
   ]
 }
