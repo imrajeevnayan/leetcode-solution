@@ -922,17 +922,18 @@
     "LeetCode_Check_Balanced_String": true,
     "LeetCode_Delete_the_Middle_Node_of_a_Linked_List": true,
     "GeeksForGeeks_Min_Edge_Movements_to_Connect_a_Graph": true,
-    "GeeksForGeeks_Count_Ways_with_3,_5_and_10": true
+    "GeeksForGeeks_Count_Ways_with_3,_5_and_10": true,
+    "GeeksForGeeks_Build_Bit_Count_Array": true
   },
-  "totalSolved": 450,
+  "totalSolved": 451,
   "difficultyCounts": {
     "easy": 136,
-    "medium": 201,
+    "medium": 202,
     "hard": 7,
     "basic": 106
   },
   "currentStreak": 18,
-  "todayCount": 2,
+  "todayCount": 3,
   "lastSyncDate": "2026-08-08",
   "maxStreak": 18,
   "activityHistory": {
@@ -1004,7 +1005,7 @@
     "2026-08-05": 10,
     "2026-08-06": 8,
     "2026-08-07": 4,
-    "2026-08-08": 2
+    "2026-08-08": 3
   },
   "todayProblems": [
     "Most Frequent Character",
@@ -1454,6 +1455,7 @@
     "Check Balanced String",
     "Delete the Middle Node of a Linked List",
     "Min Edge Movements to Connect a Graph",
-    "Count Ways with 3, 5 and 10"
+    "Count Ways with 3, 5 and 10",
+    "Build Bit Count Array"
   ]
 }
