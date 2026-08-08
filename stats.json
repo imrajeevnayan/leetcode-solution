@@ -924,17 +924,18 @@
     "GeeksForGeeks_Min_Edge_Movements_to_Connect_a_Graph": true,
     "GeeksForGeeks_Count_Ways_with_3,_5_and_10": true,
     "GeeksForGeeks_Build_Bit_Count_Array": true,
-    "GeeksForGeeks_Count_Square_Submatrices_with_All_Ones": true
+    "GeeksForGeeks_Count_Square_Submatrices_with_All_Ones": true,
+    "GeeksForGeeks_Design_HashMap": true
   },
-  "totalSolved": 452,
+  "totalSolved": 453,
   "difficultyCounts": {
-    "easy": 136,
+    "easy": 137,
     "medium": 203,
     "hard": 7,
     "basic": 106
   },
   "currentStreak": 18,
-  "todayCount": 4,
+  "todayCount": 5,
   "lastSyncDate": "2026-08-08",
   "maxStreak": 18,
   "activityHistory": {
@@ -1006,7 +1007,7 @@
     "2026-08-05": 10,
     "2026-08-06": 8,
     "2026-08-07": 4,
-    "2026-08-08": 4
+    "2026-08-08": 5
   },
   "todayProblems": [
     "Most Frequent Character",
