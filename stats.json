@@ -925,17 +925,18 @@
     "GeeksForGeeks_Count_Ways_with_3,_5_and_10": true,
     "GeeksForGeeks_Build_Bit_Count_Array": true,
     "GeeksForGeeks_Count_Square_Submatrices_with_All_Ones": true,
-    "GeeksForGeeks_Design_HashMap": true
+    "GeeksForGeeks_Design_HashMap": true,
+    "GeeksForGeeks_Hashing_for_pair_-_1": true
   },
-  "totalSolved": 453,
+  "totalSolved": 454,
   "difficultyCounts": {
-    "easy": 137,
+    "easy": 138,
     "medium": 203,
     "hard": 7,
     "basic": 106
   },
   "currentStreak": 18,
-  "todayCount": 5,
+  "todayCount": 6,
   "lastSyncDate": "2026-08-08",
   "maxStreak": 18,
   "activityHistory": {
@@ -1007,7 +1008,7 @@
     "2026-08-05": 10,
     "2026-08-06": 8,
     "2026-08-07": 4,
-    "2026-08-08": 5
+    "2026-08-08": 6
   },
   "todayProblems": [
     "Most Frequent Character",
@@ -1459,6 +1460,7 @@
     "Min Edge Movements to Connect a Graph",
     "Count Ways with 3, 5 and 10",
     "Build Bit Count Array",
-    "Count Square Submatrices with All Ones"
+    "Count Square Submatrices with All Ones",
+    "Hashing for pair - 1"
   ]
 }
