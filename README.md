@@ -4,15 +4,15 @@ Automatically organized collection of LeetCode solutions.
 
 ## 📊 Statistics
 
-- **Total Problems Solved:** 386
-- **Current Streak:** 12 days
+- **Total Problems Solved:** 387
+- **Current Streak:** 13 days
 - **Longest Streak:** 14 days
 
 ### 🧩 Breakdown
 
 #### By Language
 - Javascript: 2
-- Java: 356
+- Java: 357
 - Sql: 28
 
 #### By Topic
@@ -28,7 +28,7 @@ Automatically organized collection of LeetCode solutions.
 - Linked-list: 20
 - Enumeration: 1
 - Tree: 11
-- Two-pointers: 14
+- Two-pointers: 15
 - Bit-manipulation: 1
 - Stack: 5
 - Design: 1
@@ -393,6 +393,7 @@ Automatically organized collection of LeetCode solutions.
 | 3558 | Find A Safe Walk Through A Grid | array | medium | java | [Solution](solutions/java/array/medium/3558_find-a-safe-walk-through-a-grid_array_medium.java) |
 | 3561 | Remove Methods From Project | depth-first-search | medium | java | [Solution](solutions/java/depth-first-search/medium/3561_remove-methods-from-project_depth-first-search_medium.java) |
 | 3567 | Convert Date To Binary | math | easy | java | [Solution](solutions/java/math/easy/3567_convert-date-to-binary_math_easy.java) |
+| 3584 | Find The Lexicographically Smallest Valid Sequence | two-pointers | medium | java | [Solution](solutions/java/two-pointers/medium/3584_find-the-lexicographically-smallest-valid-sequence_two-pointers_medium.java) |
 | 3606 | Minimum Element After Replacement With Digit Sum | array | easy | java | [Solution](solutions/java/array/easy/3606_minimum-element-after-replacement-with-digit-sum_array_easy.java) |
 | 3626 | Smallest Divisible Digit Product I | math | easy | java | [Solution](solutions/java/math/easy/3626_smallest-divisible-digit-product-i_math_easy.java) |
 | 3635 | Smallest Divisible Digit Product Ii | math | hard | java | [Solution](solutions/java/math/hard/3635_smallest-divisible-digit-product-ii_math_hard.java) |
@@ -424,23 +425,3 @@ Automatically organized collection of LeetCode solutions.
 | 4312 | Limit Occurrences In Sorted Array | array | easy | java | [Solution](solutions/java/array/easy/4312_limit-occurrences-in-sorted-array_array_easy.java) |
 | 4313 | Password Strength | hash-table | medium | java | [Solution](solutions/java/hash-table/medium/4313_password-strength_hash-table_medium.java) |
 | 4353 | Largest Integer With Given Digit Sum | general | easy | java | [Solution](solutions/java/general/easy/4353_largest-integer-with-given-digit-sum_general_easy.java) |
-
-<!---LeetCode Topics Start-->
-# LeetCode Topics
-## Two Pointers
-| Problem Name | Difficulty |
-| ------- | ------- |
-| [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/imrajeevnayan/leetcode-solution/tree/main/3302-find-the-lexicographically-smallest-valid-sequence/) | Medium |
-## String
-| Problem Name | Difficulty |
-| ------- | ------- |
-| [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/imrajeevnayan/leetcode-solution/tree/main/3302-find-the-lexicographically-smallest-valid-sequence/) | Medium |
-## Dynamic Programming
-| Problem Name | Difficulty |
-| ------- | ------- |
-| [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/imrajeevnayan/leetcode-solution/tree/main/3302-find-the-lexicographically-smallest-valid-sequence/) | Medium |
-## Greedy
-| Problem Name | Difficulty |
-| ------- | ------- |
-| [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/imrajeevnayan/leetcode-solution/tree/main/3302-find-the-lexicographically-smallest-valid-sequence/) | Medium |
-<!---LeetCode Topics End-->
