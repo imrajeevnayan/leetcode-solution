@@ -12,4 +12,5 @@
 | ------- | ------- |
 | [0175-combine-two-tables](https://github.com/imrajeevnayan/leetcode-solution/tree/main/0175-combine-two-tables/) | Easy |
 | [0176-second-highest-salary](https://github.com/imrajeevnayan/leetcode-solution/tree/main/0176-second-highest-salary/) | Medium |
+| [1741-find-total-time-spent-by-each-employee](https://github.com/imrajeevnayan/leetcode-solution/tree/main/1741-find-total-time-spent-by-each-employee/) | Easy |
 <!---LeetCode Topics End-->
