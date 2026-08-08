@@ -930,17 +930,18 @@
     "GeeksForGeeks_Hashing_for_pair_-_2": true,
     "GeeksForGeeks_Winner_of_an_election": true,
     "GeeksForGeeks_Separate_Chaining_in_Hashing": true,
-    "GeeksForGeeks_Sorted_Insert_Position": true
+    "GeeksForGeeks_Sorted_Insert_Position": true,
+    "GeeksForGeeks_Largest_Zigzag_Sequence": true
   },
-  "totalSolved": 458,
+  "totalSolved": 459,
   "difficultyCounts": {
-    "easy": 142,
+    "easy": 143,
     "medium": 203,
     "hard": 7,
     "basic": 106
   },
   "currentStreak": 19,
-  "todayCount": 4,
+  "todayCount": 5,
   "lastSyncDate": "2026-08-09",
   "maxStreak": 19,
   "activityHistory": {
@@ -1013,7 +1014,7 @@
     "2026-08-06": 8,
     "2026-08-07": 4,
     "2026-08-08": 6,
-    "2026-08-09": 4
+    "2026-08-09": 5
   },
   "todayProblems": [
     "Most Frequent Character",
@@ -1470,6 +1471,7 @@
     "Hashing for pair - 2",
     "Winner of an election",
     "Separate Chaining in Hashing",
-    "Sorted Insert Position"
+    "Sorted Insert Position",
+    "Largest Zigzag Sequence"
   ]
 }

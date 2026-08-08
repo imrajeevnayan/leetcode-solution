@@ -16,3 +16,4 @@
 | [0619-biggest-single-number](https://github.com/imrajeevnayan/leetcode-solution/tree/main/0619-biggest-single-number/) | Easy |
 <!---LeetCode Topics End-->
 | 6 | [Sorted Insert Position](https://www.geeksforgeeks.org/problems/search-insert-position-of-k-in-a-sorted-array/1?) | GeeksForGeeks | Easy | 09 Aug 2026 | 12:57 am |
+| 7 | [Largest Zigzag Sequence](https://www.geeksforgeeks.org/problems/largest-zigzag-sequence5416/1) | GeeksForGeeks | Easy | 09 Aug 2026 | 01:00 am |
