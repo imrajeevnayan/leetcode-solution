@@ -14,6 +14,34 @@
 | [0181-employees-earning-more-than-their-managers](https://github.com/imrajeevnayan/leetcode-solution/tree/main/0181-employees-earning-more-than-their-managers/) | Easy |
 | [0183-customers-who-never-order](https://github.com/imrajeevnayan/leetcode-solution/tree/main/0183-customers-who-never-order/) | Easy |
 | [0619-biggest-single-number](https://github.com/imrajeevnayan/leetcode-solution/tree/main/0619-biggest-single-number/) | Easy |
+## Array
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1140-stone-game-ii](https://github.com/imrajeevnayan/leetcode-solution/tree/main/1140-stone-game-ii/) | Medium |
+## Math
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1140-stone-game-ii](https://github.com/imrajeevnayan/leetcode-solution/tree/main/1140-stone-game-ii/) | Medium |
+## Dynamic Programming
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1140-stone-game-ii](https://github.com/imrajeevnayan/leetcode-solution/tree/main/1140-stone-game-ii/) | Medium |
+## Minimax
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1140-stone-game-ii](https://github.com/imrajeevnayan/leetcode-solution/tree/main/1140-stone-game-ii/) | Medium |
+## Prefix Sum
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1140-stone-game-ii](https://github.com/imrajeevnayan/leetcode-solution/tree/main/1140-stone-game-ii/) | Medium |
+## Game Theory
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1140-stone-game-ii](https://github.com/imrajeevnayan/leetcode-solution/tree/main/1140-stone-game-ii/) | Medium |
+## Zero-Sum Game
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1140-stone-game-ii](https://github.com/imrajeevnayan/leetcode-solution/tree/main/1140-stone-game-ii/) | Medium |
 <!---LeetCode Topics End-->
 | 6 | [Sorted Insert Position](https://www.geeksforgeeks.org/problems/search-insert-position-of-k-in-a-sorted-array/1?) | GeeksForGeeks | Easy | 09 Aug 2026 | 12:57 am |
 | 7 | [Largest Zigzag Sequence](https://www.geeksforgeeks.org/problems/largest-zigzag-sequence5416/1) | GeeksForGeeks | Easy | 09 Aug 2026 | 01:00 am |
