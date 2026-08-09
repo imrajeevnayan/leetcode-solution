@@ -76,3 +76,4 @@
 | 9 | [Count the elements](https://www.geeksforgeeks.org/problems/count-the-elements1529/1?page=2&category=Hash) | GeeksForGeeks | Easy | 09 Aug 2026 | 07:49 pm |
 | 10 | [Intersection of Two arrays with Duplicate Elements](https://www.geeksforgeeks.org/problems/intersection-of-two-arrays-with-duplicate-elements/1?page=2&category=Hash) | GeeksForGeeks | Easy | 09 Aug 2026 | 07:52 pm |
 | 11 | [Odd Even Problem](https://www.geeksforgeeks.org/problems/help-nobita0532/1?page=2&category=Hash) | GeeksForGeeks | Easy | 09 Aug 2026 | 07:54 pm |
+| 12 | [First with K Occurrences](https://www.geeksforgeeks.org/problems/first-come-first-serve1328/1?page=2&category=Hash) | GeeksForGeeks | Easy | 09 Aug 2026 | 10:33 pm |

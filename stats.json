@@ -935,17 +935,18 @@
     "GeeksForGeeks_Second_most_repeated_string_in_a_sequence": true,
     "GeeksForGeeks_Count_the_elements": true,
     "GeeksForGeeks_Intersection_of_Two_arrays_with_Duplicate_Elements": true,
-    "GeeksForGeeks_Odd_Even_Problem": true
+    "GeeksForGeeks_Odd_Even_Problem": true,
+    "GeeksForGeeks_First_with_K_Occurrences": true
   },
-  "totalSolved": 463,
+  "totalSolved": 464,
   "difficultyCounts": {
-    "easy": 147,
+    "easy": 148,
     "medium": 203,
     "hard": 7,
     "basic": 106
   },
   "currentStreak": 19,
-  "todayCount": 9,
+  "todayCount": 10,
   "lastSyncDate": "2026-08-09",
   "maxStreak": 19,
   "activityHistory": {
@@ -1018,7 +1019,7 @@
     "2026-08-06": 8,
     "2026-08-07": 4,
     "2026-08-08": 6,
-    "2026-08-09": 9
+    "2026-08-09": 10
   },
   "todayProblems": [
     "Most Frequent Character",
@@ -1480,6 +1481,7 @@
     "Second most repeated string in a sequence",
     "Count the elements",
     "Intersection of Two arrays with Duplicate Elements",
-    "Odd Even Problem"
+    "Odd Even Problem",
+    "First with K Occurrences"
   ]
 }
