@@ -931,17 +931,18 @@
     "GeeksForGeeks_Winner_of_an_election": true,
     "GeeksForGeeks_Separate_Chaining_in_Hashing": true,
     "GeeksForGeeks_Sorted_Insert_Position": true,
-    "GeeksForGeeks_Largest_Zigzag_Sequence": true
+    "GeeksForGeeks_Largest_Zigzag_Sequence": true,
+    "GeeksForGeeks_Second_most_repeated_string_in_a_sequence": true
   },
-  "totalSolved": 459,
+  "totalSolved": 460,
   "difficultyCounts": {
-    "easy": 143,
+    "easy": 144,
     "medium": 203,
     "hard": 7,
     "basic": 106
   },
   "currentStreak": 19,
-  "todayCount": 5,
+  "todayCount": 6,
   "lastSyncDate": "2026-08-09",
   "maxStreak": 19,
   "activityHistory": {
@@ -1014,7 +1015,7 @@
     "2026-08-06": 8,
     "2026-08-07": 4,
     "2026-08-08": 6,
-    "2026-08-09": 5
+    "2026-08-09": 6
   },
   "todayProblems": [
     "Most Frequent Character",
@@ -1472,6 +1473,7 @@
     "Winner of an election",
     "Separate Chaining in Hashing",
     "Sorted Insert Position",
-    "Largest Zigzag Sequence"
+    "Largest Zigzag Sequence",
+    "Second most repeated string in a sequence"
   ]
 }
