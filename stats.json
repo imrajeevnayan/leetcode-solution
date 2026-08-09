@@ -932,17 +932,18 @@
     "GeeksForGeeks_Separate_Chaining_in_Hashing": true,
     "GeeksForGeeks_Sorted_Insert_Position": true,
     "GeeksForGeeks_Largest_Zigzag_Sequence": true,
-    "GeeksForGeeks_Second_most_repeated_string_in_a_sequence": true
+    "GeeksForGeeks_Second_most_repeated_string_in_a_sequence": true,
+    "GeeksForGeeks_Count_the_elements": true
   },
-  "totalSolved": 460,
+  "totalSolved": 461,
   "difficultyCounts": {
-    "easy": 144,
+    "easy": 145,
     "medium": 203,
     "hard": 7,
     "basic": 106
   },
   "currentStreak": 19,
-  "todayCount": 6,
+  "todayCount": 7,
   "lastSyncDate": "2026-08-09",
   "maxStreak": 19,
   "activityHistory": {
@@ -1015,7 +1016,7 @@
     "2026-08-06": 8,
     "2026-08-07": 4,
     "2026-08-08": 6,
-    "2026-08-09": 6
+    "2026-08-09": 7
   },
   "todayProblems": [
     "Most Frequent Character",
@@ -1474,6 +1475,7 @@
     "Separate Chaining in Hashing",
     "Sorted Insert Position",
     "Largest Zigzag Sequence",
-    "Second most repeated string in a sequence"
+    "Second most repeated string in a sequence",
+    "Count the elements"
   ]
 }

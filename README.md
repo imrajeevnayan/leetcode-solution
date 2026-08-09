@@ -73,3 +73,4 @@
 | 6 | [Sorted Insert Position](https://www.geeksforgeeks.org/problems/search-insert-position-of-k-in-a-sorted-array/1?) | GeeksForGeeks | Easy | 09 Aug 2026 | 12:57 am |
 | 7 | [Largest Zigzag Sequence](https://www.geeksforgeeks.org/problems/largest-zigzag-sequence5416/1) | GeeksForGeeks | Easy | 09 Aug 2026 | 01:00 am |
 | 8 | [Second most repeated string in a sequence](https://www.geeksforgeeks.org/problems/second-most-repeated-string-in-a-sequence0534/1?page=2&category=Hash) | GeeksForGeeks | Easy | 09 Aug 2026 | 07:45 pm |
+| 9 | [Count the elements](https://www.geeksforgeeks.org/problems/count-the-elements1529/1?page=2&category=Hash) | GeeksForGeeks | Easy | 09 Aug 2026 | 07:49 pm |
