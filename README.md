@@ -14,6 +14,7 @@
 | [0176-second-highest-salary](https://github.com/imrajeevnayan/leetcode-solution/tree/main/0176-second-highest-salary/) | Medium |
 | [0181-employees-earning-more-than-their-managers](https://github.com/imrajeevnayan/leetcode-solution/tree/main/0181-employees-earning-more-than-their-managers/) | Easy |
 | [0183-customers-who-never-order](https://github.com/imrajeevnayan/leetcode-solution/tree/main/0183-customers-who-never-order/) | Easy |
+| [0196-delete-duplicate-emails](https://github.com/imrajeevnayan/leetcode-solution/tree/main/0196-delete-duplicate-emails/) | Easy |
 | [0619-biggest-single-number](https://github.com/imrajeevnayan/leetcode-solution/tree/main/0619-biggest-single-number/) | Easy |
 ## Array
 | Problem Name | Difficulty |
