@@ -1,0 +1,19 @@
+# Intersection of Two arrays with Duplicate Elements
+
+## Difficulty: Easy
+
+## Platform: GeeksForGeeks
+
+## Problem Link
+[View Problem](https://www.geeksforgeeks.org/problems/intersection-of-two-arrays-with-duplicate-elements/1?page=2&category=Hash)
+
+## Solved On
+09 Aug 2026 at 07:52 pm
+
+<h2><a href="https://www.geeksforgeeks.org/problems/intersection-of-two-arrays-with-duplicate-elements/1?page=2&category=Hash">Intersection of Two arrays with Duplicate Elements</a></h2><h3>Difficulty Level: Easy</h3><hr><p><span style="font-size: 14pt;">Given two integer&nbsp;arrays&nbsp;<span style="box-sizing: border-box; font-weight: bolder; line-height: 1.7em; color: var(--text-color) !important; font-family: var(--gfg-font-secondary) !important;">a[]</span>&nbsp;and&nbsp;<span style="box-sizing: border-box; font-weight: bolder; line-height: 1.7em; color: var(--text-color) !important; font-family: var(--gfg-font-secondary) !important;">b[]</span>, you have to find&nbsp;the&nbsp;<span style="box-sizing: border-box; font-weight: bolder; line-height: 1.7em; color: var(--text-color) !important; font-family: var(--gfg-font-secondary) !important;">intersection</span>&nbsp;of the two arrays.&nbsp;</span><span style="font-size: 14pt;"><strong>Intersection</strong> of two arrays is said to be elements that are common in both the arrays. The intersection should not have <strong>duplicate</strong> elements and the result may contain elements in <strong>any order</strong>.</span></p>
+<p><span style="box-sizing: border-box; line-height: 1.7em; font-size: 14pt; font-family: var(--gfg-font-primary) !important; color: var(--text-color) !important;"><strong>Note:&nbsp;</strong>The driver code will&nbsp;<strong>sort</strong>&nbsp;the resulting array in increasing order before printing.</span></p>
+<p><span style="font-size: 14pt;"><strong><span style="box-sizing: border-box; line-height: 1.7em; font-family: var(--gfg-font-primary) !important; color: var(--text-color) !important;">Examples:</span></strong></span></p>
+<pre><span style="font-size: 14pt;"><strong><span style="box-sizing: border-box; line-height: 1.7em; font-family: var(--gfg-font-primary) !important; color: var(--text-color) !important;">Input: </span></strong><span style="box-sizing: border-box; line-height: 1.7em; font-family: var(--gfg-font-primary) !important; color: var(--text-color) !important;">a[] = [1, 2, 1, 3, 1], b[] = [3, 1, 3, 4, 1]<br><strong>Output: </strong>[1, 3]<br><strong>Explanation: </strong>1 and 3 are the only common elements and we need to print only one occurrence of common elements.<br></span></span></pre>
+<pre><span style="box-sizing: border-box; line-height: 1.7em; font-size: 14pt; font-family: var(--gfg-font-primary) !important; color: var(--text-color) !important;"><strong>Input: </strong>a[] = [1, 1, 1], b[] = [1, 1, 1, 1, 1]<br><strong>Output: </strong>[1]<br><strong>Explanation: </strong>1 is the only common element present in both the arrays.<br></span></pre>
+<pre><span style="box-sizing: border-box; line-height: 1.7em; font-size: 14pt; font-family: var(--gfg-font-primary) !important; color: var(--text-color) !important;"><strong>Input: </strong>a[] = [1, 2, 3], b[] = [4, 5, 6]<br><strong>Output: </strong>[]<br><strong>Explanation: </strong>No common element in both the arrays.</span></pre>
+<p><span style="font-size: 14pt;"><span style="box-sizing: border-box; line-height: 1.7em; font-family: var(--gfg-font-primary) !important; color: var(--text-color) !important;"><strong>Constraints:</strong><br>1 ≤ a.size(), b.size() ≤ 10<sup>5<br></sup></span><span style="box-sizing: border-box; line-height: 1.7em; font-family: var(--gfg-font-primary) !important; color: var(--text-color) !important;">0 ≤ a[i], b[i] ≤ 10<sup>5</sup></span></span></p>
