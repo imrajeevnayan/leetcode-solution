@@ -934,17 +934,18 @@
     "GeeksForGeeks_Largest_Zigzag_Sequence": true,
     "GeeksForGeeks_Second_most_repeated_string_in_a_sequence": true,
     "GeeksForGeeks_Count_the_elements": true,
-    "GeeksForGeeks_Intersection_of_Two_arrays_with_Duplicate_Elements": true
+    "GeeksForGeeks_Intersection_of_Two_arrays_with_Duplicate_Elements": true,
+    "GeeksForGeeks_Odd_Even_Problem": true
   },
-  "totalSolved": 462,
+  "totalSolved": 463,
   "difficultyCounts": {
-    "easy": 146,
+    "easy": 147,
     "medium": 203,
     "hard": 7,
     "basic": 106
   },
   "currentStreak": 19,
-  "todayCount": 8,
+  "todayCount": 9,
   "lastSyncDate": "2026-08-09",
   "maxStreak": 19,
   "activityHistory": {
@@ -1017,7 +1018,7 @@
     "2026-08-06": 8,
     "2026-08-07": 4,
     "2026-08-08": 6,
-    "2026-08-09": 8
+    "2026-08-09": 9
   },
   "todayProblems": [
     "Most Frequent Character",
@@ -1478,6 +1479,7 @@
     "Largest Zigzag Sequence",
     "Second most repeated string in a sequence",
     "Count the elements",
-    "Intersection of Two arrays with Duplicate Elements"
+    "Intersection of Two arrays with Duplicate Elements",
+    "Odd Even Problem"
   ]
 }
