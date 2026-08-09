@@ -44,6 +44,22 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1140-stone-game-ii](https://github.com/imrajeevnayan/leetcode-solution/tree/main/1140-stone-game-ii/) | Medium |
+## Tree
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1161-maximum-level-sum-of-a-binary-tree](https://github.com/imrajeevnayan/leetcode-solution/tree/main/1161-maximum-level-sum-of-a-binary-tree/) | Medium |
+## Depth-First Search
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1161-maximum-level-sum-of-a-binary-tree](https://github.com/imrajeevnayan/leetcode-solution/tree/main/1161-maximum-level-sum-of-a-binary-tree/) | Medium |
+## Breadth-First Search
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1161-maximum-level-sum-of-a-binary-tree](https://github.com/imrajeevnayan/leetcode-solution/tree/main/1161-maximum-level-sum-of-a-binary-tree/) | Medium |
+## Binary Tree
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1161-maximum-level-sum-of-a-binary-tree](https://github.com/imrajeevnayan/leetcode-solution/tree/main/1161-maximum-level-sum-of-a-binary-tree/) | Medium |
 <!---LeetCode Topics End-->
 | 6 | [Sorted Insert Position](https://www.geeksforgeeks.org/problems/search-insert-position-of-k-in-a-sorted-array/1?) | GeeksForGeeks | Easy | 09 Aug 2026 | 12:57 am |
 | 7 | [Largest Zigzag Sequence](https://www.geeksforgeeks.org/problems/largest-zigzag-sequence5416/1) | GeeksForGeeks | Easy | 09 Aug 2026 | 01:00 am |
