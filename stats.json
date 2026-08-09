@@ -937,17 +937,18 @@
     "GeeksForGeeks_Intersection_of_Two_arrays_with_Duplicate_Elements": true,
     "GeeksForGeeks_Odd_Even_Problem": true,
     "GeeksForGeeks_First_with_K_Occurrences": true,
-    "GeeksForGeeks_Count_Group_Occurrences": true
+    "GeeksForGeeks_Count_Group_Occurrences": true,
+    "GeeksForGeeks_K_Smallests_in_the_Original_Order": true
   },
-  "totalSolved": 465,
+  "totalSolved": 466,
   "difficultyCounts": {
-    "easy": 148,
+    "easy": 149,
     "medium": 203,
     "hard": 7,
     "basic": 107
   },
   "currentStreak": 19,
-  "todayCount": 11,
+  "todayCount": 12,
   "lastSyncDate": "2026-08-09",
   "maxStreak": 19,
   "activityHistory": {
@@ -1020,7 +1021,7 @@
     "2026-08-06": 8,
     "2026-08-07": 4,
     "2026-08-08": 6,
-    "2026-08-09": 11
+    "2026-08-09": 12
   },
   "todayProblems": [
     "Most Frequent Character",
@@ -1484,6 +1485,7 @@
     "Intersection of Two arrays with Duplicate Elements",
     "Odd Even Problem",
     "First with K Occurrences",
-    "Count Group Occurrences"
+    "Count Group Occurrences",
+    "K Smallests in the Original Order"
   ]
 }
