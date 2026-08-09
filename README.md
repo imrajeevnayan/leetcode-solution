@@ -49,10 +49,12 @@
 ## Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0872-leaf-similar-trees](https://github.com/imrajeevnayan/leetcode-solution/tree/main/0872-leaf-similar-trees/) | Easy |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/imrajeevnayan/leetcode-solution/tree/main/1161-maximum-level-sum-of-a-binary-tree/) | Medium |
 ## Depth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0872-leaf-similar-trees](https://github.com/imrajeevnayan/leetcode-solution/tree/main/0872-leaf-similar-trees/) | Easy |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/imrajeevnayan/leetcode-solution/tree/main/1161-maximum-level-sum-of-a-binary-tree/) | Medium |
 ## Breadth-First Search
 | Problem Name | Difficulty |
@@ -61,6 +63,7 @@
 ## Binary Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0872-leaf-similar-trees](https://github.com/imrajeevnayan/leetcode-solution/tree/main/0872-leaf-similar-trees/) | Easy |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/imrajeevnayan/leetcode-solution/tree/main/1161-maximum-level-sum-of-a-binary-tree/) | Medium |
 ## Greedy
 | Problem Name | Difficulty |
