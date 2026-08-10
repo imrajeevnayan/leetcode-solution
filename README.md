@@ -435,6 +435,7 @@ Automatically organized collection of LeetCode solutions.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0287-find-the-duplicate-number](https://github.com/imrajeevnayan/leetcode-solution/tree/main/0287-find-the-duplicate-number/) | Medium |
+| [2433-find-the-original-array-of-prefix-xor](https://github.com/imrajeevnayan/leetcode-solution/tree/main/2433-find-the-original-array-of-prefix-xor/) | Medium |
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -448,6 +449,7 @@ Automatically organized collection of LeetCode solutions.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0287-find-the-duplicate-number](https://github.com/imrajeevnayan/leetcode-solution/tree/main/0287-find-the-duplicate-number/) | Medium |
+| [2433-find-the-original-array-of-prefix-xor](https://github.com/imrajeevnayan/leetcode-solution/tree/main/2433-find-the-original-array-of-prefix-xor/) | Medium |
 ## Pigeonhole Principle
 | Problem Name | Difficulty |
 | ------- | ------- |
