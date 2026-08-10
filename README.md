@@ -79,3 +79,4 @@
 | 12 | [First with K Occurrences](https://www.geeksforgeeks.org/problems/first-come-first-serve1328/1?page=2&category=Hash) | GeeksForGeeks | Easy | 09 Aug 2026 | 10:33 pm |
 | 13 | [Count Group Occurrences](https://www.geeksforgeeks.org/problems/count-the-characters1821/1?page=1&category=Hash) | GeeksForGeeks | Basic | 09 Aug 2026 | 10:40 pm |
 | 14 | [K Smallests in the Original Order](https://www.geeksforgeeks.org/problems/print-k-smallest-elements-in-their-original-order5407/1?page=3&category=Hash) | GeeksForGeeks | Easy | 09 Aug 2026 | 10:46 pm |
+| 15 | [High Effort vs Low Effort](https://www.geeksforgeeks.org/problems/high-effort-vs-low-effort0213/1) | GeeksForGeeks | Easy | 10 Aug 2026 | 01:44 pm |
