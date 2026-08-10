@@ -21,6 +21,7 @@
 | ------- | ------- |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/imrajeevnayan/leetcode-solution/tree/main/0714-best-time-to-buy-and-sell-stock-with-transaction-fee/) | Medium |
 | [1140-stone-game-ii](https://github.com/imrajeevnayan/leetcode-solution/tree/main/1140-stone-game-ii/) | Medium |
+| [2367-number-of-arithmetic-triplets](https://github.com/imrajeevnayan/leetcode-solution/tree/main/2367-number-of-arithmetic-triplets/) | Easy |
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -108,6 +109,18 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/imrajeevnayan/leetcode-solution/tree/main/0094-binary-tree-inorder-traversal/) | Easy |
+## Hash Table
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [2367-number-of-arithmetic-triplets](https://github.com/imrajeevnayan/leetcode-solution/tree/main/2367-number-of-arithmetic-triplets/) | Easy |
+## Two Pointers
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [2367-number-of-arithmetic-triplets](https://github.com/imrajeevnayan/leetcode-solution/tree/main/2367-number-of-arithmetic-triplets/) | Easy |
+## Enumeration
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [2367-number-of-arithmetic-triplets](https://github.com/imrajeevnayan/leetcode-solution/tree/main/2367-number-of-arithmetic-triplets/) | Easy |
 <!---LeetCode Topics End-->
 | 6 | [Sorted Insert Position](https://www.geeksforgeeks.org/problems/search-insert-position-of-k-in-a-sorted-array/1?) | GeeksForGeeks | Easy | 09 Aug 2026 | 12:57 am |
 | 7 | [Largest Zigzag Sequence](https://www.geeksforgeeks.org/problems/largest-zigzag-sequence5416/1) | GeeksForGeeks | Easy | 09 Aug 2026 | 01:00 am |
