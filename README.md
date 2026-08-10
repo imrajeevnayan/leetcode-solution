@@ -56,11 +56,13 @@
 | ------- | ------- |
 | [0872-leaf-similar-trees](https://github.com/imrajeevnayan/leetcode-solution/tree/main/0872-leaf-similar-trees/) | Easy |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/imrajeevnayan/leetcode-solution/tree/main/1161-maximum-level-sum-of-a-binary-tree/) | Medium |
+| [1382-balance-a-binary-search-tree](https://github.com/imrajeevnayan/leetcode-solution/tree/main/1382-balance-a-binary-search-tree/) | Medium |
 ## Depth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0872-leaf-similar-trees](https://github.com/imrajeevnayan/leetcode-solution/tree/main/0872-leaf-similar-trees/) | Easy |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/imrajeevnayan/leetcode-solution/tree/main/1161-maximum-level-sum-of-a-binary-tree/) | Medium |
+| [1382-balance-a-binary-search-tree](https://github.com/imrajeevnayan/leetcode-solution/tree/main/1382-balance-a-binary-search-tree/) | Medium |
 ## Breadth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -70,10 +72,12 @@
 | ------- | ------- |
 | [0872-leaf-similar-trees](https://github.com/imrajeevnayan/leetcode-solution/tree/main/0872-leaf-similar-trees/) | Easy |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/imrajeevnayan/leetcode-solution/tree/main/1161-maximum-level-sum-of-a-binary-tree/) | Medium |
+| [1382-balance-a-binary-search-tree](https://github.com/imrajeevnayan/leetcode-solution/tree/main/1382-balance-a-binary-search-tree/) | Medium |
 ## Greedy
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/imrajeevnayan/leetcode-solution/tree/main/0714-best-time-to-buy-and-sell-stock-with-transaction-fee/) | Medium |
+| [1382-balance-a-binary-search-tree](https://github.com/imrajeevnayan/leetcode-solution/tree/main/1382-balance-a-binary-search-tree/) | Medium |
 ## Nim Game
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -82,6 +86,14 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1510-stone-game-iv](https://github.com/imrajeevnayan/leetcode-solution/tree/main/1510-stone-game-iv/) | Hard |
+## Divide and Conquer
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1382-balance-a-binary-search-tree](https://github.com/imrajeevnayan/leetcode-solution/tree/main/1382-balance-a-binary-search-tree/) | Medium |
+## Binary Search Tree
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1382-balance-a-binary-search-tree](https://github.com/imrajeevnayan/leetcode-solution/tree/main/1382-balance-a-binary-search-tree/) | Medium |
 <!---LeetCode Topics End-->
 | 6 | [Sorted Insert Position](https://www.geeksforgeeks.org/problems/search-insert-position-of-k-in-a-sorted-array/1?) | GeeksForGeeks | Easy | 09 Aug 2026 | 12:57 am |
 | 7 | [Largest Zigzag Sequence](https://www.geeksforgeeks.org/problems/largest-zigzag-sequence5416/1) | GeeksForGeeks | Easy | 09 Aug 2026 | 01:00 am |
