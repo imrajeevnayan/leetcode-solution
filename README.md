@@ -83,3 +83,4 @@
 | 16 | [Left View of Binary Tree](https://www.geeksforgeeks.org/problems/left-view-of-binary-tree/1?page=1&category=Tree) | GeeksForGeeks | Easy | 10 Aug 2026 | 01:45 pm |
 | 17 | [Inorder Traversal](https://www.geeksforgeeks.org/problems/inorder-traversal/1?page=1&category=Tree) | GeeksForGeeks | Easy | 10 Aug 2026 | 01:47 pm |
 | 18 | [Symmetric Tree](https://www.geeksforgeeks.org/problems/symmetric-tree/1?page=1&category=Tree) | GeeksForGeeks | Easy | 10 Aug 2026 | 01:49 pm |
+| 19 | [Iterative Inorder](https://www.geeksforgeeks.org/problems/inorder-traversal-iterative/1?page=1&category=Tree&sortBy=accuracy) | GeeksForGeeks | Medium | 10 Aug 2026 | 01:53 pm |
