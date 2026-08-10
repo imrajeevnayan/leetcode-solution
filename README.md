@@ -117,10 +117,19 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [2367-number-of-arithmetic-triplets](https://github.com/imrajeevnayan/leetcode-solution/tree/main/2367-number-of-arithmetic-triplets/) | Easy |
+| [3823-reverse-letters-then-special-characters-in-a-string](https://github.com/imrajeevnayan/leetcode-solution/tree/main/3823-reverse-letters-then-special-characters-in-a-string/) | Easy |
 ## Enumeration
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [2367-number-of-arithmetic-triplets](https://github.com/imrajeevnayan/leetcode-solution/tree/main/2367-number-of-arithmetic-triplets/) | Easy |
+## String
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3823-reverse-letters-then-special-characters-in-a-string](https://github.com/imrajeevnayan/leetcode-solution/tree/main/3823-reverse-letters-then-special-characters-in-a-string/) | Easy |
+## Simulation
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3823-reverse-letters-then-special-characters-in-a-string](https://github.com/imrajeevnayan/leetcode-solution/tree/main/3823-reverse-letters-then-special-characters-in-a-string/) | Easy |
 <!---LeetCode Topics End-->
 | 6 | [Sorted Insert Position](https://www.geeksforgeeks.org/problems/search-insert-position-of-k-in-a-sorted-array/1?) | GeeksForGeeks | Easy | 09 Aug 2026 | 12:57 am |
 | 7 | [Largest Zigzag Sequence](https://www.geeksforgeeks.org/problems/largest-zigzag-sequence5416/1) | GeeksForGeeks | Easy | 09 Aug 2026 | 01:00 am |
