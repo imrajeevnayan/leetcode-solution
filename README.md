@@ -88,6 +88,7 @@
 | ------- | ------- |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/imrajeevnayan/leetcode-solution/tree/main/0714-best-time-to-buy-and-sell-stock-with-transaction-fee/) | Medium |
 | [1382-balance-a-binary-search-tree](https://github.com/imrajeevnayan/leetcode-solution/tree/main/1382-balance-a-binary-search-tree/) | Medium |
+| [1963-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/imrajeevnayan/leetcode-solution/tree/main/1963-minimum-number-of-swaps-to-make-the-string-balanced/) | Medium |
 | [2697-lexicographically-smallest-palindrome](https://github.com/imrajeevnayan/leetcode-solution/tree/main/2697-lexicographically-smallest-palindrome/) | Easy |
 ## Nim Game
 | Problem Name | Difficulty |
@@ -110,6 +111,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/imrajeevnayan/leetcode-solution/tree/main/0094-binary-tree-inorder-traversal/) | Easy |
+| [1963-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/imrajeevnayan/leetcode-solution/tree/main/1963-minimum-number-of-swaps-to-make-the-string-balanced/) | Medium |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -117,6 +119,7 @@
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [1963-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/imrajeevnayan/leetcode-solution/tree/main/1963-minimum-number-of-swaps-to-make-the-string-balanced/) | Medium |
 | [2367-number-of-arithmetic-triplets](https://github.com/imrajeevnayan/leetcode-solution/tree/main/2367-number-of-arithmetic-triplets/) | Easy |
 | [2697-lexicographically-smallest-palindrome](https://github.com/imrajeevnayan/leetcode-solution/tree/main/2697-lexicographically-smallest-palindrome/) | Easy |
 | [3823-reverse-letters-then-special-characters-in-a-string](https://github.com/imrajeevnayan/leetcode-solution/tree/main/3823-reverse-letters-then-special-characters-in-a-string/) | Easy |
@@ -127,12 +130,17 @@
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [1963-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/imrajeevnayan/leetcode-solution/tree/main/1963-minimum-number-of-swaps-to-make-the-string-balanced/) | Medium |
 | [2697-lexicographically-smallest-palindrome](https://github.com/imrajeevnayan/leetcode-solution/tree/main/2697-lexicographically-smallest-palindrome/) | Easy |
 | [3823-reverse-letters-then-special-characters-in-a-string](https://github.com/imrajeevnayan/leetcode-solution/tree/main/3823-reverse-letters-then-special-characters-in-a-string/) | Easy |
 ## Simulation
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [3823-reverse-letters-then-special-characters-in-a-string](https://github.com/imrajeevnayan/leetcode-solution/tree/main/3823-reverse-letters-then-special-characters-in-a-string/) | Easy |
+## Bracket Sequences
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1963-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/imrajeevnayan/leetcode-solution/tree/main/1963-minimum-number-of-swaps-to-make-the-string-balanced/) | Medium |
 <!---LeetCode Topics End-->
 | 6 | [Sorted Insert Position](https://www.geeksforgeeks.org/problems/search-insert-position-of-k-in-a-sorted-array/1?) | GeeksForGeeks | Easy | 09 Aug 2026 | 12:57 am |
 | 7 | [Largest Zigzag Sequence](https://www.geeksforgeeks.org/problems/largest-zigzag-sequence5416/1) | GeeksForGeeks | Easy | 09 Aug 2026 | 01:00 am |
