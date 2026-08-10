@@ -68,6 +68,7 @@
 | ------- | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/imrajeevnayan/leetcode-solution/tree/main/0094-binary-tree-inorder-traversal/) | Easy |
 | [0637-average-of-levels-in-binary-tree](https://github.com/imrajeevnayan/leetcode-solution/tree/main/0637-average-of-levels-in-binary-tree/) | Easy |
+| [0841-keys-and-rooms](https://github.com/imrajeevnayan/leetcode-solution/tree/main/0841-keys-and-rooms/) | Medium |
 | [0872-leaf-similar-trees](https://github.com/imrajeevnayan/leetcode-solution/tree/main/0872-leaf-similar-trees/) | Easy |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/imrajeevnayan/leetcode-solution/tree/main/1161-maximum-level-sum-of-a-binary-tree/) | Medium |
 | [1382-balance-a-binary-search-tree](https://github.com/imrajeevnayan/leetcode-solution/tree/main/1382-balance-a-binary-search-tree/) | Medium |
@@ -76,6 +77,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0637-average-of-levels-in-binary-tree](https://github.com/imrajeevnayan/leetcode-solution/tree/main/0637-average-of-levels-in-binary-tree/) | Easy |
+| [0841-keys-and-rooms](https://github.com/imrajeevnayan/leetcode-solution/tree/main/0841-keys-and-rooms/) | Medium |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/imrajeevnayan/leetcode-solution/tree/main/1161-maximum-level-sum-of-a-binary-tree/) | Medium |
 | [2415-reverse-odd-levels-of-binary-tree](https://github.com/imrajeevnayan/leetcode-solution/tree/main/2415-reverse-odd-levels-of-binary-tree/) | Medium |
 ## Binary Tree
@@ -151,6 +153,10 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0905-sort-array-by-parity](https://github.com/imrajeevnayan/leetcode-solution/tree/main/0905-sort-array-by-parity/) | Easy |
+## Graph Theory
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0841-keys-and-rooms](https://github.com/imrajeevnayan/leetcode-solution/tree/main/0841-keys-and-rooms/) | Medium |
 <!---LeetCode Topics End-->
 | 6 | [Sorted Insert Position](https://www.geeksforgeeks.org/problems/search-insert-position-of-k-in-a-sorted-array/1?) | GeeksForGeeks | Easy | 09 Aug 2026 | 12:57 am |
 | 7 | [Largest Zigzag Sequence](https://www.geeksforgeeks.org/problems/largest-zigzag-sequence5416/1) | GeeksForGeeks | Easy | 09 Aug 2026 | 01:00 am |
