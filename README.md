@@ -88,6 +88,7 @@
 | ------- | ------- |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/imrajeevnayan/leetcode-solution/tree/main/0714-best-time-to-buy-and-sell-stock-with-transaction-fee/) | Medium |
 | [1382-balance-a-binary-search-tree](https://github.com/imrajeevnayan/leetcode-solution/tree/main/1382-balance-a-binary-search-tree/) | Medium |
+| [2697-lexicographically-smallest-palindrome](https://github.com/imrajeevnayan/leetcode-solution/tree/main/2697-lexicographically-smallest-palindrome/) | Easy |
 ## Nim Game
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -117,6 +118,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [2367-number-of-arithmetic-triplets](https://github.com/imrajeevnayan/leetcode-solution/tree/main/2367-number-of-arithmetic-triplets/) | Easy |
+| [2697-lexicographically-smallest-palindrome](https://github.com/imrajeevnayan/leetcode-solution/tree/main/2697-lexicographically-smallest-palindrome/) | Easy |
 | [3823-reverse-letters-then-special-characters-in-a-string](https://github.com/imrajeevnayan/leetcode-solution/tree/main/3823-reverse-letters-then-special-characters-in-a-string/) | Easy |
 ## Enumeration
 | Problem Name | Difficulty |
@@ -125,6 +127,7 @@
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [2697-lexicographically-smallest-palindrome](https://github.com/imrajeevnayan/leetcode-solution/tree/main/2697-lexicographically-smallest-palindrome/) | Easy |
 | [3823-reverse-letters-then-special-characters-in-a-string](https://github.com/imrajeevnayan/leetcode-solution/tree/main/3823-reverse-letters-then-special-characters-in-a-string/) | Easy |
 ## Simulation
 | Problem Name | Difficulty |
