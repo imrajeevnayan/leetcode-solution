@@ -101,7 +101,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1510-stone-game-iv](https://github.com/imrajeevnayan/leetcode-solution/tree/main/1510-stone-game-iv/) | Hard |
-## Sprague–Grundy Theorem
+## SpragueâGrundy Theorem
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1510-stone-game-iv](https://github.com/imrajeevnayan/leetcode-solution/tree/main/1510-stone-game-iv/) | Hard |
@@ -172,3 +172,4 @@
 | 17 | [Inorder Traversal](https://www.geeksforgeeks.org/problems/inorder-traversal/1?page=1&category=Tree) | GeeksForGeeks | Easy | 10 Aug 2026 | 01:47 pm |
 | 18 | [Symmetric Tree](https://www.geeksforgeeks.org/problems/symmetric-tree/1?page=1&category=Tree) | GeeksForGeeks | Easy | 10 Aug 2026 | 01:49 pm |
 | 19 | [Iterative Inorder](https://www.geeksforgeeks.org/problems/inorder-traversal-iterative/1?page=1&category=Tree&sortBy=accuracy) | GeeksForGeeks | Medium | 10 Aug 2026 | 01:53 pm |
+| 20 | [Keys and Rooms](https://leetcode.com/problems/keys-and-rooms/) | LeetCode | Medium | 10 Aug 2026 | 10:58 pm |
