@@ -944,19 +944,20 @@
     "GeeksForGeeks_Inorder_Traversal": true,
     "GeeksForGeeks_Symmetric_Tree": true,
     "GeeksForGeeks_Iterative_Inorder": true,
-    "LeetCode_Keys_and_Rooms": true
+    "LeetCode_Keys_and_Rooms": true,
+    "LeetCode_Deepest_Leaves_Sum": true
   },
-  "totalSolved": 472,
+  "totalSolved": 473,
   "difficultyCounts": {
     "easy": 153,
-    "medium": 205,
+    "medium": 206,
     "hard": 7,
     "basic": 107
   },
-  "currentStreak": 20,
-  "todayCount": 6,
-  "lastSyncDate": "2026-08-10",
-  "maxStreak": 20,
+  "currentStreak": 21,
+  "todayCount": 1,
+  "lastSyncDate": "2026-08-11",
+  "maxStreak": 21,
   "activityHistory": {
     "2026-05-19": 2,
     "2026-05-20": 14,
@@ -1028,7 +1029,8 @@
     "2026-08-07": 4,
     "2026-08-08": 6,
     "2026-08-09": 12,
-    "2026-08-10": 6
+    "2026-08-10": 6,
+    "2026-08-11": 1
   },
   "todayProblems": [
     "Most Frequent Character",
@@ -1499,6 +1501,7 @@
     "Inorder Traversal",
     "Symmetric Tree",
     "Iterative Inorder",
-    "Keys and Rooms"
+    "Keys and Rooms",
+    "Deepest Leaves Sum"
   ]
 }
