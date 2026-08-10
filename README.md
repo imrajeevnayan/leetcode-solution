@@ -470,4 +470,20 @@ Automatically organized collection of LeetCode solutions.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0234-palindrome-linked-list](https://github.com/imrajeevnayan/leetcode-solution/tree/main/0234-palindrome-linked-list/) | Easy |
+## Tree
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1302-deepest-leaves-sum](https://github.com/imrajeevnayan/leetcode-solution/tree/main/1302-deepest-leaves-sum/) | Medium |
+## Depth-First Search
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1302-deepest-leaves-sum](https://github.com/imrajeevnayan/leetcode-solution/tree/main/1302-deepest-leaves-sum/) | Medium |
+## Breadth-First Search
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1302-deepest-leaves-sum](https://github.com/imrajeevnayan/leetcode-solution/tree/main/1302-deepest-leaves-sum/) | Medium |
+## Binary Tree
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1302-deepest-leaves-sum](https://github.com/imrajeevnayan/leetcode-solution/tree/main/1302-deepest-leaves-sum/) | Medium |
 <!---LeetCode Topics End-->
