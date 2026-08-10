@@ -20,6 +20,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/imrajeevnayan/leetcode-solution/tree/main/0714-best-time-to-buy-and-sell-stock-with-transaction-fee/) | Medium |
+| [0905-sort-array-by-parity](https://github.com/imrajeevnayan/leetcode-solution/tree/main/0905-sort-array-by-parity/) | Easy |
 | [1140-stone-game-ii](https://github.com/imrajeevnayan/leetcode-solution/tree/main/1140-stone-game-ii/) | Medium |
 | [2367-number-of-arithmetic-triplets](https://github.com/imrajeevnayan/leetcode-solution/tree/main/2367-number-of-arithmetic-triplets/) | Easy |
 ## Math
@@ -119,6 +120,7 @@
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0905-sort-array-by-parity](https://github.com/imrajeevnayan/leetcode-solution/tree/main/0905-sort-array-by-parity/) | Easy |
 | [1963-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/imrajeevnayan/leetcode-solution/tree/main/1963-minimum-number-of-swaps-to-make-the-string-balanced/) | Medium |
 | [2367-number-of-arithmetic-triplets](https://github.com/imrajeevnayan/leetcode-solution/tree/main/2367-number-of-arithmetic-triplets/) | Easy |
 | [2697-lexicographically-smallest-palindrome](https://github.com/imrajeevnayan/leetcode-solution/tree/main/2697-lexicographically-smallest-palindrome/) | Easy |
@@ -141,6 +143,10 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1963-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/imrajeevnayan/leetcode-solution/tree/main/1963-minimum-number-of-swaps-to-make-the-string-balanced/) | Medium |
+## Sorting
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0905-sort-array-by-parity](https://github.com/imrajeevnayan/leetcode-solution/tree/main/0905-sort-array-by-parity/) | Easy |
 <!---LeetCode Topics End-->
 | 6 | [Sorted Insert Position](https://www.geeksforgeeks.org/problems/search-insert-position-of-k-in-a-sorted-array/1?) | GeeksForGeeks | Easy | 09 Aug 2026 | 12:57 am |
 | 7 | [Largest Zigzag Sequence](https://www.geeksforgeeks.org/problems/largest-zigzag-sequence5416/1) | GeeksForGeeks | Easy | 09 Aug 2026 | 01:00 am |
