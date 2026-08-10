@@ -939,17 +939,18 @@
     "GeeksForGeeks_First_with_K_Occurrences": true,
     "GeeksForGeeks_Count_Group_Occurrences": true,
     "GeeksForGeeks_K_Smallests_in_the_Original_Order": true,
-    "GeeksForGeeks_High_Effort_vs_Low_Effort": true
+    "GeeksForGeeks_High_Effort_vs_Low_Effort": true,
+    "GeeksForGeeks_Left_View_of_Binary_Tree": true
   },
-  "totalSolved": 467,
+  "totalSolved": 468,
   "difficultyCounts": {
-    "easy": 150,
+    "easy": 151,
     "medium": 203,
     "hard": 7,
     "basic": 107
   },
   "currentStreak": 20,
-  "todayCount": 1,
+  "todayCount": 2,
   "lastSyncDate": "2026-08-10",
   "maxStreak": 20,
   "activityHistory": {
@@ -1023,7 +1024,7 @@
     "2026-08-07": 4,
     "2026-08-08": 6,
     "2026-08-09": 12,
-    "2026-08-10": 1
+    "2026-08-10": 2
   },
   "todayProblems": [
     "Most Frequent Character",
@@ -1489,6 +1490,7 @@
     "First with K Occurrences",
     "Count Group Occurrences",
     "K Smallests in the Original Order",
-    "High Effort vs Low Effort"
+    "High Effort vs Low Effort",
+    "Left View of Binary Tree"
   ]
 }
