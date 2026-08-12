@@ -68,4 +68,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/imrajeevnayan/leetcode-solution/tree/main/2958-length-of-longest-subarray-with-at-most-k-frequency/) | Medium |
+## Database
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1795-rearrange-products-table](https://github.com/imrajeevnayan/leetcode-solution/tree/main/1795-rearrange-products-table/) | Easy |
 <!---LeetCode Topics End-->
