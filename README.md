@@ -87,3 +87,4 @@
 | ------- | ------- |
 | [0901-online-stock-span](https://github.com/imrajeevnayan/leetcode-solution/tree/main/0901-online-stock-span/) | Medium |
 <!---LeetCode Topics End-->
+| 2 | [Union of Two Sets](https://www.geeksforgeeks.org/problems/union-of-two-arrays3538--171343/1?page=2&category=Hash) | GeeksForGeeks | Easy | 12 Aug 2026 | 05:03 pm |
