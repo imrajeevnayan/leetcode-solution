@@ -1,0 +1,21 @@
+# Prime Frequencies in Array
+
+## Difficulty: Easy
+
+## Platform: GeeksForGeeks
+
+## Problem Link
+[View Problem](https://www.geeksforgeeks.org/problems/numbers-with-prime-frequencies-greater-than-or-equal-to-k5823/1?page=3&category=Hash)
+
+## Solved On
+12 Aug 2026 at 05:06 pm
+
+<h2><a href="https://www.geeksforgeeks.org/problems/numbers-with-prime-frequencies-greater-than-or-equal-to-k5823/1?page=3&category=Hash">Prime Frequencies in Array</a></h2><h3>Difficulty Level: Easy</h3><hr><p><span style="font-size: 18px;">Given an array <strong>arr[]</strong>. Return all elements in sorted order that appear a prime number of times in the array with minimum <strong>k</strong> frequency.</span></p>
+<p><span style="font-size: 18px;"><strong>Examples:</strong></span></p>
+<pre><span style="font-size: 18px;"><strong>Input:</strong> arr[] = [11, 11, 11, 23, 11, 37, 51, 37, 37, 51, 51, 51, 51], k = 2
+<strong>Output:</strong> [37, 51]
+<strong>Explanation: </strong>11's count is 4, 23 count 1, 37 count 3, 51 count 5. 37 and 51 are two number that appear prime number of time and frequencies greater than or equal to k = 2.
+</span></pre>
+<pre><span style="font-size: 18px;"><strong style="font-size: 18px;">Input:</strong><span style="font-size: 18px;"> arr[] = [11, 22, 33]</span><strong style="font-size: 18px;">
+Output:</strong><span style="font-size: 18px;"> []<br><strong>Explanation:</strong> Counts of elements are: 11 (1 time), 22 (1 time), 33 (1 time). None of these counts are prime numbers, so the output is an empty list.</span></span></pre>
+<p><span style="font-size: 18px;"><strong>Constraints:</strong><br>1 ≤ n ≤ 10<sup>4</sup> where n is the size of the array.<br>1 ≤ arr[i] ≤ 10<sup>6<br></sup>1 ≤ k ≤ 100<br></span></p>

@@ -946,17 +946,18 @@
     "GeeksForGeeks_Iterative_Inorder": true,
     "LeetCode_Keys_and_Rooms": true,
     "LeetCode_Deepest_Leaves_Sum": true,
-    "GeeksForGeeks_Union_of_Two_Sets": true
+    "GeeksForGeeks_Union_of_Two_Sets": true,
+    "GeeksForGeeks_Prime_Frequencies_in_Array": true
   },
-  "totalSolved": 474,
+  "totalSolved": 475,
   "difficultyCounts": {
-    "easy": 154,
+    "easy": 155,
     "medium": 206,
     "hard": 7,
     "basic": 107
   },
   "currentStreak": 22,
-  "todayCount": 1,
+  "todayCount": 2,
   "lastSyncDate": "2026-08-12",
   "maxStreak": 22,
   "activityHistory": {
@@ -1032,7 +1033,7 @@
     "2026-08-09": 12,
     "2026-08-10": 6,
     "2026-08-11": 1,
-    "2026-08-12": 1
+    "2026-08-12": 2
   },
   "todayProblems": [
     "Most Frequent Character",
@@ -1505,6 +1506,7 @@
     "Iterative Inorder",
     "Keys and Rooms",
     "Deepest Leaves Sum",
-    "Union of Two Sets"
+    "Union of Two Sets",
+    "Prime Frequencies in Array"
   ]
 }
