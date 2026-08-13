@@ -1,24 +1,17 @@
+import java.util.*;
+
 class Solution {
     public int longestOnes(int[] nums, int k) {
-        int left = 0;
-        int zeros = 0;
-        int maxLength = 0;
-
+        Queue<Integer> queue = new LinkedList<>();
+        int left = 0,maxLength = 0;
         for (int right = 0; right < nums.length; right++) {
-            if (nums[right] == 0) {
-                zeros++;
+            if (nums[right] == 0) queue.add(right);
+            // More than k zeros
+            if (queue.size() > k) {
+                left = queue.poll() + 1;
             }
-
-            while (zeros > k) {
-                if (nums[left] == 0) {
-                    zeros--;
-                }
-                left++;
-            }
-
             maxLength = Math.max(maxLength, right - left + 1);
         }
-
         return maxLength;
     }
 }
