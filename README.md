@@ -118,3 +118,4 @@
 | 4 | [Distinct-Digit Numbers in Range](https://www.geeksforgeeks.org/problems/unique-numbers3019/1?page=1&category=Hash) | GeeksForGeeks | Basic | 13 Aug 2026 | 10:48 pm |
 | 5 | [K-Pangrams](https://www.geeksforgeeks.org/problems/k-pangrams0909/1?page=2&category=Hash) | GeeksForGeeks | Easy | 13 Aug 2026 | 10:53 pm |
 | 6 | [Subarrays with given sum](https://www.geeksforgeeks.org/problems/subarray-range-with-given-sum2804/1?page=2&category=Hash) | GeeksForGeeks | Easy | 13 Aug 2026 | 10:56 pm |
+| 7 | [Adjacent XOR Transformation](https://www.geeksforgeeks.org/problems/game-with-nos3123/1?page=1&category=Arrays) | GeeksForGeeks | Basic | 14 Aug 2026 | 12:04 am |
