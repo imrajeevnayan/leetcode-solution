@@ -948,17 +948,18 @@
     "LeetCode_Deepest_Leaves_Sum": true,
     "GeeksForGeeks_Union_of_Two_Sets": true,
     "GeeksForGeeks_Prime_Frequencies_in_Array": true,
-    "GeeksForGeeks_Distinct-Digit_Numbers_in_Range": true
+    "GeeksForGeeks_Distinct-Digit_Numbers_in_Range": true,
+    "GeeksForGeeks_K-Pangrams": true
   },
-  "totalSolved": 476,
+  "totalSolved": 477,
   "difficultyCounts": {
-    "easy": 155,
+    "easy": 156,
     "medium": 206,
     "hard": 7,
     "basic": 108
   },
   "currentStreak": 23,
-  "todayCount": 1,
+  "todayCount": 2,
   "lastSyncDate": "2026-08-13",
   "maxStreak": 23,
   "activityHistory": {
@@ -1035,7 +1036,7 @@
     "2026-08-10": 6,
     "2026-08-11": 1,
     "2026-08-12": 2,
-    "2026-08-13": 1
+    "2026-08-13": 2
   },
   "todayProblems": [
     "Most Frequent Character",
@@ -1510,6 +1511,7 @@
     "Deepest Leaves Sum",
     "Union of Two Sets",
     "Prime Frequencies in Array",
-    "Distinct-Digit Numbers in Range"
+    "Distinct-Digit Numbers in Range",
+    "K-Pangrams"
   ]
 }
