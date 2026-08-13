@@ -120,3 +120,4 @@
 | 6 | [Subarrays with given sum](https://www.geeksforgeeks.org/problems/subarray-range-with-given-sum2804/1?page=2&category=Hash) | GeeksForGeeks | Easy | 13 Aug 2026 | 10:56 pm |
 | 7 | [Adjacent XOR Transformation](https://www.geeksforgeeks.org/problems/game-with-nos3123/1?page=1&category=Arrays) | GeeksForGeeks | Basic | 14 Aug 2026 | 12:04 am |
 | 8 | [Multiply left and right array sum](https://www.geeksforgeeks.org/problems/multiply-left-and-right-array-sum1555/1?page=1&category=Arrays) | GeeksForGeeks | Basic | 14 Aug 2026 | 12:05 am |
+| 9 | [Sum of Two Integers](https://leetcode.com/problems/sum-of-two-integers/) | LeetCode | Medium | 14 Aug 2026 | 01:13 am |
