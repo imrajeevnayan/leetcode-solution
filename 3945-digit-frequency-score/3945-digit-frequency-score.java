@@ -1,0 +1,19 @@
+class Solution {
+    public int digitFrequencyScore(int n) {
+     if (n == 0) return 0;
+        int[] freq = new int[10];
+        while (n > 0) {
+            int d = n % 10;
+            freq[d]++;
+            n /= 10;
+        }
+        int score = 0;
+        for (int d = 0; d < 10; d++) {
+            if (freq[d] > 0) {
+                score += d * freq[d];
+            }
+        }
+        return score;
+        
+    }
+}
