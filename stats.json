@@ -947,19 +947,20 @@
     "LeetCode_Keys_and_Rooms": true,
     "LeetCode_Deepest_Leaves_Sum": true,
     "GeeksForGeeks_Union_of_Two_Sets": true,
-    "GeeksForGeeks_Prime_Frequencies_in_Array": true
+    "GeeksForGeeks_Prime_Frequencies_in_Array": true,
+    "GeeksForGeeks_Distinct-Digit_Numbers_in_Range": true
   },
-  "totalSolved": 475,
+  "totalSolved": 476,
   "difficultyCounts": {
     "easy": 155,
     "medium": 206,
     "hard": 7,
-    "basic": 107
+    "basic": 108
   },
-  "currentStreak": 22,
-  "todayCount": 2,
-  "lastSyncDate": "2026-08-12",
-  "maxStreak": 22,
+  "currentStreak": 23,
+  "todayCount": 1,
+  "lastSyncDate": "2026-08-13",
+  "maxStreak": 23,
   "activityHistory": {
     "2026-05-19": 2,
     "2026-05-20": 14,
@@ -1033,7 +1034,8 @@
     "2026-08-09": 12,
     "2026-08-10": 6,
     "2026-08-11": 1,
-    "2026-08-12": 2
+    "2026-08-12": 2,
+    "2026-08-13": 1
   },
   "todayProblems": [
     "Most Frequent Character",
@@ -1507,6 +1509,7 @@
     "Keys and Rooms",
     "Deepest Leaves Sum",
     "Union of Two Sets",
-    "Prime Frequencies in Array"
+    "Prime Frequencies in Array",
+    "Distinct-Digit Numbers in Range"
   ]
 }
