@@ -7,6 +7,7 @@
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0410-split-array-largest-sum](https://github.com/imrajeevnayan/leetcode-solution/tree/main/0410-split-array-largest-sum/) | Hard |
 | [0654-maximum-binary-tree](https://github.com/imrajeevnayan/leetcode-solution/tree/main/0654-maximum-binary-tree/) | Medium |
 | [0739-daily-temperatures](https://github.com/imrajeevnayan/leetcode-solution/tree/main/0739-daily-temperatures/) | Medium |
 | [1004-max-consecutive-ones-iii](https://github.com/imrajeevnayan/leetcode-solution/tree/main/1004-max-consecutive-ones-iii/) | Medium |
@@ -25,6 +26,7 @@
 ## Prefix Sum
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0410-split-array-largest-sum](https://github.com/imrajeevnayan/leetcode-solution/tree/main/0410-split-array-largest-sum/) | Hard |
 | [1004-max-consecutive-ones-iii](https://github.com/imrajeevnayan/leetcode-solution/tree/main/1004-max-consecutive-ones-iii/) | Medium |
 | [1310-xor-queries-of-a-subarray](https://github.com/imrajeevnayan/leetcode-solution/tree/main/1310-xor-queries-of-a-subarray/) | Medium |
 ## Hash Table
@@ -76,6 +78,7 @@
 ## Binary Search Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0410-split-array-largest-sum](https://github.com/imrajeevnayan/leetcode-solution/tree/main/0410-split-array-largest-sum/) | Hard |
 | [1004-max-consecutive-ones-iii](https://github.com/imrajeevnayan/leetcode-solution/tree/main/1004-max-consecutive-ones-iii/) | Medium |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/imrajeevnayan/leetcode-solution/tree/main/1008-construct-binary-search-tree-from-preorder-traversal/) | Medium |
 ## Sliding Window
@@ -115,6 +118,14 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [3945-digit-frequency-score](https://github.com/imrajeevnayan/leetcode-solution/tree/main/3945-digit-frequency-score/) | Easy |
+## Dynamic Programming
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0410-split-array-largest-sum](https://github.com/imrajeevnayan/leetcode-solution/tree/main/0410-split-array-largest-sum/) | Hard |
+## Greedy
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0410-split-array-largest-sum](https://github.com/imrajeevnayan/leetcode-solution/tree/main/0410-split-array-largest-sum/) | Hard |
 <!---LeetCode Topics End-->
 | 2 | [Union of Two Sets](https://www.geeksforgeeks.org/problems/union-of-two-arrays3538--171343/1?page=2&category=Hash) | GeeksForGeeks | Easy | 12 Aug 2026 | 05:03 pm |
 | 3 | [Prime Frequencies in Array](https://www.geeksforgeeks.org/problems/numbers-with-prime-frequencies-greater-than-or-equal-to-k5823/1?page=3&category=Hash) | GeeksForGeeks | Easy | 12 Aug 2026 | 05:06 pm |
