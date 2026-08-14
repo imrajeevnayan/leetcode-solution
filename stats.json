@@ -953,17 +953,18 @@
     "GeeksForGeeks_Subarrays_with_given_sum": true,
     "GeeksForGeeks_Adjacent_XOR_Transformation": true,
     "GeeksForGeeks_Multiply_left_and_right_array_sum": true,
-    "LeetCode_Sum_of_Two_Integers": true
+    "LeetCode_Sum_of_Two_Integers": true,
+    "GeeksForGeeks_Maximum_Sum_Problem": true
   },
-  "totalSolved": 481,
+  "totalSolved": 482,
   "difficultyCounts": {
-    "easy": 157,
+    "easy": 158,
     "medium": 207,
     "hard": 7,
     "basic": 110
   },
   "currentStreak": 24,
-  "todayCount": 3,
+  "todayCount": 4,
   "lastSyncDate": "2026-08-14",
   "maxStreak": 24,
   "activityHistory": {
@@ -1041,7 +1042,7 @@
     "2026-08-11": 1,
     "2026-08-12": 2,
     "2026-08-13": 3,
-    "2026-08-14": 3
+    "2026-08-14": 4
   },
   "todayProblems": [
     "Most Frequent Character",
@@ -1521,6 +1522,7 @@
     "Subarrays with given sum",
     "Adjacent XOR Transformation",
     "Multiply left and right array sum",
-    "Sum of Two Integers"
+    "Sum of Two Integers",
+    "Maximum Sum Problem"
   ]
 }
