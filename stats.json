@@ -955,17 +955,18 @@
     "GeeksForGeeks_Multiply_left_and_right_array_sum": true,
     "LeetCode_Sum_of_Two_Integers": true,
     "GeeksForGeeks_Maximum_Sum_Problem": true,
-    "GeeksForGeeks_Max_Subarray_Sum_with_Elements_less_than_or_equal_to_k": true
+    "GeeksForGeeks_Max_Subarray_Sum_with_Elements_less_than_or_equal_to_k": true,
+    "GeeksForGeeks_Max_Profit_with_Money_Exchange_using_n/2,_n/3,_and_n/4": true
   },
-  "totalSolved": 483,
+  "totalSolved": 484,
   "difficultyCounts": {
-    "easy": 159,
+    "easy": 160,
     "medium": 207,
     "hard": 7,
     "basic": 110
   },
   "currentStreak": 24,
-  "todayCount": 5,
+  "todayCount": 6,
   "lastSyncDate": "2026-08-14",
   "maxStreak": 24,
   "activityHistory": {
@@ -1043,7 +1044,7 @@
     "2026-08-11": 1,
     "2026-08-12": 2,
     "2026-08-13": 3,
-    "2026-08-14": 5
+    "2026-08-14": 6
   },
   "todayProblems": [
     "Most Frequent Character",
@@ -1525,6 +1526,7 @@
     "Multiply left and right array sum",
     "Sum of Two Integers",
     "Maximum Sum Problem",
-    "Max Subarray Sum with Elements less than or equal to k"
+    "Max Subarray Sum with Elements less than or equal to k",
+    "Max Profit with Money Exchange using n/2, n/3, and n/4"
   ]
 }
