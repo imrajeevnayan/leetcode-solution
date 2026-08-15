@@ -172,3 +172,4 @@
 | 17 | [Check for Binary String](https://www.geeksforgeeks.org/problems/check-for-binary/1?page=1&category=Strings) | GeeksForGeeks | Basic | 15 Aug 2026 | 02:28 pm |
 | 18 | [Alternate Merge Two Strings](https://www.geeksforgeeks.org/problems/merge-two-strings2736/1?page=1&category=Strings) | GeeksForGeeks | Basic | 15 Aug 2026 | 02:29 pm |
 | 19 | [Remove Sandwiched Vowels](https://www.geeksforgeeks.org/problems/sandwiched-vowels5158/1?page=2&category=Strings) | GeeksForGeeks | Basic | 15 Aug 2026 | 02:32 pm |
+| 20 | [Numbers Without d as Digit](https://www.geeksforgeeks.org/problems/count-numbers2004/1) | GeeksForGeeks | Hard | 15 Aug 2026 | 02:39 pm |
