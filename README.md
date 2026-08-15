@@ -10,6 +10,7 @@
 | [0410-split-array-largest-sum](https://github.com/imrajeevnayan/leetcode-solution/tree/main/0410-split-array-largest-sum/) | Hard |
 | [0654-maximum-binary-tree](https://github.com/imrajeevnayan/leetcode-solution/tree/main/0654-maximum-binary-tree/) | Medium |
 | [0739-daily-temperatures](https://github.com/imrajeevnayan/leetcode-solution/tree/main/0739-daily-temperatures/) | Medium |
+| [0929-unique-email-addresses](https://github.com/imrajeevnayan/leetcode-solution/tree/main/0929-unique-email-addresses/) | Easy |
 | [1004-max-consecutive-ones-iii](https://github.com/imrajeevnayan/leetcode-solution/tree/main/1004-max-consecutive-ones-iii/) | Medium |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/imrajeevnayan/leetcode-solution/tree/main/1008-construct-binary-search-tree-from-preorder-traversal/) | Medium |
 | [1310-xor-queries-of-a-subarray](https://github.com/imrajeevnayan/leetcode-solution/tree/main/1310-xor-queries-of-a-subarray/) | Medium |
@@ -41,6 +42,7 @@
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0929-unique-email-addresses](https://github.com/imrajeevnayan/leetcode-solution/tree/main/0929-unique-email-addresses/) | Easy |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/imrajeevnayan/leetcode-solution/tree/main/2657-find-the-prefix-common-array-of-two-arrays/) | Medium |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/imrajeevnayan/leetcode-solution/tree/main/2958-length-of-longest-subarray-with-at-most-k-frequency/) | Medium |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/imrajeevnayan/leetcode-solution/tree/main/2996-smallest-missing-integer-greater-than-sequential-prefix-sum/) | Easy |
@@ -115,6 +117,7 @@
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0929-unique-email-addresses](https://github.com/imrajeevnayan/leetcode-solution/tree/main/0929-unique-email-addresses/) | Easy |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/imrajeevnayan/leetcode-solution/tree/main/2213-longest-substring-of-one-repeating-character/) | Hard |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/imrajeevnayan/leetcode-solution/tree/main/3090-maximum-length-substring-with-two-occurrences/) | Easy |
 ## Segment Tree
