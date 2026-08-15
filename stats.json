@@ -962,17 +962,18 @@
     "GeeksForGeeks_One's_Complement": true,
     "GeeksForGeeks_Max_Circular_Subarray_Sum": true,
     "GeeksForGeeks_Check_for_Binary_String": true,
-    "GeeksForGeeks_Alternate_Merge_Two_Strings": true
+    "GeeksForGeeks_Alternate_Merge_Two_Strings": true,
+    "GeeksForGeeks_Remove_Sandwiched_Vowels": true
   },
-  "totalSolved": 490,
+  "totalSolved": 491,
   "difficultyCounts": {
     "easy": 160,
     "medium": 207,
     "hard": 8,
-    "basic": 115
+    "basic": 116
   },
   "currentStreak": 25,
-  "todayCount": 6,
+  "todayCount": 7,
   "lastSyncDate": "2026-08-15",
   "maxStreak": 25,
   "activityHistory": {
@@ -1051,7 +1052,7 @@
     "2026-08-12": 2,
     "2026-08-13": 3,
     "2026-08-14": 6,
-    "2026-08-15": 6
+    "2026-08-15": 7
   },
   "todayProblems": [
     "Most Frequent Character",
@@ -1540,6 +1541,7 @@
     "One's Complement",
     "Max Circular Subarray Sum",
     "Check for Binary String",
-    "Alternate Merge Two Strings"
+    "Alternate Merge Two Strings",
+    "Remove Sandwiched Vowels"
   ]
 }

@@ -171,3 +171,4 @@
 | 16 | [Max Circular Subarray Sum](https://www.geeksforgeeks.org/problems/max-circular-subarray-sum-1587115620/1?page=1&category=Kadane) | GeeksForGeeks | Hard | 15 Aug 2026 | 02:26 pm |
 | 17 | [Check for Binary String](https://www.geeksforgeeks.org/problems/check-for-binary/1?page=1&category=Strings) | GeeksForGeeks | Basic | 15 Aug 2026 | 02:28 pm |
 | 18 | [Alternate Merge Two Strings](https://www.geeksforgeeks.org/problems/merge-two-strings2736/1?page=1&category=Strings) | GeeksForGeeks | Basic | 15 Aug 2026 | 02:29 pm |
+| 19 | [Remove Sandwiched Vowels](https://www.geeksforgeeks.org/problems/sandwiched-vowels5158/1?page=2&category=Strings) | GeeksForGeeks | Basic | 15 Aug 2026 | 02:32 pm |
