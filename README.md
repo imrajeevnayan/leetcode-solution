@@ -168,3 +168,4 @@
 | 13 | [Odd or Even](https://www.geeksforgeeks.org/problems/odd-or-even3618/1?page=1&category=Bit%20Magic) | GeeksForGeeks | Basic | 15 Aug 2026 | 02:21 pm |
 | 14 | [Bit Difference](https://www.geeksforgeeks.org/problems/bit-difference-1587115620/1?page=1&category=Bit%20Magic) | GeeksForGeeks | Basic | 15 Aug 2026 | 02:22 pm |
 | 15 | [One's Complement](https://www.geeksforgeeks.org/problems/ones-complement5928/1?page=1&category=Bit%20Magic) | GeeksForGeeks | Basic | 15 Aug 2026 | 02:24 pm |
+| 16 | [Max Circular Subarray Sum](https://www.geeksforgeeks.org/problems/max-circular-subarray-sum-1587115620/1?page=1&category=Kadane) | GeeksForGeeks | Hard | 15 Aug 2026 | 02:26 pm |
