@@ -956,19 +956,20 @@
     "LeetCode_Sum_of_Two_Integers": true,
     "GeeksForGeeks_Maximum_Sum_Problem": true,
     "GeeksForGeeks_Max_Subarray_Sum_with_Elements_less_than_or_equal_to_k": true,
-    "GeeksForGeeks_Max_Profit_with_Money_Exchange_using_n/2,_n/3,_and_n/4": true
+    "GeeksForGeeks_Max_Profit_with_Money_Exchange_using_n/2,_n/3,_and_n/4": true,
+    "GeeksForGeeks_Odd_or_Even": true
   },
-  "totalSolved": 484,
+  "totalSolved": 485,
   "difficultyCounts": {
     "easy": 160,
     "medium": 207,
     "hard": 7,
-    "basic": 110
+    "basic": 111
   },
-  "currentStreak": 24,
-  "todayCount": 6,
-  "lastSyncDate": "2026-08-14",
-  "maxStreak": 24,
+  "currentStreak": 25,
+  "todayCount": 1,
+  "lastSyncDate": "2026-08-15",
+  "maxStreak": 25,
   "activityHistory": {
     "2026-05-19": 2,
     "2026-05-20": 14,
@@ -1044,7 +1045,8 @@
     "2026-08-11": 1,
     "2026-08-12": 2,
     "2026-08-13": 3,
-    "2026-08-14": 6
+    "2026-08-14": 6,
+    "2026-08-15": 1
   },
   "todayProblems": [
     "Most Frequent Character",
@@ -1527,6 +1529,7 @@
     "Sum of Two Integers",
     "Maximum Sum Problem",
     "Max Subarray Sum with Elements less than or equal to k",
-    "Max Profit with Money Exchange using n/2, n/3, and n/4"
+    "Max Profit with Money Exchange using n/2, n/3, and n/4",
+    "Odd or Even"
   ]
 }
