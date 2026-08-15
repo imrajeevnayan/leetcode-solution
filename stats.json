@@ -961,17 +961,18 @@
     "GeeksForGeeks_Bit_Difference": true,
     "GeeksForGeeks_One's_Complement": true,
     "GeeksForGeeks_Max_Circular_Subarray_Sum": true,
-    "GeeksForGeeks_Check_for_Binary_String": true
+    "GeeksForGeeks_Check_for_Binary_String": true,
+    "GeeksForGeeks_Alternate_Merge_Two_Strings": true
   },
-  "totalSolved": 489,
+  "totalSolved": 490,
   "difficultyCounts": {
     "easy": 160,
     "medium": 207,
     "hard": 8,
-    "basic": 114
+    "basic": 115
   },
   "currentStreak": 25,
-  "todayCount": 5,
+  "todayCount": 6,
   "lastSyncDate": "2026-08-15",
   "maxStreak": 25,
   "activityHistory": {
@@ -1050,7 +1051,7 @@
     "2026-08-12": 2,
     "2026-08-13": 3,
     "2026-08-14": 6,
-    "2026-08-15": 5
+    "2026-08-15": 6
   },
   "todayProblems": [
     "Most Frequent Character",
@@ -1538,6 +1539,7 @@
     "Bit Difference",
     "One's Complement",
     "Max Circular Subarray Sum",
-    "Check for Binary String"
+    "Check for Binary String",
+    "Alternate Merge Two Strings"
   ]
 }
