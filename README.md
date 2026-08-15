@@ -44,7 +44,6 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/imrajeevnayan/leetcode-solution/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
-| [0383-ransom-note](https://github.com/imrajeevnayan/leetcode-solution/tree/main/0383-ransom-note/) | Easy |
 | [0929-unique-email-addresses](https://github.com/imrajeevnayan/leetcode-solution/tree/main/0929-unique-email-addresses/) | Easy |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/imrajeevnayan/leetcode-solution/tree/main/2657-find-the-prefix-common-array-of-two-arrays/) | Medium |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/imrajeevnayan/leetcode-solution/tree/main/2958-length-of-longest-subarray-with-at-most-k-frequency/) | Medium |
@@ -123,7 +122,6 @@
 | ------- | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/imrajeevnayan/leetcode-solution/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
 | [0014-longest-common-prefix](https://github.com/imrajeevnayan/leetcode-solution/tree/main/0014-longest-common-prefix/) | Easy |
-| [0383-ransom-note](https://github.com/imrajeevnayan/leetcode-solution/tree/main/0383-ransom-note/) | Easy |
 | [0929-unique-email-addresses](https://github.com/imrajeevnayan/leetcode-solution/tree/main/0929-unique-email-addresses/) | Easy |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/imrajeevnayan/leetcode-solution/tree/main/2213-longest-substring-of-one-repeating-character/) | Hard |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/imrajeevnayan/leetcode-solution/tree/main/3090-maximum-length-substring-with-two-occurrences/) | Easy |
@@ -156,7 +154,6 @@
 ## Counting
 | Problem Name | Difficulty |
 | ------- | ------- |
-| [0383-ransom-note](https://github.com/imrajeevnayan/leetcode-solution/tree/main/0383-ransom-note/) | Easy |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/imrajeevnayan/leetcode-solution/tree/main/3737-count-subarrays-with-majority-element-i/) | Medium |
 ## Trie
 | Problem Name | Difficulty |
@@ -182,3 +179,4 @@
 | 18 | [Alternate Merge Two Strings](https://www.geeksforgeeks.org/problems/merge-two-strings2736/1?page=1&category=Strings) | GeeksForGeeks | Basic | 15 Aug 2026 | 02:29 pm |
 | 19 | [Remove Sandwiched Vowels](https://www.geeksforgeeks.org/problems/sandwiched-vowels5158/1?page=2&category=Strings) | GeeksForGeeks | Basic | 15 Aug 2026 | 02:32 pm |
 | 20 | [Numbers Without d as Digit](https://www.geeksforgeeks.org/problems/count-numbers2004/1) | GeeksForGeeks | Hard | 15 Aug 2026 | 02:39 pm |
+| 21 | [Ransom Note](https://leetcode.com/problems/ransom-note/) | LeetCode | Easy | 15 Aug 2026 | 05:21 pm |

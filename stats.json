@@ -964,17 +964,18 @@
     "GeeksForGeeks_Check_for_Binary_String": true,
     "GeeksForGeeks_Alternate_Merge_Two_Strings": true,
     "GeeksForGeeks_Remove_Sandwiched_Vowels": true,
-    "GeeksForGeeks_Numbers_Without_d_as_Digit": true
+    "GeeksForGeeks_Numbers_Without_d_as_Digit": true,
+    "LeetCode_Ransom_Note": true
   },
-  "totalSolved": 492,
+  "totalSolved": 493,
   "difficultyCounts": {
-    "easy": 160,
+    "easy": 161,
     "medium": 207,
     "hard": 9,
     "basic": 116
   },
   "currentStreak": 25,
-  "todayCount": 8,
+  "todayCount": 9,
   "lastSyncDate": "2026-08-15",
   "maxStreak": 25,
   "activityHistory": {
@@ -1053,7 +1054,7 @@
     "2026-08-12": 2,
     "2026-08-13": 3,
     "2026-08-14": 6,
-    "2026-08-15": 8
+    "2026-08-15": 9
   },
   "todayProblems": [
     "Most Frequent Character",
@@ -1544,6 +1545,7 @@
     "Check for Binary String",
     "Alternate Merge Two Strings",
     "Remove Sandwiched Vowels",
-    "Numbers Without d as Digit"
+    "Numbers Without d as Digit",
+    "Ransom Note"
   ]
 }
