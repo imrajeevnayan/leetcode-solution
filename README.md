@@ -167,3 +167,4 @@
 | 12 | [Max Profit with Money Exchange using n/2, n/3, and n/4](https://www.geeksforgeeks.org/problems/ritikas-money4334/1?page=2&category=Dynamic%20Programming) | GeeksForGeeks | Easy | 14 Aug 2026 | 11:22 pm |
 | 13 | [Odd or Even](https://www.geeksforgeeks.org/problems/odd-or-even3618/1?page=1&category=Bit%20Magic) | GeeksForGeeks | Basic | 15 Aug 2026 | 02:21 pm |
 | 14 | [Bit Difference](https://www.geeksforgeeks.org/problems/bit-difference-1587115620/1?page=1&category=Bit%20Magic) | GeeksForGeeks | Basic | 15 Aug 2026 | 02:22 pm |
+| 15 | [One's Complement](https://www.geeksforgeeks.org/problems/ones-complement5928/1?page=1&category=Bit%20Magic) | GeeksForGeeks | Basic | 15 Aug 2026 | 02:24 pm |
