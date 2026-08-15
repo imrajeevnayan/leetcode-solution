@@ -957,17 +957,18 @@
     "GeeksForGeeks_Maximum_Sum_Problem": true,
     "GeeksForGeeks_Max_Subarray_Sum_with_Elements_less_than_or_equal_to_k": true,
     "GeeksForGeeks_Max_Profit_with_Money_Exchange_using_n/2,_n/3,_and_n/4": true,
-    "GeeksForGeeks_Odd_or_Even": true
+    "GeeksForGeeks_Odd_or_Even": true,
+    "GeeksForGeeks_Bit_Difference": true
   },
-  "totalSolved": 485,
+  "totalSolved": 486,
   "difficultyCounts": {
     "easy": 160,
     "medium": 207,
     "hard": 7,
-    "basic": 111
+    "basic": 112
   },
   "currentStreak": 25,
-  "todayCount": 1,
+  "todayCount": 2,
   "lastSyncDate": "2026-08-15",
   "maxStreak": 25,
   "activityHistory": {
@@ -1046,7 +1047,7 @@
     "2026-08-12": 2,
     "2026-08-13": 3,
     "2026-08-14": 6,
-    "2026-08-15": 1
+    "2026-08-15": 2
   },
   "todayProblems": [
     "Most Frequent Character",
@@ -1530,6 +1531,7 @@
     "Maximum Sum Problem",
     "Max Subarray Sum with Elements less than or equal to k",
     "Max Profit with Money Exchange using n/2, n/3, and n/4",
-    "Odd or Even"
+    "Odd or Even",
+    "Bit Difference"
   ]
 }

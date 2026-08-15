@@ -1,0 +1,22 @@
+# Bit Difference
+
+## Difficulty: Basic
+
+## Platform: GeeksForGeeks
+
+## Problem Link
+[View Problem](https://www.geeksforgeeks.org/problems/bit-difference-1587115620/1?page=1&category=Bit%20Magic)
+
+## Solved On
+15 Aug 2026 at 02:22 pm
+
+<h2><a href="https://www.geeksforgeeks.org/problems/bit-difference-1587115620/1?page=1&category=Bit%20Magic">Bit Difference</a></h2><h3>Difficulty Level: Basic</h3><hr><p><span style="font-size: 18px;">You are given two numbers <strong>a</strong> and <strong>b</strong>. The task is&nbsp;to count the number of bits needed to be flipped<strong> </strong>to convert a to b.<br><strong>Note :</strong> flipping of bit means inverting its value -- changing 1 to 0 and 0 to 1</span></p>
+<p><span style="font-size: 18px;"><strong>Examples</strong></span><span style="font-size: 18px;"><strong>:</strong></span></p>
+<pre><span style="font-size: 18px;"><strong>Input: </strong>a = 10, b = 20
+<strong>Output</strong>: 4
+<strong>Explanation</strong>: a &nbsp;= 01010, b &nbsp;= 10100, As we can see, the bits of A that need to be flipped are <strong>0101</strong>0. If we flip these bits, we get 10100, which is B.</span>
+</pre>
+<pre><span style="font-size: 18px;"><strong>Input</strong>: a = 20, b = 25
+<strong>Output</strong>: 3
+<strong>Explanation</strong>: a &nbsp;= 10100, b &nbsp;= 11001, As we can see, the bits of A that need to be flipped are 1<strong>01</strong>0<strong>0</strong>. If we flip these bits, we get 11001, which is B.</span></pre>
+<p><span style="font-size: 18px;"><strong>Constraints:&nbsp;</strong></span><br><span style="font-size: 18px;">1 ≤ a, b ≤ 10<sup>6</sup></span></p>
