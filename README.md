@@ -209,3 +209,4 @@
 | 19 | [Remove Sandwiched Vowels](https://www.geeksforgeeks.org/problems/sandwiched-vowels5158/1?page=2&category=Strings) | GeeksForGeeks | Basic | 15 Aug 2026 | 02:32 pm |
 | 20 | [Numbers Without d as Digit](https://www.geeksforgeeks.org/problems/count-numbers2004/1) | GeeksForGeeks | Hard | 15 Aug 2026 | 02:39 pm |
 | 21 | [Ransom Note](https://leetcode.com/problems/ransom-note/) | LeetCode | Easy | 15 Aug 2026 | 05:21 pm |
+| 22 | [Sum of odd and even elements](https://www.geeksforgeeks.org/problems/sum-of-odd-and-even-elements3033/1?page=2) | GeeksForGeeks | Basic | 17 Aug 2026 | 02:44 pm |

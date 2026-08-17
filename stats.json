@@ -965,18 +965,19 @@
     "GeeksForGeeks_Alternate_Merge_Two_Strings": true,
     "GeeksForGeeks_Remove_Sandwiched_Vowels": true,
     "GeeksForGeeks_Numbers_Without_d_as_Digit": true,
-    "LeetCode_Ransom_Note": true
+    "LeetCode_Ransom_Note": true,
+    "GeeksForGeeks_Sum_of_odd_and_even_elements": true
   },
-  "totalSolved": 493,
+  "totalSolved": 494,
   "difficultyCounts": {
     "easy": 161,
     "medium": 207,
     "hard": 9,
-    "basic": 116
+    "basic": 117
   },
-  "currentStreak": 25,
-  "todayCount": 9,
-  "lastSyncDate": "2026-08-15",
+  "currentStreak": 1,
+  "todayCount": 1,
+  "lastSyncDate": "2026-08-17",
   "maxStreak": 25,
   "activityHistory": {
     "2026-05-19": 2,
@@ -1054,7 +1055,8 @@
     "2026-08-12": 2,
     "2026-08-13": 3,
     "2026-08-14": 6,
-    "2026-08-15": 9
+    "2026-08-15": 9,
+    "2026-08-17": 1
   },
   "todayProblems": [
     "Most Frequent Character",
@@ -1546,6 +1548,7 @@
     "Alternate Merge Two Strings",
     "Remove Sandwiched Vowels",
     "Numbers Without d as Digit",
-    "Ransom Note"
+    "Ransom Note",
+    "Sum of odd and even elements"
   ]
 }
