@@ -18,6 +18,7 @@
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/imrajeevnayan/leetcode-solution/tree/main/1008-construct-binary-search-tree-from-preorder-traversal/) | Medium |
 | [1310-xor-queries-of-a-subarray](https://github.com/imrajeevnayan/leetcode-solution/tree/main/1310-xor-queries-of-a-subarray/) | Medium |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/imrajeevnayan/leetcode-solution/tree/main/1475-final-prices-with-a-special-discount-in-a-shop/) | Easy |
+| [1563-stone-game-v](https://github.com/imrajeevnayan/leetcode-solution/tree/main/1563-stone-game-v/) | Hard |
 | [1829-maximum-xor-for-each-query](https://github.com/imrajeevnayan/leetcode-solution/tree/main/1829-maximum-xor-for-each-query/) | Medium |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/imrajeevnayan/leetcode-solution/tree/main/2213-longest-substring-of-one-repeating-character/) | Hard |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/imrajeevnayan/leetcode-solution/tree/main/2657-find-the-prefix-common-array-of-two-arrays/) | Medium |
@@ -149,12 +150,14 @@
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [1563-stone-game-v](https://github.com/imrajeevnayan/leetcode-solution/tree/main/1563-stone-game-v/) | Hard |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/imrajeevnayan/leetcode-solution/tree/main/3432-count-partitions-with-even-sum-difference/) | Easy |
 | [3945-digit-frequency-score](https://github.com/imrajeevnayan/leetcode-solution/tree/main/3945-digit-frequency-score/) | Easy |
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0410-split-array-largest-sum](https://github.com/imrajeevnayan/leetcode-solution/tree/main/0410-split-array-largest-sum/) | Hard |
+| [1563-stone-game-v](https://github.com/imrajeevnayan/leetcode-solution/tree/main/1563-stone-game-v/) | Hard |
 ## Greedy
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -172,6 +175,10 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0014-longest-common-prefix](https://github.com/imrajeevnayan/leetcode-solution/tree/main/0014-longest-common-prefix/) | Easy |
+## Game Theory
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1563-stone-game-v](https://github.com/imrajeevnayan/leetcode-solution/tree/main/1563-stone-game-v/) | Hard |
 <!---LeetCode Topics End-->
 | 2 | [Union of Two Sets](https://www.geeksforgeeks.org/problems/union-of-two-arrays3538--171343/1?page=2&category=Hash) | GeeksForGeeks | Easy | 12 Aug 2026 | 05:03 pm |
 | 3 | [Prime Frequencies in Array](https://www.geeksforgeeks.org/problems/numbers-with-prime-frequencies-greater-than-or-equal-to-k5823/1?page=3&category=Hash) | GeeksForGeeks | Easy | 12 Aug 2026 | 05:06 pm |
