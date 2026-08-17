@@ -966,17 +966,18 @@
     "GeeksForGeeks_Remove_Sandwiched_Vowels": true,
     "GeeksForGeeks_Numbers_Without_d_as_Digit": true,
     "LeetCode_Ransom_Note": true,
-    "GeeksForGeeks_Sum_of_odd_and_even_elements": true
+    "GeeksForGeeks_Sum_of_odd_and_even_elements": true,
+    "GeeksForGeeks_Is_Linked_List_Sorted": true
   },
-  "totalSolved": 494,
+  "totalSolved": 495,
   "difficultyCounts": {
-    "easy": 161,
+    "easy": 162,
     "medium": 207,
     "hard": 9,
     "basic": 117
   },
   "currentStreak": 1,
-  "todayCount": 1,
+  "todayCount": 2,
   "lastSyncDate": "2026-08-17",
   "maxStreak": 25,
   "activityHistory": {
@@ -1056,7 +1057,7 @@
     "2026-08-13": 3,
     "2026-08-14": 6,
     "2026-08-15": 9,
-    "2026-08-17": 1
+    "2026-08-17": 2
   },
   "todayProblems": [
     "Most Frequent Character",
@@ -1549,6 +1550,7 @@
     "Remove Sandwiched Vowels",
     "Numbers Without d as Digit",
     "Ransom Note",
-    "Sum of odd and even elements"
+    "Sum of odd and even elements",
+    "Is Linked List Sorted"
   ]
 }
