@@ -233,3 +233,4 @@
 | 22 | [Sum of odd and even elements](https://www.geeksforgeeks.org/problems/sum-of-odd-and-even-elements3033/1?page=2) | GeeksForGeeks | Basic | 17 Aug 2026 | 02:44 pm |
 | 23 | [Is Linked List Sorted](https://www.geeksforgeeks.org/problems/is-linked-list-sorted/1?page=2&category=Linked%20List) | GeeksForGeeks | Easy | 17 Aug 2026 | 02:52 pm |
 | 24 | [Split Linked List Alternatingly](https://www.geeksforgeeks.org/problems/split-singly-linked-list-alternatingly/1?page=2&category=Linked%20List) | GeeksForGeeks | Easy | 17 Aug 2026 | 02:53 pm |
+| 25 | [Find the minimum time](https://www.geeksforgeeks.org/problems/find-the-minimum-time0253/1?page=1&category=Binary%20Search) | GeeksForGeeks | Easy | 18 Aug 2026 | 02:16 pm |

@@ -968,18 +968,19 @@
     "LeetCode_Ransom_Note": true,
     "GeeksForGeeks_Sum_of_odd_and_even_elements": true,
     "GeeksForGeeks_Is_Linked_List_Sorted": true,
-    "GeeksForGeeks_Split_Linked_List_Alternatingly": true
+    "GeeksForGeeks_Split_Linked_List_Alternatingly": true,
+    "GeeksForGeeks_Find_the_minimum_time": true
   },
-  "totalSolved": 496,
+  "totalSolved": 497,
   "difficultyCounts": {
-    "easy": 163,
+    "easy": 164,
     "medium": 207,
     "hard": 9,
     "basic": 117
   },
-  "currentStreak": 1,
-  "todayCount": 3,
-  "lastSyncDate": "2026-08-17",
+  "currentStreak": 2,
+  "todayCount": 1,
+  "lastSyncDate": "2026-08-18",
   "maxStreak": 25,
   "activityHistory": {
     "2026-05-19": 2,
@@ -1058,7 +1059,8 @@
     "2026-08-13": 3,
     "2026-08-14": 6,
     "2026-08-15": 9,
-    "2026-08-17": 3
+    "2026-08-17": 3,
+    "2026-08-18": 1
   },
   "todayProblems": [
     "Most Frequent Character",
@@ -1553,6 +1555,7 @@
     "Ransom Note",
     "Sum of odd and even elements",
     "Is Linked List Sorted",
-    "Split Linked List Alternatingly"
+    "Split Linked List Alternatingly",
+    "Find the minimum time"
   ]
 }
