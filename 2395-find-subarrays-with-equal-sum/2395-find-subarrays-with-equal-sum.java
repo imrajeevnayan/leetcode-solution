@@ -4,11 +4,8 @@ class Solution {
 
         for (int i = 1; i < nums.length; i++) {
             int sum = nums[i] + nums[i - 1];
-
-            if (!set.add(sum))
-                return true;
+            if (!set.add(sum))  return true;
         }
-
         return false;
     }
 }
