@@ -21,6 +21,7 @@
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/imrajeevnayan/leetcode-solution/tree/main/1008-construct-binary-search-tree-from-preorder-traversal/) | Medium |
 | [1310-xor-queries-of-a-subarray](https://github.com/imrajeevnayan/leetcode-solution/tree/main/1310-xor-queries-of-a-subarray/) | Medium |
 | [1386-cinema-seat-allocation](https://github.com/imrajeevnayan/leetcode-solution/tree/main/1386-cinema-seat-allocation/) | Medium |
+| [1472-design-browser-history](https://github.com/imrajeevnayan/leetcode-solution/tree/main/1472-design-browser-history/) | Medium |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/imrajeevnayan/leetcode-solution/tree/main/1475-final-prices-with-a-special-discount-in-a-shop/) | Easy |
 | [1563-stone-game-v](https://github.com/imrajeevnayan/leetcode-solution/tree/main/1563-stone-game-v/) | Hard |
 | [1829-maximum-xor-for-each-query](https://github.com/imrajeevnayan/leetcode-solution/tree/main/1829-maximum-xor-for-each-query/) | Medium |
@@ -93,6 +94,7 @@
 | [0739-daily-temperatures](https://github.com/imrajeevnayan/leetcode-solution/tree/main/0739-daily-temperatures/) | Medium |
 | [0901-online-stock-span](https://github.com/imrajeevnayan/leetcode-solution/tree/main/0901-online-stock-span/) | Medium |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/imrajeevnayan/leetcode-solution/tree/main/1008-construct-binary-search-tree-from-preorder-traversal/) | Medium |
+| [1472-design-browser-history](https://github.com/imrajeevnayan/leetcode-solution/tree/main/1472-design-browser-history/) | Medium |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/imrajeevnayan/leetcode-solution/tree/main/1475-final-prices-with-a-special-discount-in-a-shop/) | Easy |
 ## Tree
 | Problem Name | Difficulty |
@@ -142,10 +144,12 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0901-online-stock-span](https://github.com/imrajeevnayan/leetcode-solution/tree/main/0901-online-stock-span/) | Medium |
+| [1472-design-browser-history](https://github.com/imrajeevnayan/leetcode-solution/tree/main/1472-design-browser-history/) | Medium |
 ## Data Stream
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0901-online-stock-span](https://github.com/imrajeevnayan/leetcode-solution/tree/main/0901-online-stock-span/) | Medium |
+| [1472-design-browser-history](https://github.com/imrajeevnayan/leetcode-solution/tree/main/1472-design-browser-history/) | Medium |
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -226,6 +230,7 @@
 | [0141-linked-list-cycle](https://github.com/imrajeevnayan/leetcode-solution/tree/main/0141-linked-list-cycle/) | Easy |
 | [0206-reverse-linked-list](https://github.com/imrajeevnayan/leetcode-solution/tree/main/0206-reverse-linked-list/) | Easy |
 | [0876-middle-of-the-linked-list](https://github.com/imrajeevnayan/leetcode-solution/tree/main/0876-middle-of-the-linked-list/) | Easy |
+| [1472-design-browser-history](https://github.com/imrajeevnayan/leetcode-solution/tree/main/1472-design-browser-history/) | Medium |
 | [1669-merge-in-between-linked-lists](https://github.com/imrajeevnayan/leetcode-solution/tree/main/1669-merge-in-between-linked-lists/) | Medium |
 ## Recursion
 | Problem Name | Difficulty |
@@ -236,6 +241,10 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0141-linked-list-cycle](https://github.com/imrajeevnayan/leetcode-solution/tree/main/0141-linked-list-cycle/) | Easy |
+## Doubly-Linked List
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1472-design-browser-history](https://github.com/imrajeevnayan/leetcode-solution/tree/main/1472-design-browser-history/) | Medium |
 <!---LeetCode Topics End-->
 | 2 | [Union of Two Sets](https://www.geeksforgeeks.org/problems/union-of-two-arrays3538--171343/1?page=2&category=Hash) | GeeksForGeeks | Easy | 12 Aug 2026 | 05:03 pm |
 | 3 | [Prime Frequencies in Array](https://www.geeksforgeeks.org/problems/numbers-with-prime-frequencies-greater-than-or-equal-to-k5823/1?page=3&category=Hash) | GeeksForGeeks | Easy | 12 Aug 2026 | 05:06 pm |
