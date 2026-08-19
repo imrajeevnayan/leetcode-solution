@@ -969,18 +969,19 @@
     "GeeksForGeeks_Sum_of_odd_and_even_elements": true,
     "GeeksForGeeks_Is_Linked_List_Sorted": true,
     "GeeksForGeeks_Split_Linked_List_Alternatingly": true,
-    "GeeksForGeeks_Find_the_minimum_time": true
+    "GeeksForGeeks_Find_the_minimum_time": true,
+    "GeeksForGeeks_Identical_Linked_Lists": true
   },
-  "totalSolved": 497,
+  "totalSolved": 498,
   "difficultyCounts": {
     "easy": 164,
     "medium": 207,
     "hard": 9,
-    "basic": 117
+    "basic": 118
   },
-  "currentStreak": 2,
+  "currentStreak": 3,
   "todayCount": 1,
-  "lastSyncDate": "2026-08-18",
+  "lastSyncDate": "2026-08-19",
   "maxStreak": 25,
   "activityHistory": {
     "2026-05-19": 2,
@@ -1060,7 +1061,8 @@
     "2026-08-14": 6,
     "2026-08-15": 9,
     "2026-08-17": 3,
-    "2026-08-18": 1
+    "2026-08-18": 1,
+    "2026-08-19": 1
   },
   "todayProblems": [
     "Most Frequent Character",
@@ -1556,6 +1558,7 @@
     "Sum of odd and even elements",
     "Is Linked List Sorted",
     "Split Linked List Alternatingly",
-    "Find the minimum time"
+    "Find the minimum time",
+    "Identical Linked Lists"
   ]
 }
