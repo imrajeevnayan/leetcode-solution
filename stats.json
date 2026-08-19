@@ -973,12 +973,12 @@
     "GeeksForGeeks_Identical_Linked_Lists": true,
     "GeeksForGeeks_Insert_in_a_Sorted_List": true,
     "LeetCode_Merge_In_Between_Linked_Lists": true,
-    "LeetCode_Reverse_Prefix_of_Word": true
+    "LeetCode_Build_an_Array_With_Stack_Operations": true
   },
   "totalSolved": 501,
   "difficultyCounts": {
-    "easy": 166,
-    "medium": 208,
+    "easy": 165,
+    "medium": 209,
     "hard": 9,
     "basic": 118
   },
@@ -1565,6 +1565,6 @@
     "Identical Linked Lists",
     "Insert in a Sorted List",
     "Merge In Between Linked Lists",
-    "Reverse Prefix of Word"
+    "Build an Array With Stack Operations"
   ]
 }
