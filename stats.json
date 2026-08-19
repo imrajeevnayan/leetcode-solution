@@ -972,17 +972,18 @@
     "GeeksForGeeks_Find_the_minimum_time": true,
     "GeeksForGeeks_Identical_Linked_Lists": true,
     "GeeksForGeeks_Insert_in_a_Sorted_List": true,
-    "LeetCode_Merge_In_Between_Linked_Lists": true
+    "LeetCode_Merge_In_Between_Linked_Lists": true,
+    "LeetCode_Reverse_Prefix_of_Word": true
   },
-  "totalSolved": 500,
+  "totalSolved": 501,
   "difficultyCounts": {
-    "easy": 165,
+    "easy": 166,
     "medium": 208,
     "hard": 9,
     "basic": 118
   },
   "currentStreak": 3,
-  "todayCount": 3,
+  "todayCount": 4,
   "lastSyncDate": "2026-08-19",
   "maxStreak": 25,
   "activityHistory": {
@@ -1064,7 +1065,7 @@
     "2026-08-15": 9,
     "2026-08-17": 3,
     "2026-08-18": 1,
-    "2026-08-19": 3
+    "2026-08-19": 4
   },
   "todayProblems": [
     "Most Frequent Character",
@@ -1563,6 +1564,7 @@
     "Find the minimum time",
     "Identical Linked Lists",
     "Insert in a Sorted List",
-    "Merge In Between Linked Lists"
+    "Merge In Between Linked Lists",
+    "Reverse Prefix of Word"
   ]
 }
