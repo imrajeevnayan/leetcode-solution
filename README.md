@@ -94,6 +94,7 @@
 | [0739-daily-temperatures](https://github.com/imrajeevnayan/leetcode-solution/tree/main/0739-daily-temperatures/) | Medium |
 | [0901-online-stock-span](https://github.com/imrajeevnayan/leetcode-solution/tree/main/0901-online-stock-span/) | Medium |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/imrajeevnayan/leetcode-solution/tree/main/1008-construct-binary-search-tree-from-preorder-traversal/) | Medium |
+| [1021-remove-outermost-parentheses](https://github.com/imrajeevnayan/leetcode-solution/tree/main/1021-remove-outermost-parentheses/) | Easy |
 | [1472-design-browser-history](https://github.com/imrajeevnayan/leetcode-solution/tree/main/1472-design-browser-history/) | Medium |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/imrajeevnayan/leetcode-solution/tree/main/1475-final-prices-with-a-special-discount-in-a-shop/) | Easy |
 ## Tree
@@ -161,6 +162,7 @@
 | [0383-ransom-note](https://github.com/imrajeevnayan/leetcode-solution/tree/main/0383-ransom-note/) | Easy |
 | [0680-valid-palindrome-ii](https://github.com/imrajeevnayan/leetcode-solution/tree/main/0680-valid-palindrome-ii/) | Easy |
 | [0929-unique-email-addresses](https://github.com/imrajeevnayan/leetcode-solution/tree/main/0929-unique-email-addresses/) | Easy |
+| [1021-remove-outermost-parentheses](https://github.com/imrajeevnayan/leetcode-solution/tree/main/1021-remove-outermost-parentheses/) | Easy |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/imrajeevnayan/leetcode-solution/tree/main/2213-longest-substring-of-one-repeating-character/) | Hard |
 | [2810-faulty-keyboard](https://github.com/imrajeevnayan/leetcode-solution/tree/main/2810-faulty-keyboard/) | Easy |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/imrajeevnayan/leetcode-solution/tree/main/3090-maximum-length-substring-with-two-occurrences/) | Easy |
@@ -245,6 +247,10 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1472-design-browser-history](https://github.com/imrajeevnayan/leetcode-solution/tree/main/1472-design-browser-history/) | Medium |
+## Bracket Sequences
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1021-remove-outermost-parentheses](https://github.com/imrajeevnayan/leetcode-solution/tree/main/1021-remove-outermost-parentheses/) | Easy |
 <!---LeetCode Topics End-->
 | 2 | [Union of Two Sets](https://www.geeksforgeeks.org/problems/union-of-two-arrays3538--171343/1?page=2&category=Hash) | GeeksForGeeks | Easy | 12 Aug 2026 | 05:03 pm |
 | 3 | [Prime Frequencies in Array](https://www.geeksforgeeks.org/problems/numbers-with-prime-frequencies-greater-than-or-equal-to-k5823/1?page=3&category=Hash) | GeeksForGeeks | Easy | 12 Aug 2026 | 05:06 pm |
