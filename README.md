@@ -263,3 +263,4 @@
 | 25 | [Find the minimum time](https://www.geeksforgeeks.org/problems/find-the-minimum-time0253/1?page=1&category=Binary%20Search) | GeeksForGeeks | Easy | 18 Aug 2026 | 02:16 pm |
 | 26 | [Identical Linked Lists](https://www.geeksforgeeks.org/problems/identical-linked-lists/1?sortBy=submissions&category%255B%255D=Linked%2520List&page=1&difficulty%255B%255D=-1) | GeeksForGeeks | Basic | 19 Aug 2026 | 12:38 pm |
 | 27 | [Insert in a Sorted List](https://www.geeksforgeeks.org/problems/insert-in-a-sorted-list/1?sortBy=submissions&category%255B%255D=Linked%2520List&page=1&difficulty%255B%255D=0) | GeeksForGeeks | Easy | 19 Aug 2026 | 12:44 pm |
+| 28 | [Merge In Between Linked Lists](https://leetcode.com/problems/merge-in-between-linked-lists/) | LeetCode | Medium | 19 Aug 2026 | 07:16 pm |
