@@ -1,19 +1,17 @@
 class Solution {
     public List<String> buildArray(int[] target, int n) {
-        List<String> result = new ArrayList<>();
-        int current = 1;
+        List<String> ans = new ArrayList<>();
+        int num = 1;
 
-        for (int num : target) {
-            while (current < num) {
-                result.add("Push");
-                result.add("Pop");
-                current++;
+        for (int x : target) {
+            while (num < x) {
+                ans.add("Push");
+                ans.add("Pop");
+                num++;
             }
-
-            result.add("Push");
-            current++;
+            ans.add("Push");
+            num++;
         }
-
-        return result;
+        return ans;
     }
 }
