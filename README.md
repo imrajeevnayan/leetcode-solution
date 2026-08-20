@@ -302,3 +302,4 @@
 | 28 | [Merge In Between Linked Lists](https://leetcode.com/problems/merge-in-between-linked-lists/) | LeetCode | Medium | 19 Aug 2026 | 07:16 pm |
 | 29 | [Build an Array With Stack Operations](https://leetcode.com/problems/build-an-array-with-stack-operations/) | LeetCode | Medium | 19 Aug 2026 | 07:23 pm |
 | 30 | [Search in Rotated Sorted Array](https://leetcode.com/problems/search-in-rotated-sorted-array/) | LeetCode | Medium | 20 Aug 2026 | 11:18 am |
+| 31 | [k Largest Elements](https://www.geeksforgeeks.org/problems/k-largest-elements4206/1) | GeeksForGeeks | Medium | 20 Aug 2026 | 06:58 pm |
