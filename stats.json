@@ -975,17 +975,18 @@
     "LeetCode_Merge_In_Between_Linked_Lists": true,
     "LeetCode_Build_an_Array_With_Stack_Operations": true,
     "LeetCode_Search_in_Rotated_Sorted_Array": true,
-    "GeeksForGeeks_k_Largest_Elements": true
+    "GeeksForGeeks_k_Largest_Elements": true,
+    "GeeksForGeeks_Kth_Largest": true
   },
-  "totalSolved": 503,
+  "totalSolved": 504,
   "difficultyCounts": {
     "easy": 165,
-    "medium": 211,
+    "medium": 212,
     "hard": 9,
     "basic": 118
   },
   "currentStreak": 4,
-  "todayCount": 2,
+  "todayCount": 3,
   "lastSyncDate": "2026-08-20",
   "maxStreak": 25,
   "activityHistory": {
@@ -1068,7 +1069,7 @@
     "2026-08-17": 3,
     "2026-08-18": 1,
     "2026-08-19": 4,
-    "2026-08-20": 2
+    "2026-08-20": 3
   },
   "todayProblems": [
     "Most Frequent Character",
@@ -1570,6 +1571,7 @@
     "Merge In Between Linked Lists",
     "Build an Array With Stack Operations",
     "Search in Rotated Sorted Array",
-    "k Largest Elements"
+    "k Largest Elements",
+    "Kth Largest"
   ]
 }
