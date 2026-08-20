@@ -973,18 +973,19 @@
     "GeeksForGeeks_Identical_Linked_Lists": true,
     "GeeksForGeeks_Insert_in_a_Sorted_List": true,
     "LeetCode_Merge_In_Between_Linked_Lists": true,
-    "LeetCode_Build_an_Array_With_Stack_Operations": true
+    "LeetCode_Build_an_Array_With_Stack_Operations": true,
+    "LeetCode_Search_in_Rotated_Sorted_Array": true
   },
-  "totalSolved": 501,
+  "totalSolved": 502,
   "difficultyCounts": {
     "easy": 165,
-    "medium": 209,
+    "medium": 210,
     "hard": 9,
     "basic": 118
   },
-  "currentStreak": 3,
-  "todayCount": 4,
-  "lastSyncDate": "2026-08-19",
+  "currentStreak": 4,
+  "todayCount": 1,
+  "lastSyncDate": "2026-08-20",
   "maxStreak": 25,
   "activityHistory": {
     "2026-05-19": 2,
@@ -1065,7 +1066,8 @@
     "2026-08-15": 9,
     "2026-08-17": 3,
     "2026-08-18": 1,
-    "2026-08-19": 4
+    "2026-08-19": 4,
+    "2026-08-20": 1
   },
   "todayProblems": [
     "Most Frequent Character",
@@ -1565,6 +1567,7 @@
     "Identical Linked Lists",
     "Insert in a Sorted List",
     "Merge In Between Linked Lists",
-    "Build an Array With Stack Operations"
+    "Build an Array With Stack Operations",
+    "Search in Rotated Sorted Array"
   ]
 }
