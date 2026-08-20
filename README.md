@@ -305,3 +305,4 @@
 | 31 | [k Largest Elements](https://www.geeksforgeeks.org/problems/k-largest-elements4206/1) | GeeksForGeeks | Medium | 20 Aug 2026 | 06:58 pm |
 | 32 | [Kth Largest](https://www.geeksforgeeks.org/problems/kth-largest-element5034/1) | GeeksForGeeks | Medium | 20 Aug 2026 | 07:01 pm |
 | 33 | [Smallest Range in K Lists](https://www.geeksforgeeks.org/problems/find-smallest-range-containing-elements-from-k-lists/1) | GeeksForGeeks | Hard | 20 Aug 2026 | 07:05 pm |
+| 34 | [Deque Traversal](https://www.geeksforgeeks.org/problems/dequeue-traversal/1) | GeeksForGeeks | Basic | 20 Aug 2026 | 07:06 pm |
