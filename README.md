@@ -332,3 +332,4 @@
 | 39 | [Look and Say Pattern](https://www.geeksforgeeks.org/problems/decode-the-pattern1138/1) | GeeksForGeeks | Medium | 21 Aug 2026 | 02:46 pm |
 | 40 | [Count Unique Vowel Strings](https://www.geeksforgeeks.org/problems/count-unique-vowel-strings/1) | GeeksForGeeks | Medium | 21 Aug 2026 | 02:48 pm |
 | 41 | [Find Users With Valid E-Mails](https://leetcode.com/problems/find-users-with-valid-e-mails/) | LeetCode | Easy | 21 Aug 2026 | 03:57 pm |
+| 42 | [Search Query for Strings](https://www.geeksforgeeks.org/problems/search-query-for-strings5049/1) | GeeksForGeeks | Easy | 21 Aug 2026 | 04:04 pm |

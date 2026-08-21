@@ -985,17 +985,18 @@
     "GeeksForGeeks_Get_Max_from_Stack": true,
     "GeeksForGeeks_Look_and_Say_Pattern": true,
     "GeeksForGeeks_Count_Unique_Vowel_Strings": true,
-    "LeetCode_Find_Users_With_Valid_E-Mails": true
+    "LeetCode_Find_Users_With_Valid_E-Mails": true,
+    "GeeksForGeeks_Search_Query_for_Strings": true
   },
-  "totalSolved": 513,
+  "totalSolved": 514,
   "difficultyCounts": {
-    "easy": 166,
+    "easy": 167,
     "medium": 217,
     "hard": 11,
     "basic": 119
   },
   "currentStreak": 5,
-  "todayCount": 6,
+  "todayCount": 7,
   "lastSyncDate": "2026-08-21",
   "maxStreak": 25,
   "activityHistory": {
@@ -1079,7 +1080,7 @@
     "2026-08-18": 1,
     "2026-08-19": 4,
     "2026-08-20": 6,
-    "2026-08-21": 6
+    "2026-08-21": 7
   },
   "todayProblems": [
     "Most Frequent Character",
@@ -1591,6 +1592,7 @@
     "Get Max from Stack",
     "Look and Say Pattern",
     "Count Unique Vowel Strings",
-    "Find Users With Valid E-Mails"
+    "Find Users With Valid E-Mails",
+    "Search Query for Strings"
   ]
 }
