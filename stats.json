@@ -981,7 +981,7 @@
     "GeeksForGeeks_Deque_Traversal": true,
     "GeeksForGeeks_Josephus_problem": true,
     "GeeksForGeeks_Transform_String": true,
-    "GeeksForGeeks_Clone_a_Stack": true
+    "GeeksForGeeks_Nearest_Smaller_Value": true
   },
   "totalSolved": 509,
   "difficultyCounts": {
@@ -1583,6 +1583,6 @@
     "Deque Traversal",
     "Josephus problem",
     "Transform String",
-    "Clone a Stack"
+    "Nearest Smaller Value"
   ]
 }
