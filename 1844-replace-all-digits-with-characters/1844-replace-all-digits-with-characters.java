@@ -1,18 +1,16 @@
 class Solution {
     public String replaceDigits(String s) {
-        StringBuilder ans = new StringBuilder();
+        String result = "";
 
         for (int i = 0; i < s.length(); i++) {
-            char ch = s.charAt(i);
-
-            if (Character.isDigit(ch)) {
-                int shift = ch - '0';
-                char prev = ans.charAt(ans.length() - 1);
-                ans.append((char) (prev + shift));
+            if (i % 2 == 0) {
+                result += s.charAt(i);
             } else {
-                ans.append(ch);
+                int shift = s.charAt(i) - '0';
+                char ch = (char)(s.charAt(i - 1) + shift);
+                result += ch;
             }
         }
-        return ans.toString();
+        return result;
     }
 }
