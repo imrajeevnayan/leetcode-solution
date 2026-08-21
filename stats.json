@@ -980,17 +980,18 @@
     "GeeksForGeeks_Smallest_Range_in_K_Lists": true,
     "GeeksForGeeks_Deque_Traversal": true,
     "GeeksForGeeks_Josephus_problem": true,
-    "GeeksForGeeks_Transform_String": true
+    "GeeksForGeeks_Transform_String": true,
+    "GeeksForGeeks_Clone_a_Stack": true
   },
-  "totalSolved": 508,
+  "totalSolved": 509,
   "difficultyCounts": {
     "easy": 165,
-    "medium": 213,
+    "medium": 214,
     "hard": 11,
     "basic": 119
   },
   "currentStreak": 5,
-  "todayCount": 1,
+  "todayCount": 2,
   "lastSyncDate": "2026-08-21",
   "maxStreak": 25,
   "activityHistory": {
@@ -1074,7 +1075,7 @@
     "2026-08-18": 1,
     "2026-08-19": 4,
     "2026-08-20": 6,
-    "2026-08-21": 1
+    "2026-08-21": 2
   },
   "todayProblems": [
     "Most Frequent Character",
@@ -1581,6 +1582,7 @@
     "Smallest Range in K Lists",
     "Deque Traversal",
     "Josephus problem",
-    "Transform String"
+    "Transform String",
+    "Clone a Stack"
   ]
 }

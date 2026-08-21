@@ -1,0 +1,19 @@
+# Clone a Stack
+
+## Difficulty: Medium
+
+## Platform: GeeksForGeeks
+
+## Problem Link
+[View Problem](https://www.geeksforgeeks.org/problems/clone-a-stack-without-usinig-extra-space/1)
+
+## Solved On
+21 Aug 2026 at 02:39 pm
+
+<h2><a href="https://www.geeksforgeeks.org/problems/clone-a-stack-without-usinig-extra-space/1">Clone a Stack</a></h2><h3>Difficulty Level: Medium</h3><hr><p><span style="font-size: 14pt;">Given a stack <strong>st[] </strong>of size<strong> n</strong>, return a clone of the stack without using any extra data structure for storage. You may not use the stack's built-in copy constructor, assignment operator, or any other direct copy/clone method.<br></span></p>
+<p><span style="font-size: 14pt;"><strong>Note: </strong>The driver code will print "<strong>true</strong>" if the returned stack is a valid clone; otherwise, it will print "<strong>false</strong>".</span></p>
+<p><span style="font-size: 14pt;"><strong>Example:</strong></span></p>
+<pre><span style="font-size: 14pt;"><strong>Input</strong>: st[] = [1, 2, 3, 4, 5, 6, 7]
+<strong>Output: </strong>true<br><strong>Explanation:</strong> The stack st is successfully cloned into another stack with the same elements in the same order.<br><img src="https://media.geeksforgeeks.org/img-practice/prod/addEditProblem/929817/Web/Other/blobid1_1782210747.webp" width="138" height="215"><br></span></pre>
+<pre><span style="font-size: 14pt;"><strong>Input: </strong>st[] = [1, 1, 2, 2, 3, 3, 9]</span><br><span style="font-size: 14pt;"><strong>Output</strong>: true</span><br><span style="font-size: 14pt;"><strong>Explanation</strong><strong>: </strong>The stack st is successfully cloned into another stack with the same elements in the same order.</span></pre>
+<p><span style="font-size: 14pt;"><strong>Constraints:<br></strong>1 ≤ n ≤ 10^3<br>1 ≤ st[i] ≤ 10^5</span></p>
