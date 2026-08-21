@@ -330,3 +330,4 @@
 | 38 | [Get Max from Stack](https://www.geeksforgeeks.org/problems/get-max-from-stack/1) | GeeksForGeeks | Medium | 21 Aug 2026 | 02:42 pm |
 | 39 | [Look and Say Pattern](https://www.geeksforgeeks.org/problems/decode-the-pattern1138/1) | GeeksForGeeks | Medium | 21 Aug 2026 | 02:46 pm |
 | 40 | [Count Unique Vowel Strings](https://www.geeksforgeeks.org/problems/count-unique-vowel-strings/1) | GeeksForGeeks | Medium | 21 Aug 2026 | 02:48 pm |
+| 41 | [Delete Duplicate Emails](https://leetcode.com/problems/delete-duplicate-emails/) | LeetCode | Easy | 21 Aug 2026 | 03:56 pm |
