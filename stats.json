@@ -983,17 +983,18 @@
     "GeeksForGeeks_Transform_String": true,
     "GeeksForGeeks_Nearest_Smaller_Value": true,
     "GeeksForGeeks_Get_Max_from_Stack": true,
-    "GeeksForGeeks_Look_and_Say_Pattern": true
+    "GeeksForGeeks_Look_and_Say_Pattern": true,
+    "GeeksForGeeks_Count_Unique_Vowel_Strings": true
   },
-  "totalSolved": 511,
+  "totalSolved": 512,
   "difficultyCounts": {
     "easy": 165,
-    "medium": 216,
+    "medium": 217,
     "hard": 11,
     "basic": 119
   },
   "currentStreak": 5,
-  "todayCount": 4,
+  "todayCount": 5,
   "lastSyncDate": "2026-08-21",
   "maxStreak": 25,
   "activityHistory": {
@@ -1077,7 +1078,7 @@
     "2026-08-18": 1,
     "2026-08-19": 4,
     "2026-08-20": 6,
-    "2026-08-21": 4
+    "2026-08-21": 5
   },
   "todayProblems": [
     "Most Frequent Character",
@@ -1587,6 +1588,7 @@
     "Transform String",
     "Nearest Smaller Value",
     "Get Max from Stack",
-    "Look and Say Pattern"
+    "Look and Say Pattern",
+    "Count Unique Vowel Strings"
   ]
 }
