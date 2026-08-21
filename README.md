@@ -326,3 +326,4 @@
 | 35 | [Josephus problem](https://www.geeksforgeeks.org/problems/josephus-problem/1) | GeeksForGeeks | Hard | 20 Aug 2026 | 07:10 pm |
 | 36 | [Transform String](https://www.geeksforgeeks.org/problems/transform-string5648/1) | GeeksForGeeks | Medium | 21 Aug 2026 | 11:51 am |
 | 37 | [Nearest Smaller Value](https://www.geeksforgeeks.org/problems/nearest-smaller-tower--170647/1) | GeeksForGeeks | Medium | 21 Aug 2026 | 02:40 pm |
+| 38 | [Get Max from Stack](https://www.geeksforgeeks.org/problems/get-max-from-stack/1) | GeeksForGeeks | Medium | 21 Aug 2026 | 02:42 pm |
