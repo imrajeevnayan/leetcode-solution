@@ -151,7 +151,6 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0176-second-highest-salary](https://github.com/imrajeevnayan/leetcode-solution/tree/main/0176-second-highest-salary/) | Medium |
-| [0196-delete-duplicate-emails](https://github.com/imrajeevnayan/leetcode-solution/tree/main/0196-delete-duplicate-emails/) | Easy |
 | [1795-rearrange-products-table](https://github.com/imrajeevnayan/leetcode-solution/tree/main/1795-rearrange-products-table/) | Easy |
 | [3220-odd-and-even-transactions](https://github.com/imrajeevnayan/leetcode-solution/tree/main/3220-odd-and-even-transactions/) | Medium |
 | [3475-dna-pattern-recognition](https://github.com/imrajeevnayan/leetcode-solution/tree/main/3475-dna-pattern-recognition/) | Medium |
@@ -331,4 +330,4 @@
 | 38 | [Get Max from Stack](https://www.geeksforgeeks.org/problems/get-max-from-stack/1) | GeeksForGeeks | Medium | 21 Aug 2026 | 02:42 pm |
 | 39 | [Look and Say Pattern](https://www.geeksforgeeks.org/problems/decode-the-pattern1138/1) | GeeksForGeeks | Medium | 21 Aug 2026 | 02:46 pm |
 | 40 | [Count Unique Vowel Strings](https://www.geeksforgeeks.org/problems/count-unique-vowel-strings/1) | GeeksForGeeks | Medium | 21 Aug 2026 | 02:48 pm |
-| 41 | [Delete Duplicate Emails](https://leetcode.com/problems/delete-duplicate-emails/) | LeetCode | Easy | 21 Aug 2026 | 03:56 pm |
+| 41 | [Find Users With Valid E-Mails](https://leetcode.com/problems/find-users-with-valid-e-mails/) | LeetCode | Easy | 21 Aug 2026 | 03:57 pm |

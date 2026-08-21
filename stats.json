@@ -985,7 +985,7 @@
     "GeeksForGeeks_Get_Max_from_Stack": true,
     "GeeksForGeeks_Look_and_Say_Pattern": true,
     "GeeksForGeeks_Count_Unique_Vowel_Strings": true,
-    "LeetCode_Delete_Duplicate_Emails": true
+    "LeetCode_Find_Users_With_Valid_E-Mails": true
   },
   "totalSolved": 513,
   "difficultyCounts": {
@@ -1591,6 +1591,6 @@
     "Get Max from Stack",
     "Look and Say Pattern",
     "Count Unique Vowel Strings",
-    "Delete Duplicate Emails"
+    "Find Users With Valid E-Mails"
   ]
 }
