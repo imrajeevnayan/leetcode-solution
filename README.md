@@ -401,3 +401,4 @@
 | 49 | [Next Happy Number](https://www.geeksforgeeks.org/problems/next-happy-number4538/1) | GeeksForGeeks | Hard | 22 Aug 2026 | 08:37 pm |
 | 50 | [Count Only Repeated](https://www.geeksforgeeks.org/problems/count-only-repeated2047/1) | GeeksForGeeks | Medium | 22 Aug 2026 | 08:41 pm |
 | 51 | [Distinct Frequencies Check](https://www.geeksforgeeks.org/problems/unique-frequencies-of-not/1) | GeeksForGeeks | Easy | 22 Aug 2026 | 09:18 pm |
+| 52 | [Palindrome Linked List](https://leetcode.com/problems/palindrome-linked-list/) | LeetCode | Easy | 22 Aug 2026 | 09:20 pm |

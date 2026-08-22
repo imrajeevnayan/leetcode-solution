@@ -995,17 +995,18 @@
     "GeeksForGeeks_Generating_All_Subarrays": true,
     "GeeksForGeeks_Next_Happy_Number": true,
     "GeeksForGeeks_Count_Only_Repeated": true,
-    "GeeksForGeeks_Distinct_Frequencies_Check": true
+    "GeeksForGeeks_Distinct_Frequencies_Check": true,
+    "LeetCode_Palindrome_Linked_List": true
   },
-  "totalSolved": 523,
+  "totalSolved": 524,
   "difficultyCounts": {
-    "easy": 173,
+    "easy": 174,
     "medium": 218,
     "hard": 12,
     "basic": 120
   },
   "currentStreak": 6,
-  "todayCount": 8,
+  "todayCount": 9,
   "lastSyncDate": "2026-08-22",
   "maxStreak": 25,
   "activityHistory": {
@@ -1090,7 +1091,7 @@
     "2026-08-19": 4,
     "2026-08-20": 6,
     "2026-08-21": 8,
-    "2026-08-22": 8
+    "2026-08-22": 9
   },
   "todayProblems": [
     "Most Frequent Character",
@@ -1612,6 +1613,7 @@
     "Generating All Subarrays",
     "Next Happy Number",
     "Count Only Repeated",
-    "Distinct Frequencies Check"
+    "Distinct Frequencies Check",
+    "Palindrome Linked List"
   ]
 }
