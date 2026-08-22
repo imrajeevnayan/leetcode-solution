@@ -391,3 +391,4 @@
 | 43 | [Shuffle String](https://leetcode.com/problems/shuffle-string/) | LeetCode | Easy | 21 Aug 2026 | 10:44 pm |
 | 44 | [Transform Array by Parity](https://leetcode.com/problems/transform-array-by-parity/) | LeetCode | Easy | 22 Aug 2026 | 08:59 am |
 | 45 | [Height Checker](https://leetcode.com/problems/height-checker/) | LeetCode | Easy | 22 Aug 2026 | 09:01 am |
+| 46 | [Nth Fibonacci Using Recursion](https://www.geeksforgeeks.org/problems/fibonacci-using-recursion/1) | GeeksForGeeks | Basic | 22 Aug 2026 | 08:31 pm |

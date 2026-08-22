@@ -989,17 +989,18 @@
     "GeeksForGeeks_Search_Query_for_Strings": true,
     "LeetCode_Shuffle_String": true,
     "LeetCode_Transform_Array_by_Parity": true,
-    "LeetCode_Height_Checker": true
+    "LeetCode_Height_Checker": true,
+    "GeeksForGeeks_Nth_Fibonacci_Using_Recursion": true
   },
-  "totalSolved": 517,
+  "totalSolved": 518,
   "difficultyCounts": {
     "easy": 170,
     "medium": 217,
     "hard": 11,
-    "basic": 119
+    "basic": 120
   },
   "currentStreak": 6,
-  "todayCount": 2,
+  "todayCount": 3,
   "lastSyncDate": "2026-08-22",
   "maxStreak": 25,
   "activityHistory": {
@@ -1084,7 +1085,7 @@
     "2026-08-19": 4,
     "2026-08-20": 6,
     "2026-08-21": 8,
-    "2026-08-22": 2
+    "2026-08-22": 3
   },
   "todayProblems": [
     "Most Frequent Character",
@@ -1600,6 +1601,7 @@
     "Search Query for Strings",
     "Shuffle String",
     "Transform Array by Parity",
-    "Height Checker"
+    "Height Checker",
+    "Nth Fibonacci Using Recursion"
   ]
 }
