@@ -41,6 +41,7 @@
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/imrajeevnayan/leetcode-solution/tree/main/3069-distribute-elements-into-two-arrays-i/) | Easy |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/imrajeevnayan/leetcode-solution/tree/main/3116-kth-smallest-amount-with-single-denomination-combination/) | Hard |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/imrajeevnayan/leetcode-solution/tree/main/3432-count-partitions-with-even-sum-difference/) | Easy |
+| [3467-transform-array-by-parity](https://github.com/imrajeevnayan/leetcode-solution/tree/main/3467-transform-array-by-parity/) | Easy |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/imrajeevnayan/leetcode-solution/tree/main/3471-find-the-largest-almost-missing-integer/) | Easy |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/imrajeevnayan/leetcode-solution/tree/main/3702-longest-subsequence-with-non-zero-bitwise-xor/) | Medium |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/imrajeevnayan/leetcode-solution/tree/main/3737-count-subarrays-with-majority-element-i/) | Medium |
@@ -96,6 +97,7 @@
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/imrajeevnayan/leetcode-solution/tree/main/2824-count-pairs-whose-sum-is-less-than-target/) | Easy |
 | [2974-minimum-number-game](https://github.com/imrajeevnayan/leetcode-solution/tree/main/2974-minimum-number-game/) | Easy |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/imrajeevnayan/leetcode-solution/tree/main/2996-smallest-missing-integer-greater-than-sequential-prefix-sum/) | Easy |
+| [3467-transform-array-by-parity](https://github.com/imrajeevnayan/leetcode-solution/tree/main/3467-transform-array-by-parity/) | Easy |
 ## Divide and Conquer
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -244,6 +246,7 @@
 | [0383-ransom-note](https://github.com/imrajeevnayan/leetcode-solution/tree/main/0383-ransom-note/) | Easy |
 | [1221-split-a-string-in-balanced-strings](https://github.com/imrajeevnayan/leetcode-solution/tree/main/1221-split-a-string-in-balanced-strings/) | Easy |
 | [1347-minimum-number-of-steps-to-make-two-strings-anagram](https://github.com/imrajeevnayan/leetcode-solution/tree/main/1347-minimum-number-of-steps-to-make-two-strings-anagram/) | Medium |
+| [3467-transform-array-by-parity](https://github.com/imrajeevnayan/leetcode-solution/tree/main/3467-transform-array-by-parity/) | Easy |
 | [3692-majority-frequency-characters](https://github.com/imrajeevnayan/leetcode-solution/tree/main/3692-majority-frequency-characters/) | Easy |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/imrajeevnayan/leetcode-solution/tree/main/3737-count-subarrays-with-majority-element-i/) | Medium |
 ## Trie
