@@ -361,3 +361,4 @@
 | 41 | [Find Users With Valid E-Mails](https://leetcode.com/problems/find-users-with-valid-e-mails/) | LeetCode | Easy | 21 Aug 2026 | 03:57 pm |
 | 42 | [Search Query for Strings](https://www.geeksforgeeks.org/problems/search-query-for-strings5049/1) | GeeksForGeeks | Easy | 21 Aug 2026 | 04:04 pm |
 | 43 | [Shuffle String](https://leetcode.com/problems/shuffle-string/) | LeetCode | Easy | 21 Aug 2026 | 10:44 pm |
+| 44 | [Transform Array by Parity](https://leetcode.com/problems/transform-array-by-parity/) | LeetCode | Easy | 22 Aug 2026 | 08:59 am |
