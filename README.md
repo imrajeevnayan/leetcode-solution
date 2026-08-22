@@ -31,6 +31,7 @@
 | [1563-stone-game-v](https://github.com/imrajeevnayan/leetcode-solution/tree/main/1563-stone-game-v/) | Hard |
 | [1769-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/imrajeevnayan/leetcode-solution/tree/main/1769-minimum-number-of-operations-to-move-all-balls-to-each-box/) | Medium |
 | [1829-maximum-xor-for-each-query](https://github.com/imrajeevnayan/leetcode-solution/tree/main/1829-maximum-xor-for-each-query/) | Medium |
+| [1863-sum-of-all-subset-xor-totals](https://github.com/imrajeevnayan/leetcode-solution/tree/main/1863-sum-of-all-subset-xor-totals/) | Easy |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/imrajeevnayan/leetcode-solution/tree/main/1967-number-of-strings-that-appear-as-substrings-in-word/) | Easy |
 | [2094-finding-3-digit-even-numbers](https://github.com/imrajeevnayan/leetcode-solution/tree/main/2094-finding-3-digit-even-numbers/) | Easy |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/imrajeevnayan/leetcode-solution/tree/main/2213-longest-substring-of-one-repeating-character/) | Hard |
@@ -53,6 +54,7 @@
 | [1310-xor-queries-of-a-subarray](https://github.com/imrajeevnayan/leetcode-solution/tree/main/1310-xor-queries-of-a-subarray/) | Medium |
 | [1386-cinema-seat-allocation](https://github.com/imrajeevnayan/leetcode-solution/tree/main/1386-cinema-seat-allocation/) | Medium |
 | [1829-maximum-xor-for-each-query](https://github.com/imrajeevnayan/leetcode-solution/tree/main/1829-maximum-xor-for-each-query/) | Medium |
+| [1863-sum-of-all-subset-xor-totals](https://github.com/imrajeevnayan/leetcode-solution/tree/main/1863-sum-of-all-subset-xor-totals/) | Easy |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/imrajeevnayan/leetcode-solution/tree/main/2657-find-the-prefix-common-array-of-two-arrays/) | Medium |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/imrajeevnayan/leetcode-solution/tree/main/3116-kth-smallest-amount-with-single-denomination-combination/) | Hard |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/imrajeevnayan/leetcode-solution/tree/main/3702-longest-subsequence-with-non-zero-bitwise-xor/) | Medium |
@@ -224,6 +226,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1563-stone-game-v](https://github.com/imrajeevnayan/leetcode-solution/tree/main/1563-stone-game-v/) | Hard |
+| [1863-sum-of-all-subset-xor-totals](https://github.com/imrajeevnayan/leetcode-solution/tree/main/1863-sum-of-all-subset-xor-totals/) | Easy |
 | [2864-maximum-odd-binary-number](https://github.com/imrajeevnayan/leetcode-solution/tree/main/2864-maximum-odd-binary-number/) | Easy |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/imrajeevnayan/leetcode-solution/tree/main/3116-kth-smallest-amount-with-single-denomination-combination/) | Hard |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/imrajeevnayan/leetcode-solution/tree/main/3432-count-partitions-with-even-sum-difference/) | Easy |
@@ -320,6 +323,7 @@
 ## Combinatorics
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [1863-sum-of-all-subset-xor-totals](https://github.com/imrajeevnayan/leetcode-solution/tree/main/1863-sum-of-all-subset-xor-totals/) | Easy |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/imrajeevnayan/leetcode-solution/tree/main/3116-kth-smallest-amount-with-single-denomination-combination/) | Hard |
 ## Number Theory
 | Problem Name | Difficulty |
@@ -336,7 +340,12 @@
 ## Enumeration
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [1863-sum-of-all-subset-xor-totals](https://github.com/imrajeevnayan/leetcode-solution/tree/main/1863-sum-of-all-subset-xor-totals/) | Easy |
 | [2094-finding-3-digit-even-numbers](https://github.com/imrajeevnayan/leetcode-solution/tree/main/2094-finding-3-digit-even-numbers/) | Easy |
+## Backtracking
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1863-sum-of-all-subset-xor-totals](https://github.com/imrajeevnayan/leetcode-solution/tree/main/1863-sum-of-all-subset-xor-totals/) | Easy |
 <!---LeetCode Topics End-->
 | 2 | [Union of Two Sets](https://www.geeksforgeeks.org/problems/union-of-two-arrays3538--171343/1?page=2&category=Hash) | GeeksForGeeks | Easy | 12 Aug 2026 | 05:03 pm |
 | 3 | [Prime Frequencies in Array](https://www.geeksforgeeks.org/problems/numbers-with-prime-frequencies-greater-than-or-equal-to-k5823/1?page=3&category=Hash) | GeeksForGeeks | Easy | 12 Aug 2026 | 05:06 pm |
