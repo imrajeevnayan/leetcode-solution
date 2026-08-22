@@ -993,17 +993,18 @@
     "GeeksForGeeks_Nth_Fibonacci_Using_Recursion": true,
     "GeeksForGeeks_Recursively_Sum_n_Numbers": true,
     "GeeksForGeeks_Generating_All_Subarrays": true,
-    "GeeksForGeeks_Next_Happy_Number": true
+    "GeeksForGeeks_Next_Happy_Number": true,
+    "GeeksForGeeks_Count_Only_Repeated": true
   },
-  "totalSolved": 521,
+  "totalSolved": 522,
   "difficultyCounts": {
     "easy": 172,
-    "medium": 217,
+    "medium": 218,
     "hard": 12,
     "basic": 120
   },
   "currentStreak": 6,
-  "todayCount": 6,
+  "todayCount": 7,
   "lastSyncDate": "2026-08-22",
   "maxStreak": 25,
   "activityHistory": {
@@ -1088,7 +1089,7 @@
     "2026-08-19": 4,
     "2026-08-20": 6,
     "2026-08-21": 8,
-    "2026-08-22": 6
+    "2026-08-22": 7
   },
   "todayProblems": [
     "Most Frequent Character",
@@ -1608,6 +1609,7 @@
     "Nth Fibonacci Using Recursion",
     "Recursively Sum n Numbers",
     "Generating All Subarrays",
-    "Next Happy Number"
+    "Next Happy Number",
+    "Count Only Repeated"
   ]
 }

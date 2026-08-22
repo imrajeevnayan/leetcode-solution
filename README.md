@@ -395,3 +395,4 @@
 | 47 | [Recursively Sum n Numbers](https://www.geeksforgeeks.org/problems/recursively-sum-n-numbers/1) | GeeksForGeeks | Easy | 22 Aug 2026 | 08:34 pm |
 | 48 | [Generating All Subarrays](https://www.geeksforgeeks.org/problems/generating-all-subarrays/1) | GeeksForGeeks | Easy | 22 Aug 2026 | 08:35 pm |
 | 49 | [Next Happy Number](https://www.geeksforgeeks.org/problems/next-happy-number4538/1) | GeeksForGeeks | Hard | 22 Aug 2026 | 08:37 pm |
+| 50 | [Count Only Repeated](https://www.geeksforgeeks.org/problems/count-only-repeated2047/1) | GeeksForGeeks | Medium | 22 Aug 2026 | 08:41 pm |
