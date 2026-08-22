@@ -994,17 +994,18 @@
     "GeeksForGeeks_Recursively_Sum_n_Numbers": true,
     "GeeksForGeeks_Generating_All_Subarrays": true,
     "GeeksForGeeks_Next_Happy_Number": true,
-    "GeeksForGeeks_Count_Only_Repeated": true
+    "GeeksForGeeks_Count_Only_Repeated": true,
+    "GeeksForGeeks_Distinct_Frequencies_Check": true
   },
-  "totalSolved": 522,
+  "totalSolved": 523,
   "difficultyCounts": {
-    "easy": 172,
+    "easy": 173,
     "medium": 218,
     "hard": 12,
     "basic": 120
   },
   "currentStreak": 6,
-  "todayCount": 7,
+  "todayCount": 8,
   "lastSyncDate": "2026-08-22",
   "maxStreak": 25,
   "activityHistory": {
@@ -1089,7 +1090,7 @@
     "2026-08-19": 4,
     "2026-08-20": 6,
     "2026-08-21": 8,
-    "2026-08-22": 7
+    "2026-08-22": 8
   },
   "todayProblems": [
     "Most Frequent Character",
@@ -1610,6 +1611,7 @@
     "Recursively Sum n Numbers",
     "Generating All Subarrays",
     "Next Happy Number",
-    "Count Only Repeated"
+    "Count Only Repeated",
+    "Distinct Frequencies Check"
   ]
 }
