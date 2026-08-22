@@ -116,6 +116,7 @@
 | [0020-valid-parentheses](https://github.com/imrajeevnayan/leetcode-solution/tree/main/0020-valid-parentheses/) | Easy |
 | [0155-min-stack](https://github.com/imrajeevnayan/leetcode-solution/tree/main/0155-min-stack/) | Medium |
 | [0225-implement-stack-using-queues](https://github.com/imrajeevnayan/leetcode-solution/tree/main/0225-implement-stack-using-queues/) | Easy |
+| [0234-palindrome-linked-list](https://github.com/imrajeevnayan/leetcode-solution/tree/main/0234-palindrome-linked-list/) | Easy |
 | [0496-next-greater-element-i](https://github.com/imrajeevnayan/leetcode-solution/tree/main/0496-next-greater-element-i/) | Easy |
 | [0654-maximum-binary-tree](https://github.com/imrajeevnayan/leetcode-solution/tree/main/0654-maximum-binary-tree/) | Medium |
 | [0739-daily-temperatures](https://github.com/imrajeevnayan/leetcode-solution/tree/main/0739-daily-temperatures/) | Medium |
@@ -281,6 +282,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0141-linked-list-cycle](https://github.com/imrajeevnayan/leetcode-solution/tree/main/0141-linked-list-cycle/) | Easy |
+| [0234-palindrome-linked-list](https://github.com/imrajeevnayan/leetcode-solution/tree/main/0234-palindrome-linked-list/) | Easy |
 | [0680-valid-palindrome-ii](https://github.com/imrajeevnayan/leetcode-solution/tree/main/0680-valid-palindrome-ii/) | Easy |
 | [0876-middle-of-the-linked-list](https://github.com/imrajeevnayan/leetcode-solution/tree/main/0876-middle-of-the-linked-list/) | Easy |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/imrajeevnayan/leetcode-solution/tree/main/2824-count-pairs-whose-sum-is-less-than-target/) | Easy |
@@ -290,6 +292,7 @@
 | [0021-merge-two-sorted-lists](https://github.com/imrajeevnayan/leetcode-solution/tree/main/0021-merge-two-sorted-lists/) | Easy |
 | [0141-linked-list-cycle](https://github.com/imrajeevnayan/leetcode-solution/tree/main/0141-linked-list-cycle/) | Easy |
 | [0206-reverse-linked-list](https://github.com/imrajeevnayan/leetcode-solution/tree/main/0206-reverse-linked-list/) | Easy |
+| [0234-palindrome-linked-list](https://github.com/imrajeevnayan/leetcode-solution/tree/main/0234-palindrome-linked-list/) | Easy |
 | [0876-middle-of-the-linked-list](https://github.com/imrajeevnayan/leetcode-solution/tree/main/0876-middle-of-the-linked-list/) | Easy |
 | [1472-design-browser-history](https://github.com/imrajeevnayan/leetcode-solution/tree/main/1472-design-browser-history/) | Medium |
 | [1669-merge-in-between-linked-lists](https://github.com/imrajeevnayan/leetcode-solution/tree/main/1669-merge-in-between-linked-lists/) | Medium |
@@ -298,6 +301,7 @@
 | ------- | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/imrajeevnayan/leetcode-solution/tree/main/0021-merge-two-sorted-lists/) | Easy |
 | [0206-reverse-linked-list](https://github.com/imrajeevnayan/leetcode-solution/tree/main/0206-reverse-linked-list/) | Easy |
+| [0234-palindrome-linked-list](https://github.com/imrajeevnayan/leetcode-solution/tree/main/0234-palindrome-linked-list/) | Easy |
 | [2094-finding-3-digit-even-numbers](https://github.com/imrajeevnayan/leetcode-solution/tree/main/2094-finding-3-digit-even-numbers/) | Easy |
 ## Floyd's Cycle Finding Algorithm
 | Problem Name | Difficulty |
