@@ -14,6 +14,7 @@
 | [0128-longest-consecutive-sequence](https://github.com/imrajeevnayan/leetcode-solution/tree/main/0128-longest-consecutive-sequence/) | Medium |
 | [0219-contains-duplicate-ii](https://github.com/imrajeevnayan/leetcode-solution/tree/main/0219-contains-duplicate-ii/) | Easy |
 | [0238-product-of-array-except-self](https://github.com/imrajeevnayan/leetcode-solution/tree/main/0238-product-of-array-except-self/) | Medium |
+| [0349-intersection-of-two-arrays](https://github.com/imrajeevnayan/leetcode-solution/tree/main/0349-intersection-of-two-arrays/) | Easy |
 | [0410-split-array-largest-sum](https://github.com/imrajeevnayan/leetcode-solution/tree/main/0410-split-array-largest-sum/) | Hard |
 | [0496-next-greater-element-i](https://github.com/imrajeevnayan/leetcode-solution/tree/main/0496-next-greater-element-i/) | Easy |
 | [0654-maximum-binary-tree](https://github.com/imrajeevnayan/leetcode-solution/tree/main/0654-maximum-binary-tree/) | Medium |
@@ -85,6 +86,7 @@
 | [0205-isomorphic-strings](https://github.com/imrajeevnayan/leetcode-solution/tree/main/0205-isomorphic-strings/) | Easy |
 | [0219-contains-duplicate-ii](https://github.com/imrajeevnayan/leetcode-solution/tree/main/0219-contains-duplicate-ii/) | Easy |
 | [0290-word-pattern](https://github.com/imrajeevnayan/leetcode-solution/tree/main/0290-word-pattern/) | Easy |
+| [0349-intersection-of-two-arrays](https://github.com/imrajeevnayan/leetcode-solution/tree/main/0349-intersection-of-two-arrays/) | Easy |
 | [0383-ransom-note](https://github.com/imrajeevnayan/leetcode-solution/tree/main/0383-ransom-note/) | Easy |
 | [0496-next-greater-element-i](https://github.com/imrajeevnayan/leetcode-solution/tree/main/0496-next-greater-element-i/) | Easy |
 | [0929-unique-email-addresses](https://github.com/imrajeevnayan/leetcode-solution/tree/main/0929-unique-email-addresses/) | Easy |
@@ -105,6 +107,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0049-group-anagrams](https://github.com/imrajeevnayan/leetcode-solution/tree/main/0049-group-anagrams/) | Medium |
+| [0349-intersection-of-two-arrays](https://github.com/imrajeevnayan/leetcode-solution/tree/main/0349-intersection-of-two-arrays/) | Easy |
 | [1051-height-checker](https://github.com/imrajeevnayan/leetcode-solution/tree/main/1051-height-checker/) | Easy |
 | [2094-finding-3-digit-even-numbers](https://github.com/imrajeevnayan/leetcode-solution/tree/main/2094-finding-3-digit-even-numbers/) | Easy |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/imrajeevnayan/leetcode-solution/tree/main/2824-count-pairs-whose-sum-is-less-than-target/) | Easy |
@@ -161,6 +164,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0035-search-insert-position](https://github.com/imrajeevnayan/leetcode-solution/tree/main/0035-search-insert-position/) | Easy |
+| [0349-intersection-of-two-arrays](https://github.com/imrajeevnayan/leetcode-solution/tree/main/0349-intersection-of-two-arrays/) | Easy |
 | [0410-split-array-largest-sum](https://github.com/imrajeevnayan/leetcode-solution/tree/main/0410-split-array-largest-sum/) | Hard |
 | [0704-binary-search](https://github.com/imrajeevnayan/leetcode-solution/tree/main/0704-binary-search/) | Easy |
 | [1004-max-consecutive-ones-iii](https://github.com/imrajeevnayan/leetcode-solution/tree/main/1004-max-consecutive-ones-iii/) | Medium |
@@ -302,6 +306,7 @@
 | [0141-linked-list-cycle](https://github.com/imrajeevnayan/leetcode-solution/tree/main/0141-linked-list-cycle/) | Easy |
 | [0234-palindrome-linked-list](https://github.com/imrajeevnayan/leetcode-solution/tree/main/0234-palindrome-linked-list/) | Easy |
 | [0345-reverse-vowels-of-a-string](https://github.com/imrajeevnayan/leetcode-solution/tree/main/0345-reverse-vowels-of-a-string/) | Easy |
+| [0349-intersection-of-two-arrays](https://github.com/imrajeevnayan/leetcode-solution/tree/main/0349-intersection-of-two-arrays/) | Easy |
 | [0680-valid-palindrome-ii](https://github.com/imrajeevnayan/leetcode-solution/tree/main/0680-valid-palindrome-ii/) | Easy |
 | [0876-middle-of-the-linked-list](https://github.com/imrajeevnayan/leetcode-solution/tree/main/0876-middle-of-the-linked-list/) | Easy |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/imrajeevnayan/leetcode-solution/tree/main/2824-count-pairs-whose-sum-is-less-than-target/) | Easy |
