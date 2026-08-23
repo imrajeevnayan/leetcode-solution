@@ -260,6 +260,7 @@
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0507-perfect-number](https://github.com/imrajeevnayan/leetcode-solution/tree/main/0507-perfect-number/) | Easy |
 | [1563-stone-game-v](https://github.com/imrajeevnayan/leetcode-solution/tree/main/1563-stone-game-v/) | Hard |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/imrajeevnayan/leetcode-solution/tree/main/1863-sum-of-all-subset-xor-totals/) | Easy |
 | [1927-sum-game](https://github.com/imrajeevnayan/leetcode-solution/tree/main/1927-sum-game/) | Medium |
