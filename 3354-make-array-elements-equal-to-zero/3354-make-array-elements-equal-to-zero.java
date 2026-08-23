@@ -4,7 +4,6 @@ class Solution {
         for (int num : nums) {
             total += num;
         }
-
         int left = 0;
         int ans = 0;
 
@@ -13,14 +12,10 @@ class Solution {
             int right = total - left;
 
             if (nums[i] == 0) {
-                if (left == right) {
-                    ans += 2;
-                } else if (Math.abs(left - right) == 1) {
-                    ans++;
-                }
+                if (left == right)  ans += 2;
+                else if (Math.abs(left - right) == 1) ans++;  
             }
         }
-
         return ans;
     }
 }
