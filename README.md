@@ -186,6 +186,7 @@
 ## Database
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0175-combine-two-tables](https://github.com/imrajeevnayan/leetcode-solution/tree/main/0175-combine-two-tables/) | Easy |
 | [0176-second-highest-salary](https://github.com/imrajeevnayan/leetcode-solution/tree/main/0176-second-highest-salary/) | Medium |
 | [1517-find-users-with-valid-e-mails](https://github.com/imrajeevnayan/leetcode-solution/tree/main/1517-find-users-with-valid-e-mails/) | Easy |
 | [1795-rearrange-products-table](https://github.com/imrajeevnayan/leetcode-solution/tree/main/1795-rearrange-products-table/) | Easy |
