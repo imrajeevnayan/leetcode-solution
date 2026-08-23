@@ -997,17 +997,18 @@
     "GeeksForGeeks_Count_Only_Repeated": true,
     "GeeksForGeeks_Distinct_Frequencies_Check": true,
     "LeetCode_Palindrome_Linked_List": true,
-    "LeetCode_Reverse_Vowels_of_a_String": true
+    "LeetCode_Reverse_Vowels_of_a_String": true,
+    "LeetCode_Combine_Two_Tables": true
   },
-  "totalSolved": 525,
+  "totalSolved": 526,
   "difficultyCounts": {
-    "easy": 175,
+    "easy": 176,
     "medium": 218,
     "hard": 12,
     "basic": 120
   },
   "currentStreak": 7,
-  "todayCount": 1,
+  "todayCount": 2,
   "lastSyncDate": "2026-08-23",
   "maxStreak": 25,
   "activityHistory": {
@@ -1093,7 +1094,7 @@
     "2026-08-20": 6,
     "2026-08-21": 8,
     "2026-08-22": 9,
-    "2026-08-23": 1
+    "2026-08-23": 2
   },
   "todayProblems": [
     "Most Frequent Character",
@@ -1617,6 +1618,7 @@
     "Count Only Repeated",
     "Distinct Frequencies Check",
     "Palindrome Linked List",
-    "Reverse Vowels of a String"
+    "Reverse Vowels of a String",
+    "Combine Two Tables"
   ]
 }
