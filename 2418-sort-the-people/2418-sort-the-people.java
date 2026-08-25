@@ -1,19 +1,25 @@
 class Solution {
     public String[] sortPeople(String[] names, int[] heights) {
-        PriorityQueue<Integer> pq = new PriorityQueue<>(
-            (a, b) -> heights[b] - heights[a]
-        );
+        HashMap<Integer, String> map = new HashMap<>();
 
         for (int i = 0; i < names.length; i++) {
-            pq.offer(i);
+            map.put(heights[i], names[i]);
         }
+
+        PriorityQueue<Integer> pq = new PriorityQueue<>((a, b) -> b - a);
+
+        for (int height : heights) {
+            pq.offer(height);
+        }
+
         String[] result = new String[names.length];
 
         int i = 0;
         while (!pq.isEmpty()) {
-            int index = pq.poll();
-            result[i++] = names[index];
+            int height = pq.poll();
+            result[i++] = map.get(height);
         }
+
         return result;
     }
 }
