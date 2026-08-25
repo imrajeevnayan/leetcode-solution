@@ -1000,17 +1000,18 @@
     "LeetCode_Reverse_Vowels_of_a_String": true,
     "LeetCode_Combine_Two_Tables": true,
     "GeeksForGeeks_Minimum_Moves_to_Sort_Permutation": true,
-    "LeetCode_Sort_the_People": true
+    "LeetCode_Sort_the_People": true,
+    "GeeksForGeeks_Stream_First_Non-repeating": true
   },
-  "totalSolved": 528,
+  "totalSolved": 529,
   "difficultyCounts": {
     "easy": 178,
-    "medium": 218,
+    "medium": 219,
     "hard": 12,
     "basic": 120
   },
   "currentStreak": 1,
-  "todayCount": 2,
+  "todayCount": 3,
   "lastSyncDate": "2026-08-25",
   "maxStreak": 25,
   "activityHistory": {
@@ -1097,7 +1098,7 @@
     "2026-08-21": 8,
     "2026-08-22": 9,
     "2026-08-23": 2,
-    "2026-08-25": 2
+    "2026-08-25": 3
   },
   "todayProblems": [
     "Most Frequent Character",
@@ -1624,6 +1625,7 @@
     "Reverse Vowels of a String",
     "Combine Two Tables",
     "Minimum Moves to Sort Permutation",
-    "Sort the People"
+    "Sort the People",
+    "Stream First Non-repeating"
   ]
 }

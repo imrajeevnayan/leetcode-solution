@@ -504,3 +504,4 @@
 | 54 | [Combine Two Tables](https://leetcode.com/problems/combine-two-tables/) | LeetCode | Easy | 23 Aug 2026 | 09:28 pm |
 | 55 | [Minimum Moves to Sort Permutation](https://www.geeksforgeeks.org/problems/morning-assembly3038/1) | GeeksForGeeks | Easy | 25 Aug 2026 | 10:42 am |
 | 56 | [Sort the People](https://leetcode.com/problems/sort-the-people/) | LeetCode | Easy | 25 Aug 2026 | 11:30 pm |
+| 57 | [Stream First Non-repeating](https://www.geeksforgeeks.org/problems/first-non-repeating-character-in-a-stream1216/1) | GeeksForGeeks | Medium | 25 Aug 2026 | 11:59 pm |
