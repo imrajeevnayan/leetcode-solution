@@ -22,6 +22,7 @@
 | [0704-binary-search](https://github.com/imrajeevnayan/leetcode-solution/tree/main/0704-binary-search/) | Easy |
 | [0729-my-calendar-i](https://github.com/imrajeevnayan/leetcode-solution/tree/main/0729-my-calendar-i/) | Medium |
 | [0739-daily-temperatures](https://github.com/imrajeevnayan/leetcode-solution/tree/main/0739-daily-temperatures/) | Medium |
+| [0786-k-th-smallest-prime-fraction](https://github.com/imrajeevnayan/leetcode-solution/tree/main/0786-k-th-smallest-prime-fraction/) | Medium |
 | [0929-unique-email-addresses](https://github.com/imrajeevnayan/leetcode-solution/tree/main/0929-unique-email-addresses/) | Easy |
 | [1004-max-consecutive-ones-iii](https://github.com/imrajeevnayan/leetcode-solution/tree/main/1004-max-consecutive-ones-iii/) | Medium |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/imrajeevnayan/leetcode-solution/tree/main/1008-construct-binary-search-tree-from-preorder-traversal/) | Medium |
@@ -120,6 +121,7 @@
 | ------- | ------- |
 | [0049-group-anagrams](https://github.com/imrajeevnayan/leetcode-solution/tree/main/0049-group-anagrams/) | Medium |
 | [0349-intersection-of-two-arrays](https://github.com/imrajeevnayan/leetcode-solution/tree/main/0349-intersection-of-two-arrays/) | Easy |
+| [0786-k-th-smallest-prime-fraction](https://github.com/imrajeevnayan/leetcode-solution/tree/main/0786-k-th-smallest-prime-fraction/) | Medium |
 | [1051-height-checker](https://github.com/imrajeevnayan/leetcode-solution/tree/main/1051-height-checker/) | Easy |
 | [2094-finding-3-digit-even-numbers](https://github.com/imrajeevnayan/leetcode-solution/tree/main/2094-finding-3-digit-even-numbers/) | Easy |
 | [2545-sort-the-students-by-their-kth-score](https://github.com/imrajeevnayan/leetcode-solution/tree/main/2545-sort-the-students-by-their-kth-score/) | Medium |
@@ -185,6 +187,7 @@
 | [0410-split-array-largest-sum](https://github.com/imrajeevnayan/leetcode-solution/tree/main/0410-split-array-largest-sum/) | Hard |
 | [0704-binary-search](https://github.com/imrajeevnayan/leetcode-solution/tree/main/0704-binary-search/) | Easy |
 | [0729-my-calendar-i](https://github.com/imrajeevnayan/leetcode-solution/tree/main/0729-my-calendar-i/) | Medium |
+| [0786-k-th-smallest-prime-fraction](https://github.com/imrajeevnayan/leetcode-solution/tree/main/0786-k-th-smallest-prime-fraction/) | Medium |
 | [1004-max-consecutive-ones-iii](https://github.com/imrajeevnayan/leetcode-solution/tree/main/1004-max-consecutive-ones-iii/) | Medium |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/imrajeevnayan/leetcode-solution/tree/main/1008-construct-binary-search-tree-from-preorder-traversal/) | Medium |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/imrajeevnayan/leetcode-solution/tree/main/1351-count-negative-numbers-in-a-sorted-matrix/) | Easy |
@@ -348,6 +351,7 @@
 | [0345-reverse-vowels-of-a-string](https://github.com/imrajeevnayan/leetcode-solution/tree/main/0345-reverse-vowels-of-a-string/) | Easy |
 | [0349-intersection-of-two-arrays](https://github.com/imrajeevnayan/leetcode-solution/tree/main/0349-intersection-of-two-arrays/) | Easy |
 | [0680-valid-palindrome-ii](https://github.com/imrajeevnayan/leetcode-solution/tree/main/0680-valid-palindrome-ii/) | Easy |
+| [0786-k-th-smallest-prime-fraction](https://github.com/imrajeevnayan/leetcode-solution/tree/main/0786-k-th-smallest-prime-fraction/) | Medium |
 | [0876-middle-of-the-linked-list](https://github.com/imrajeevnayan/leetcode-solution/tree/main/0876-middle-of-the-linked-list/) | Easy |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/imrajeevnayan/leetcode-solution/tree/main/2824-count-pairs-whose-sum-is-less-than-target/) | Easy |
 ## Linked List
@@ -389,6 +393,7 @@
 ## Heap (Priority Queue)
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0786-k-th-smallest-prime-fraction](https://github.com/imrajeevnayan/leetcode-solution/tree/main/0786-k-th-smallest-prime-fraction/) | Medium |
 | [2974-minimum-number-game](https://github.com/imrajeevnayan/leetcode-solution/tree/main/2974-minimum-number-game/) | Easy |
 ## Combinatorics
 | Problem Name | Difficulty |
