@@ -999,17 +999,18 @@
     "LeetCode_Palindrome_Linked_List": true,
     "LeetCode_Reverse_Vowels_of_a_String": true,
     "LeetCode_Combine_Two_Tables": true,
-    "GeeksForGeeks_Minimum_Moves_to_Sort_Permutation": true
+    "GeeksForGeeks_Minimum_Moves_to_Sort_Permutation": true,
+    "LeetCode_Sort_the_People": true
   },
-  "totalSolved": 527,
+  "totalSolved": 528,
   "difficultyCounts": {
-    "easy": 177,
+    "easy": 178,
     "medium": 218,
     "hard": 12,
     "basic": 120
   },
   "currentStreak": 1,
-  "todayCount": 1,
+  "todayCount": 2,
   "lastSyncDate": "2026-08-25",
   "maxStreak": 25,
   "activityHistory": {
@@ -1096,7 +1097,7 @@
     "2026-08-21": 8,
     "2026-08-22": 9,
     "2026-08-23": 2,
-    "2026-08-25": 1
+    "2026-08-25": 2
   },
   "todayProblems": [
     "Most Frequent Character",
@@ -1622,6 +1623,7 @@
     "Palindrome Linked List",
     "Reverse Vowels of a String",
     "Combine Two Tables",
-    "Minimum Moves to Sort Permutation"
+    "Minimum Moves to Sort Permutation",
+    "Sort the People"
   ]
 }
