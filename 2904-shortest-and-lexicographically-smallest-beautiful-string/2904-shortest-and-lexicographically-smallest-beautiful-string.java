@@ -1,10 +1,19 @@
 class Solution {
     public String shortestBeautifulSubstring(String s, int k) {
-        int left = 0;
+        PriorityQueue<String> pq = new PriorityQueue<>(
+            (a, b) -> {
+                if (a.length() != b.length())
+                    return a.length() - b.length();
+
+                return a.compareTo(b);
+            }
+        );
+
         int ones = 0;
-        String ans = "";
+        int left = 0;
 
         for (int right = 0; right < s.length(); right++) {
+
             if (s.charAt(right) == '1')
                 ones++;
 
@@ -18,16 +27,10 @@ class Solution {
                 while (s.charAt(left) == '0')
                     left++;
 
-                String cur = s.substring(left, right + 1);
-
-                if (ans.equals("") ||
-                    cur.length() < ans.length() ||
-                    (cur.length() == ans.length() && cur.compareTo(ans) < 0)) {
-                    ans = cur;
-                }
+                pq.add(s.substring(left, right + 1));
             }
         }
 
-        return ans;
+        return pq.isEmpty() ? "" : pq.peek();
     }
 }
