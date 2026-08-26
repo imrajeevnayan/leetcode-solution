@@ -509,3 +509,4 @@
 | 59 | [Count Indices to Balance Even and Odd Sums](https://www.geeksforgeeks.org/problems/count-indices-to-balance-even-and-odd-sums/1) | GeeksForGeeks | Medium | 26 Aug 2026 | 10:16 am |
 | 60 | [Count Substrings With K 1's](https://www.geeksforgeeks.org/problems/count-of-substrings-containing-k-ones2304/1) | GeeksForGeeks | Medium | 26 Aug 2026 | 10:18 am |
 | 61 | [Top k Frequent in Stream](https://www.geeksforgeeks.org/problems/top-k-numbers3425/1) | GeeksForGeeks | Medium | 26 Aug 2026 | 10:20 am |
+| 62 | [Subarrays Having Even Sum](https://www.geeksforgeeks.org/problems/find-the-number-of-sub-arrays-having-even-sum1533/1) | GeeksForGeeks | Medium | 26 Aug 2026 | 10:24 am |

@@ -1005,17 +1005,18 @@
     "GeeksForGeeks_Tree_Boundary_Traversal": true,
     "GeeksForGeeks_Count_Indices_to_Balance_Even_and_Odd_Sums": true,
     "GeeksForGeeks_Count_Substrings_With_K_1's": true,
-    "GeeksForGeeks_Top_k_Frequent_in_Stream": true
+    "GeeksForGeeks_Top_k_Frequent_in_Stream": true,
+    "GeeksForGeeks_Subarrays_Having_Even_Sum": true
   },
-  "totalSolved": 533,
+  "totalSolved": 534,
   "difficultyCounts": {
     "easy": 178,
-    "medium": 223,
+    "medium": 224,
     "hard": 12,
     "basic": 120
   },
   "currentStreak": 2,
-  "todayCount": 4,
+  "todayCount": 5,
   "lastSyncDate": "2026-08-26",
   "maxStreak": 25,
   "activityHistory": {
@@ -1103,7 +1104,7 @@
     "2026-08-22": 9,
     "2026-08-23": 2,
     "2026-08-25": 3,
-    "2026-08-26": 4
+    "2026-08-26": 5
   },
   "todayProblems": [
     "Most Frequent Character",
@@ -1635,6 +1636,7 @@
     "Tree Boundary Traversal",
     "Count Indices to Balance Even and Odd Sums",
     "Count Substrings With K 1's",
-    "Top k Frequent in Stream"
+    "Top k Frequent in Stream",
+    "Subarrays Having Even Sum"
   ]
 }
