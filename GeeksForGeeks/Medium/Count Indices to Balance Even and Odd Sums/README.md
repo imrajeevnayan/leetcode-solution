@@ -1,0 +1,17 @@
+# Count Indices to Balance Even and Odd Sums
+
+## Difficulty: Medium
+
+## Platform: GeeksForGeeks
+
+## Problem Link
+[View Problem](https://www.geeksforgeeks.org/problems/count-indices-to-balance-even-and-odd-sums/1)
+
+## Solved On
+26 Aug 2026 at 10:16 am
+
+<h2><a href="https://www.geeksforgeeks.org/problems/count-indices-to-balance-even-and-odd-sums/1">Count Indices to Balance Even and Odd Sums</a></h2><h3>Difficulty Level: Medium</h3><hr><p data-start="0" data-end="257"><span style="font-size: 14pt;">Given an array <strong>arr[]</strong>, count the <strong>number of indices</strong> such that deleting the element at that index and shifting all elements after it one position left results in an array where the<strong> sum</strong> of elements at <strong>even </strong>indices equals the sum at <strong>odd </strong>indices.</span></p>
+<p style="font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif; font-size: medium; white-space: normal;"><span style="font-size: 14pt;"><strong>Examples:</strong></span></p>
+<pre><span style="font-size: 14pt;"><strong>Input: </strong>arr[] <strong>= </strong>[2, 1, 6, 4]<strong><br>Output: </strong>1<strong><br>Explaination:&nbsp;</strong>After removing arr[1], the resulting array will be [2, 6, 4] the sums of elements at odd index is arr[1] = 6 and the sum of elements at even index is arr[0] + arr[2] = 6.</span></pre>
+<pre><span style="font-size: 14pt;"><strong>Input:</strong> arr[] = [1, 1, 1]<br><strong>Output:</strong> 3<br><strong>Explaination: </strong>Removing any element makes the sum of odd and even indexed elements equal.<br></span></pre>
+<p><span style="font-size: 14pt;"><strong style="font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;">Constraints:<br></strong>1 ≤ arr.size() ≤ 10<sup>5</sup><br>0 ≤ arr[i] ≤ 10<sup>4</sup></span></p>

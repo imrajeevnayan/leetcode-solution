@@ -1002,17 +1002,18 @@
     "GeeksForGeeks_Minimum_Moves_to_Sort_Permutation": true,
     "LeetCode_Sort_the_People": true,
     "GeeksForGeeks_Stream_First_Non-repeating": true,
-    "GeeksForGeeks_Tree_Boundary_Traversal": true
+    "GeeksForGeeks_Tree_Boundary_Traversal": true,
+    "GeeksForGeeks_Count_Indices_to_Balance_Even_and_Odd_Sums": true
   },
-  "totalSolved": 530,
+  "totalSolved": 531,
   "difficultyCounts": {
     "easy": 178,
-    "medium": 220,
+    "medium": 221,
     "hard": 12,
     "basic": 120
   },
   "currentStreak": 2,
-  "todayCount": 1,
+  "todayCount": 2,
   "lastSyncDate": "2026-08-26",
   "maxStreak": 25,
   "activityHistory": {
@@ -1100,7 +1101,7 @@
     "2026-08-22": 9,
     "2026-08-23": 2,
     "2026-08-25": 3,
-    "2026-08-26": 1
+    "2026-08-26": 2
   },
   "todayProblems": [
     "Most Frequent Character",
@@ -1629,6 +1630,7 @@
     "Minimum Moves to Sort Permutation",
     "Sort the People",
     "Stream First Non-repeating",
-    "Tree Boundary Traversal"
+    "Tree Boundary Traversal",
+    "Count Indices to Balance Even and Odd Sums"
   ]
 }

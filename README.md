@@ -506,3 +506,4 @@
 | 56 | [Sort the People](https://leetcode.com/problems/sort-the-people/) | LeetCode | Easy | 25 Aug 2026 | 11:30 pm |
 | 57 | [Stream First Non-repeating](https://www.geeksforgeeks.org/problems/first-non-repeating-character-in-a-stream1216/1) | GeeksForGeeks | Medium | 25 Aug 2026 | 11:59 pm |
 | 58 | [Tree Boundary Traversal](https://www.geeksforgeeks.org/problems/boundary-traversal-of-binary-tree/1) | GeeksForGeeks | Medium | 26 Aug 2026 | 12:04 am |
+| 59 | [Count Indices to Balance Even and Odd Sums](https://www.geeksforgeeks.org/problems/count-indices-to-balance-even-and-odd-sums/1) | GeeksForGeeks | Medium | 26 Aug 2026 | 10:16 am |
