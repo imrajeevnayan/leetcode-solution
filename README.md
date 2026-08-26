@@ -518,3 +518,4 @@
 | 66 | [Multiply Two Matrices](https://www.geeksforgeeks.org/problems/multiply-matrices/1) | GeeksForGeeks | Basic | 26 Aug 2026 | 11:39 am |
 | 67 | [Middle swap](https://www.geeksforgeeks.org/problems/middle-swap/1) | GeeksForGeeks | Easy | 26 Aug 2026 | 11:46 am |
 | 68 | [Reverse Order of Rows of a Matrix](https://www.geeksforgeeks.org/problems/reversing-the-rows-of-a-matrix-1587115621/1) | GeeksForGeeks | Easy | 26 Aug 2026 | 11:48 am |
+| 69 | [Most Frequent in an Array](https://www.geeksforgeeks.org/problems/most-frequent-element-in-an-array/1) | GeeksForGeeks | Easy | 26 Aug 2026 | 11:08 pm |

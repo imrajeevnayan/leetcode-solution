@@ -1012,17 +1012,18 @@
     "GeeksForGeeks_Sum_of_Matrix": true,
     "GeeksForGeeks_Multiply_Two_Matrices": true,
     "GeeksForGeeks_Middle_swap": true,
-    "GeeksForGeeks_Reverse_Order_of_Rows_of_a_Matrix": true
+    "GeeksForGeeks_Reverse_Order_of_Rows_of_a_Matrix": true,
+    "GeeksForGeeks_Most_Frequent_in_an_Array": true
   },
-  "totalSolved": 540,
+  "totalSolved": 541,
   "difficultyCounts": {
-    "easy": 180,
+    "easy": 181,
     "medium": 225,
     "hard": 12,
     "basic": 123
   },
   "currentStreak": 2,
-  "todayCount": 11,
+  "todayCount": 12,
   "lastSyncDate": "2026-08-26",
   "maxStreak": 25,
   "activityHistory": {
@@ -1110,7 +1111,7 @@
     "2026-08-22": 9,
     "2026-08-23": 2,
     "2026-08-25": 3,
-    "2026-08-26": 11
+    "2026-08-26": 12
   },
   "todayProblems": [
     "Most Frequent Character",
@@ -1649,6 +1650,7 @@
     "Sum of Matrix",
     "Multiply Two Matrices",
     "Middle swap",
-    "Reverse Order of Rows of a Matrix"
+    "Reverse Order of Rows of a Matrix",
+    "Most Frequent in an Array"
   ]
 }
