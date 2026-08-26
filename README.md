@@ -514,3 +514,4 @@
 | 64 | [Sort a Matrix](https://www.geeksforgeeks.org/problems/sorted-matrix2333/1) | GeeksForGeeks | Basic | 26 Aug 2026 | 11:35 am |
 | 65 | [Sum of Matrix](https://www.geeksforgeeks.org/problems/sum-of-elements-in-a-matrix2000/1) | GeeksForGeeks | Basic | 26 Aug 2026 | 11:37 am |
 | 66 | [Multiply Two Matrices](https://www.geeksforgeeks.org/problems/multiply-matrices/1) | GeeksForGeeks | Basic | 26 Aug 2026 | 11:39 am |
+| 67 | [Middle swap](https://www.geeksforgeeks.org/problems/middle-swap/1) | GeeksForGeeks | Easy | 26 Aug 2026 | 11:46 am |

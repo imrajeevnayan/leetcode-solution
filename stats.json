@@ -1010,17 +1010,18 @@
     "GeeksForGeeks_Pairs_from_Distict_Element_Subarrays": true,
     "GeeksForGeeks_Sort_a_Matrix": true,
     "GeeksForGeeks_Sum_of_Matrix": true,
-    "GeeksForGeeks_Multiply_Two_Matrices": true
+    "GeeksForGeeks_Multiply_Two_Matrices": true,
+    "GeeksForGeeks_Middle_swap": true
   },
-  "totalSolved": 538,
+  "totalSolved": 539,
   "difficultyCounts": {
-    "easy": 178,
+    "easy": 179,
     "medium": 225,
     "hard": 12,
     "basic": 123
   },
   "currentStreak": 2,
-  "todayCount": 9,
+  "todayCount": 10,
   "lastSyncDate": "2026-08-26",
   "maxStreak": 25,
   "activityHistory": {
@@ -1108,7 +1109,7 @@
     "2026-08-22": 9,
     "2026-08-23": 2,
     "2026-08-25": 3,
-    "2026-08-26": 9
+    "2026-08-26": 10
   },
   "todayProblems": [
     "Most Frequent Character",
@@ -1645,6 +1646,7 @@
     "Pairs from Distict Element Subarrays",
     "Sort a Matrix",
     "Sum of Matrix",
-    "Multiply Two Matrices"
+    "Multiply Two Matrices",
+    "Middle swap"
   ]
 }
