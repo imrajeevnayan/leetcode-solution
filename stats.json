@@ -1009,17 +1009,18 @@
     "GeeksForGeeks_Subarrays_Having_Even_Sum": true,
     "GeeksForGeeks_Pairs_from_Distict_Element_Subarrays": true,
     "GeeksForGeeks_Sort_a_Matrix": true,
-    "GeeksForGeeks_Sum_of_Matrix": true
+    "GeeksForGeeks_Sum_of_Matrix": true,
+    "GeeksForGeeks_Multiply_Two_Matrices": true
   },
-  "totalSolved": 537,
+  "totalSolved": 538,
   "difficultyCounts": {
     "easy": 178,
     "medium": 225,
     "hard": 12,
-    "basic": 122
+    "basic": 123
   },
   "currentStreak": 2,
-  "todayCount": 8,
+  "todayCount": 9,
   "lastSyncDate": "2026-08-26",
   "maxStreak": 25,
   "activityHistory": {
@@ -1107,7 +1108,7 @@
     "2026-08-22": 9,
     "2026-08-23": 2,
     "2026-08-25": 3,
-    "2026-08-26": 8
+    "2026-08-26": 9
   },
   "todayProblems": [
     "Most Frequent Character",
@@ -1643,6 +1644,7 @@
     "Subarrays Having Even Sum",
     "Pairs from Distict Element Subarrays",
     "Sort a Matrix",
-    "Sum of Matrix"
+    "Sum of Matrix",
+    "Multiply Two Matrices"
   ]
 }
