@@ -1007,17 +1007,18 @@
     "GeeksForGeeks_Count_Substrings_With_K_1's": true,
     "GeeksForGeeks_Top_k_Frequent_in_Stream": true,
     "GeeksForGeeks_Subarrays_Having_Even_Sum": true,
-    "GeeksForGeeks_Pairs_from_Distict_Element_Subarrays": true
+    "GeeksForGeeks_Pairs_from_Distict_Element_Subarrays": true,
+    "GeeksForGeeks_Sort_a_Matrix": true
   },
-  "totalSolved": 535,
+  "totalSolved": 536,
   "difficultyCounts": {
     "easy": 178,
     "medium": 225,
     "hard": 12,
-    "basic": 120
+    "basic": 121
   },
   "currentStreak": 2,
-  "todayCount": 6,
+  "todayCount": 7,
   "lastSyncDate": "2026-08-26",
   "maxStreak": 25,
   "activityHistory": {
@@ -1105,7 +1106,7 @@
     "2026-08-22": 9,
     "2026-08-23": 2,
     "2026-08-25": 3,
-    "2026-08-26": 6
+    "2026-08-26": 7
   },
   "todayProblems": [
     "Most Frequent Character",
@@ -1639,6 +1640,7 @@
     "Count Substrings With K 1's",
     "Top k Frequent in Stream",
     "Subarrays Having Even Sum",
-    "Pairs from Distict Element Subarrays"
+    "Pairs from Distict Element Subarrays",
+    "Sort a Matrix"
   ]
 }
