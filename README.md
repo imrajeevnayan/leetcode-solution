@@ -12,7 +12,6 @@
 | [0015-3sum](https://github.com/imrajeevnayan/leetcode-solution/tree/main/0015-3sum/) | Medium |
 | [0035-search-insert-position](https://github.com/imrajeevnayan/leetcode-solution/tree/main/0035-search-insert-position/) | Easy |
 | [0049-group-anagrams](https://github.com/imrajeevnayan/leetcode-solution/tree/main/0049-group-anagrams/) | Medium |
-| [0053-maximum-subarray](https://github.com/imrajeevnayan/leetcode-solution/tree/main/0053-maximum-subarray/) | Medium |
 | [0128-longest-consecutive-sequence](https://github.com/imrajeevnayan/leetcode-solution/tree/main/0128-longest-consecutive-sequence/) | Medium |
 | [0219-contains-duplicate-ii](https://github.com/imrajeevnayan/leetcode-solution/tree/main/0219-contains-duplicate-ii/) | Easy |
 | [0228-summary-ranges](https://github.com/imrajeevnayan/leetcode-solution/tree/main/0228-summary-ranges/) | Easy |
@@ -139,7 +138,6 @@
 ## Divide and Conquer
 | Problem Name | Difficulty |
 | ------- | ------- |
-| [0053-maximum-subarray](https://github.com/imrajeevnayan/leetcode-solution/tree/main/0053-maximum-subarray/) | Medium |
 | [0654-maximum-binary-tree](https://github.com/imrajeevnayan/leetcode-solution/tree/main/0654-maximum-binary-tree/) | Medium |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/imrajeevnayan/leetcode-solution/tree/main/3737-count-subarrays-with-majority-element-i/) | Medium |
 ## Stack
@@ -304,7 +302,6 @@
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
-| [0053-maximum-subarray](https://github.com/imrajeevnayan/leetcode-solution/tree/main/0053-maximum-subarray/) | Medium |
 | [0410-split-array-largest-sum](https://github.com/imrajeevnayan/leetcode-solution/tree/main/0410-split-array-largest-sum/) | Hard |
 | [1563-stone-game-v](https://github.com/imrajeevnayan/leetcode-solution/tree/main/1563-stone-game-v/) | Hard |
 | [1872-stone-game-viii](https://github.com/imrajeevnayan/leetcode-solution/tree/main/1872-stone-game-viii/) | Hard |
@@ -536,3 +533,4 @@
 | 67 | [Middle swap](https://www.geeksforgeeks.org/problems/middle-swap/1) | GeeksForGeeks | Easy | 26 Aug 2026 | 11:46 am |
 | 68 | [Reverse Order of Rows of a Matrix](https://www.geeksforgeeks.org/problems/reversing-the-rows-of-a-matrix-1587115621/1) | GeeksForGeeks | Easy | 26 Aug 2026 | 11:48 am |
 | 69 | [Most Frequent in an Array](https://www.geeksforgeeks.org/problems/most-frequent-element-in-an-array/1) | GeeksForGeeks | Easy | 26 Aug 2026 | 11:08 pm |
+| 70 | [Maximum Subarray](https://leetcode.com/problems/maximum-subarray/) | LeetCode | Medium | 28 Aug 2026 | 01:38 am |
