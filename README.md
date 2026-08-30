@@ -583,3 +583,4 @@
 | 72 | [Floor in BST](https://www.geeksforgeeks.org/problems/closest-neighbor-in-bst/1) | GeeksForGeeks | Easy | 30 Aug 2026 | 09:23 pm |
 | 73 | [BST Insert](https://www.geeksforgeeks.org/problems/insert-a-node-in-a-bst/1) | GeeksForGeeks | Easy | 30 Aug 2026 | 09:32 pm |
 | 74 | [Kth Largest in BST](https://www.geeksforgeeks.org/problems/kth-largest-element-in-bst/1) | GeeksForGeeks | Easy | 30 Aug 2026 | 09:47 pm |
+| 75 | [Unique Binary Search Trees](https://leetcode.com/problems/unique-binary-search-trees/) | LeetCode | Medium | 30 Aug 2026 | 11:19 pm |
