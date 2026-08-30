@@ -1017,17 +1017,18 @@
     "LeetCode_Maximum_Subarray": true,
     "LeetCode_Symmetric_Tree": true,
     "GeeksForGeeks_Floor_in_BST": true,
-    "GeeksForGeeks_BST_Insert": true
+    "GeeksForGeeks_BST_Insert": true,
+    "GeeksForGeeks_Kth_Largest_in_BST": true
   },
-  "totalSolved": 545,
+  "totalSolved": 546,
   "difficultyCounts": {
-    "easy": 184,
+    "easy": 185,
     "medium": 226,
     "hard": 12,
     "basic": 123
   },
   "currentStreak": 1,
-  "todayCount": 3,
+  "todayCount": 4,
   "lastSyncDate": "2026-08-30",
   "maxStreak": 25,
   "activityHistory": {
@@ -1117,7 +1118,7 @@
     "2026-08-25": 3,
     "2026-08-26": 12,
     "2026-08-28": 1,
-    "2026-08-30": 3
+    "2026-08-30": 4
   },
   "todayProblems": [
     "Most Frequent Character",
@@ -1660,6 +1661,7 @@
     "Most Frequent in an Array",
     "Maximum Subarray",
     "Floor in BST",
-    "BST Insert"
+    "BST Insert",
+    "Kth Largest in BST"
   ]
 }
