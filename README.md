@@ -175,6 +175,7 @@
 | ------- | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/imrajeevnayan/leetcode-solution/tree/main/0094-binary-tree-inorder-traversal/) | Easy |
 | [0101-symmetric-tree](https://github.com/imrajeevnayan/leetcode-solution/tree/main/0101-symmetric-tree/) | Easy |
+| [0102-binary-tree-level-order-traversal](https://github.com/imrajeevnayan/leetcode-solution/tree/main/0102-binary-tree-level-order-traversal/) | Medium |
 | [0226-invert-binary-tree](https://github.com/imrajeevnayan/leetcode-solution/tree/main/0226-invert-binary-tree/) | Easy |
 | [0617-merge-two-binary-trees](https://github.com/imrajeevnayan/leetcode-solution/tree/main/0617-merge-two-binary-trees/) | Easy |
 | [0654-maximum-binary-tree](https://github.com/imrajeevnayan/leetcode-solution/tree/main/0654-maximum-binary-tree/) | Medium |
@@ -193,6 +194,7 @@
 | ------- | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/imrajeevnayan/leetcode-solution/tree/main/0094-binary-tree-inorder-traversal/) | Easy |
 | [0101-symmetric-tree](https://github.com/imrajeevnayan/leetcode-solution/tree/main/0101-symmetric-tree/) | Easy |
+| [0102-binary-tree-level-order-traversal](https://github.com/imrajeevnayan/leetcode-solution/tree/main/0102-binary-tree-level-order-traversal/) | Medium |
 | [0226-invert-binary-tree](https://github.com/imrajeevnayan/leetcode-solution/tree/main/0226-invert-binary-tree/) | Easy |
 | [0617-merge-two-binary-trees](https://github.com/imrajeevnayan/leetcode-solution/tree/main/0617-merge-two-binary-trees/) | Easy |
 | [0654-maximum-binary-tree](https://github.com/imrajeevnayan/leetcode-solution/tree/main/0654-maximum-binary-tree/) | Medium |
@@ -476,6 +478,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0101-symmetric-tree](https://github.com/imrajeevnayan/leetcode-solution/tree/main/0101-symmetric-tree/) | Easy |
+| [0102-binary-tree-level-order-traversal](https://github.com/imrajeevnayan/leetcode-solution/tree/main/0102-binary-tree-level-order-traversal/) | Medium |
 | [0226-invert-binary-tree](https://github.com/imrajeevnayan/leetcode-solution/tree/main/0226-invert-binary-tree/) | Easy |
 | [0617-merge-two-binary-trees](https://github.com/imrajeevnayan/leetcode-solution/tree/main/0617-merge-two-binary-trees/) | Easy |
 ## Interactive
