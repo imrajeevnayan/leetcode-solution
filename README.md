@@ -581,3 +581,4 @@
 | 70 | [Maximum Subarray](https://leetcode.com/problems/maximum-subarray/) | LeetCode | Medium | 28 Aug 2026 | 01:38 am |
 | 71 | [Symmetric Tree](https://leetcode.com/problems/symmetric-tree/) | LeetCode | Easy | 30 Aug 2026 | 03:32 pm |
 | 72 | [Floor in BST](https://www.geeksforgeeks.org/problems/closest-neighbor-in-bst/1) | GeeksForGeeks | Easy | 30 Aug 2026 | 09:23 pm |
+| 73 | [BST Insert](https://www.geeksforgeeks.org/problems/insert-a-node-in-a-bst/1) | GeeksForGeeks | Easy | 30 Aug 2026 | 09:32 pm |
