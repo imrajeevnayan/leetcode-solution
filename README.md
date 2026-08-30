@@ -585,3 +585,4 @@
 | 74 | [Kth Largest in BST](https://www.geeksforgeeks.org/problems/kth-largest-element-in-bst/1) | GeeksForGeeks | Easy | 30 Aug 2026 | 09:47 pm |
 | 75 | [Unique Binary Search Trees](https://leetcode.com/problems/unique-binary-search-trees/) | LeetCode | Medium | 30 Aug 2026 | 11:19 pm |
 | 76 | [Search a node in BST](https://www.geeksforgeeks.org/problems/search-a-node-in-bst/1) | GeeksForGeeks | Easy | 30 Aug 2026 | 11:31 pm |
+| 77 | [Inorder Successor in BST](https://www.geeksforgeeks.org/problems/inorder-successor-in-bst/1) | GeeksForGeeks | Easy | 30 Aug 2026 | 11:32 pm |
