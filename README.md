@@ -45,6 +45,7 @@
 | [1872-stone-game-viii](https://github.com/imrajeevnayan/leetcode-solution/tree/main/1872-stone-game-viii/) | Hard |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/imrajeevnayan/leetcode-solution/tree/main/1967-number-of-strings-that-appear-as-substrings-in-word/) | Easy |
 | [1991-find-the-middle-index-in-array](https://github.com/imrajeevnayan/leetcode-solution/tree/main/1991-find-the-middle-index-in-array/) | Easy |
+| [2091-removing-minimum-and-maximum-from-array](https://github.com/imrajeevnayan/leetcode-solution/tree/main/2091-removing-minimum-and-maximum-from-array/) | Medium |
 | [2094-finding-3-digit-even-numbers](https://github.com/imrajeevnayan/leetcode-solution/tree/main/2094-finding-3-digit-even-numbers/) | Easy |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/imrajeevnayan/leetcode-solution/tree/main/2213-longest-substring-of-one-repeating-character/) | Hard |
 | [2395-find-subarrays-with-equal-sum](https://github.com/imrajeevnayan/leetcode-solution/tree/main/2395-find-subarrays-with-equal-sum/) | Easy |
@@ -324,6 +325,7 @@
 | [1221-split-a-string-in-balanced-strings](https://github.com/imrajeevnayan/leetcode-solution/tree/main/1221-split-a-string-in-balanced-strings/) | Easy |
 | [1386-cinema-seat-allocation](https://github.com/imrajeevnayan/leetcode-solution/tree/main/1386-cinema-seat-allocation/) | Medium |
 | [1927-sum-game](https://github.com/imrajeevnayan/leetcode-solution/tree/main/1927-sum-game/) | Medium |
+| [2091-removing-minimum-and-maximum-from-array](https://github.com/imrajeevnayan/leetcode-solution/tree/main/2091-removing-minimum-and-maximum-from-array/) | Medium |
 | [2864-maximum-odd-binary-number](https://github.com/imrajeevnayan/leetcode-solution/tree/main/2864-maximum-odd-binary-number/) | Easy |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/imrajeevnayan/leetcode-solution/tree/main/3720-lexicographically-smallest-permutation-greater-than-target/) | Medium |
 ## Merge Sort
