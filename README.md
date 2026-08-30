@@ -573,3 +573,4 @@
 | 68 | [Reverse Order of Rows of a Matrix](https://www.geeksforgeeks.org/problems/reversing-the-rows-of-a-matrix-1587115621/1) | GeeksForGeeks | Easy | 26 Aug 2026 | 11:48 am |
 | 69 | [Most Frequent in an Array](https://www.geeksforgeeks.org/problems/most-frequent-element-in-an-array/1) | GeeksForGeeks | Easy | 26 Aug 2026 | 11:08 pm |
 | 70 | [Maximum Subarray](https://leetcode.com/problems/maximum-subarray/) | LeetCode | Medium | 28 Aug 2026 | 01:38 am |
+| 71 | [Symmetric Tree](https://leetcode.com/problems/symmetric-tree/) | LeetCode | Easy | 30 Aug 2026 | 03:32 pm |
