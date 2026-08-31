@@ -178,6 +178,7 @@
 | [0102-binary-tree-level-order-traversal](https://github.com/imrajeevnayan/leetcode-solution/tree/main/0102-binary-tree-level-order-traversal/) | Medium |
 | [0110-balanced-binary-tree](https://github.com/imrajeevnayan/leetcode-solution/tree/main/0110-balanced-binary-tree/) | Easy |
 | [0226-invert-binary-tree](https://github.com/imrajeevnayan/leetcode-solution/tree/main/0226-invert-binary-tree/) | Easy |
+| [0230-kth-smallest-element-in-a-bst](https://github.com/imrajeevnayan/leetcode-solution/tree/main/0230-kth-smallest-element-in-a-bst/) | Medium |
 | [0617-merge-two-binary-trees](https://github.com/imrajeevnayan/leetcode-solution/tree/main/0617-merge-two-binary-trees/) | Easy |
 | [0654-maximum-binary-tree](https://github.com/imrajeevnayan/leetcode-solution/tree/main/0654-maximum-binary-tree/) | Medium |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/imrajeevnayan/leetcode-solution/tree/main/1008-construct-binary-search-tree-from-preorder-traversal/) | Medium |
@@ -198,6 +199,7 @@
 | [0102-binary-tree-level-order-traversal](https://github.com/imrajeevnayan/leetcode-solution/tree/main/0102-binary-tree-level-order-traversal/) | Medium |
 | [0110-balanced-binary-tree](https://github.com/imrajeevnayan/leetcode-solution/tree/main/0110-balanced-binary-tree/) | Easy |
 | [0226-invert-binary-tree](https://github.com/imrajeevnayan/leetcode-solution/tree/main/0226-invert-binary-tree/) | Easy |
+| [0230-kth-smallest-element-in-a-bst](https://github.com/imrajeevnayan/leetcode-solution/tree/main/0230-kth-smallest-element-in-a-bst/) | Medium |
 | [0617-merge-two-binary-trees](https://github.com/imrajeevnayan/leetcode-solution/tree/main/0617-merge-two-binary-trees/) | Easy |
 | [0654-maximum-binary-tree](https://github.com/imrajeevnayan/leetcode-solution/tree/main/0654-maximum-binary-tree/) | Medium |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/imrajeevnayan/leetcode-solution/tree/main/1008-construct-binary-search-tree-from-preorder-traversal/) | Medium |
@@ -210,6 +212,7 @@
 | ------- | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/imrajeevnayan/leetcode-solution/tree/main/0004-median-of-two-sorted-arrays/) | Hard |
 | [0035-search-insert-position](https://github.com/imrajeevnayan/leetcode-solution/tree/main/0035-search-insert-position/) | Easy |
+| [0230-kth-smallest-element-in-a-bst](https://github.com/imrajeevnayan/leetcode-solution/tree/main/0230-kth-smallest-element-in-a-bst/) | Medium |
 | [0278-first-bad-version](https://github.com/imrajeevnayan/leetcode-solution/tree/main/0278-first-bad-version/) | Easy |
 | [0349-intersection-of-two-arrays](https://github.com/imrajeevnayan/leetcode-solution/tree/main/0349-intersection-of-two-arrays/) | Easy |
 | [0410-split-array-largest-sum](https://github.com/imrajeevnayan/leetcode-solution/tree/main/0410-split-array-largest-sum/) | Hard |
@@ -476,6 +479,7 @@
 | [0101-symmetric-tree](https://github.com/imrajeevnayan/leetcode-solution/tree/main/0101-symmetric-tree/) | Easy |
 | [0110-balanced-binary-tree](https://github.com/imrajeevnayan/leetcode-solution/tree/main/0110-balanced-binary-tree/) | Easy |
 | [0226-invert-binary-tree](https://github.com/imrajeevnayan/leetcode-solution/tree/main/0226-invert-binary-tree/) | Easy |
+| [0230-kth-smallest-element-in-a-bst](https://github.com/imrajeevnayan/leetcode-solution/tree/main/0230-kth-smallest-element-in-a-bst/) | Medium |
 | [0617-merge-two-binary-trees](https://github.com/imrajeevnayan/leetcode-solution/tree/main/0617-merge-two-binary-trees/) | Easy |
 ## Breadth-First Search
 | Problem Name | Difficulty |
