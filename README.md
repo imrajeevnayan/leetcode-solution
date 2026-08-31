@@ -77,6 +77,7 @@
 | ------- | ------- |
 | [0136-single-number](https://github.com/imrajeevnayan/leetcode-solution/tree/main/0136-single-number/) | Easy |
 | [0137-single-number-ii](https://github.com/imrajeevnayan/leetcode-solution/tree/main/0137-single-number-ii/) | Medium |
+| [0191-number-of-1-bits](https://github.com/imrajeevnayan/leetcode-solution/tree/main/0191-number-of-1-bits/) | Easy |
 | [1310-xor-queries-of-a-subarray](https://github.com/imrajeevnayan/leetcode-solution/tree/main/1310-xor-queries-of-a-subarray/) | Medium |
 | [1386-cinema-seat-allocation](https://github.com/imrajeevnayan/leetcode-solution/tree/main/1386-cinema-seat-allocation/) | Medium |
 | [1829-maximum-xor-for-each-query](https://github.com/imrajeevnayan/leetcode-solution/tree/main/1829-maximum-xor-for-each-query/) | Medium |
@@ -151,6 +152,7 @@
 | ------- | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/imrajeevnayan/leetcode-solution/tree/main/0004-median-of-two-sorted-arrays/) | Hard |
 | [0053-maximum-subarray](https://github.com/imrajeevnayan/leetcode-solution/tree/main/0053-maximum-subarray/) | Medium |
+| [0191-number-of-1-bits](https://github.com/imrajeevnayan/leetcode-solution/tree/main/0191-number-of-1-bits/) | Easy |
 | [0654-maximum-binary-tree](https://github.com/imrajeevnayan/leetcode-solution/tree/main/0654-maximum-binary-tree/) | Medium |
 | [0918-maximum-sum-circular-subarray](https://github.com/imrajeevnayan/leetcode-solution/tree/main/0918-maximum-sum-circular-subarray/) | Medium |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/imrajeevnayan/leetcode-solution/tree/main/3737-count-subarrays-with-majority-element-i/) | Medium |
