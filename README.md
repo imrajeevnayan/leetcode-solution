@@ -78,6 +78,7 @@
 | [0136-single-number](https://github.com/imrajeevnayan/leetcode-solution/tree/main/0136-single-number/) | Easy |
 | [0137-single-number-ii](https://github.com/imrajeevnayan/leetcode-solution/tree/main/0137-single-number-ii/) | Medium |
 | [0191-number-of-1-bits](https://github.com/imrajeevnayan/leetcode-solution/tree/main/0191-number-of-1-bits/) | Easy |
+| [0231-power-of-two](https://github.com/imrajeevnayan/leetcode-solution/tree/main/0231-power-of-two/) | Easy |
 | [1310-xor-queries-of-a-subarray](https://github.com/imrajeevnayan/leetcode-solution/tree/main/1310-xor-queries-of-a-subarray/) | Medium |
 | [1386-cinema-seat-allocation](https://github.com/imrajeevnayan/leetcode-solution/tree/main/1386-cinema-seat-allocation/) | Medium |
 | [1829-maximum-xor-for-each-query](https://github.com/imrajeevnayan/leetcode-solution/tree/main/1829-maximum-xor-for-each-query/) | Medium |
@@ -321,6 +322,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0009-palindrome-number](https://github.com/imrajeevnayan/leetcode-solution/tree/main/0009-palindrome-number/) | Easy |
+| [0231-power-of-two](https://github.com/imrajeevnayan/leetcode-solution/tree/main/0231-power-of-two/) | Easy |
 | [0507-perfect-number](https://github.com/imrajeevnayan/leetcode-solution/tree/main/0507-perfect-number/) | Easy |
 | [1563-stone-game-v](https://github.com/imrajeevnayan/leetcode-solution/tree/main/1563-stone-game-v/) | Hard |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/imrajeevnayan/leetcode-solution/tree/main/1863-sum-of-all-subset-xor-totals/) | Easy |
@@ -423,6 +425,7 @@
 | ------- | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/imrajeevnayan/leetcode-solution/tree/main/0021-merge-two-sorted-lists/) | Easy |
 | [0206-reverse-linked-list](https://github.com/imrajeevnayan/leetcode-solution/tree/main/0206-reverse-linked-list/) | Easy |
+| [0231-power-of-two](https://github.com/imrajeevnayan/leetcode-solution/tree/main/0231-power-of-two/) | Easy |
 | [0234-palindrome-linked-list](https://github.com/imrajeevnayan/leetcode-solution/tree/main/0234-palindrome-linked-list/) | Easy |
 | [0394-decode-string](https://github.com/imrajeevnayan/leetcode-solution/tree/main/0394-decode-string/) | Medium |
 | [2094-finding-3-digit-even-numbers](https://github.com/imrajeevnayan/leetcode-solution/tree/main/2094-finding-3-digit-even-numbers/) | Easy |
