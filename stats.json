@@ -1021,18 +1021,19 @@
     "GeeksForGeeks_Kth_Largest_in_BST": true,
     "LeetCode_Unique_Binary_Search_Trees": true,
     "GeeksForGeeks_Search_a_node_in_BST": true,
-    "GeeksForGeeks_Inorder_Successor_in_BST": true
+    "GeeksForGeeks_Inorder_Successor_in_BST": true,
+    "GeeksForGeeks_Check_K-th_Bit": true
   },
-  "totalSolved": 549,
+  "totalSolved": 550,
   "difficultyCounts": {
-    "easy": 187,
+    "easy": 188,
     "medium": 227,
     "hard": 12,
     "basic": 123
   },
   "currentStreak": 1,
-  "todayCount": 7,
-  "lastSyncDate": "2026-08-30",
+  "todayCount": 1,
+  "lastSyncDate": "2026-09-01",
   "maxStreak": 25,
   "activityHistory": {
     "2026-05-19": 2,
@@ -1121,7 +1122,8 @@
     "2026-08-25": 3,
     "2026-08-26": 12,
     "2026-08-28": 1,
-    "2026-08-30": 7
+    "2026-08-30": 7,
+    "2026-09-01": 1
   },
   "todayProblems": [
     "Most Frequent Character",
@@ -1668,6 +1670,7 @@
     "Kth Largest in BST",
     "Unique Binary Search Trees",
     "Search a node in BST",
-    "Inorder Successor in BST"
+    "Inorder Successor in BST",
+    "Check K-th Bit"
   ]
 }
