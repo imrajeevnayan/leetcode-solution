@@ -1025,17 +1025,18 @@
     "GeeksForGeeks_Check_K-th_Bit": true,
     "LeetCode_Longest_Substring_Without_Repeating_Characters": true,
     "GeeksForGeeks_Floor_in_a_Sorted_Array": true,
-    "GeeksForGeeks_Ceil_in_a_Sorted_Array": true
+    "GeeksForGeeks_Ceil_in_a_Sorted_Array": true,
+    "GeeksForGeeks_Square_Root": true
   },
-  "totalSolved": 553,
+  "totalSolved": 554,
   "difficultyCounts": {
-    "easy": 189,
+    "easy": 190,
     "medium": 229,
     "hard": 12,
     "basic": 123
   },
   "currentStreak": 2,
-  "todayCount": 2,
+  "todayCount": 3,
   "lastSyncDate": "2026-09-02",
   "maxStreak": 25,
   "activityHistory": {
@@ -1127,7 +1128,7 @@
     "2026-08-28": 1,
     "2026-08-30": 7,
     "2026-09-01": 2,
-    "2026-09-02": 2
+    "2026-09-02": 3
   },
   "todayProblems": [
     "Most Frequent Character",
@@ -1678,6 +1679,7 @@
     "Check K-th Bit",
     "Longest Substring Without Repeating Characters",
     "Floor in a Sorted Array",
-    "Ceil in a Sorted Array"
+    "Ceil in a Sorted Array",
+    "Square Root"
   ]
 }
