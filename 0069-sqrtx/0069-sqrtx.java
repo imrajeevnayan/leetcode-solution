@@ -1,16 +1,20 @@
 class Solution {
     public int mySqrt(int x) {
-        if(x==0)return 0;
-        long start =1,end=x,ans=1;
-        while(start <=end){
-            long mid=start +(end-start)/2;
-            if(mid * mid ==x) return (int) mid;
-            else if(mid * mid < x){ 
-                ans=mid;
-                start=mid+1;
+        int low = 1,high = x,ans = 0;
+        while (low <= high) {
+            int mid = low + (high - low) / 2;
+            if (mid <= x / mid) {
+                // mid * mid <= n
+                ans = mid;
+                // aur bada answer try karo
+                low = mid + 1;
+            } 
+            else {
+                // mid * mid > n
+                // left side jao
+                high = mid - 1;
             }
-            else end=mid-1;
         }
-        return (int)ans; 
+        return ans;
     }
 }
