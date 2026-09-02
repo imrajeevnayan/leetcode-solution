@@ -15,6 +15,7 @@
 | [0035-search-insert-position](https://github.com/imrajeevnayan/leetcode-solution/tree/main/0035-search-insert-position/) | Easy |
 | [0049-group-anagrams](https://github.com/imrajeevnayan/leetcode-solution/tree/main/0049-group-anagrams/) | Medium |
 | [0053-maximum-subarray](https://github.com/imrajeevnayan/leetcode-solution/tree/main/0053-maximum-subarray/) | Medium |
+| [0081-search-in-rotated-sorted-array-ii](https://github.com/imrajeevnayan/leetcode-solution/tree/main/0081-search-in-rotated-sorted-array-ii/) | Medium |
 | [0128-longest-consecutive-sequence](https://github.com/imrajeevnayan/leetcode-solution/tree/main/0128-longest-consecutive-sequence/) | Medium |
 | [0136-single-number](https://github.com/imrajeevnayan/leetcode-solution/tree/main/0136-single-number/) | Easy |
 | [0137-single-number-ii](https://github.com/imrajeevnayan/leetcode-solution/tree/main/0137-single-number-ii/) | Medium |
@@ -229,6 +230,7 @@
 | [0004-median-of-two-sorted-arrays](https://github.com/imrajeevnayan/leetcode-solution/tree/main/0004-median-of-two-sorted-arrays/) | Hard |
 | [0033-search-in-rotated-sorted-array](https://github.com/imrajeevnayan/leetcode-solution/tree/main/0033-search-in-rotated-sorted-array/) | Medium |
 | [0035-search-insert-position](https://github.com/imrajeevnayan/leetcode-solution/tree/main/0035-search-insert-position/) | Easy |
+| [0081-search-in-rotated-sorted-array-ii](https://github.com/imrajeevnayan/leetcode-solution/tree/main/0081-search-in-rotated-sorted-array-ii/) | Medium |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/imrajeevnayan/leetcode-solution/tree/main/0153-find-minimum-in-rotated-sorted-array/) | Medium |
 | [0162-find-peak-element](https://github.com/imrajeevnayan/leetcode-solution/tree/main/0162-find-peak-element/) | Medium |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/imrajeevnayan/leetcode-solution/tree/main/0230-kth-smallest-element-in-a-bst/) | Medium |
