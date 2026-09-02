@@ -627,3 +627,4 @@
 | 78 | [Check K-th Bit](https://www.geeksforgeeks.org/problems/check-whether-k-th-bit-is-set-or-not-1587115620/1) | GeeksForGeeks | Easy | 01 Sept 2026 | 12:12 am |
 | 79 | [Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/) | LeetCode | Medium | 01 Sept 2026 | 10:11 am |
 | 80 | [Floor in a Sorted Array](https://www.geeksforgeeks.org/problems/floor-in-a-sorted-array-1587115620/1) | GeeksForGeeks | Easy | 02 Sept 2026 | 09:05 pm |
+| 81 | [Ceil in a Sorted Array](https://www.geeksforgeeks.org/problems/ceil-in-a-sorted-array/1) | GeeksForGeeks | Medium | 02 Sept 2026 | 09:08 pm |
