@@ -4,13 +4,13 @@ class Solution {
         while (low <= high) {
             int mid = low + (high - low) / 2;
             if (mid <= x / mid) {
-                // mid * mid <= n
+                // mid * mid <= x
                 ans = mid;
                 // aur bada answer try karo
                 low = mid + 1;
             } 
             else {
-                // mid * mid > n
+                // mid * mid > x
                 // left side jao
                 high = mid - 1;
             }
