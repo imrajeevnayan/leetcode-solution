@@ -1027,17 +1027,18 @@
     "GeeksForGeeks_Floor_in_a_Sorted_Array": true,
     "GeeksForGeeks_Ceil_in_a_Sorted_Array": true,
     "GeeksForGeeks_Square_Root": true,
-    "GeeksForGeeks_Unoccupied_Computers": true
+    "GeeksForGeeks_Unoccupied_Computers": true,
+    "GeeksForGeeks_Koko_Eating_Bananas": true
   },
-  "totalSolved": 555,
+  "totalSolved": 556,
   "difficultyCounts": {
     "easy": 191,
-    "medium": 229,
+    "medium": 230,
     "hard": 12,
     "basic": 123
   },
   "currentStreak": 2,
-  "todayCount": 4,
+  "todayCount": 5,
   "lastSyncDate": "2026-09-02",
   "maxStreak": 25,
   "activityHistory": {
@@ -1129,7 +1130,7 @@
     "2026-08-28": 1,
     "2026-08-30": 7,
     "2026-09-01": 2,
-    "2026-09-02": 4
+    "2026-09-02": 5
   },
   "todayProblems": [
     "Most Frequent Character",
@@ -1682,6 +1683,7 @@
     "Floor in a Sorted Array",
     "Ceil in a Sorted Array",
     "Square Root",
-    "Unoccupied Computers"
+    "Unoccupied Computers",
+    "Koko Eating Bananas"
   ]
 }
