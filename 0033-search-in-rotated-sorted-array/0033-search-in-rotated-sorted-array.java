@@ -13,7 +13,7 @@ class Solution {
             else{
                 if (nums[mid] < target && target <= nums[high]) low = mid + 1;
                  else  high = mid - 1;
-                
+                 
             }
         }
         return ans;
