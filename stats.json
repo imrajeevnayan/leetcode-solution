@@ -1029,17 +1029,18 @@
     "GeeksForGeeks_Square_Root": true,
     "GeeksForGeeks_Unoccupied_Computers": true,
     "GeeksForGeeks_Koko_Eating_Bananas": true,
-    "LeetCode_Find_First_and_Last_Position_of_Element_in_Sorted_Array": true
+    "LeetCode_Find_First_and_Last_Position_of_Element_in_Sorted_Array": true,
+    "GeeksForGeeks_Capacity_To_Ship_Packages_Within_d_Days": true
   },
-  "totalSolved": 557,
+  "totalSolved": 558,
   "difficultyCounts": {
     "easy": 191,
-    "medium": 231,
+    "medium": 232,
     "hard": 12,
     "basic": 123
   },
   "currentStreak": 3,
-  "todayCount": 1,
+  "todayCount": 2,
   "lastSyncDate": "2026-09-03",
   "maxStreak": 25,
   "activityHistory": {
@@ -1132,7 +1133,7 @@
     "2026-08-30": 7,
     "2026-09-01": 2,
     "2026-09-02": 5,
-    "2026-09-03": 1
+    "2026-09-03": 2
   },
   "todayProblems": [
     "Most Frequent Character",
@@ -1687,6 +1688,7 @@
     "Square Root",
     "Unoccupied Computers",
     "Koko Eating Bananas",
-    "Find First and Last Position of Element in Sorted Array"
+    "Find First and Last Position of Element in Sorted Array",
+    "Capacity To Ship Packages Within d Days"
   ]
 }
