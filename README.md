@@ -350,6 +350,7 @@
 | [0009-palindrome-number](https://github.com/imrajeevnayan/leetcode-solution/tree/main/0009-palindrome-number/) | Easy |
 | [0043-multiply-strings](https://github.com/imrajeevnayan/leetcode-solution/tree/main/0043-multiply-strings/) | Medium |
 | [0069-sqrtx](https://github.com/imrajeevnayan/leetcode-solution/tree/main/0069-sqrtx/) | Easy |
+| [0070-climbing-stairs](https://github.com/imrajeevnayan/leetcode-solution/tree/main/0070-climbing-stairs/) | Easy |
 | [0231-power-of-two](https://github.com/imrajeevnayan/leetcode-solution/tree/main/0231-power-of-two/) | Easy |
 | [0477-total-hamming-distance](https://github.com/imrajeevnayan/leetcode-solution/tree/main/0477-total-hamming-distance/) | Medium |
 | [0507-perfect-number](https://github.com/imrajeevnayan/leetcode-solution/tree/main/0507-perfect-number/) | Easy |
@@ -368,6 +369,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0053-maximum-subarray](https://github.com/imrajeevnayan/leetcode-solution/tree/main/0053-maximum-subarray/) | Medium |
+| [0070-climbing-stairs](https://github.com/imrajeevnayan/leetcode-solution/tree/main/0070-climbing-stairs/) | Easy |
 | [0410-split-array-largest-sum](https://github.com/imrajeevnayan/leetcode-solution/tree/main/0410-split-array-largest-sum/) | Hard |
 | [0918-maximum-sum-circular-subarray](https://github.com/imrajeevnayan/leetcode-solution/tree/main/0918-maximum-sum-circular-subarray/) | Medium |
 | [1563-stone-game-v](https://github.com/imrajeevnayan/leetcode-solution/tree/main/1563-stone-game-v/) | Hard |
@@ -562,6 +564,10 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0069-sqrtx](https://github.com/imrajeevnayan/leetcode-solution/tree/main/0069-sqrtx/) | Easy |
+## Memoization
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0070-climbing-stairs](https://github.com/imrajeevnayan/leetcode-solution/tree/main/0070-climbing-stairs/) | Easy |
 <!---LeetCode Topics End-->
 | 2 | [Union of Two Sets](https://www.geeksforgeeks.org/problems/union-of-two-arrays3538--171343/1?page=2&category=Hash) | GeeksForGeeks | Easy | 12 Aug 2026 | 05:03 pm |
 | 3 | [Prime Frequencies in Array](https://www.geeksforgeeks.org/problems/numbers-with-prime-frequencies-greater-than-or-equal-to-k5823/1?page=3&category=Hash) | GeeksForGeeks | Easy | 12 Aug 2026 | 05:06 pm |
