@@ -642,3 +642,4 @@
 | 82 | [Square Root](https://www.geeksforgeeks.org/problems/square-root/1) | GeeksForGeeks | Easy | 02 Sept 2026 | 10:39 pm |
 | 83 | [Unoccupied Computers](https://www.geeksforgeeks.org/problems/unoccupied-computers-1646661078/1) | GeeksForGeeks | Easy | 02 Sept 2026 | 10:45 pm |
 | 84 | [Koko Eating Bananas](https://www.geeksforgeeks.org/problems/koko-eating-bananas/1) | GeeksForGeeks | Medium | 02 Sept 2026 | 11:56 pm |
+| 85 | [Find First and Last Position of Element in Sorted Array](https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array/) | LeetCode | Medium | 03 Sept 2026 | 11:03 am |
