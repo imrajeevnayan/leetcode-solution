@@ -661,3 +661,4 @@
 | 86 | [Capacity To Ship Packages Within d Days](https://www.geeksforgeeks.org/problems/capacity-to-ship-packages-within-d-days/1) | GeeksForGeeks | Medium | 03 Sept 2026 | 02:05 pm |
 | 87 | [Number and the Digit Sum](https://www.geeksforgeeks.org/problems/number-and-the-digit-sum4021/1) | GeeksForGeeks | Easy | 04 Sept 2026 | 09:26 pm |
 | 88 | [Insert at Middle of Linked List](https://www.geeksforgeeks.org/problems/insert-in-middle-of-linked-list/1) | GeeksForGeeks | Basic | 04 Sept 2026 | 11:43 pm |
+| 89 | [Rotate a Linked List](https://www.geeksforgeeks.org/problems/rotate-a-linked-list/1) | GeeksForGeeks | Medium | 04 Sept 2026 | 11:50 pm |
