@@ -8,7 +8,7 @@
 [View Problem](https://www.geeksforgeeks.org/problems/insert-in-middle-of-linked-list/1)
 
 ## Solved On
-04 Sept 2026 at 11:42 pm
+04 Sept 2026 at 11:43 pm
 
 <h2><a href="https://www.geeksforgeeks.org/problems/insert-in-middle-of-linked-list/1">Insert at Middle of Linked List</a></h2><h3>Difficulty Level: Basic</h3><hr><p><span style="font-size: 18px;">Given the head of a Singly Linked List and a value x. Insert the key in the middle of the linked list.</span></p>
 <p><span style="font-size: 18px;"><strong>Examples :</strong></span></p>
