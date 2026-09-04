@@ -1030,18 +1030,19 @@
     "GeeksForGeeks_Unoccupied_Computers": true,
     "GeeksForGeeks_Koko_Eating_Bananas": true,
     "LeetCode_Find_First_and_Last_Position_of_Element_in_Sorted_Array": true,
-    "GeeksForGeeks_Capacity_To_Ship_Packages_Within_d_Days": true
+    "GeeksForGeeks_Capacity_To_Ship_Packages_Within_d_Days": true,
+    "GeeksForGeeks_Number_and_the_Digit_Sum": true
   },
-  "totalSolved": 558,
+  "totalSolved": 559,
   "difficultyCounts": {
-    "easy": 191,
+    "easy": 192,
     "medium": 232,
     "hard": 12,
     "basic": 123
   },
-  "currentStreak": 3,
-  "todayCount": 2,
-  "lastSyncDate": "2026-09-03",
+  "currentStreak": 4,
+  "todayCount": 1,
+  "lastSyncDate": "2026-09-04",
   "maxStreak": 25,
   "activityHistory": {
     "2026-05-19": 2,
@@ -1133,7 +1134,8 @@
     "2026-08-30": 7,
     "2026-09-01": 2,
     "2026-09-02": 5,
-    "2026-09-03": 2
+    "2026-09-03": 2,
+    "2026-09-04": 1
   },
   "todayProblems": [
     "Most Frequent Character",
@@ -1689,6 +1691,7 @@
     "Unoccupied Computers",
     "Koko Eating Bananas",
     "Find First and Last Position of Element in Sorted Array",
-    "Capacity To Ship Packages Within d Days"
+    "Capacity To Ship Packages Within d Days",
+    "Number and the Digit Sum"
   ]
 }
