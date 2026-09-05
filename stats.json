@@ -1034,17 +1034,18 @@
     "GeeksForGeeks_Number_and_the_Digit_Sum": true,
     "GeeksForGeeks_Insert_at_Middle_of_Linked_List": true,
     "GeeksForGeeks_Rotate_a_Linked_List": true,
-    "GeeksForGeeks_Kth_from_End_of_Linked_List": true
+    "GeeksForGeeks_Kth_from_End_of_Linked_List": true,
+    "GeeksForGeeks_Doubly_Linked_List_Traversal": true
   },
-  "totalSolved": 562,
+  "totalSolved": 563,
   "difficultyCounts": {
     "easy": 193,
     "medium": 233,
     "hard": 12,
-    "basic": 124
+    "basic": 125
   },
   "currentStreak": 5,
-  "todayCount": 1,
+  "todayCount": 2,
   "lastSyncDate": "2026-09-05",
   "maxStreak": 25,
   "activityHistory": {
@@ -1139,7 +1140,7 @@
     "2026-09-02": 5,
     "2026-09-03": 2,
     "2026-09-04": 3,
-    "2026-09-05": 1
+    "2026-09-05": 2
   },
   "todayProblems": [
     "Most Frequent Character",
@@ -1699,6 +1700,7 @@
     "Number and the Digit Sum",
     "Insert at Middle of Linked List",
     "Rotate a Linked List",
-    "Kth from End of Linked List"
+    "Kth from End of Linked List",
+    "Doubly Linked List Traversal"
   ]
 }
