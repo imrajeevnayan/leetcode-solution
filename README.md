@@ -662,3 +662,4 @@
 | 87 | [Number and the Digit Sum](https://www.geeksforgeeks.org/problems/number-and-the-digit-sum4021/1) | GeeksForGeeks | Easy | 04 Sept 2026 | 09:26 pm |
 | 88 | [Insert at Middle of Linked List](https://www.geeksforgeeks.org/problems/insert-in-middle-of-linked-list/1) | GeeksForGeeks | Basic | 04 Sept 2026 | 11:43 pm |
 | 89 | [Rotate a Linked List](https://www.geeksforgeeks.org/problems/rotate-a-linked-list/1) | GeeksForGeeks | Medium | 04 Sept 2026 | 11:50 pm |
+| 90 | [Kth from End of Linked List](https://www.geeksforgeeks.org/problems/nth-node-from-end-of-linked-list/1) | GeeksForGeeks | Easy | 05 Sept 2026 | 09:11 am |

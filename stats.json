@@ -1033,18 +1033,19 @@
     "GeeksForGeeks_Capacity_To_Ship_Packages_Within_d_Days": true,
     "GeeksForGeeks_Number_and_the_Digit_Sum": true,
     "GeeksForGeeks_Insert_at_Middle_of_Linked_List": true,
-    "GeeksForGeeks_Rotate_a_Linked_List": true
+    "GeeksForGeeks_Rotate_a_Linked_List": true,
+    "GeeksForGeeks_Kth_from_End_of_Linked_List": true
   },
-  "totalSolved": 561,
+  "totalSolved": 562,
   "difficultyCounts": {
-    "easy": 192,
+    "easy": 193,
     "medium": 233,
     "hard": 12,
     "basic": 124
   },
-  "currentStreak": 4,
-  "todayCount": 3,
-  "lastSyncDate": "2026-09-04",
+  "currentStreak": 5,
+  "todayCount": 1,
+  "lastSyncDate": "2026-09-05",
   "maxStreak": 25,
   "activityHistory": {
     "2026-05-19": 2,
@@ -1137,7 +1138,8 @@
     "2026-09-01": 2,
     "2026-09-02": 5,
     "2026-09-03": 2,
-    "2026-09-04": 3
+    "2026-09-04": 3,
+    "2026-09-05": 1
   },
   "todayProblems": [
     "Most Frequent Character",
@@ -1696,6 +1698,7 @@
     "Capacity To Ship Packages Within d Days",
     "Number and the Digit Sum",
     "Insert at Middle of Linked List",
-    "Rotate a Linked List"
+    "Rotate a Linked List",
+    "Kth from End of Linked List"
   ]
 }
