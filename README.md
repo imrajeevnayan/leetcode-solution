@@ -668,3 +668,4 @@
 | 89 | [Rotate a Linked List](https://www.geeksforgeeks.org/problems/rotate-a-linked-list/1) | GeeksForGeeks | Medium | 04 Sept 2026 | 11:50 pm |
 | 90 | [Kth from End of Linked List](https://www.geeksforgeeks.org/problems/nth-node-from-end-of-linked-list/1) | GeeksForGeeks | Easy | 05 Sept 2026 | 09:11 am |
 | 91 | [Doubly Linked List Traversal](https://www.geeksforgeeks.org/problems/display-doubly-linked-list--154650/1) | GeeksForGeeks | Basic | 05 Sept 2026 | 10:51 pm |
+| 92 | [Reorder List](https://www.geeksforgeeks.org/problems/reorder-list/1) | GeeksForGeeks | Hard | 06 Sept 2026 | 12:08 am |
