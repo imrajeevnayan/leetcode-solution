@@ -675,3 +675,4 @@
 | 91 | [Doubly Linked List Traversal](https://www.geeksforgeeks.org/problems/display-doubly-linked-list--154650/1) | GeeksForGeeks | Basic | 05 Sept 2026 | 10:51 pm |
 | 92 | [Reorder List](https://www.geeksforgeeks.org/problems/reorder-list/1) | GeeksForGeeks | Hard | 06 Sept 2026 | 12:08 am |
 | 93 | [BFS of Graph](https://www.geeksforgeeks.org/problems/bfs-traversal-of-graph/1) | GeeksForGeeks | Easy | 06 Sept 2026 | 09:13 am |
+| 94 | [Valid Parentheses](https://leetcode.com/problems/valid-parentheses/) | LeetCode | Easy | 06 Sept 2026 | 11:26 pm |
