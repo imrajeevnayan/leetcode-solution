@@ -206,6 +206,7 @@
 | [0226-invert-binary-tree](https://github.com/imrajeevnayan/leetcode-solution/tree/main/0226-invert-binary-tree/) | Easy |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/imrajeevnayan/leetcode-solution/tree/main/0230-kth-smallest-element-in-a-bst/) | Medium |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/imrajeevnayan/leetcode-solution/tree/main/0236-lowest-common-ancestor-of-a-binary-tree/) | Medium |
+| [0257-binary-tree-paths](https://github.com/imrajeevnayan/leetcode-solution/tree/main/0257-binary-tree-paths/) | Easy |
 | [0543-diameter-of-binary-tree](https://github.com/imrajeevnayan/leetcode-solution/tree/main/0543-diameter-of-binary-tree/) | Easy |
 | [0617-merge-two-binary-trees](https://github.com/imrajeevnayan/leetcode-solution/tree/main/0617-merge-two-binary-trees/) | Easy |
 | [0654-maximum-binary-tree](https://github.com/imrajeevnayan/leetcode-solution/tree/main/0654-maximum-binary-tree/) | Medium |
@@ -230,6 +231,7 @@
 | [0226-invert-binary-tree](https://github.com/imrajeevnayan/leetcode-solution/tree/main/0226-invert-binary-tree/) | Easy |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/imrajeevnayan/leetcode-solution/tree/main/0230-kth-smallest-element-in-a-bst/) | Medium |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/imrajeevnayan/leetcode-solution/tree/main/0236-lowest-common-ancestor-of-a-binary-tree/) | Medium |
+| [0257-binary-tree-paths](https://github.com/imrajeevnayan/leetcode-solution/tree/main/0257-binary-tree-paths/) | Easy |
 | [0543-diameter-of-binary-tree](https://github.com/imrajeevnayan/leetcode-solution/tree/main/0543-diameter-of-binary-tree/) | Easy |
 | [0617-merge-two-binary-trees](https://github.com/imrajeevnayan/leetcode-solution/tree/main/0617-merge-two-binary-trees/) | Easy |
 | [0654-maximum-binary-tree](https://github.com/imrajeevnayan/leetcode-solution/tree/main/0654-maximum-binary-tree/) | Medium |
@@ -314,6 +316,7 @@
 | [0125-valid-palindrome](https://github.com/imrajeevnayan/leetcode-solution/tree/main/0125-valid-palindrome/) | Easy |
 | [0151-reverse-words-in-a-string](https://github.com/imrajeevnayan/leetcode-solution/tree/main/0151-reverse-words-in-a-string/) | Medium |
 | [0205-isomorphic-strings](https://github.com/imrajeevnayan/leetcode-solution/tree/main/0205-isomorphic-strings/) | Easy |
+| [0257-binary-tree-paths](https://github.com/imrajeevnayan/leetcode-solution/tree/main/0257-binary-tree-paths/) | Easy |
 | [0290-word-pattern](https://github.com/imrajeevnayan/leetcode-solution/tree/main/0290-word-pattern/) | Easy |
 | [0345-reverse-vowels-of-a-string](https://github.com/imrajeevnayan/leetcode-solution/tree/main/0345-reverse-vowels-of-a-string/) | Easy |
 | [0383-ransom-note](https://github.com/imrajeevnayan/leetcode-solution/tree/main/0383-ransom-note/) | Easy |
@@ -534,6 +537,7 @@
 ## Backtracking
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0257-binary-tree-paths](https://github.com/imrajeevnayan/leetcode-solution/tree/main/0257-binary-tree-paths/) | Easy |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/imrajeevnayan/leetcode-solution/tree/main/1863-sum-of-all-subset-xor-totals/) | Easy |
 ## Depth-First Search
 | Problem Name | Difficulty |
@@ -545,6 +549,7 @@
 | [0226-invert-binary-tree](https://github.com/imrajeevnayan/leetcode-solution/tree/main/0226-invert-binary-tree/) | Easy |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/imrajeevnayan/leetcode-solution/tree/main/0230-kth-smallest-element-in-a-bst/) | Medium |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/imrajeevnayan/leetcode-solution/tree/main/0236-lowest-common-ancestor-of-a-binary-tree/) | Medium |
+| [0257-binary-tree-paths](https://github.com/imrajeevnayan/leetcode-solution/tree/main/0257-binary-tree-paths/) | Easy |
 | [0543-diameter-of-binary-tree](https://github.com/imrajeevnayan/leetcode-solution/tree/main/0543-diameter-of-binary-tree/) | Easy |
 | [0617-merge-two-binary-trees](https://github.com/imrajeevnayan/leetcode-solution/tree/main/0617-merge-two-binary-trees/) | Easy |
 ## Breadth-First Search
