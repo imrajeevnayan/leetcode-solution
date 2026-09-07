@@ -7,17 +7,22 @@ class Solution {
         q.add(root);
 
         while (!q.isEmpty()) {
-            List<Integer> temp = new ArrayList<>();
-            int n = q.size();
-            while (n > 0) {
-                TreeNode curr = q.remove();
-                temp.add(curr.val);
 
-                if (curr.left != null) q.add(curr.left);
+            int n = q.size();
+            List<Integer> list = new ArrayList<>();
+
+            for (int i = 0; i < n; i++) {
+
+                TreeNode curr = q.remove();
+
+                // Queue se nikala → ArrayList mein add
+                list.add(curr.val);
+
+                if (curr.left != null)  q.add(curr.left);
                 if (curr.right != null) q.add(curr.right);
-                n--;
+                
             }
-            ans.add(temp);
+            ans.add(list);
         }
         return ans;
     }
