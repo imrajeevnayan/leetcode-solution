@@ -684,3 +684,4 @@
 | 96 | [Print Pattern](https://www.geeksforgeeks.org/problems/print-pattern3549/1) | GeeksForGeeks | Easy | 07 Sept 2026 | 10:55 am |
 | 97 | [Right View of Binary Tree](https://www.geeksforgeeks.org/problems/right-view-of-binary-tree/1) | GeeksForGeeks | Easy | 07 Sept 2026 | 10:58 am |
 | 98 | [Reverse Level Order Traversal](https://www.geeksforgeeks.org/problems/reverse-level-order-traversal/1) | GeeksForGeeks | Easy | 07 Sept 2026 | 02:26 pm |
+| 99 | [Same Tree](https://leetcode.com/problems/same-tree/) | LeetCode | Easy | 07 Sept 2026 | 03:33 pm |
