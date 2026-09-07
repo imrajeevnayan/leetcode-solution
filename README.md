@@ -677,3 +677,4 @@
 | 93 | [BFS of Graph](https://www.geeksforgeeks.org/problems/bfs-traversal-of-graph/1) | GeeksForGeeks | Easy | 06 Sept 2026 | 09:13 am |
 | 94 | [Valid Parentheses](https://leetcode.com/problems/valid-parentheses/) | LeetCode | Easy | 06 Sept 2026 | 11:26 pm |
 | 95 | [Binary Tree Level Order Traversal](https://leetcode.com/problems/binary-tree-level-order-traversal/) | LeetCode | Medium | 07 Sept 2026 | 09:02 am |
+| 96 | [Print Pattern](https://www.geeksforgeeks.org/problems/print-pattern3549/1) | GeeksForGeeks | Easy | 07 Sept 2026 | 10:55 am |
