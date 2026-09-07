@@ -679,3 +679,4 @@
 | 95 | [Binary Tree Level Order Traversal](https://leetcode.com/problems/binary-tree-level-order-traversal/) | LeetCode | Medium | 07 Sept 2026 | 09:02 am |
 | 96 | [Print Pattern](https://www.geeksforgeeks.org/problems/print-pattern3549/1) | GeeksForGeeks | Easy | 07 Sept 2026 | 10:55 am |
 | 97 | [Right View of Binary Tree](https://www.geeksforgeeks.org/problems/right-view-of-binary-tree/1) | GeeksForGeeks | Easy | 07 Sept 2026 | 10:58 am |
+| 98 | [Reverse Level Order Traversal](https://www.geeksforgeeks.org/problems/reverse-level-order-traversal/1) | GeeksForGeeks | Easy | 07 Sept 2026 | 02:26 pm |
