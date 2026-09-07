@@ -1038,18 +1038,19 @@
     "GeeksForGeeks_Doubly_Linked_List_Traversal": true,
     "GeeksForGeeks_Reorder_List": true,
     "GeeksForGeeks_BFS_of_Graph": true,
-    "LeetCode_Valid_Parentheses": true
+    "LeetCode_Valid_Parentheses": true,
+    "LeetCode_Binary_Tree_Level_Order_Traversal": true
   },
-  "totalSolved": 566,
+  "totalSolved": 567,
   "difficultyCounts": {
     "easy": 195,
-    "medium": 233,
+    "medium": 234,
     "hard": 13,
     "basic": 125
   },
-  "currentStreak": 6,
-  "todayCount": 3,
-  "lastSyncDate": "2026-09-06",
+  "currentStreak": 7,
+  "todayCount": 1,
+  "lastSyncDate": "2026-09-07",
   "maxStreak": 25,
   "activityHistory": {
     "2026-05-19": 2,
@@ -1144,7 +1145,8 @@
     "2026-09-03": 2,
     "2026-09-04": 3,
     "2026-09-05": 2,
-    "2026-09-06": 3
+    "2026-09-06": 3,
+    "2026-09-07": 1
   },
   "todayProblems": [
     "Most Frequent Character",
@@ -1708,6 +1710,7 @@
     "Doubly Linked List Traversal",
     "Reorder List",
     "BFS of Graph",
-    "Valid Parentheses"
+    "Valid Parentheses",
+    "Binary Tree Level Order Traversal"
   ]
 }
