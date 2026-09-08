@@ -715,3 +715,4 @@
 | 97 | [Right View of Binary Tree](https://www.geeksforgeeks.org/problems/right-view-of-binary-tree/1) | GeeksForGeeks | Easy | 07 Sept 2026 | 10:58 am |
 | 98 | [Reverse Level Order Traversal](https://www.geeksforgeeks.org/problems/reverse-level-order-traversal/1) | GeeksForGeeks | Easy | 07 Sept 2026 | 02:26 pm |
 | 99 | [Same Tree](https://leetcode.com/problems/same-tree/) | LeetCode | Easy | 07 Sept 2026 | 03:33 pm |
+| 100 | [Graph Adjacency List Traversal](https://www.geeksforgeeks.org/problems/print-adjacency-list-1587115620/1) | GeeksForGeeks | Easy | 08 Sept 2026 | 06:35 pm |
