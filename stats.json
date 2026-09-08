@@ -1044,17 +1044,18 @@
     "GeeksForGeeks_Right_View_of_Binary_Tree": true,
     "GeeksForGeeks_Reverse_Level_Order_Traversal": true,
     "LeetCode_Same_Tree": true,
-    "GeeksForGeeks_Graph_Adjacency_List_Traversal": true
+    "GeeksForGeeks_Graph_Adjacency_List_Traversal": true,
+    "GeeksForGeeks_Count_Edges_in_Graph": true
   },
-  "totalSolved": 572,
+  "totalSolved": 573,
   "difficultyCounts": {
-    "easy": 200,
+    "easy": 201,
     "medium": 234,
     "hard": 13,
     "basic": 125
   },
   "currentStreak": 8,
-  "todayCount": 1,
+  "todayCount": 2,
   "lastSyncDate": "2026-09-08",
   "maxStreak": 25,
   "activityHistory": {
@@ -1152,7 +1153,7 @@
     "2026-09-05": 2,
     "2026-09-06": 3,
     "2026-09-07": 5,
-    "2026-09-08": 1
+    "2026-09-08": 2
   },
   "todayProblems": [
     "Most Frequent Character",
@@ -1722,6 +1723,7 @@
     "Right View of Binary Tree",
     "Reverse Level Order Traversal",
     "Same Tree",
-    "Graph Adjacency List Traversal"
+    "Graph Adjacency List Traversal",
+    "Count Edges in Graph"
   ]
 }
