@@ -44,6 +44,7 @@
 | [0852-peak-index-in-a-mountain-array](https://github.com/imrajeevnayan/leetcode-solution/tree/main/0852-peak-index-in-a-mountain-array/) | Medium |
 | [0918-maximum-sum-circular-subarray](https://github.com/imrajeevnayan/leetcode-solution/tree/main/0918-maximum-sum-circular-subarray/) | Medium |
 | [0929-unique-email-addresses](https://github.com/imrajeevnayan/leetcode-solution/tree/main/0929-unique-email-addresses/) | Easy |
+| [0997-find-the-town-judge](https://github.com/imrajeevnayan/leetcode-solution/tree/main/0997-find-the-town-judge/) | Easy |
 | [1004-max-consecutive-ones-iii](https://github.com/imrajeevnayan/leetcode-solution/tree/main/1004-max-consecutive-ones-iii/) | Medium |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/imrajeevnayan/leetcode-solution/tree/main/1008-construct-binary-search-tree-from-preorder-traversal/) | Medium |
 | [1051-height-checker](https://github.com/imrajeevnayan/leetcode-solution/tree/main/1051-height-checker/) | Easy |
@@ -137,6 +138,7 @@
 | [0560-subarray-sum-equals-k](https://github.com/imrajeevnayan/leetcode-solution/tree/main/0560-subarray-sum-equals-k/) | Medium |
 | [0929-unique-email-addresses](https://github.com/imrajeevnayan/leetcode-solution/tree/main/0929-unique-email-addresses/) | Easy |
 | [0981-time-based-key-value-store](https://github.com/imrajeevnayan/leetcode-solution/tree/main/0981-time-based-key-value-store/) | Medium |
+| [0997-find-the-town-judge](https://github.com/imrajeevnayan/leetcode-solution/tree/main/0997-find-the-town-judge/) | Easy |
 | [1347-minimum-number-of-steps-to-make-two-strings-anagram](https://github.com/imrajeevnayan/leetcode-solution/tree/main/1347-minimum-number-of-steps-to-make-two-strings-anagram/) | Medium |
 | [1386-cinema-seat-allocation](https://github.com/imrajeevnayan/leetcode-solution/tree/main/1386-cinema-seat-allocation/) | Medium |
 | [2094-finding-3-digit-even-numbers](https://github.com/imrajeevnayan/leetcode-solution/tree/main/2094-finding-3-digit-even-numbers/) | Easy |
@@ -633,6 +635,7 @@
 | [0547-number-of-provinces](https://github.com/imrajeevnayan/leetcode-solution/tree/main/0547-number-of-provinces/) | Medium |
 | [0684-redundant-connection](https://github.com/imrajeevnayan/leetcode-solution/tree/main/0684-redundant-connection/) | Medium |
 | [0841-keys-and-rooms](https://github.com/imrajeevnayan/leetcode-solution/tree/main/0841-keys-and-rooms/) | Medium |
+| [0997-find-the-town-judge](https://github.com/imrajeevnayan/leetcode-solution/tree/main/0997-find-the-town-judge/) | Easy |
 | [1791-find-center-of-star-graph](https://github.com/imrajeevnayan/leetcode-solution/tree/main/1791-find-center-of-star-graph/) | Easy |
 | [1971-find-if-path-exists-in-graph](https://github.com/imrajeevnayan/leetcode-solution/tree/main/1971-find-if-path-exists-in-graph/) | Easy |
 | [3898-find-the-degree-of-each-vertex](https://github.com/imrajeevnayan/leetcode-solution/tree/main/3898-find-the-degree-of-each-vertex/) | Easy |
