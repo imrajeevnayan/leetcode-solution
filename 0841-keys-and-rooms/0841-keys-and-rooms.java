@@ -1,22 +1,27 @@
 class Solution {
     public boolean canVisitAllRooms(List<List<Integer>> rooms) {
-        boolean[] visited = new boolean[rooms.size()];
-        Stack<Integer> stack = new Stack<>();
-
-        stack.push(0);
+        int n = rooms.size();
+        boolean[] visited = new boolean[n];
+        Queue<Integer> queue = new ArrayDeque<>();
+        // Start from Room 0
         visited[0] = true;
-        int count = 0;
+        queue.offer(0);
 
-        while (!stack.isEmpty()) {
-            int room = stack.pop();
-            count++;
-            for (int key : rooms.get(room)) {
+        while (!queue.isEmpty()) {
+            int currRoom = queue.poll();
+            // Current room ki saari keys
+            for (int key : rooms.get(currRoom)) {
+                // Agar room pehle visit nahi hua
                 if (!visited[key]) {
                     visited[key] = true;
-                    stack.push(key);
+                    queue.offer(key);
                 }
             }
         }
-        return count == rooms.size();
+        // Check whether all rooms were visited
+        for (boolean visit : visited) {
+            if (!visit) return false;
+        }
+        return true;
     }
 }
