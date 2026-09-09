@@ -721,3 +721,4 @@
 | 99 | [Same Tree](https://leetcode.com/problems/same-tree/) | LeetCode | Easy | 07 Sept 2026 | 03:33 pm |
 | 100 | [Graph Adjacency List Traversal](https://www.geeksforgeeks.org/problems/print-adjacency-list-1587115620/1) | GeeksForGeeks | Easy | 08 Sept 2026 | 06:35 pm |
 | 101 | [Count Edges in Graph](https://www.geeksforgeeks.org/problems/count-number-of-edges-in-an-undirected-graph/1) | GeeksForGeeks | Easy | 08 Sept 2026 | 07:00 pm |
+| 102 | [Max Digit Sum Number in 1 to n](https://www.geeksforgeeks.org/problems/biggest-integer-having-maximum-digit-sum1704/1) | GeeksForGeeks | Easy | 09 Sept 2026 | 09:35 am |

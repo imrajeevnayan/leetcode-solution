@@ -1045,18 +1045,19 @@
     "GeeksForGeeks_Reverse_Level_Order_Traversal": true,
     "LeetCode_Same_Tree": true,
     "GeeksForGeeks_Graph_Adjacency_List_Traversal": true,
-    "GeeksForGeeks_Count_Edges_in_Graph": true
+    "GeeksForGeeks_Count_Edges_in_Graph": true,
+    "GeeksForGeeks_Max_Digit_Sum_Number_in_1_to_n": true
   },
-  "totalSolved": 573,
+  "totalSolved": 574,
   "difficultyCounts": {
-    "easy": 201,
+    "easy": 202,
     "medium": 234,
     "hard": 13,
     "basic": 125
   },
-  "currentStreak": 8,
-  "todayCount": 2,
-  "lastSyncDate": "2026-09-08",
+  "currentStreak": 9,
+  "todayCount": 1,
+  "lastSyncDate": "2026-09-09",
   "maxStreak": 25,
   "activityHistory": {
     "2026-05-19": 2,
@@ -1153,7 +1154,8 @@
     "2026-09-05": 2,
     "2026-09-06": 3,
     "2026-09-07": 5,
-    "2026-09-08": 2
+    "2026-09-08": 2,
+    "2026-09-09": 1
   },
   "todayProblems": [
     "Most Frequent Character",
@@ -1724,6 +1726,7 @@
     "Reverse Level Order Traversal",
     "Same Tree",
     "Graph Adjacency List Traversal",
-    "Count Edges in Graph"
+    "Count Edges in Graph",
+    "Max Digit Sum Number in 1 to n"
   ]
 }
