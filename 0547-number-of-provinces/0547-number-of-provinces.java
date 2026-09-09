@@ -3,29 +3,28 @@ class Solution {
         int n = isConnected.length;
         boolean[] visited = new boolean[n];
         int provinces = 0;
+
         for (int i = 0; i < n; i++) {
 
+            // New unvisited node = new province
             if (!visited[i]) {
                 provinces++;
-                bfs(i, isConnected, visited);
-            }
-        }
-        return provinces;
-    }
-    private void bfs(int start, int[][] isConnected, boolean[] visited) {
-        Queue<Integer> queue = new LinkedList<>();
-        queue.add(start);
-        visited[start] = true;
-        while (!queue.isEmpty()) {
-            int city = queue.poll();
-            // Current city ke saare possible connections check karo
-            for (int j = 0; j < isConnected.length; j++) {
+                Queue<Integer> queue = new ArrayDeque<>();
+                queue.offer(i);
+                visited[i] = true;
+                while (!queue.isEmpty()) {
+                    int curr = queue.poll();
+                    // Check all possible neighbors
+                    for (int j = 0; j < n; j++) {
 
-                if (isConnected[city][j] == 1 && !visited[j]) {
-                    visited[j] = true;
-                    queue.add(j);
+                        if (isConnected[curr][j] == 1 && !visited[j]) {
+                            visited[j] = true;
+                            queue.offer(j);
+                        }
+                    }
                 }
             }
         }
+        return provinces;
     }
 }
