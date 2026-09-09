@@ -24,6 +24,7 @@
 | [0162-find-peak-element](https://github.com/imrajeevnayan/leetcode-solution/tree/main/0162-find-peak-element/) | Medium |
 | [0189-rotate-array](https://github.com/imrajeevnayan/leetcode-solution/tree/main/0189-rotate-array/) | Medium |
 | [0198-house-robber](https://github.com/imrajeevnayan/leetcode-solution/tree/main/0198-house-robber/) | Medium |
+| [0200-number-of-islands](https://github.com/imrajeevnayan/leetcode-solution/tree/main/0200-number-of-islands/) | Medium |
 | [0219-contains-duplicate-ii](https://github.com/imrajeevnayan/leetcode-solution/tree/main/0219-contains-duplicate-ii/) | Easy |
 | [0228-summary-ranges](https://github.com/imrajeevnayan/leetcode-solution/tree/main/0228-summary-ranges/) | Easy |
 | [0238-product-of-array-except-self](https://github.com/imrajeevnayan/leetcode-solution/tree/main/0238-product-of-array-except-self/) | Medium |
@@ -435,6 +436,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/imrajeevnayan/leetcode-solution/tree/main/0128-longest-consecutive-sequence/) | Medium |
+| [0200-number-of-islands](https://github.com/imrajeevnayan/leetcode-solution/tree/main/0200-number-of-islands/) | Medium |
 | [0547-number-of-provinces](https://github.com/imrajeevnayan/leetcode-solution/tree/main/0547-number-of-provinces/) | Medium |
 | [1971-find-if-path-exists-in-graph](https://github.com/imrajeevnayan/leetcode-solution/tree/main/1971-find-if-path-exists-in-graph/) | Easy |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/imrajeevnayan/leetcode-solution/tree/main/2948-make-lexicographically-smallest-array-by-swapping-elements/) | Medium |
@@ -548,6 +550,7 @@
 | [0100-same-tree](https://github.com/imrajeevnayan/leetcode-solution/tree/main/0100-same-tree/) | Easy |
 | [0101-symmetric-tree](https://github.com/imrajeevnayan/leetcode-solution/tree/main/0101-symmetric-tree/) | Easy |
 | [0110-balanced-binary-tree](https://github.com/imrajeevnayan/leetcode-solution/tree/main/0110-balanced-binary-tree/) | Easy |
+| [0200-number-of-islands](https://github.com/imrajeevnayan/leetcode-solution/tree/main/0200-number-of-islands/) | Medium |
 | [0226-invert-binary-tree](https://github.com/imrajeevnayan/leetcode-solution/tree/main/0226-invert-binary-tree/) | Easy |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/imrajeevnayan/leetcode-solution/tree/main/0230-kth-smallest-element-in-a-bst/) | Medium |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/imrajeevnayan/leetcode-solution/tree/main/0236-lowest-common-ancestor-of-a-binary-tree/) | Medium |
@@ -562,6 +565,7 @@
 | [0100-same-tree](https://github.com/imrajeevnayan/leetcode-solution/tree/main/0100-same-tree/) | Easy |
 | [0101-symmetric-tree](https://github.com/imrajeevnayan/leetcode-solution/tree/main/0101-symmetric-tree/) | Easy |
 | [0102-binary-tree-level-order-traversal](https://github.com/imrajeevnayan/leetcode-solution/tree/main/0102-binary-tree-level-order-traversal/) | Medium |
+| [0200-number-of-islands](https://github.com/imrajeevnayan/leetcode-solution/tree/main/0200-number-of-islands/) | Medium |
 | [0226-invert-binary-tree](https://github.com/imrajeevnayan/leetcode-solution/tree/main/0226-invert-binary-tree/) | Easy |
 | [0547-number-of-provinces](https://github.com/imrajeevnayan/leetcode-solution/tree/main/0547-number-of-provinces/) | Medium |
 | [0617-merge-two-binary-trees](https://github.com/imrajeevnayan/leetcode-solution/tree/main/0617-merge-two-binary-trees/) | Easy |
@@ -581,6 +585,7 @@
 ## Matrix
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0200-number-of-islands](https://github.com/imrajeevnayan/leetcode-solution/tree/main/0200-number-of-islands/) | Medium |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/imrajeevnayan/leetcode-solution/tree/main/1351-count-negative-numbers-in-a-sorted-matrix/) | Easy |
 | [2545-sort-the-students-by-their-kth-score](https://github.com/imrajeevnayan/leetcode-solution/tree/main/2545-sort-the-students-by-their-kth-score/) | Medium |
 ## Monotonic Queue
