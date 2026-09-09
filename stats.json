@@ -1046,17 +1046,18 @@
     "LeetCode_Same_Tree": true,
     "GeeksForGeeks_Graph_Adjacency_List_Traversal": true,
     "GeeksForGeeks_Count_Edges_in_Graph": true,
-    "GeeksForGeeks_Max_Digit_Sum_Number_in_1_to_n": true
+    "GeeksForGeeks_Max_Digit_Sum_Number_in_1_to_n": true,
+    "GeeksForGeeks_Undirected_Graph_Cycle": true
   },
-  "totalSolved": 574,
+  "totalSolved": 575,
   "difficultyCounts": {
     "easy": 202,
-    "medium": 234,
+    "medium": 235,
     "hard": 13,
     "basic": 125
   },
   "currentStreak": 9,
-  "todayCount": 1,
+  "todayCount": 2,
   "lastSyncDate": "2026-09-09",
   "maxStreak": 25,
   "activityHistory": {
@@ -1155,7 +1156,7 @@
     "2026-09-06": 3,
     "2026-09-07": 5,
     "2026-09-08": 2,
-    "2026-09-09": 1
+    "2026-09-09": 2
   },
   "todayProblems": [
     "Most Frequent Character",
@@ -1727,6 +1728,7 @@
     "Same Tree",
     "Graph Adjacency List Traversal",
     "Count Edges in Graph",
-    "Max Digit Sum Number in 1 to n"
+    "Max Digit Sum Number in 1 to n",
+    "Undirected Graph Cycle"
   ]
 }
