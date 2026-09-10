@@ -781,3 +781,4 @@
 | 104 | [Matrix Boundary Traversal](https://www.geeksforgeeks.org/problems/boundary-traversal-of-matrix-1587115620/1) | GeeksForGeeks | Easy | 11 Sept 2026 | 12:51 am |
 | 105 | [Matrix Snake Pattern](https://www.geeksforgeeks.org/problems/print-matrix-in-snake-pattern-1587115621/1) | GeeksForGeeks | Easy | 11 Sept 2026 | 12:59 am |
 | 106 | [Transpose of Matrix](https://www.geeksforgeeks.org/problems/transpose-of-matrix-1587115621/1) | GeeksForGeeks | Easy | 11 Sept 2026 | 01:01 am |
+| 107 | [Sum of upper and lower triangles](https://www.geeksforgeeks.org/problems/sum-of-upper-and-lower-triangles-1587115621/1) | GeeksForGeeks | Easy | 11 Sept 2026 | 01:04 am |

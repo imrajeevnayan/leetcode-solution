@@ -1050,17 +1050,18 @@
     "GeeksForGeeks_Undirected_Graph_Cycle": true,
     "GeeksForGeeks_Matrix_Boundary_Traversal": true,
     "GeeksForGeeks_Matrix_Snake_Pattern": true,
-    "GeeksForGeeks_Transpose_of_Matrix": true
+    "GeeksForGeeks_Transpose_of_Matrix": true,
+    "GeeksForGeeks_Sum_of_upper_and_lower_triangles": true
   },
-  "totalSolved": 578,
+  "totalSolved": 579,
   "difficultyCounts": {
-    "easy": 205,
+    "easy": 206,
     "medium": 235,
     "hard": 13,
     "basic": 125
   },
   "currentStreak": 1,
-  "todayCount": 3,
+  "todayCount": 4,
   "lastSyncDate": "2026-09-11",
   "maxStreak": 25,
   "activityHistory": {
@@ -1160,7 +1161,7 @@
     "2026-09-07": 5,
     "2026-09-08": 2,
     "2026-09-09": 2,
-    "2026-09-11": 3
+    "2026-09-11": 4
   },
   "todayProblems": [
     "Most Frequent Character",
@@ -1736,6 +1737,7 @@
     "Undirected Graph Cycle",
     "Matrix Boundary Traversal",
     "Matrix Snake Pattern",
-    "Transpose of Matrix"
+    "Transpose of Matrix",
+    "Sum of upper and lower triangles"
   ]
 }
