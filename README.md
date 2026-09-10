@@ -778,3 +778,4 @@
 | 101 | [Count Edges in Graph](https://www.geeksforgeeks.org/problems/count-number-of-edges-in-an-undirected-graph/1) | GeeksForGeeks | Easy | 08 Sept 2026 | 07:00 pm |
 | 102 | [Max Digit Sum Number in 1 to n](https://www.geeksforgeeks.org/problems/biggest-integer-having-maximum-digit-sum1704/1) | GeeksForGeeks | Easy | 09 Sept 2026 | 09:35 am |
 | 103 | [Undirected Graph Cycle](https://www.geeksforgeeks.org/problems/detect-cycle-in-an-undirected-graph/1?utm_source=chatgpt.com) | GeeksForGeeks | Medium | 09 Sept 2026 | 05:52 pm |
+| 104 | [Matrix Boundary Traversal](https://www.geeksforgeeks.org/problems/boundary-traversal-of-matrix-1587115620/1) | GeeksForGeeks | Easy | 11 Sept 2026 | 12:51 am |
