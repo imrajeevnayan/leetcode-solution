@@ -1,20 +1,12 @@
 class Solution {
     public void merge(int[] nums1, int m, int[] nums2, int n) {
-        PriorityQueue<Integer> pq = new PriorityQueue<>();
 
-        // nums1 ke valid elements
-        for (int i = 0; i < m; i++) {
-            pq.add(nums1[i]);
-        }
-
-        // nums2 ke elements
+        // nums2 ko nums1 ke end mein copy karo
         for (int i = 0; i < n; i++) {
-            pq.add(nums2[i]);
+            nums1[m + i] = nums2[i];
         }
 
-        // Sorted order mein nums1 mein daal do
-        for (int i = 0; i < m + n; i++) {
-            nums1[i] = pq.poll();
-        }
+        // Ab poore array ko sort karo
+        Arrays.sort(nums1);
     }
 }
