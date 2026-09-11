@@ -1,47 +1,29 @@
 class Solution {
     public int totalNumbers(int[] digits) {
+        Set<Integer> set = new HashSet<>();
 
-        int[] freq = new int[10];
+        for (int i = 0; i < digits.length; i++) {
+            for (int j = 0; j < digits.length; j++) {
+                for (int k = 0; k < digits.length; k++) {
 
-        // Frequency of every digit
-        for (int digit : digits) {
-            freq[digit]++;
+                    // Same index ko dobara use nahi kar sakte
+                    if (i == j || j == k || i == k)  continue;
+                
+                    // 3-digit number cannot start with 0
+                    if (digits[i] == 0) continue;
+                    
+                    // Even number ka last digit even hona chahiye
+                    if (digits[k] % 2 != 0) continue;
+                    
+                    int num = digits[i] * 100
+                            + digits[j] * 10
+                            + digits[k];
+
+                    set.add(num);
+                }
+            }
         }
 
-        int count = 0;
-
-        // Hundreds place: 1-9
-        for (int a = 1; a <= 9; a++) {
-
-            if (freq[a] == 0) {
-                continue;
-            }
-
-            freq[a]--;
-
-            // Tens place: 0-9
-            for (int b = 0; b <= 9; b++) {
-
-                if (freq[b] == 0) {
-                    continue;
-                }
-
-                freq[b]--;
-
-                // Units place: even digits only
-                for (int c = 0; c <= 8; c += 2) {
-
-                    if (freq[c] > 0) {
-                        count++;
-                    }
-                }
-
-                freq[b]++;
-            }
-
-            freq[a]++;
-        }
-
-        return count;
+        return set.size();
     }
 }
