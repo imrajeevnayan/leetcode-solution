@@ -1052,17 +1052,18 @@
     "GeeksForGeeks_Matrix_Snake_Pattern": true,
     "GeeksForGeeks_Transpose_of_Matrix": true,
     "GeeksForGeeks_Sum_of_upper_and_lower_triangles": true,
-    "GeeksForGeeks_Diagonal_Sum_in_Matrix": true
+    "GeeksForGeeks_Diagonal_Sum_in_Matrix": true,
+    "GeeksForGeeks_Check_Identical_Matrices": true
   },
-  "totalSolved": 580,
+  "totalSolved": 581,
   "difficultyCounts": {
     "easy": 206,
     "medium": 235,
     "hard": 13,
-    "basic": 126
+    "basic": 127
   },
   "currentStreak": 1,
-  "todayCount": 5,
+  "todayCount": 6,
   "lastSyncDate": "2026-09-11",
   "maxStreak": 25,
   "activityHistory": {
@@ -1162,7 +1163,7 @@
     "2026-09-07": 5,
     "2026-09-08": 2,
     "2026-09-09": 2,
-    "2026-09-11": 5
+    "2026-09-11": 6
   },
   "todayProblems": [
     "Most Frequent Character",
@@ -1740,6 +1741,7 @@
     "Matrix Snake Pattern",
     "Transpose of Matrix",
     "Sum of upper and lower triangles",
-    "Diagonal Sum in Matrix"
+    "Diagonal Sum in Matrix",
+    "Check Identical Matrices"
   ]
 }

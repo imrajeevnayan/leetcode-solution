@@ -787,3 +787,4 @@
 | 106 | [Transpose of Matrix](https://www.geeksforgeeks.org/problems/transpose-of-matrix-1587115621/1) | GeeksForGeeks | Easy | 11 Sept 2026 | 01:01 am |
 | 107 | [Sum of upper and lower triangles](https://www.geeksforgeeks.org/problems/sum-of-upper-and-lower-triangles-1587115621/1) | GeeksForGeeks | Easy | 11 Sept 2026 | 01:04 am |
 | 108 | [Diagonal Sum in Matrix](https://www.geeksforgeeks.org/problems/diagonal-sum0158/1) | GeeksForGeeks | Basic | 11 Sept 2026 | 10:36 pm |
+| 109 | [Check Identical Matrices](https://www.geeksforgeeks.org/problems/identical-matrices1042/1) | GeeksForGeeks | Basic | 11 Sept 2026 | 10:52 pm |
