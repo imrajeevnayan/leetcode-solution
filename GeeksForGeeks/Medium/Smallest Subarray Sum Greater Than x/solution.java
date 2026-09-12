@@ -1,0 +1,34 @@
+class Solution {
+    public static int smallestSubWithSum(int x, int[] arr) {
+
+        int n = arr.length;
+
+        int left = 0;
+        int sum = 0;
+        int minLen = n + 1;
+
+        for (int right = 0; right < n; right++) {
+
+            // Right se element window mein add karo
+            sum += arr[right];
+
+            // Jab sum > x ho gaya
+            while (sum > x) {
+
+                // Current window ki length
+                minLen = Math.min(minLen, right - left + 1);
+
+                // Left se element remove karo
+                sum -= arr[left];
+                left++;
+            }
+        }
+
+        // Koi valid subarray nahi mila
+        if (minLen == n + 1) {
+            return 0;
+        }
+
+        return minLen;
+    }
+}

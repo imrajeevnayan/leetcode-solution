@@ -796,3 +796,4 @@
 | 107 | [Sum of upper and lower triangles](https://www.geeksforgeeks.org/problems/sum-of-upper-and-lower-triangles-1587115621/1) | GeeksForGeeks | Easy | 11 Sept 2026 | 01:04 am |
 | 108 | [Diagonal Sum in Matrix](https://www.geeksforgeeks.org/problems/diagonal-sum0158/1) | GeeksForGeeks | Basic | 11 Sept 2026 | 10:36 pm |
 | 109 | [Check Identical Matrices](https://www.geeksforgeeks.org/problems/identical-matrices1042/1) | GeeksForGeeks | Basic | 11 Sept 2026 | 10:52 pm |
+| 110 | [Smallest Subarray Sum Greater Than x](https://www.geeksforgeeks.org/problems/smallest-subarray-with-sum-greater-than-x5651/1) | GeeksForGeeks | Medium | 12 Sept 2026 | 08:51 am |
