@@ -22,17 +22,12 @@ class Solution {
                 }
 
                 // Left child
-                if (node.left != null) {
-                    queue.offer(node.left);
-                }
-
+                if (node.left != null)  queue.offer(node.left);
+            
                 // Right child
-                if (node.right != null) {
-                    queue.offer(node.right);
-                }
+                if (node.right != null) queue.offer(node.right);
             }
         }
-
         return ans;
     }
 }
