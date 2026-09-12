@@ -1054,17 +1054,18 @@
     "GeeksForGeeks_Sum_of_upper_and_lower_triangles": true,
     "GeeksForGeeks_Diagonal_Sum_in_Matrix": true,
     "GeeksForGeeks_Check_Identical_Matrices": true,
-    "GeeksForGeeks_Smallest_Subarray_Sum_Greater_Than_x": true
+    "GeeksForGeeks_Smallest_Subarray_Sum_Greater_Than_x": true,
+    "GeeksForGeeks_Max_Product_K_Sized_Subarray": true
   },
-  "totalSolved": 582,
+  "totalSolved": 583,
   "difficultyCounts": {
     "easy": 206,
     "medium": 236,
     "hard": 13,
-    "basic": 127
+    "basic": 128
   },
   "currentStreak": 2,
-  "todayCount": 1,
+  "todayCount": 2,
   "lastSyncDate": "2026-09-12",
   "maxStreak": 25,
   "activityHistory": {
@@ -1165,7 +1166,7 @@
     "2026-09-08": 2,
     "2026-09-09": 2,
     "2026-09-11": 6,
-    "2026-09-12": 1
+    "2026-09-12": 2
   },
   "todayProblems": [
     "Most Frequent Character",
@@ -1745,6 +1746,7 @@
     "Sum of upper and lower triangles",
     "Diagonal Sum in Matrix",
     "Check Identical Matrices",
-    "Smallest Subarray Sum Greater Than x"
+    "Smallest Subarray Sum Greater Than x",
+    "Max Product K Sized Subarray"
   ]
 }
