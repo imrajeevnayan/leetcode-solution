@@ -1055,17 +1055,18 @@
     "GeeksForGeeks_Diagonal_Sum_in_Matrix": true,
     "GeeksForGeeks_Check_Identical_Matrices": true,
     "GeeksForGeeks_Smallest_Subarray_Sum_Greater_Than_x": true,
-    "GeeksForGeeks_Max_Product_K_Sized_Subarray": true
+    "GeeksForGeeks_Max_Product_K_Sized_Subarray": true,
+    "GeeksForGeeks_First_Negative_in_Windows_of_Size_K": true
   },
-  "totalSolved": 583,
+  "totalSolved": 584,
   "difficultyCounts": {
     "easy": 206,
-    "medium": 236,
+    "medium": 237,
     "hard": 13,
     "basic": 128
   },
   "currentStreak": 2,
-  "todayCount": 2,
+  "todayCount": 3,
   "lastSyncDate": "2026-09-12",
   "maxStreak": 25,
   "activityHistory": {
@@ -1166,7 +1167,7 @@
     "2026-09-08": 2,
     "2026-09-09": 2,
     "2026-09-11": 6,
-    "2026-09-12": 2
+    "2026-09-12": 3
   },
   "todayProblems": [
     "Most Frequent Character",
@@ -1747,6 +1748,7 @@
     "Diagonal Sum in Matrix",
     "Check Identical Matrices",
     "Smallest Subarray Sum Greater Than x",
-    "Max Product K Sized Subarray"
+    "Max Product K Sized Subarray",
+    "First Negative in Windows of Size K"
   ]
 }
