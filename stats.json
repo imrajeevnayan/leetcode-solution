@@ -1063,17 +1063,18 @@
     "Codeforces_2264B_-_Knifes_Pill_Farm": true,
     "GeeksForGeeks_Longest_Subarray_with_Atmost_Two_Distinct": true,
     "GeeksForGeeks_Subarrays_with_K_Distinct_Integers": true,
-    "GeeksForGeeks_Subarrays_Covering_All_Distinct": true
+    "GeeksForGeeks_Subarrays_Covering_All_Distinct": true,
+    "GeeksForGeeks_Nth_Geeky_Number": true
   },
-  "totalSolved": 591,
+  "totalSolved": 592,
   "difficultyCounts": {
-    "easy": 207,
+    "easy": 208,
     "medium": 242,
     "hard": 13,
     "basic": 129
   },
   "currentStreak": 4,
-  "todayCount": 6,
+  "todayCount": 7,
   "lastSyncDate": "2026-09-14",
   "maxStreak": 25,
   "activityHistory": {
@@ -1176,7 +1177,7 @@
     "2026-09-11": 6,
     "2026-09-12": 3,
     "2026-09-13": 1,
-    "2026-09-14": 6
+    "2026-09-14": 7
   },
   "todayProblems": [
     "Most Frequent Character",
@@ -1765,6 +1766,7 @@
     "2264B - Knifes Pill Farm",
     "Longest Subarray with Atmost Two Distinct",
     "Subarrays with K Distinct Integers",
-    "Subarrays Covering All Distinct"
+    "Subarrays Covering All Distinct",
+    "Nth Geeky Number"
   ]
 }

@@ -817,3 +817,4 @@
 | 117 | [Longest Subarray with Atmost Two Distinct](https://www.geeksforgeeks.org/problems/longest-subarray-with-atmost-two-distinct-integers/1) | GeeksForGeeks | Medium | 14 Sept 2026 | 02:24 am |
 | 118 | [Subarrays with K Distinct Integers](https://www.geeksforgeeks.org/problems/subarrays-with-k-different-integers/1) | GeeksForGeeks | Medium | 14 Sept 2026 | 02:40 am |
 | 119 | [Subarrays Covering All Distinct](https://www.geeksforgeeks.org/problems/equivalent-sub-arrays3731/1) | GeeksForGeeks | Medium | 14 Sept 2026 | 02:42 am |
+| 120 | [Nth Geeky Number](https://www.geeksforgeeks.org/problems/is-it-fibonacci--170647/1) | GeeksForGeeks | Easy | 14 Sept 2026 | 03:09 am |
