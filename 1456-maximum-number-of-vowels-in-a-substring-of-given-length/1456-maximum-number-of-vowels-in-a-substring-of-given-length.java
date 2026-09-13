@@ -1,19 +1,17 @@
 class Solution {
-    private boolean isVowel(char c) {
-        return c == 'a' || c == 'e' || c == 'i' || c == 'o' || c == 'u';
+    private boolean isVowels(char c) {
+        return "aeiouAEIOU".indexOf(c)!=-1;
     }
     public int maxVowels(String s, int k) {
-        int currentVowels = 0;
-        for (int i = 0; i < k; i++) {
-            if (isVowel(s.charAt(i))) currentVowels++;
+        int left=0,count=0,ans=0;
+        for(int right=0;right<s.length();right++){
+             if(isVowels(s.charAt(right))) count++;
+            if(right-left+1==k){
+             ans=Math.max(ans,count);
+             if(isVowels(s.charAt(left)))count--;
+             left++;
+            }
         }
-        int maxVowels = currentVowels;
-
-        for (int i = k; i < s.length(); i++) {
-            if (isVowel(s.charAt(i))) currentVowels++;
-            if (isVowel(s.charAt(i - k))) currentVowels--;
-            maxVowels = Math.max(maxVowels, currentVowels);
-        }
-        return maxVowels;
+        return ans;
     }
 }
