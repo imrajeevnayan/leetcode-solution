@@ -808,3 +808,4 @@
 | 113 | [Max Subarray Sum Limited by X](https://www.geeksforgeeks.org/problems/maximum-sum-of-subarray-less-than-or-equal-to-x4033/1) | GeeksForGeeks | Easy | 13 Sept 2026 | 04:11 pm |
 | 114 | [Count Occurences of Anagrams](https://www.geeksforgeeks.org/problems/count-occurences-of-anagrams5839/1) | GeeksForGeeks | Medium | 14 Sept 2026 | 12:58 am |
 | 115 | [Count Distinct Elements in Every Window](https://www.geeksforgeeks.org/problems/count-distinct-elements-in-every-window/1) | GeeksForGeeks | Medium | 14 Sept 2026 | 01:06 am |
+| 116 | [2264B - Knifes Pill Farm](https://codeforces.com/problemset/problem/2264/B) | Codeforces | basic | 14 Sept 2026 | 01:32 am |

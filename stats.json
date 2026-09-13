@@ -1059,17 +1059,18 @@
     "GeeksForGeeks_First_Negative_in_Windows_of_Size_K": true,
     "GeeksForGeeks_Max_Subarray_Sum_Limited_by_X": true,
     "GeeksForGeeks_Count_Occurences_of_Anagrams": true,
-    "GeeksForGeeks_Count_Distinct_Elements_in_Every_Window": true
+    "GeeksForGeeks_Count_Distinct_Elements_in_Every_Window": true,
+    "Codeforces_2264B_-_Knifes_Pill_Farm": true
   },
-  "totalSolved": 587,
+  "totalSolved": 588,
   "difficultyCounts": {
     "easy": 207,
     "medium": 239,
     "hard": 13,
-    "basic": 128
+    "basic": 129
   },
   "currentStreak": 4,
-  "todayCount": 2,
+  "todayCount": 3,
   "lastSyncDate": "2026-09-14",
   "maxStreak": 25,
   "activityHistory": {
@@ -1172,7 +1173,7 @@
     "2026-09-11": 6,
     "2026-09-12": 3,
     "2026-09-13": 1,
-    "2026-09-14": 2
+    "2026-09-14": 3
   },
   "todayProblems": [
     "Most Frequent Character",
@@ -1757,6 +1758,7 @@
     "First Negative in Windows of Size K",
     "Max Subarray Sum Limited by X",
     "Count Occurences of Anagrams",
-    "Count Distinct Elements in Every Window"
+    "Count Distinct Elements in Every Window",
+    "2264B - Knifes Pill Farm"
   ]
 }
