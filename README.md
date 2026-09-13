@@ -297,6 +297,7 @@
 | [1004-max-consecutive-ones-iii](https://github.com/imrajeevnayan/leetcode-solution/tree/main/1004-max-consecutive-ones-iii/) | Medium |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/imrajeevnayan/leetcode-solution/tree/main/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold/) | Medium |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/imrajeevnayan/leetcode-solution/tree/main/1423-maximum-points-you-can-obtain-from-cards/) | Medium |
+| [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/imrajeevnayan/leetcode-solution/tree/main/1456-maximum-number-of-vowels-in-a-substring-of-given-length/) | Medium |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/imrajeevnayan/leetcode-solution/tree/main/2904-shortest-and-lexicographically-smallest-beautiful-string/) | Medium |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/imrajeevnayan/leetcode-solution/tree/main/2958-length-of-longest-subarray-with-at-most-k-frequency/) | Medium |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/imrajeevnayan/leetcode-solution/tree/main/3090-maximum-length-substring-with-two-occurrences/) | Easy |
@@ -353,6 +354,7 @@
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/imrajeevnayan/leetcode-solution/tree/main/1047-remove-all-adjacent-duplicates-in-string/) | Easy |
 | [1221-split-a-string-in-balanced-strings](https://github.com/imrajeevnayan/leetcode-solution/tree/main/1221-split-a-string-in-balanced-strings/) | Easy |
 | [1347-minimum-number-of-steps-to-make-two-strings-anagram](https://github.com/imrajeevnayan/leetcode-solution/tree/main/1347-minimum-number-of-steps-to-make-two-strings-anagram/) | Medium |
+| [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/imrajeevnayan/leetcode-solution/tree/main/1456-maximum-number-of-vowels-in-a-substring-of-given-length/) | Medium |
 | [1528-shuffle-string](https://github.com/imrajeevnayan/leetcode-solution/tree/main/1528-shuffle-string/) | Easy |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/imrajeevnayan/leetcode-solution/tree/main/1614-maximum-nesting-depth-of-the-parentheses/) | Easy |
 | [1769-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/imrajeevnayan/leetcode-solution/tree/main/1769-minimum-number-of-operations-to-move-all-balls-to-each-box/) | Medium |
