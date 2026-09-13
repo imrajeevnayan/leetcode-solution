@@ -1062,17 +1062,18 @@
     "GeeksForGeeks_Count_Distinct_Elements_in_Every_Window": true,
     "Codeforces_2264B_-_Knifes_Pill_Farm": true,
     "GeeksForGeeks_Longest_Subarray_with_Atmost_Two_Distinct": true,
-    "GeeksForGeeks_Subarrays_with_K_Distinct_Integers": true
+    "GeeksForGeeks_Subarrays_with_K_Distinct_Integers": true,
+    "GeeksForGeeks_Subarrays_Covering_All_Distinct": true
   },
-  "totalSolved": 590,
+  "totalSolved": 591,
   "difficultyCounts": {
     "easy": 207,
-    "medium": 241,
+    "medium": 242,
     "hard": 13,
     "basic": 129
   },
   "currentStreak": 4,
-  "todayCount": 5,
+  "todayCount": 6,
   "lastSyncDate": "2026-09-14",
   "maxStreak": 25,
   "activityHistory": {
@@ -1175,7 +1176,7 @@
     "2026-09-11": 6,
     "2026-09-12": 3,
     "2026-09-13": 1,
-    "2026-09-14": 5
+    "2026-09-14": 6
   },
   "todayProblems": [
     "Most Frequent Character",
@@ -1763,6 +1764,7 @@
     "Count Distinct Elements in Every Window",
     "2264B - Knifes Pill Farm",
     "Longest Subarray with Atmost Two Distinct",
-    "Subarrays with K Distinct Integers"
+    "Subarrays with K Distinct Integers",
+    "Subarrays Covering All Distinct"
   ]
 }
