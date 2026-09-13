@@ -1058,17 +1058,18 @@
     "GeeksForGeeks_Max_Product_K_Sized_Subarray": true,
     "GeeksForGeeks_First_Negative_in_Windows_of_Size_K": true,
     "GeeksForGeeks_Max_Subarray_Sum_Limited_by_X": true,
-    "GeeksForGeeks_Count_Occurences_of_Anagrams": true
+    "GeeksForGeeks_Count_Occurences_of_Anagrams": true,
+    "GeeksForGeeks_Count_Distinct_Elements_in_Every_Window": true
   },
-  "totalSolved": 586,
+  "totalSolved": 587,
   "difficultyCounts": {
     "easy": 207,
-    "medium": 238,
+    "medium": 239,
     "hard": 13,
     "basic": 128
   },
   "currentStreak": 4,
-  "todayCount": 1,
+  "todayCount": 2,
   "lastSyncDate": "2026-09-14",
   "maxStreak": 25,
   "activityHistory": {
@@ -1171,7 +1172,7 @@
     "2026-09-11": 6,
     "2026-09-12": 3,
     "2026-09-13": 1,
-    "2026-09-14": 1
+    "2026-09-14": 2
   },
   "todayProblems": [
     "Most Frequent Character",
@@ -1755,6 +1756,7 @@
     "Max Product K Sized Subarray",
     "First Negative in Windows of Size K",
     "Max Subarray Sum Limited by X",
-    "Count Occurences of Anagrams"
+    "Count Occurences of Anagrams",
+    "Count Distinct Elements in Every Window"
   ]
 }
