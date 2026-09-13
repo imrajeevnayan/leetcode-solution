@@ -805,3 +805,4 @@
 | 110 | [Smallest Subarray Sum Greater Than x](https://www.geeksforgeeks.org/problems/smallest-subarray-with-sum-greater-than-x5651/1) | GeeksForGeeks | Medium | 12 Sept 2026 | 08:51 am |
 | 111 | [Max Product K Sized Subarray](https://www.geeksforgeeks.org/problems/largest-product/1) | GeeksForGeeks | Basic | 12 Sept 2026 | 05:37 pm |
 | 112 | [First Negative in Windows of Size K](https://www.geeksforgeeks.org/problems/first-negative-integer-in-every-window-of-size-k3345/1) | GeeksForGeeks | Medium | 12 Sept 2026 | 06:22 pm |
+| 113 | [Max Subarray Sum Limited by X](https://www.geeksforgeeks.org/problems/maximum-sum-of-subarray-less-than-or-equal-to-x4033/1) | GeeksForGeeks | Easy | 13 Sept 2026 | 04:11 pm |
