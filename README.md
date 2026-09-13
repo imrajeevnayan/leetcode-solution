@@ -814,3 +814,4 @@
 | 114 | [Count Occurences of Anagrams](https://www.geeksforgeeks.org/problems/count-occurences-of-anagrams5839/1) | GeeksForGeeks | Medium | 14 Sept 2026 | 12:58 am |
 | 115 | [Count Distinct Elements in Every Window](https://www.geeksforgeeks.org/problems/count-distinct-elements-in-every-window/1) | GeeksForGeeks | Medium | 14 Sept 2026 | 01:06 am |
 | 116 | [2264B - Knifes Pill Farm](https://codeforces.com/problemset/problem/2264/B) | Codeforces | basic | 14 Sept 2026 | 01:32 am |
+| 117 | [Longest Subarray with Atmost Two Distinct](https://www.geeksforgeeks.org/problems/longest-subarray-with-atmost-two-distinct-integers/1) | GeeksForGeeks | Medium | 14 Sept 2026 | 02:24 am |
