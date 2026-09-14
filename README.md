@@ -74,6 +74,7 @@
 | [1872-stone-game-viii](https://github.com/imrajeevnayan/leetcode-solution/tree/main/1872-stone-game-viii/) | Hard |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/imrajeevnayan/leetcode-solution/tree/main/1967-number-of-strings-that-appear-as-substrings-in-word/) | Easy |
 | [1991-find-the-middle-index-in-array](https://github.com/imrajeevnayan/leetcode-solution/tree/main/1991-find-the-middle-index-in-array/) | Easy |
+| [2090-k-radius-subarray-averages](https://github.com/imrajeevnayan/leetcode-solution/tree/main/2090-k-radius-subarray-averages/) | Medium |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/imrajeevnayan/leetcode-solution/tree/main/2091-removing-minimum-and-maximum-from-array/) | Medium |
 | [2094-finding-3-digit-even-numbers](https://github.com/imrajeevnayan/leetcode-solution/tree/main/2094-finding-3-digit-even-numbers/) | Easy |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/imrajeevnayan/leetcode-solution/tree/main/2213-longest-substring-of-one-repeating-character/) | Hard |
@@ -303,6 +304,7 @@
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/imrajeevnayan/leetcode-solution/tree/main/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold/) | Medium |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/imrajeevnayan/leetcode-solution/tree/main/1423-maximum-points-you-can-obtain-from-cards/) | Medium |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/imrajeevnayan/leetcode-solution/tree/main/1456-maximum-number-of-vowels-in-a-substring-of-given-length/) | Medium |
+| [2090-k-radius-subarray-averages](https://github.com/imrajeevnayan/leetcode-solution/tree/main/2090-k-radius-subarray-averages/) | Medium |
 | [2379-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/imrajeevnayan/leetcode-solution/tree/main/2379-minimum-recolors-to-get-k-consecutive-black-blocks/) | Easy |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/imrajeevnayan/leetcode-solution/tree/main/2904-shortest-and-lexicographically-smallest-beautiful-string/) | Medium |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/imrajeevnayan/leetcode-solution/tree/main/2958-length-of-longest-subarray-with-at-most-k-frequency/) | Medium |
