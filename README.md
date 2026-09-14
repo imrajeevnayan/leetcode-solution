@@ -27,6 +27,7 @@
 | [0189-rotate-array](https://github.com/imrajeevnayan/leetcode-solution/tree/main/0189-rotate-array/) | Medium |
 | [0198-house-robber](https://github.com/imrajeevnayan/leetcode-solution/tree/main/0198-house-robber/) | Medium |
 | [0200-number-of-islands](https://github.com/imrajeevnayan/leetcode-solution/tree/main/0200-number-of-islands/) | Medium |
+| [0209-minimum-size-subarray-sum](https://github.com/imrajeevnayan/leetcode-solution/tree/main/0209-minimum-size-subarray-sum/) | Medium |
 | [0217-contains-duplicate](https://github.com/imrajeevnayan/leetcode-solution/tree/main/0217-contains-duplicate/) | Easy |
 | [0219-contains-duplicate-ii](https://github.com/imrajeevnayan/leetcode-solution/tree/main/0219-contains-duplicate-ii/) | Easy |
 | [0228-summary-ranges](https://github.com/imrajeevnayan/leetcode-solution/tree/main/0228-summary-ranges/) | Easy |
@@ -123,6 +124,7 @@
 ## Prefix Sum
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/imrajeevnayan/leetcode-solution/tree/main/0209-minimum-size-subarray-sum/) | Medium |
 | [0238-product-of-array-except-self](https://github.com/imrajeevnayan/leetcode-solution/tree/main/0238-product-of-array-except-self/) | Medium |
 | [0410-split-array-largest-sum](https://github.com/imrajeevnayan/leetcode-solution/tree/main/0410-split-array-largest-sum/) | Hard |
 | [0560-subarray-sum-equals-k](https://github.com/imrajeevnayan/leetcode-solution/tree/main/0560-subarray-sum-equals-k/) | Medium |
@@ -282,6 +284,7 @@
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/imrajeevnayan/leetcode-solution/tree/main/0081-search-in-rotated-sorted-array-ii/) | Medium |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/imrajeevnayan/leetcode-solution/tree/main/0153-find-minimum-in-rotated-sorted-array/) | Medium |
 | [0162-find-peak-element](https://github.com/imrajeevnayan/leetcode-solution/tree/main/0162-find-peak-element/) | Medium |
+| [0209-minimum-size-subarray-sum](https://github.com/imrajeevnayan/leetcode-solution/tree/main/0209-minimum-size-subarray-sum/) | Medium |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/imrajeevnayan/leetcode-solution/tree/main/0230-kth-smallest-element-in-a-bst/) | Medium |
 | [0278-first-bad-version](https://github.com/imrajeevnayan/leetcode-solution/tree/main/0278-first-bad-version/) | Easy |
 | [0349-intersection-of-two-arrays](https://github.com/imrajeevnayan/leetcode-solution/tree/main/0349-intersection-of-two-arrays/) | Easy |
@@ -304,6 +307,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/imrajeevnayan/leetcode-solution/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
+| [0209-minimum-size-subarray-sum](https://github.com/imrajeevnayan/leetcode-solution/tree/main/0209-minimum-size-subarray-sum/) | Medium |
 | [0219-contains-duplicate-ii](https://github.com/imrajeevnayan/leetcode-solution/tree/main/0219-contains-duplicate-ii/) | Easy |
 | [0643-maximum-average-subarray-i](https://github.com/imrajeevnayan/leetcode-solution/tree/main/0643-maximum-average-subarray-i/) | Easy |
 | [0713-subarray-product-less-than-k](https://github.com/imrajeevnayan/leetcode-solution/tree/main/0713-subarray-product-less-than-k/) | Medium |
