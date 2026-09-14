@@ -42,6 +42,7 @@
 | [0643-maximum-average-subarray-i](https://github.com/imrajeevnayan/leetcode-solution/tree/main/0643-maximum-average-subarray-i/) | Easy |
 | [0654-maximum-binary-tree](https://github.com/imrajeevnayan/leetcode-solution/tree/main/0654-maximum-binary-tree/) | Medium |
 | [0704-binary-search](https://github.com/imrajeevnayan/leetcode-solution/tree/main/0704-binary-search/) | Easy |
+| [0713-subarray-product-less-than-k](https://github.com/imrajeevnayan/leetcode-solution/tree/main/0713-subarray-product-less-than-k/) | Medium |
 | [0729-my-calendar-i](https://github.com/imrajeevnayan/leetcode-solution/tree/main/0729-my-calendar-i/) | Medium |
 | [0733-flood-fill](https://github.com/imrajeevnayan/leetcode-solution/tree/main/0733-flood-fill/) | Easy |
 | [0739-daily-temperatures](https://github.com/imrajeevnayan/leetcode-solution/tree/main/0739-daily-temperatures/) | Medium |
@@ -125,6 +126,7 @@
 | [0238-product-of-array-except-self](https://github.com/imrajeevnayan/leetcode-solution/tree/main/0238-product-of-array-except-self/) | Medium |
 | [0410-split-array-largest-sum](https://github.com/imrajeevnayan/leetcode-solution/tree/main/0410-split-array-largest-sum/) | Hard |
 | [0560-subarray-sum-equals-k](https://github.com/imrajeevnayan/leetcode-solution/tree/main/0560-subarray-sum-equals-k/) | Medium |
+| [0713-subarray-product-less-than-k](https://github.com/imrajeevnayan/leetcode-solution/tree/main/0713-subarray-product-less-than-k/) | Medium |
 | [0930-binary-subarrays-with-sum](https://github.com/imrajeevnayan/leetcode-solution/tree/main/0930-binary-subarrays-with-sum/) | Medium |
 | [1004-max-consecutive-ones-iii](https://github.com/imrajeevnayan/leetcode-solution/tree/main/1004-max-consecutive-ones-iii/) | Medium |
 | [1310-xor-queries-of-a-subarray](https://github.com/imrajeevnayan/leetcode-solution/tree/main/1310-xor-queries-of-a-subarray/) | Medium |
@@ -285,6 +287,7 @@
 | [0349-intersection-of-two-arrays](https://github.com/imrajeevnayan/leetcode-solution/tree/main/0349-intersection-of-two-arrays/) | Easy |
 | [0410-split-array-largest-sum](https://github.com/imrajeevnayan/leetcode-solution/tree/main/0410-split-array-largest-sum/) | Hard |
 | [0704-binary-search](https://github.com/imrajeevnayan/leetcode-solution/tree/main/0704-binary-search/) | Easy |
+| [0713-subarray-product-less-than-k](https://github.com/imrajeevnayan/leetcode-solution/tree/main/0713-subarray-product-less-than-k/) | Medium |
 | [0729-my-calendar-i](https://github.com/imrajeevnayan/leetcode-solution/tree/main/0729-my-calendar-i/) | Medium |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/imrajeevnayan/leetcode-solution/tree/main/0744-find-smallest-letter-greater-than-target/) | Easy |
 | [0786-k-th-smallest-prime-fraction](https://github.com/imrajeevnayan/leetcode-solution/tree/main/0786-k-th-smallest-prime-fraction/) | Medium |
@@ -303,6 +306,7 @@
 | [0003-longest-substring-without-repeating-characters](https://github.com/imrajeevnayan/leetcode-solution/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
 | [0219-contains-duplicate-ii](https://github.com/imrajeevnayan/leetcode-solution/tree/main/0219-contains-duplicate-ii/) | Easy |
 | [0643-maximum-average-subarray-i](https://github.com/imrajeevnayan/leetcode-solution/tree/main/0643-maximum-average-subarray-i/) | Easy |
+| [0713-subarray-product-less-than-k](https://github.com/imrajeevnayan/leetcode-solution/tree/main/0713-subarray-product-less-than-k/) | Medium |
 | [0930-binary-subarrays-with-sum](https://github.com/imrajeevnayan/leetcode-solution/tree/main/0930-binary-subarrays-with-sum/) | Medium |
 | [1004-max-consecutive-ones-iii](https://github.com/imrajeevnayan/leetcode-solution/tree/main/1004-max-consecutive-ones-iii/) | Medium |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/imrajeevnayan/leetcode-solution/tree/main/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold/) | Medium |
