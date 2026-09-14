@@ -828,3 +828,4 @@
 | 119 | [Subarrays Covering All Distinct](https://www.geeksforgeeks.org/problems/equivalent-sub-arrays3731/1) | GeeksForGeeks | Medium | 14 Sept 2026 | 02:42 am |
 | 120 | [Nth Geeky Number](https://www.geeksforgeeks.org/problems/is-it-fibonacci--170647/1) | GeeksForGeeks | Easy | 14 Sept 2026 | 03:09 am |
 | 121 | [Substrings with K Distinct](https://www.geeksforgeeks.org/problems/count-number-of-substrings4528/1) | GeeksForGeeks | Medium | 14 Sept 2026 | 02:36 pm |
+| 122 | [Reverse String with Spaces Intact](https://www.geeksforgeeks.org/problems/reverse-a-string-with-spaces-intact5213/1) | GeeksForGeeks | Basic | 14 Sept 2026 | 04:32 pm |

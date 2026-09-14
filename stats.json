@@ -1065,17 +1065,18 @@
     "GeeksForGeeks_Subarrays_with_K_Distinct_Integers": true,
     "GeeksForGeeks_Subarrays_Covering_All_Distinct": true,
     "GeeksForGeeks_Nth_Geeky_Number": true,
-    "GeeksForGeeks_Substrings_with_K_Distinct": true
+    "GeeksForGeeks_Substrings_with_K_Distinct": true,
+    "GeeksForGeeks_Reverse_String_with_Spaces_Intact": true
   },
-  "totalSolved": 593,
+  "totalSolved": 594,
   "difficultyCounts": {
     "easy": 208,
     "medium": 243,
     "hard": 13,
-    "basic": 129
+    "basic": 130
   },
   "currentStreak": 4,
-  "todayCount": 8,
+  "todayCount": 9,
   "lastSyncDate": "2026-09-14",
   "maxStreak": 25,
   "activityHistory": {
@@ -1178,7 +1179,7 @@
     "2026-09-11": 6,
     "2026-09-12": 3,
     "2026-09-13": 1,
-    "2026-09-14": 8
+    "2026-09-14": 9
   },
   "todayProblems": [
     "Most Frequent Character",
@@ -1769,6 +1770,7 @@
     "Subarrays with K Distinct Integers",
     "Subarrays Covering All Distinct",
     "Nth Geeky Number",
-    "Substrings with K Distinct"
+    "Substrings with K Distinct",
+    "Reverse String with Spaces Intact"
   ]
 }
