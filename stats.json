@@ -1064,17 +1064,18 @@
     "GeeksForGeeks_Longest_Subarray_with_Atmost_Two_Distinct": true,
     "GeeksForGeeks_Subarrays_with_K_Distinct_Integers": true,
     "GeeksForGeeks_Subarrays_Covering_All_Distinct": true,
-    "GeeksForGeeks_Nth_Geeky_Number": true
+    "GeeksForGeeks_Nth_Geeky_Number": true,
+    "GeeksForGeeks_Substrings_with_K_Distinct": true
   },
-  "totalSolved": 592,
+  "totalSolved": 593,
   "difficultyCounts": {
     "easy": 208,
-    "medium": 242,
+    "medium": 243,
     "hard": 13,
     "basic": 129
   },
   "currentStreak": 4,
-  "todayCount": 7,
+  "todayCount": 8,
   "lastSyncDate": "2026-09-14",
   "maxStreak": 25,
   "activityHistory": {
@@ -1177,7 +1178,7 @@
     "2026-09-11": 6,
     "2026-09-12": 3,
     "2026-09-13": 1,
-    "2026-09-14": 7
+    "2026-09-14": 8
   },
   "todayProblems": [
     "Most Frequent Character",
@@ -1767,6 +1768,7 @@
     "Longest Subarray with Atmost Two Distinct",
     "Subarrays with K Distinct Integers",
     "Subarrays Covering All Distinct",
-    "Nth Geeky Number"
+    "Nth Geeky Number",
+    "Substrings with K Distinct"
   ]
 }
