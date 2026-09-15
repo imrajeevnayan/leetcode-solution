@@ -847,3 +847,4 @@
 | 122 | [Reverse String with Spaces Intact](https://www.geeksforgeeks.org/problems/reverse-a-string-with-spaces-intact5213/1) | GeeksForGeeks | Basic | 14 Sept 2026 | 04:32 pm |
 | 123 | [Extract Integers from String](https://www.geeksforgeeks.org/problems/extract-the-integers4428/1) | GeeksForGeeks | Basic | 14 Sept 2026 | 04:35 pm |
 | 124 | [Longest Substring with K Uniques](https://www.geeksforgeeks.org/problems/longest-k-unique-characters-substring0853/1) | GeeksForGeeks | Medium | 14 Sept 2026 | 10:31 pm |
+| 125 | [Find triplets with zero sum](https://www.geeksforgeeks.org/problems/find-triplets-with-zero-sum/1) | GeeksForGeeks | Medium | 15 Sept 2026 | 10:14 am |

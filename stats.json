@@ -1068,18 +1068,19 @@
     "GeeksForGeeks_Substrings_with_K_Distinct": true,
     "GeeksForGeeks_Reverse_String_with_Spaces_Intact": true,
     "GeeksForGeeks_Extract_Integers_from_String": true,
-    "GeeksForGeeks_Longest_Substring_with_K_Uniques": true
+    "GeeksForGeeks_Longest_Substring_with_K_Uniques": true,
+    "GeeksForGeeks_Find_triplets_with_zero_sum": true
   },
-  "totalSolved": 596,
+  "totalSolved": 597,
   "difficultyCounts": {
     "easy": 208,
-    "medium": 244,
+    "medium": 245,
     "hard": 13,
     "basic": 131
   },
-  "currentStreak": 4,
-  "todayCount": 11,
-  "lastSyncDate": "2026-09-14",
+  "currentStreak": 5,
+  "todayCount": 1,
+  "lastSyncDate": "2026-09-15",
   "maxStreak": 25,
   "activityHistory": {
     "2026-05-19": 2,
@@ -1181,7 +1182,8 @@
     "2026-09-11": 6,
     "2026-09-12": 3,
     "2026-09-13": 1,
-    "2026-09-14": 11
+    "2026-09-14": 11,
+    "2026-09-15": 1
   },
   "todayProblems": [
     "Most Frequent Character",
@@ -1775,6 +1777,7 @@
     "Substrings with K Distinct",
     "Reverse String with Spaces Intact",
     "Extract Integers from String",
-    "Longest Substring with K Uniques"
+    "Longest Substring with K Uniques",
+    "Find triplets with zero sum"
   ]
 }
