@@ -1070,17 +1070,18 @@
     "GeeksForGeeks_Extract_Integers_from_String": true,
     "GeeksForGeeks_Longest_Substring_with_K_Uniques": true,
     "GeeksForGeeks_Find_triplets_with_zero_sum": true,
-    "GeeksForGeeks_Celebrity_Problem": true
+    "GeeksForGeeks_Celebrity_Problem": true,
+    "GeeksForGeeks_Sum_of_Subarrays": true
   },
-  "totalSolved": 598,
+  "totalSolved": 599,
   "difficultyCounts": {
     "easy": 208,
-    "medium": 246,
+    "medium": 247,
     "hard": 13,
     "basic": 131
   },
   "currentStreak": 5,
-  "todayCount": 2,
+  "todayCount": 3,
   "lastSyncDate": "2026-09-15",
   "maxStreak": 25,
   "activityHistory": {
@@ -1184,7 +1185,7 @@
     "2026-09-12": 3,
     "2026-09-13": 1,
     "2026-09-14": 11,
-    "2026-09-15": 2
+    "2026-09-15": 3
   },
   "todayProblems": [
     "Most Frequent Character",
@@ -1780,6 +1781,7 @@
     "Extract Integers from String",
     "Longest Substring with K Uniques",
     "Find triplets with zero sum",
-    "Celebrity Problem"
+    "Celebrity Problem",
+    "Sum of Subarrays"
   ]
 }
