@@ -1,12 +1,13 @@
 public class Solution {
     public ListNode getIntersectionNode(ListNode headA, ListNode headB) {
         if (headA == null || headB == null) return null;
-        ListNode A = headA;
-        ListNode B = headB;
-        while (A != B) {
-            A = (A == null) ? headB : A.next;
-            B = (B == null) ? headA : B.next;
+        
+        ListNode a = headA, b = headB;
+        
+        while (a != b) {
+            a = (a == null) ? headB : a.next; // khatam? doosri list pe jump
+            b = (b == null) ? headA : b.next;
         }
-        return B;
+        return a; // intersection node YA null (dono case sahi)
     }
 }
