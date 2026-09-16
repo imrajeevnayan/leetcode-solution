@@ -1,16 +1,19 @@
-class Solution {
+public class Solution {
     public ListNode detectCycle(ListNode head) {
-        ListNode slow = head,fast = head;
+        ListNode slow = head, fast = head;
+        
+        // Phase 1: meeting point dhundo
         while (fast != null && fast.next != null) {
             slow = slow.next;
             fast = fast.next.next;
             if (slow == fast) {
-                slow = head;
-                while (slow != fast) {
+                // Phase 2: ek pointer head se chalao
+                ListNode ptr = head;
+                while (ptr != slow) {
+                    ptr = ptr.next;
                     slow = slow.next;
-                    fast = fast.next;
                 }
-                return slow;
+                return slow; // dono cycle start pe mile
             }
         }
         return null;
