@@ -179,6 +179,7 @@
 | [0930-binary-subarrays-with-sum](https://github.com/imrajeevnayan/leetcode-solution/tree/main/0930-binary-subarrays-with-sum/) | Medium |
 | [0981-time-based-key-value-store](https://github.com/imrajeevnayan/leetcode-solution/tree/main/0981-time-based-key-value-store/) | Medium |
 | [0997-find-the-town-judge](https://github.com/imrajeevnayan/leetcode-solution/tree/main/0997-find-the-town-judge/) | Easy |
+| [1123-lowest-common-ancestor-of-deepest-leaves](https://github.com/imrajeevnayan/leetcode-solution/tree/main/1123-lowest-common-ancestor-of-deepest-leaves/) | Medium |
 | [1347-minimum-number-of-steps-to-make-two-strings-anagram](https://github.com/imrajeevnayan/leetcode-solution/tree/main/1347-minimum-number-of-steps-to-make-two-strings-anagram/) | Medium |
 | [1386-cinema-seat-allocation](https://github.com/imrajeevnayan/leetcode-solution/tree/main/1386-cinema-seat-allocation/) | Medium |
 | [2094-finding-3-digit-even-numbers](https://github.com/imrajeevnayan/leetcode-solution/tree/main/2094-finding-3-digit-even-numbers/) | Easy |
@@ -263,6 +264,7 @@
 | [0654-maximum-binary-tree](https://github.com/imrajeevnayan/leetcode-solution/tree/main/0654-maximum-binary-tree/) | Medium |
 | [0700-search-in-a-binary-search-tree](https://github.com/imrajeevnayan/leetcode-solution/tree/main/0700-search-in-a-binary-search-tree/) | Easy |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/imrajeevnayan/leetcode-solution/tree/main/1008-construct-binary-search-tree-from-preorder-traversal/) | Medium |
+| [1123-lowest-common-ancestor-of-deepest-leaves](https://github.com/imrajeevnayan/leetcode-solution/tree/main/1123-lowest-common-ancestor-of-deepest-leaves/) | Medium |
 ## Monotonic Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -290,6 +292,7 @@
 | [0654-maximum-binary-tree](https://github.com/imrajeevnayan/leetcode-solution/tree/main/0654-maximum-binary-tree/) | Medium |
 | [0700-search-in-a-binary-search-tree](https://github.com/imrajeevnayan/leetcode-solution/tree/main/0700-search-in-a-binary-search-tree/) | Easy |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/imrajeevnayan/leetcode-solution/tree/main/1008-construct-binary-search-tree-from-preorder-traversal/) | Medium |
+| [1123-lowest-common-ancestor-of-deepest-leaves](https://github.com/imrajeevnayan/leetcode-solution/tree/main/1123-lowest-common-ancestor-of-deepest-leaves/) | Medium |
 ## Cartesian Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -670,6 +673,7 @@
 | [0785-is-graph-bipartite](https://github.com/imrajeevnayan/leetcode-solution/tree/main/0785-is-graph-bipartite/) | Medium |
 | [0797-all-paths-from-source-to-target](https://github.com/imrajeevnayan/leetcode-solution/tree/main/0797-all-paths-from-source-to-target/) | Medium |
 | [0841-keys-and-rooms](https://github.com/imrajeevnayan/leetcode-solution/tree/main/0841-keys-and-rooms/) | Medium |
+| [1123-lowest-common-ancestor-of-deepest-leaves](https://github.com/imrajeevnayan/leetcode-solution/tree/main/1123-lowest-common-ancestor-of-deepest-leaves/) | Medium |
 | [1971-find-if-path-exists-in-graph](https://github.com/imrajeevnayan/leetcode-solution/tree/main/1971-find-if-path-exists-in-graph/) | Easy |
 ## Breadth-First Search
 | Problem Name | Difficulty |
@@ -687,6 +691,7 @@
 | [0785-is-graph-bipartite](https://github.com/imrajeevnayan/leetcode-solution/tree/main/0785-is-graph-bipartite/) | Medium |
 | [0797-all-paths-from-source-to-target](https://github.com/imrajeevnayan/leetcode-solution/tree/main/0797-all-paths-from-source-to-target/) | Medium |
 | [0841-keys-and-rooms](https://github.com/imrajeevnayan/leetcode-solution/tree/main/0841-keys-and-rooms/) | Medium |
+| [1123-lowest-common-ancestor-of-deepest-leaves](https://github.com/imrajeevnayan/leetcode-solution/tree/main/1123-lowest-common-ancestor-of-deepest-leaves/) | Medium |
 | [1971-find-if-path-exists-in-graph](https://github.com/imrajeevnayan/leetcode-solution/tree/main/1971-find-if-path-exists-in-graph/) | Easy |
 ## Interactive
 | Problem Name | Difficulty |
@@ -740,14 +745,17 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0543-diameter-of-binary-tree](https://github.com/imrajeevnayan/leetcode-solution/tree/main/0543-diameter-of-binary-tree/) | Easy |
+| [1123-lowest-common-ancestor-of-deepest-leaves](https://github.com/imrajeevnayan/leetcode-solution/tree/main/1123-lowest-common-ancestor-of-deepest-leaves/) | Medium |
 ## Binary Lifting
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/imrajeevnayan/leetcode-solution/tree/main/0236-lowest-common-ancestor-of-a-binary-tree/) | Medium |
+| [1123-lowest-common-ancestor-of-deepest-leaves](https://github.com/imrajeevnayan/leetcode-solution/tree/main/1123-lowest-common-ancestor-of-deepest-leaves/) | Medium |
 ## Lowest Common Ancestor
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/imrajeevnayan/leetcode-solution/tree/main/0236-lowest-common-ancestor-of-a-binary-tree/) | Medium |
+| [1123-lowest-common-ancestor-of-deepest-leaves](https://github.com/imrajeevnayan/leetcode-solution/tree/main/1123-lowest-common-ancestor-of-deepest-leaves/) | Medium |
 ## Graph Theory
 | Problem Name | Difficulty |
 | ------- | ------- |
