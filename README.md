@@ -426,6 +426,7 @@
 | [3461-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/imrajeevnayan/leetcode-solution/tree/main/3461-check-if-digits-are-equal-in-string-after-operations-i/) | Easy |
 | [3692-majority-frequency-characters](https://github.com/imrajeevnayan/leetcode-solution/tree/main/3692-majority-frequency-characters/) | Easy |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/imrajeevnayan/leetcode-solution/tree/main/3720-lexicographically-smallest-permutation-greater-than-target/) | Medium |
+| [3794-reverse-string-prefix](https://github.com/imrajeevnayan/leetcode-solution/tree/main/3794-reverse-string-prefix/) | Easy |
 ## Segment Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -564,6 +565,7 @@
 | [0786-k-th-smallest-prime-fraction](https://github.com/imrajeevnayan/leetcode-solution/tree/main/0786-k-th-smallest-prime-fraction/) | Medium |
 | [0876-middle-of-the-linked-list](https://github.com/imrajeevnayan/leetcode-solution/tree/main/0876-middle-of-the-linked-list/) | Easy |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/imrajeevnayan/leetcode-solution/tree/main/2824-count-pairs-whose-sum-is-less-than-target/) | Easy |
+| [3794-reverse-string-prefix](https://github.com/imrajeevnayan/leetcode-solution/tree/main/3794-reverse-string-prefix/) | Easy |
 ## Linked List
 | Problem Name | Difficulty |
 | ------- | ------- |
