@@ -1,14 +1,18 @@
 class Solution {
-    public int amount(int[] nums,int i,int[]dp){
-        if(i>=nums.length)return 0;
-        if(dp[i]!=-1)return dp[i];
-        int take=nums[i]+amount(nums,i+2,dp);
-        int skip=0+amount(nums,i+1,dp);
-        return dp[i]= Math.max(take,skip);
-    }
+    private int[] memo;
     public int rob(int[] nums) {
-        int dp[]=new int[nums.length];
-        Arrays.fill(dp,-1);
-        return amount(nums,0,dp);
+        memo = new int[nums.length];
+        Arrays.fill(memo, -1);                 // ⬅️ Line 1
+        return solve(nums, 0);                 // pehle ghar se shuru
+    }
+        private int solve(int[] nums, int i) {
+        if (i >= nums.length) return 0;        // ⚠️ BASE — sabse pehle!
+        
+        if (memo[i] != -1) return memo[i];     
+        
+        int take = nums[i] + solve(nums, i + 2);  // LOOTO i → i+1 PE ALARM! i+2 pe jao
+        int skip = solve(nums, i + 1);             // CHHODO i → aage chalo
+        
+        return memo[i] = Math.max(take, skip);    //  (store + return ek saath!)
     }
 }
