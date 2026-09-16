@@ -92,6 +92,7 @@
 | [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/imrajeevnayan/leetcode-solution/tree/main/2535-difference-between-element-sum-and-digit-sum-of-an-array/) | Easy |
 | [2545-sort-the-students-by-their-kth-score](https://github.com/imrajeevnayan/leetcode-solution/tree/main/2545-sort-the-students-by-their-kth-score/) | Medium |
 | [2559-count-vowel-strings-in-ranges](https://github.com/imrajeevnayan/leetcode-solution/tree/main/2559-count-vowel-strings-in-ranges/) | Medium |
+| [2614-prime-in-diagonal](https://github.com/imrajeevnayan/leetcode-solution/tree/main/2614-prime-in-diagonal/) | Easy |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/imrajeevnayan/leetcode-solution/tree/main/2657-find-the-prefix-common-array-of-two-arrays/) | Medium |
 | [2760-longest-even-odd-subarray-with-threshold](https://github.com/imrajeevnayan/leetcode-solution/tree/main/2760-longest-even-odd-subarray-with-threshold/) | Easy |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/imrajeevnayan/leetcode-solution/tree/main/2824-count-pairs-whose-sum-is-less-than-target/) | Easy |
@@ -447,6 +448,7 @@
 | [1872-stone-game-viii](https://github.com/imrajeevnayan/leetcode-solution/tree/main/1872-stone-game-viii/) | Hard |
 | [1927-sum-game](https://github.com/imrajeevnayan/leetcode-solution/tree/main/1927-sum-game/) | Medium |
 | [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/imrajeevnayan/leetcode-solution/tree/main/2535-difference-between-element-sum-and-digit-sum-of-an-array/) | Easy |
+| [2614-prime-in-diagonal](https://github.com/imrajeevnayan/leetcode-solution/tree/main/2614-prime-in-diagonal/) | Easy |
 | [2864-maximum-odd-binary-number](https://github.com/imrajeevnayan/leetcode-solution/tree/main/2864-maximum-odd-binary-number/) | Easy |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/imrajeevnayan/leetcode-solution/tree/main/3116-kth-smallest-amount-with-single-denomination-combination/) | Hard |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/imrajeevnayan/leetcode-solution/tree/main/3432-count-partitions-with-even-sum-difference/) | Easy |
@@ -605,6 +607,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0204-count-primes](https://github.com/imrajeevnayan/leetcode-solution/tree/main/0204-count-primes/) | Medium |
+| [2614-prime-in-diagonal](https://github.com/imrajeevnayan/leetcode-solution/tree/main/2614-prime-in-diagonal/) | Easy |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/imrajeevnayan/leetcode-solution/tree/main/3116-kth-smallest-amount-with-single-denomination-combination/) | Hard |
 | [3461-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/imrajeevnayan/leetcode-solution/tree/main/3461-check-if-digits-are-equal-in-string-after-operations-i/) | Easy |
 ## Counting Sort
@@ -693,6 +696,7 @@
 | [1572-matrix-diagonal-sum](https://github.com/imrajeevnayan/leetcode-solution/tree/main/1572-matrix-diagonal-sum/) | Easy |
 | [1672-richest-customer-wealth](https://github.com/imrajeevnayan/leetcode-solution/tree/main/1672-richest-customer-wealth/) | Easy |
 | [2545-sort-the-students-by-their-kth-score](https://github.com/imrajeevnayan/leetcode-solution/tree/main/2545-sort-the-students-by-their-kth-score/) | Medium |
+| [2614-prime-in-diagonal](https://github.com/imrajeevnayan/leetcode-solution/tree/main/2614-prime-in-diagonal/) | Easy |
 | [3898-find-the-degree-of-each-vertex](https://github.com/imrajeevnayan/leetcode-solution/tree/main/3898-find-the-degree-of-each-vertex/) | Easy |
 ## Monotonic Queue
 | Problem Name | Difficulty |
