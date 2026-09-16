@@ -1,22 +1,17 @@
 class ParkingSystem {
-    // STATE: bache hue slots (instance variables)
-    private int big, medium, small;
+    private int[] slots; // index 1=big, 2=medium, 3=small (0 waste, koi baat nahi!)
     
-    // CONSTRUCTOR: shuruati state set
     public ParkingSystem(int big, int medium, int small) {
-        this.big = big;       // this.big = instance var, big = parameter
-        this.medium = medium;
-        this.small = small;
+        slots = new int[4];  // size 4: index 0,1,2,3
+        slots[1] = big;
+        slots[2] = medium;
+        slots[3] = small;
     }
     
-    // BEHAVIOR
     public boolean addCar(int carType) {
-        if (carType == 1) {
-            if (big > 0) { big--; return true; }
-        } else if (carType == 2) {
-            if (medium > 0) { medium--; return true; }
-        } else { // carType == 3
-            if (small > 0) { small--; return true; }
+        if (slots[carType] > 0) {   // carType = DIRECT INDEX!
+            slots[carType]--;
+            return true;
         }
         return false;
     }
