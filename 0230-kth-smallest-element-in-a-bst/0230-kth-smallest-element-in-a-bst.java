@@ -1,17 +1,28 @@
 class Solution {
-    int count = 0,answer = 0;
     public int kthSmallest(TreeNode root, int k) {
-        inorder(root, k);
-        return answer;
-    }
-    void inorder(TreeNode root, int k) {
-        if (root == null) return;
-        inorder(root.left, k);
-        count++;
-        if (count == k) {
-            answer = root.val;
-            return;
+
+        Stack<TreeNode> stack = new Stack<>();
+        TreeNode curr = root;
+
+        while (true) {
+
+            // Left side ke nodes stack mein daalo
+            while (curr != null) {
+                stack.push(curr);
+                curr = curr.left;
+            }
+
+            // Smallest remaining node
+            curr = stack.pop();
+            k--;
+
+            // kth smallest mil gaya
+            if (k == 0) {
+                return curr.val;
+            }
+
+            // Ab right subtree explore karo
+            curr = curr.right;
         }
-        inorder(root.right, k);
     }
 }
