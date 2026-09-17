@@ -1077,17 +1077,18 @@
     "GeeksForGeeks_Intersection_of_Arrays_with_Distinct": true,
     "GeeksForGeeks_Two_Sum_in_Sorted_Array": true,
     "GeeksForGeeks_Length_of_longest_subarray": true,
-    "GeeksForGeeks_2_Sum_-_Find_a_pair_with_given_sum": true
+    "GeeksForGeeks_2_Sum_-_Find_a_pair_with_given_sum": true,
+    "GeeksForGeeks_Container_With_Most_Water": true
   },
-  "totalSolved": 605,
+  "totalSolved": 606,
   "difficultyCounts": {
     "easy": 212,
-    "medium": 249,
+    "medium": 250,
     "hard": 13,
     "basic": 131
   },
   "currentStreak": 1,
-  "todayCount": 5,
+  "todayCount": 6,
   "lastSyncDate": "2026-09-17",
   "maxStreak": 25,
   "activityHistory": {
@@ -1192,7 +1193,7 @@
     "2026-09-13": 1,
     "2026-09-14": 11,
     "2026-09-15": 4,
-    "2026-09-17": 5
+    "2026-09-17": 6
   },
   "todayProblems": [
     "Most Frequent Character",
