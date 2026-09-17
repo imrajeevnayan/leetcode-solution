@@ -935,3 +935,4 @@
 | 126 | [Celebrity Problem](https://www.geeksforgeeks.org/problems/the-celebrity-problem/1) | GeeksForGeeks | Medium | 15 Sept 2026 | 10:24 am |
 | 127 | [Sum of Subarrays](https://www.geeksforgeeks.org/problems/sum-of-subarrays2229/1) | GeeksForGeeks | Medium | 15 Sept 2026 | 12:56 pm |
 | 128 | [Zero Sum Subarray](https://www.geeksforgeeks.org/problems/subarray-with-0-sum-1587115621/1) | GeeksForGeeks | Medium | 15 Sept 2026 | 11:48 pm |
+| 129 | [Pairs with 0 Sum](https://www.geeksforgeeks.org/problems/count-pairs-with-given-sum5022/1) | GeeksForGeeks | Medium | 17 Sept 2026 | 10:12 am |
