@@ -1074,17 +1074,18 @@
     "GeeksForGeeks_Sum_of_Subarrays": true,
     "GeeksForGeeks_Zero_Sum_Subarray": true,
     "GeeksForGeeks_Pairs_with_0_Sum": true,
-    "GeeksForGeeks_Intersection_of_Arrays_with_Distinct": true
+    "GeeksForGeeks_Intersection_of_Arrays_with_Distinct": true,
+    "GeeksForGeeks_Two_Sum_in_Sorted_Array": true
   },
-  "totalSolved": 602,
+  "totalSolved": 603,
   "difficultyCounts": {
-    "easy": 209,
+    "easy": 210,
     "medium": 249,
     "hard": 13,
     "basic": 131
   },
   "currentStreak": 1,
-  "todayCount": 2,
+  "todayCount": 3,
   "lastSyncDate": "2026-09-17",
   "maxStreak": 25,
   "activityHistory": {
@@ -1189,7 +1190,7 @@
     "2026-09-13": 1,
     "2026-09-14": 11,
     "2026-09-15": 4,
-    "2026-09-17": 2
+    "2026-09-17": 3
   },
   "todayProblems": [
     "Most Frequent Character",
@@ -1789,6 +1790,7 @@
     "Sum of Subarrays",
     "Zero Sum Subarray",
     "Pairs with 0 Sum",
-    "Intersection of Arrays with Distinct"
+    "Intersection of Arrays with Distinct",
+    "Two Sum in Sorted Array"
   ]
 }

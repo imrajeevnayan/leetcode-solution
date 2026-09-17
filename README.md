@@ -937,3 +937,4 @@
 | 128 | [Zero Sum Subarray](https://www.geeksforgeeks.org/problems/subarray-with-0-sum-1587115621/1) | GeeksForGeeks | Medium | 15 Sept 2026 | 11:48 pm |
 | 129 | [Pairs with 0 Sum](https://www.geeksforgeeks.org/problems/count-pairs-with-given-sum5022/1) | GeeksForGeeks | Medium | 17 Sept 2026 | 10:12 am |
 | 130 | [Intersection of Arrays with Distinct](https://www.geeksforgeeks.org/problems/intersection-of-two-arrays2404/1) | GeeksForGeeks | Easy | 17 Sept 2026 | 10:56 pm |
+| 131 | [Two Sum in Sorted Array](https://www.geeksforgeeks.org/problems/two-sum-in-sorted-array/1) | GeeksForGeeks | Easy | 17 Sept 2026 | 11:00 pm |
