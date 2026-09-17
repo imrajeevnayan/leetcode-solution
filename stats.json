@@ -1073,17 +1073,18 @@
     "GeeksForGeeks_Celebrity_Problem": true,
     "GeeksForGeeks_Sum_of_Subarrays": true,
     "GeeksForGeeks_Zero_Sum_Subarray": true,
-    "GeeksForGeeks_Pairs_with_0_Sum": true
+    "GeeksForGeeks_Pairs_with_0_Sum": true,
+    "GeeksForGeeks_Intersection_of_Arrays_with_Distinct": true
   },
-  "totalSolved": 601,
+  "totalSolved": 602,
   "difficultyCounts": {
-    "easy": 208,
+    "easy": 209,
     "medium": 249,
     "hard": 13,
     "basic": 131
   },
   "currentStreak": 1,
-  "todayCount": 1,
+  "todayCount": 2,
   "lastSyncDate": "2026-09-17",
   "maxStreak": 25,
   "activityHistory": {
@@ -1188,7 +1189,7 @@
     "2026-09-13": 1,
     "2026-09-14": 11,
     "2026-09-15": 4,
-    "2026-09-17": 1
+    "2026-09-17": 2
   },
   "todayProblems": [
     "Most Frequent Character",
@@ -1787,6 +1788,7 @@
     "Celebrity Problem",
     "Sum of Subarrays",
     "Zero Sum Subarray",
-    "Pairs with 0 Sum"
+    "Pairs with 0 Sum",
+    "Intersection of Arrays with Distinct"
   ]
 }
