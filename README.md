@@ -957,3 +957,4 @@
 | 136 | [Balanced Tree Check](https://www.geeksforgeeks.org/problems/check-for-balanced-tree/1) | GeeksForGeeks | Easy | 18 Sept 2026 | 05:37 pm |
 | 137 | [Two Sum II - Input Array Is Sorted](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/) | LeetCode | Medium | 18 Sept 2026 | 11:37 pm |
 | 138 | [Police and Thieves](https://www.geeksforgeeks.org/problems/police-and-thieves--141631/1) | GeeksForGeeks | Medium | 19 Sept 2026 | 12:39 am |
+| 139 | [Remove All Duplicates in a Linked List](https://www.geeksforgeeks.org/problems/remove-all-occurences-of-duplicates-in-a-linked-list/1) | GeeksForGeeks | Medium | 19 Sept 2026 | 12:45 am |
