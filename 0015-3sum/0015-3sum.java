@@ -1,23 +1,46 @@
 class Solution {
     public List<List<Integer>> threeSum(int[] nums) {
-        Arrays.sort(nums);                       // two pointer ke liye zaroori
-        Set<List<Integer>> set = new HashSet<>(); // DUPLICATES KA KHAYAL SET RAKHEGA!
+        List<List<Integer>> result = new ArrayList<>();
+        Arrays.sort(nums);
         
         for (int i = 0; i < nums.length - 2; i++) {
-            int left = i + 1, right = nums.length - 1;
+            // Duplicate skip karo (same number dobara mat lo)
+            if (i > 0 && nums[i] == nums[i - 1]) {
+                continue;
+            }
             
+            // Agar current number positive ho gaya to aage kuch nahi milega
+            if (nums[i] > 0) break;
+            int left = i + 1, right = nums.length - 1;
             while (left < right) {
                 int sum = nums[i] + nums[left] + nums[right];
                 
                 if (sum == 0) {
-                    set.add(Arrays.asList(nums[i], nums[left], nums[right]));
-                    left++;      // bas aage badho — 
-                    right--;     // duplicate ho toh bhi SET sambhal lega!
+                    // Triplet mil gaya
+                    result.add(Arrays.asList(nums[i], nums[left], nums[right]));
+                    
+                    // Left ke duplicates skip karo
+                    while (left < right && nums[left] == nums[left + 1]) {
+                        left++;
+                    }
+                    
+                    // Right ke duplicates skip karo
+                    while (left < right && nums[right] == nums[right - 1]) {
+                        right--;
+                    }
+                    
+                    left++;
+                    right--;
+                } 
+                else if (sum < 0) {
+                    left++;   // sum chhota hai, left badhao
+                } 
+                else {
+                    right--;  // sum bada hai, right ghatavo
                 }
-                else if (sum < 0)  left++;
-                else               right--;
             }
         }
-        return new ArrayList<>(set);  // Set → List (final answer format)
+        
+        return result;
     }
 }
