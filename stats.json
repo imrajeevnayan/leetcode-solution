@@ -1081,18 +1081,19 @@
     "GeeksForGeeks_Container_With_Most_Water": true,
     "Codeforces_1051B_-_Relatively_Prime_Pairs": true,
     "GeeksForGeeks_Balanced_Tree_Check": true,
-    "LeetCode_Two_Sum_II_-_Input_Array_Is_Sorted": true
+    "LeetCode_Two_Sum_II_-_Input_Array_Is_Sorted": true,
+    "GeeksForGeeks_Police_and_Thieves": true
   },
-  "totalSolved": 609,
+  "totalSolved": 610,
   "difficultyCounts": {
     "easy": 213,
-    "medium": 251,
+    "medium": 252,
     "hard": 13,
     "basic": 132
   },
-  "currentStreak": 2,
-  "todayCount": 3,
-  "lastSyncDate": "2026-09-18",
+  "currentStreak": 3,
+  "todayCount": 1,
+  "lastSyncDate": "2026-09-19",
   "maxStreak": 25,
   "activityHistory": {
     "2026-05-19": 2,
@@ -1197,7 +1198,8 @@
     "2026-09-14": 11,
     "2026-09-15": 4,
     "2026-09-17": 6,
-    "2026-09-18": 3
+    "2026-09-18": 3,
+    "2026-09-19": 1
   },
   "todayProblems": [
     "Most Frequent Character",
@@ -1803,6 +1805,7 @@
     "2 Sum - Find a pair with given sum",
     "1051B - Relatively Prime Pairs",
     "Balanced Tree Check",
-    "Two Sum II - Input Array Is Sorted"
+    "Two Sum II - Input Array Is Sorted",
+    "Police and Thieves"
   ]
 }
