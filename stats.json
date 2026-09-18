@@ -1079,17 +1079,18 @@
     "GeeksForGeeks_Length_of_longest_subarray": true,
     "GeeksForGeeks_2_Sum_-_Find_a_pair_with_given_sum": true,
     "GeeksForGeeks_Container_With_Most_Water": true,
-    "Codeforces_1051B_-_Relatively_Prime_Pairs": true
+    "Codeforces_1051B_-_Relatively_Prime_Pairs": true,
+    "GeeksForGeeks_Balanced_Tree_Check": true
   },
-  "totalSolved": 607,
+  "totalSolved": 608,
   "difficultyCounts": {
-    "easy": 212,
+    "easy": 213,
     "medium": 250,
     "hard": 13,
     "basic": 132
   },
   "currentStreak": 2,
-  "todayCount": 1,
+  "todayCount": 2,
   "lastSyncDate": "2026-09-18",
   "maxStreak": 25,
   "activityHistory": {
@@ -1195,7 +1196,7 @@
     "2026-09-14": 11,
     "2026-09-15": 4,
     "2026-09-17": 6,
-    "2026-09-18": 1
+    "2026-09-18": 2
   },
   "todayProblems": [
     "Most Frequent Character",
@@ -1799,6 +1800,7 @@
     "Two Sum in Sorted Array",
     "Length of longest subarray",
     "2 Sum - Find a pair with given sum",
-    "1051B - Relatively Prime Pairs"
+    "1051B - Relatively Prime Pairs",
+    "Balanced Tree Check"
   ]
 }

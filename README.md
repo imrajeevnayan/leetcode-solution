@@ -942,3 +942,4 @@
 | 133 | [2 Sum - Find a pair with given sum](https://www.geeksforgeeks.org/problems/2-sum-find-a-pair-with-given-sum/1) | GeeksForGeeks | Easy | 17 Sept 2026 | 11:29 pm |
 | 134 | [Container With Most Water](https://www.geeksforgeeks.org/problems/container-with-most-water0535/1) | GeeksForGeeks | Medium | 17 Sept 2026 | 11:38 pm |
 | 135 | [1051B - Relatively Prime Pairs](https://codeforces.com/problemset/problem/1051/B) | Codeforces | basic | 18 Sept 2026 | 03:13 pm |
+| 136 | [Balanced Tree Check](https://www.geeksforgeeks.org/problems/check-for-balanced-tree/1) | GeeksForGeeks | Easy | 18 Sept 2026 | 05:37 pm |
