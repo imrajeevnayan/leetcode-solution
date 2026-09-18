@@ -1,19 +1,22 @@
 class Solution {
     public int threeSumClosest(int[] nums, int target) {
-        Arrays.sort(nums);
-        int closestSum = nums[0] + nums[1] + nums[2];
-
-        for (int i = 0; i < nums.length - 2; i++) {
-            int left = i + 1, right = nums.length - 1;
+        Arrays.sort(nums);                         
+        int n = nums.length;
+        
+        int closestSum = nums[0] + nums[1] + nums[2]; // ⚠️ pehla triplet = initial best
+        
+        for (int i = 0; i < n - 2; i++) {
+            int left = i + 1, right = n - 1;
+            
             while (left < right) {
-                int currentSum = nums[i] + nums[left] + nums[right];
-                if (Math.abs(currentSum - target) < Math.abs(closestSum - target)) {
-                    closestSum = currentSum;
-                }
+                int sum = nums[i] + nums[left] + nums[right];
                 
-                if (currentSum < target) left++;
-                else if (currentSum > target) right--;
-                else return target; // Exact match found
+                // SCOREBOARD: ye sum zyada kareeb hai kya?
+                if (Math.abs(sum - target) < Math.abs(closestSum - target))  closestSum = sum;
+                
+                if (sum == target) return target;   // 🎯 PERFECT! Isse behtar kuch nahi — BHAAGO!
+                else if (sum < target) left++;      // bada sum chahiye
+                else right--;                        // chhota sum chahiye
             }
         }
         return closestSum;
