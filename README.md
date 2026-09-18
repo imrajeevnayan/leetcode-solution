@@ -11,6 +11,7 @@
 | [0004-median-of-two-sorted-arrays](https://github.com/imrajeevnayan/leetcode-solution/tree/main/0004-median-of-two-sorted-arrays/) | Hard |
 | [0014-longest-common-prefix](https://github.com/imrajeevnayan/leetcode-solution/tree/main/0014-longest-common-prefix/) | Easy |
 | [0015-3sum](https://github.com/imrajeevnayan/leetcode-solution/tree/main/0015-3sum/) | Medium |
+| [0016-3sum-closest](https://github.com/imrajeevnayan/leetcode-solution/tree/main/0016-3sum-closest/) | Medium |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/imrajeevnayan/leetcode-solution/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
 | [0033-search-in-rotated-sorted-array](https://github.com/imrajeevnayan/leetcode-solution/tree/main/0033-search-in-rotated-sorted-array/) | Medium |
 | [0035-search-insert-position](https://github.com/imrajeevnayan/leetcode-solution/tree/main/0035-search-insert-position/) | Easy |
@@ -203,6 +204,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0015-3sum](https://github.com/imrajeevnayan/leetcode-solution/tree/main/0015-3sum/) | Medium |
+| [0016-3sum-closest](https://github.com/imrajeevnayan/leetcode-solution/tree/main/0016-3sum-closest/) | Medium |
 | [0049-group-anagrams](https://github.com/imrajeevnayan/leetcode-solution/tree/main/0049-group-anagrams/) | Medium |
 | [0088-merge-sorted-array](https://github.com/imrajeevnayan/leetcode-solution/tree/main/0088-merge-sorted-array/) | Easy |
 | [0217-contains-duplicate](https://github.com/imrajeevnayan/leetcode-solution/tree/main/0217-contains-duplicate/) | Easy |
@@ -551,6 +553,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0015-3sum](https://github.com/imrajeevnayan/leetcode-solution/tree/main/0015-3sum/) | Medium |
+| [0016-3sum-closest](https://github.com/imrajeevnayan/leetcode-solution/tree/main/0016-3sum-closest/) | Medium |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/imrajeevnayan/leetcode-solution/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
 | [0061-rotate-list](https://github.com/imrajeevnayan/leetcode-solution/tree/main/0061-rotate-list/) | Medium |
 | [0088-merge-sorted-array](https://github.com/imrajeevnayan/leetcode-solution/tree/main/0088-merge-sorted-array/) | Easy |
