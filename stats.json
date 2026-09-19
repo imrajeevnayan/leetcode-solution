@@ -1083,17 +1083,18 @@
     "GeeksForGeeks_Balanced_Tree_Check": true,
     "LeetCode_Two_Sum_II_-_Input_Array_Is_Sorted": true,
     "GeeksForGeeks_Police_and_Thieves": true,
-    "GeeksForGeeks_Remove_All_Duplicates_in_a_Linked_List": true
+    "GeeksForGeeks_Remove_All_Duplicates_in_a_Linked_List": true,
+    "GeeksForGeeks_Triplets_in_Sorted_Linked_List": true
   },
-  "totalSolved": 611,
+  "totalSolved": 612,
   "difficultyCounts": {
     "easy": 213,
-    "medium": 253,
+    "medium": 254,
     "hard": 13,
     "basic": 132
   },
   "currentStreak": 3,
-  "todayCount": 2,
+  "todayCount": 3,
   "lastSyncDate": "2026-09-19",
   "maxStreak": 25,
   "activityHistory": {
@@ -1200,7 +1201,7 @@
     "2026-09-15": 4,
     "2026-09-17": 6,
     "2026-09-18": 3,
-    "2026-09-19": 2
+    "2026-09-19": 3
   },
   "todayProblems": [
     "Most Frequent Character",
@@ -1808,6 +1809,7 @@
     "Balanced Tree Check",
     "Two Sum II - Input Array Is Sorted",
     "Police and Thieves",
-    "Remove All Duplicates in a Linked List"
+    "Remove All Duplicates in a Linked List",
+    "Triplets in Sorted Linked List"
   ]
 }

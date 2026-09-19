@@ -958,3 +958,4 @@
 | 137 | [Two Sum II - Input Array Is Sorted](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/) | LeetCode | Medium | 18 Sept 2026 | 11:37 pm |
 | 138 | [Police and Thieves](https://www.geeksforgeeks.org/problems/police-and-thieves--141631/1) | GeeksForGeeks | Medium | 19 Sept 2026 | 12:39 am |
 | 139 | [Remove All Duplicates in a Linked List](https://www.geeksforgeeks.org/problems/remove-all-occurences-of-duplicates-in-a-linked-list/1) | GeeksForGeeks | Medium | 19 Sept 2026 | 12:45 am |
+| 140 | [Triplets in Sorted Linked List](https://www.geeksforgeeks.org/problems/count-triplets--141631/1) | GeeksForGeeks | Medium | 19 Sept 2026 | 10:58 am |
