@@ -18,6 +18,7 @@
 | [0049-group-anagrams](https://github.com/imrajeevnayan/leetcode-solution/tree/main/0049-group-anagrams/) | Medium |
 | [0053-maximum-subarray](https://github.com/imrajeevnayan/leetcode-solution/tree/main/0053-maximum-subarray/) | Medium |
 | [0054-spiral-matrix](https://github.com/imrajeevnayan/leetcode-solution/tree/main/0054-spiral-matrix/) | Medium |
+| [0057-insert-interval](https://github.com/imrajeevnayan/leetcode-solution/tree/main/0057-insert-interval/) | Medium |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/imrajeevnayan/leetcode-solution/tree/main/0081-search-in-rotated-sorted-array-ii/) | Medium |
 | [0088-merge-sorted-array](https://github.com/imrajeevnayan/leetcode-solution/tree/main/0088-merge-sorted-array/) | Easy |
 | [0128-longest-consecutive-sequence](https://github.com/imrajeevnayan/leetcode-solution/tree/main/0128-longest-consecutive-sequence/) | Medium |
