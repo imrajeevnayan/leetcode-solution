@@ -997,3 +997,4 @@
 | 141 | [Two Sum - Pair with Given Sum](https://www.geeksforgeeks.org/problems/key-pair5616/1) | GeeksForGeeks | Easy | 20 Sept 2026 | 03:48 pm |
 | 142 | [Distinct Pairs with Sum](https://www.geeksforgeeks.org/problems/all-distinct-pairs-with-given-sum/1) | GeeksForGeeks | Easy | 20 Sept 2026 | 05:04 pm |
 | 143 | [Count Pairs with Sum](https://www.geeksforgeeks.org/problems/count-pairs-with-given-sum--150253/1) | GeeksForGeeks | Medium | 20 Sept 2026 | 11:04 pm |
+| 144 | [K-diff Pairs in an Array](https://leetcode.com/problems/k-diff-pairs-in-an-array/) | LeetCode | Medium | 21 Sept 2026 | 12:30 am |
