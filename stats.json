@@ -1086,17 +1086,18 @@
     "GeeksForGeeks_Remove_All_Duplicates_in_a_Linked_List": true,
     "GeeksForGeeks_Triplets_in_Sorted_Linked_List": true,
     "GeeksForGeeks_Two_Sum_-_Pair_with_Given_Sum": true,
-    "GeeksForGeeks_Distinct_Pairs_with_Sum": true
+    "GeeksForGeeks_Distinct_Pairs_with_Sum": true,
+    "GeeksForGeeks_Count_Pairs_with_Sum": true
   },
-  "totalSolved": 614,
+  "totalSolved": 615,
   "difficultyCounts": {
     "easy": 215,
-    "medium": 254,
+    "medium": 255,
     "hard": 13,
     "basic": 132
   },
   "currentStreak": 4,
-  "todayCount": 2,
+  "todayCount": 3,
   "lastSyncDate": "2026-09-20",
   "maxStreak": 25,
   "activityHistory": {
@@ -1204,7 +1205,7 @@
     "2026-09-17": 6,
     "2026-09-18": 3,
     "2026-09-19": 3,
-    "2026-09-20": 2
+    "2026-09-20": 3
   },
   "todayProblems": [
     "Most Frequent Character",
@@ -1815,6 +1816,7 @@
     "Remove All Duplicates in a Linked List",
     "Triplets in Sorted Linked List",
     "Two Sum - Pair with Given Sum",
-    "Distinct Pairs with Sum"
+    "Distinct Pairs with Sum",
+    "Count Pairs with Sum"
   ]
 }

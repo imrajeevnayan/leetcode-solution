@@ -991,3 +991,4 @@
 | 140 | [Triplets in Sorted Linked List](https://www.geeksforgeeks.org/problems/count-triplets--141631/1) | GeeksForGeeks | Medium | 19 Sept 2026 | 10:58 am |
 | 141 | [Two Sum - Pair with Given Sum](https://www.geeksforgeeks.org/problems/key-pair5616/1) | GeeksForGeeks | Easy | 20 Sept 2026 | 03:48 pm |
 | 142 | [Distinct Pairs with Sum](https://www.geeksforgeeks.org/problems/all-distinct-pairs-with-given-sum/1) | GeeksForGeeks | Easy | 20 Sept 2026 | 05:04 pm |
+| 143 | [Count Pairs with Sum](https://www.geeksforgeeks.org/problems/count-pairs-with-given-sum--150253/1) | GeeksForGeeks | Medium | 20 Sept 2026 | 11:04 pm |
