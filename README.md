@@ -437,6 +437,7 @@
 | [3110-score-of-a-string](https://github.com/imrajeevnayan/leetcode-solution/tree/main/3110-score-of-a-string/) | Easy |
 | [3330-find-the-original-typed-string-i](https://github.com/imrajeevnayan/leetcode-solution/tree/main/3330-find-the-original-typed-string-i/) | Easy |
 | [3461-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/imrajeevnayan/leetcode-solution/tree/main/3461-check-if-digits-are-equal-in-string-after-operations-i/) | Easy |
+| [3498-reverse-degree-of-a-string](https://github.com/imrajeevnayan/leetcode-solution/tree/main/3498-reverse-degree-of-a-string/) | Easy |
 | [3692-majority-frequency-characters](https://github.com/imrajeevnayan/leetcode-solution/tree/main/3692-majority-frequency-characters/) | Easy |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/imrajeevnayan/leetcode-solution/tree/main/3720-lexicographically-smallest-permutation-greater-than-target/) | Medium |
 | [3794-reverse-string-prefix](https://github.com/imrajeevnayan/leetcode-solution/tree/main/3794-reverse-string-prefix/) | Easy |
@@ -560,6 +561,7 @@
 | [3354-make-array-elements-equal-to-zero](https://github.com/imrajeevnayan/leetcode-solution/tree/main/3354-make-array-elements-equal-to-zero/) | Easy |
 | [3461-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/imrajeevnayan/leetcode-solution/tree/main/3461-check-if-digits-are-equal-in-string-after-operations-i/) | Easy |
 | [3477-fruits-into-baskets-ii](https://github.com/imrajeevnayan/leetcode-solution/tree/main/3477-fruits-into-baskets-ii/) | Easy |
+| [3498-reverse-degree-of-a-string](https://github.com/imrajeevnayan/leetcode-solution/tree/main/3498-reverse-degree-of-a-string/) | Easy |
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
