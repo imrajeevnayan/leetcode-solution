@@ -966,3 +966,4 @@
 | 138 | [Police and Thieves](https://www.geeksforgeeks.org/problems/police-and-thieves--141631/1) | GeeksForGeeks | Medium | 19 Sept 2026 | 12:39 am |
 | 139 | [Remove All Duplicates in a Linked List](https://www.geeksforgeeks.org/problems/remove-all-occurences-of-duplicates-in-a-linked-list/1) | GeeksForGeeks | Medium | 19 Sept 2026 | 12:45 am |
 | 140 | [Triplets in Sorted Linked List](https://www.geeksforgeeks.org/problems/count-triplets--141631/1) | GeeksForGeeks | Medium | 19 Sept 2026 | 10:58 am |
+| 141 | [Two Sum - Pair with Given Sum](https://www.geeksforgeeks.org/problems/key-pair5616/1) | GeeksForGeeks | Easy | 20 Sept 2026 | 03:48 pm |
