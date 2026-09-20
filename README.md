@@ -265,6 +265,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/imrajeevnayan/leetcode-solution/tree/main/0094-binary-tree-inorder-traversal/) | Easy |
+| [0098-validate-binary-search-tree](https://github.com/imrajeevnayan/leetcode-solution/tree/main/0098-validate-binary-search-tree/) | Medium |
 | [0100-same-tree](https://github.com/imrajeevnayan/leetcode-solution/tree/main/0100-same-tree/) | Easy |
 | [0101-symmetric-tree](https://github.com/imrajeevnayan/leetcode-solution/tree/main/0101-symmetric-tree/) | Easy |
 | [0102-binary-tree-level-order-traversal](https://github.com/imrajeevnayan/leetcode-solution/tree/main/0102-binary-tree-level-order-traversal/) | Medium |
@@ -295,6 +296,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/imrajeevnayan/leetcode-solution/tree/main/0094-binary-tree-inorder-traversal/) | Easy |
+| [0098-validate-binary-search-tree](https://github.com/imrajeevnayan/leetcode-solution/tree/main/0098-validate-binary-search-tree/) | Medium |
 | [0100-same-tree](https://github.com/imrajeevnayan/leetcode-solution/tree/main/0100-same-tree/) | Easy |
 | [0101-symmetric-tree](https://github.com/imrajeevnayan/leetcode-solution/tree/main/0101-symmetric-tree/) | Easy |
 | [0102-binary-tree-level-order-traversal](https://github.com/imrajeevnayan/leetcode-solution/tree/main/0102-binary-tree-level-order-traversal/) | Medium |
@@ -324,6 +326,7 @@
 | [0035-search-insert-position](https://github.com/imrajeevnayan/leetcode-solution/tree/main/0035-search-insert-position/) | Easy |
 | [0069-sqrtx](https://github.com/imrajeevnayan/leetcode-solution/tree/main/0069-sqrtx/) | Easy |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/imrajeevnayan/leetcode-solution/tree/main/0081-search-in-rotated-sorted-array-ii/) | Medium |
+| [0098-validate-binary-search-tree](https://github.com/imrajeevnayan/leetcode-solution/tree/main/0098-validate-binary-search-tree/) | Medium |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/imrajeevnayan/leetcode-solution/tree/main/0153-find-minimum-in-rotated-sorted-array/) | Medium |
 | [0162-find-peak-element](https://github.com/imrajeevnayan/leetcode-solution/tree/main/0162-find-peak-element/) | Medium |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/imrajeevnayan/leetcode-solution/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
@@ -692,6 +695,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/imrajeevnayan/leetcode-solution/tree/main/0094-binary-tree-inorder-traversal/) | Easy |
+| [0098-validate-binary-search-tree](https://github.com/imrajeevnayan/leetcode-solution/tree/main/0098-validate-binary-search-tree/) | Medium |
 | [0100-same-tree](https://github.com/imrajeevnayan/leetcode-solution/tree/main/0100-same-tree/) | Easy |
 | [0101-symmetric-tree](https://github.com/imrajeevnayan/leetcode-solution/tree/main/0101-symmetric-tree/) | Easy |
 | [0110-balanced-binary-tree](https://github.com/imrajeevnayan/leetcode-solution/tree/main/0110-balanced-binary-tree/) | Easy |
