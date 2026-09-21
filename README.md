@@ -87,6 +87,7 @@
 | [1672-richest-customer-wealth](https://github.com/imrajeevnayan/leetcode-solution/tree/main/1672-richest-customer-wealth/) | Easy |
 | [1679-max-number-of-k-sum-pairs](https://github.com/imrajeevnayan/leetcode-solution/tree/main/1679-max-number-of-k-sum-pairs/) | Medium |
 | [1769-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/imrajeevnayan/leetcode-solution/tree/main/1769-minimum-number-of-operations-to-move-all-balls-to-each-box/) | Medium |
+| [1814-count-nice-pairs-in-an-array](https://github.com/imrajeevnayan/leetcode-solution/tree/main/1814-count-nice-pairs-in-an-array/) | Medium |
 | [1829-maximum-xor-for-each-query](https://github.com/imrajeevnayan/leetcode-solution/tree/main/1829-maximum-xor-for-each-query/) | Medium |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/imrajeevnayan/leetcode-solution/tree/main/1863-sum-of-all-subset-xor-totals/) | Easy |
 | [1872-stone-game-viii](https://github.com/imrajeevnayan/leetcode-solution/tree/main/1872-stone-game-viii/) | Hard |
@@ -197,6 +198,7 @@
 | [1347-minimum-number-of-steps-to-make-two-strings-anagram](https://github.com/imrajeevnayan/leetcode-solution/tree/main/1347-minimum-number-of-steps-to-make-two-strings-anagram/) | Medium |
 | [1386-cinema-seat-allocation](https://github.com/imrajeevnayan/leetcode-solution/tree/main/1386-cinema-seat-allocation/) | Medium |
 | [1679-max-number-of-k-sum-pairs](https://github.com/imrajeevnayan/leetcode-solution/tree/main/1679-max-number-of-k-sum-pairs/) | Medium |
+| [1814-count-nice-pairs-in-an-array](https://github.com/imrajeevnayan/leetcode-solution/tree/main/1814-count-nice-pairs-in-an-array/) | Medium |
 | [2094-finding-3-digit-even-numbers](https://github.com/imrajeevnayan/leetcode-solution/tree/main/2094-finding-3-digit-even-numbers/) | Easy |
 | [2325-decode-the-message](https://github.com/imrajeevnayan/leetcode-solution/tree/main/2325-decode-the-message/) | Easy |
 | [2395-find-subarrays-with-equal-sum](https://github.com/imrajeevnayan/leetcode-solution/tree/main/2395-find-subarrays-with-equal-sum/) | Easy |
@@ -492,6 +494,7 @@
 | [1175-prime-arrangements](https://github.com/imrajeevnayan/leetcode-solution/tree/main/1175-prime-arrangements/) | Easy |
 | [1323-maximum-69-number](https://github.com/imrajeevnayan/leetcode-solution/tree/main/1323-maximum-69-number/) | Easy |
 | [1563-stone-game-v](https://github.com/imrajeevnayan/leetcode-solution/tree/main/1563-stone-game-v/) | Hard |
+| [1814-count-nice-pairs-in-an-array](https://github.com/imrajeevnayan/leetcode-solution/tree/main/1814-count-nice-pairs-in-an-array/) | Medium |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/imrajeevnayan/leetcode-solution/tree/main/1863-sum-of-all-subset-xor-totals/) | Easy |
 | [1872-stone-game-viii](https://github.com/imrajeevnayan/leetcode-solution/tree/main/1872-stone-game-viii/) | Hard |
 | [1927-sum-game](https://github.com/imrajeevnayan/leetcode-solution/tree/main/1927-sum-game/) | Medium |
@@ -544,6 +547,7 @@
 | [1221-split-a-string-in-balanced-strings](https://github.com/imrajeevnayan/leetcode-solution/tree/main/1221-split-a-string-in-balanced-strings/) | Easy |
 | [1347-minimum-number-of-steps-to-make-two-strings-anagram](https://github.com/imrajeevnayan/leetcode-solution/tree/main/1347-minimum-number-of-steps-to-make-two-strings-anagram/) | Medium |
 | [1603-design-parking-system](https://github.com/imrajeevnayan/leetcode-solution/tree/main/1603-design-parking-system/) | Easy |
+| [1814-count-nice-pairs-in-an-array](https://github.com/imrajeevnayan/leetcode-solution/tree/main/1814-count-nice-pairs-in-an-array/) | Medium |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/imrajeevnayan/leetcode-solution/tree/main/2529-maximum-count-of-positive-integer-and-negative-integer/) | Easy |
 | [3005-count-elements-with-maximum-frequency](https://github.com/imrajeevnayan/leetcode-solution/tree/main/3005-count-elements-with-maximum-frequency/) | Easy |
 | [3467-transform-array-by-parity](https://github.com/imrajeevnayan/leetcode-solution/tree/main/3467-transform-array-by-parity/) | Easy |
