@@ -268,6 +268,7 @@
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/imrajeevnayan/leetcode-solution/tree/main/1008-construct-binary-search-tree-from-preorder-traversal/) | Medium |
 | [1021-remove-outermost-parentheses](https://github.com/imrajeevnayan/leetcode-solution/tree/main/1021-remove-outermost-parentheses/) | Easy |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/imrajeevnayan/leetcode-solution/tree/main/1047-remove-all-adjacent-duplicates-in-string/) | Easy |
+| [1249-minimum-remove-to-make-valid-parentheses](https://github.com/imrajeevnayan/leetcode-solution/tree/main/1249-minimum-remove-to-make-valid-parentheses/) | Medium |
 | [1441-build-an-array-with-stack-operations](https://github.com/imrajeevnayan/leetcode-solution/tree/main/1441-build-an-array-with-stack-operations/) | Medium |
 | [1472-design-browser-history](https://github.com/imrajeevnayan/leetcode-solution/tree/main/1472-design-browser-history/) | Medium |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/imrajeevnayan/leetcode-solution/tree/main/1475-final-prices-with-a-special-discount-in-a-shop/) | Easy |
@@ -444,6 +445,7 @@
 | [1021-remove-outermost-parentheses](https://github.com/imrajeevnayan/leetcode-solution/tree/main/1021-remove-outermost-parentheses/) | Easy |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/imrajeevnayan/leetcode-solution/tree/main/1047-remove-all-adjacent-duplicates-in-string/) | Easy |
 | [1221-split-a-string-in-balanced-strings](https://github.com/imrajeevnayan/leetcode-solution/tree/main/1221-split-a-string-in-balanced-strings/) | Easy |
+| [1249-minimum-remove-to-make-valid-parentheses](https://github.com/imrajeevnayan/leetcode-solution/tree/main/1249-minimum-remove-to-make-valid-parentheses/) | Medium |
 | [1347-minimum-number-of-steps-to-make-two-strings-anagram](https://github.com/imrajeevnayan/leetcode-solution/tree/main/1347-minimum-number-of-steps-to-make-two-strings-anagram/) | Medium |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/imrajeevnayan/leetcode-solution/tree/main/1456-maximum-number-of-vowels-in-a-substring-of-given-length/) | Medium |
 | [1528-shuffle-string](https://github.com/imrajeevnayan/leetcode-solution/tree/main/1528-shuffle-string/) | Easy |
