@@ -1088,18 +1088,19 @@
     "GeeksForGeeks_Two_Sum_-_Pair_with_Given_Sum": true,
     "GeeksForGeeks_Distinct_Pairs_with_Sum": true,
     "GeeksForGeeks_Count_Pairs_with_Sum": true,
-    "LeetCode_K-diff_Pairs_in_an_Array": true
+    "LeetCode_K-diff_Pairs_in_an_Array": true,
+    "GeeksForGeeks_Queue_using_Stack": true
   },
-  "totalSolved": 616,
+  "totalSolved": 617,
   "difficultyCounts": {
-    "easy": 215,
+    "easy": 216,
     "medium": 256,
     "hard": 13,
     "basic": 132
   },
-  "currentStreak": 5,
+  "currentStreak": 6,
   "todayCount": 1,
-  "lastSyncDate": "2026-09-21",
+  "lastSyncDate": "2026-09-22",
   "maxStreak": 25,
   "activityHistory": {
     "2026-05-19": 2,
@@ -1207,7 +1208,8 @@
     "2026-09-18": 3,
     "2026-09-19": 3,
     "2026-09-20": 3,
-    "2026-09-21": 1
+    "2026-09-21": 1,
+    "2026-09-22": 1
   },
   "todayProblems": [
     "Most Frequent Character",
@@ -1820,6 +1822,7 @@
     "Two Sum - Pair with Given Sum",
     "Distinct Pairs with Sum",
     "Count Pairs with Sum",
-    "K-diff Pairs in an Array"
+    "K-diff Pairs in an Array",
+    "Queue using Stack"
   ]
 }
