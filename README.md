@@ -1018,3 +1018,4 @@
 | 143 | [Count Pairs with Sum](https://www.geeksforgeeks.org/problems/count-pairs-with-given-sum--150253/1) | GeeksForGeeks | Medium | 20 Sept 2026 | 11:04 pm |
 | 144 | [K-diff Pairs in an Array](https://leetcode.com/problems/k-diff-pairs-in-an-array/) | LeetCode | Medium | 21 Sept 2026 | 12:30 am |
 | 145 | [Queue using Stack](https://www.geeksforgeeks.org/problems/queue-using-stack/1) | GeeksForGeeks | Easy | 22 Sept 2026 | 11:48 pm |
+| 146 | [Minimum Additions to Make Valid String](https://leetcode.com/problems/minimum-additions-to-make-valid-string/) | LeetCode | Medium | 23 Sept 2026 | 12:29 am |
