@@ -84,6 +84,7 @@
 | [1528-shuffle-string](https://github.com/imrajeevnayan/leetcode-solution/tree/main/1528-shuffle-string/) | Easy |
 | [1563-stone-game-v](https://github.com/imrajeevnayan/leetcode-solution/tree/main/1563-stone-game-v/) | Hard |
 | [1572-matrix-diagonal-sum](https://github.com/imrajeevnayan/leetcode-solution/tree/main/1572-matrix-diagonal-sum/) | Easy |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/imrajeevnayan/leetcode-solution/tree/main/1658-minimum-operations-to-reduce-x-to-zero/) | Medium |
 | [1672-richest-customer-wealth](https://github.com/imrajeevnayan/leetcode-solution/tree/main/1672-richest-customer-wealth/) | Easy |
 | [1679-max-number-of-k-sum-pairs](https://github.com/imrajeevnayan/leetcode-solution/tree/main/1679-max-number-of-k-sum-pairs/) | Medium |
 | [1726-tuple-with-same-product](https://github.com/imrajeevnayan/leetcode-solution/tree/main/1726-tuple-with-same-product/) | Medium |
@@ -158,6 +159,7 @@
 | [1310-xor-queries-of-a-subarray](https://github.com/imrajeevnayan/leetcode-solution/tree/main/1310-xor-queries-of-a-subarray/) | Medium |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/imrajeevnayan/leetcode-solution/tree/main/1423-maximum-points-you-can-obtain-from-cards/) | Medium |
 | [1480-running-sum-of-1d-array](https://github.com/imrajeevnayan/leetcode-solution/tree/main/1480-running-sum-of-1d-array/) | Easy |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/imrajeevnayan/leetcode-solution/tree/main/1658-minimum-operations-to-reduce-x-to-zero/) | Medium |
 | [1769-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/imrajeevnayan/leetcode-solution/tree/main/1769-minimum-number-of-operations-to-move-all-balls-to-each-box/) | Medium |
 | [1829-maximum-xor-for-each-query](https://github.com/imrajeevnayan/leetcode-solution/tree/main/1829-maximum-xor-for-each-query/) | Medium |
 | [1872-stone-game-viii](https://github.com/imrajeevnayan/leetcode-solution/tree/main/1872-stone-game-viii/) | Hard |
@@ -198,6 +200,7 @@
 | [1123-lowest-common-ancestor-of-deepest-leaves](https://github.com/imrajeevnayan/leetcode-solution/tree/main/1123-lowest-common-ancestor-of-deepest-leaves/) | Medium |
 | [1347-minimum-number-of-steps-to-make-two-strings-anagram](https://github.com/imrajeevnayan/leetcode-solution/tree/main/1347-minimum-number-of-steps-to-make-two-strings-anagram/) | Medium |
 | [1386-cinema-seat-allocation](https://github.com/imrajeevnayan/leetcode-solution/tree/main/1386-cinema-seat-allocation/) | Medium |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/imrajeevnayan/leetcode-solution/tree/main/1658-minimum-operations-to-reduce-x-to-zero/) | Medium |
 | [1679-max-number-of-k-sum-pairs](https://github.com/imrajeevnayan/leetcode-solution/tree/main/1679-max-number-of-k-sum-pairs/) | Medium |
 | [1726-tuple-with-same-product](https://github.com/imrajeevnayan/leetcode-solution/tree/main/1726-tuple-with-same-product/) | Medium |
 | [1814-count-nice-pairs-in-an-array](https://github.com/imrajeevnayan/leetcode-solution/tree/main/1814-count-nice-pairs-in-an-array/) | Medium |
@@ -362,6 +365,7 @@
 | [1004-max-consecutive-ones-iii](https://github.com/imrajeevnayan/leetcode-solution/tree/main/1004-max-consecutive-ones-iii/) | Medium |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/imrajeevnayan/leetcode-solution/tree/main/1008-construct-binary-search-tree-from-preorder-traversal/) | Medium |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/imrajeevnayan/leetcode-solution/tree/main/1351-count-negative-numbers-in-a-sorted-matrix/) | Easy |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/imrajeevnayan/leetcode-solution/tree/main/1658-minimum-operations-to-reduce-x-to-zero/) | Medium |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/imrajeevnayan/leetcode-solution/tree/main/2529-maximum-count-of-positive-integer-and-negative-integer/) | Easy |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/imrajeevnayan/leetcode-solution/tree/main/2824-count-pairs-whose-sum-is-less-than-target/) | Easy |
 | [2831-find-the-longest-equal-subarray](https://github.com/imrajeevnayan/leetcode-solution/tree/main/2831-find-the-longest-equal-subarray/) | Medium |
@@ -383,6 +387,7 @@
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/imrajeevnayan/leetcode-solution/tree/main/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold/) | Medium |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/imrajeevnayan/leetcode-solution/tree/main/1423-maximum-points-you-can-obtain-from-cards/) | Medium |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/imrajeevnayan/leetcode-solution/tree/main/1456-maximum-number-of-vowels-in-a-substring-of-given-length/) | Medium |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/imrajeevnayan/leetcode-solution/tree/main/1658-minimum-operations-to-reduce-x-to-zero/) | Medium |
 | [2090-k-radius-subarray-averages](https://github.com/imrajeevnayan/leetcode-solution/tree/main/2090-k-radius-subarray-averages/) | Medium |
 | [2379-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/imrajeevnayan/leetcode-solution/tree/main/2379-minimum-recolors-to-get-k-consecutive-black-blocks/) | Easy |
 | [2760-longest-even-odd-subarray-with-threshold](https://github.com/imrajeevnayan/leetcode-solution/tree/main/2760-longest-even-odd-subarray-with-threshold/) | Easy |
