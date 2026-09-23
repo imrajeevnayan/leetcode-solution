@@ -1055,3 +1055,4 @@
 | 144 | [K-diff Pairs in an Array](https://leetcode.com/problems/k-diff-pairs-in-an-array/) | LeetCode | Medium | 21 Sept 2026 | 12:30 am |
 | 145 | [Queue using Stack](https://www.geeksforgeeks.org/problems/queue-using-stack/1) | GeeksForGeeks | Easy | 22 Sept 2026 | 11:48 pm |
 | 146 | [Minimum Additions to Make Valid String](https://leetcode.com/problems/minimum-additions-to-make-valid-string/) | LeetCode | Medium | 23 Sept 2026 | 12:29 am |
+| 147 | [Count Ways with 3 Moves](https://www.geeksforgeeks.org/problems/count-number-of-hops-1587115620/1) | GeeksForGeeks | Easy | 23 Sept 2026 | 09:13 pm |

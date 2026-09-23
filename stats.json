@@ -1090,17 +1090,18 @@
     "GeeksForGeeks_Count_Pairs_with_Sum": true,
     "LeetCode_K-diff_Pairs_in_an_Array": true,
     "GeeksForGeeks_Queue_using_Stack": true,
-    "LeetCode_Minimum_Additions_to_Make_Valid_String": true
+    "LeetCode_Minimum_Additions_to_Make_Valid_String": true,
+    "GeeksForGeeks_Count_Ways_with_3_Moves": true
   },
-  "totalSolved": 618,
+  "totalSolved": 619,
   "difficultyCounts": {
-    "easy": 216,
+    "easy": 217,
     "medium": 257,
     "hard": 13,
     "basic": 132
   },
   "currentStreak": 7,
-  "todayCount": 1,
+  "todayCount": 2,
   "lastSyncDate": "2026-09-23",
   "maxStreak": 25,
   "activityHistory": {
@@ -1211,7 +1212,7 @@
     "2026-09-20": 3,
     "2026-09-21": 1,
     "2026-09-22": 1,
-    "2026-09-23": 1
+    "2026-09-23": 2
   },
   "todayProblems": [
     "Most Frequent Character",
@@ -1826,6 +1827,7 @@
     "Count Pairs with Sum",
     "K-diff Pairs in an Array",
     "Queue using Stack",
-    "Minimum Additions to Make Valid String"
+    "Minimum Additions to Make Valid String",
+    "Count Ways with 3 Moves"
   ]
 }
