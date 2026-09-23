@@ -5,7 +5,8 @@ class Solution {
         return  dp[i]=cost[i] + Math.min( solve(i + 1, cost,dp), solve(i + 2, cost,dp) );
     }
     public int minCostClimbingStairs(int[] cost) {
-        int dp[]=new int[cost.length];Arrays.fill(dp,-1);
+        int dp[]=new int[cost.length];
+        Arrays.fill(dp,-1);
         return Math.min( solve(0, cost,dp),solve(1, cost,dp));
     }
 }
