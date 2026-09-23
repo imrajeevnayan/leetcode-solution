@@ -1,18 +1,29 @@
 class Solution {
-    private int[] memo;
-    public int rob(int[] nums) {
-        memo = new int[nums.length];
-        Arrays.fill(memo, -1);                 // ⬅️ Line 1
-        return solve(nums, 0);                 // pehle ghar se shuru
+    public int amount(int[] nums, int i, int[] dp) {
+        // Base Case: Agar index array se bahar chala gaya, toh 0 return karo
+        if (i >= nums.length) return 0;
+        
+        // Memoization Step: Agar pehle se calculate hai, toh direct return karo
+        if (dp[i] != -1) return dp[i];
+        
+        // Choice 1: Current house loot lo, aur agle adjacent ko skip karke i+2 pe jao
+        int take = nums[i] + amount(nums, i + 2, dp);
+        
+        // Choice 2: Current house skip karo, aur seedha next house i+1 pe jao
+        int skip = amount(nums, i + 1, dp); // '0 +' likhne ki zaroorat nahi hai
+        
+        // Max value ko dp mein store karo aur return karo
+        return dp[i] = Math.max(take, skip);
     }
-        private int solve(int[] nums, int i) {
-        if (i >= nums.length) return 0;        // ⚠️ BASE — sabse pehle!
+
+    public int rob(int[] nums) {
+        // Edge case handle karna acchi practice hai
+        if (nums == null || nums.length == 0) return 0;
         
-        if (memo[i] != -1) return memo[i];     
+        int[] dp = new int[nums.length];
+        Arrays.fill(dp, -1);
         
-        int take = nums[i] + solve(nums, i + 2);  // LOOTO i → i+1 PE ALARM! i+2 pe jao
-        int skip = solve(nums, i + 1);             // CHHODO i → aage chalo
-        
-        return memo[i] = Math.max(take, skip);    //  (store + return ek saath!)
+        // Start from index 0
+        return amount(nums, 0, dp);
     }
 }
