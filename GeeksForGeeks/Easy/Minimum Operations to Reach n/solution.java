@@ -1,0 +1,32 @@
+class Solution {
+    public int minOperation(int n) {
+        // Edge Case
+        if (n == 0) return 0;
+
+        // Step 1: DP array banayo size n+1
+        // dp[i] will store min operations to reach 'i' from '0'
+        int[] dp = new int[n + 1];
+
+        // Step 2: Base Case set karo
+        dp[0] = 0; 
+
+        // Step 3: Loop chalao 1 se lekar n tak
+        for (int i = 1; i <= n; i++) {
+
+            // Default Assumption: Hum pichle number (i-1) se '+1' operation karke aaye hain.
+            // Toh cost hogi: dp[i-1] + 1
+            dp[i] = dp[i - 1] + 1;
+
+            // Optimization Check: Agar current number 'i' EVEN hai, 
+            // toh shayad humne usse 'i/2' se '*2' operation karke paya ho.
+            if (i % 2 == 0) {
+                // Compare existing cost with the cost of coming from half
+                // Cost via doubling: dp[i/2] + 1
+                dp[i] = Math.min(dp[i], dp[i / 2] + 1);
+            }
+        }
+
+        // Final answer is stored in dp[n]
+        return dp[n];
+    }
+}
