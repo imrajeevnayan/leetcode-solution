@@ -1,0 +1,22 @@
+class Solution {
+    int maxSum = Integer.MIN_VALUE;
+    public int maxPathSum(TreeNode root) {
+        dfs(root);
+        return maxSum;
+    }
+    private int dfs(TreeNode node) {
+        if (node == null) return 0;
+
+        // Left aur Right se gain lao (negative ho toh 0 le lo)
+        int leftGain = Math.max(dfs(node.left), 0);
+        int rightGain = Math.max(dfs(node.right), 0);
+
+        // Current node ko peak maankar total sum calculate karo
+        // Ye global answer ko update karne ke liye hai
+        int priceNewpath = node.val + leftGain + rightGain;
+        maxSum = Math.max(maxSum, priceNewpath);
+
+        // Parent ko report karo: Sirf ek side (left YA right) choose kar sakte ho
+        return node.val + Math.max(leftGain, rightGain);
+    }
+}
