@@ -1,0 +1,33 @@
+import java.util.*;
+
+public class Main {
+    public static void main(String[] args) {
+        Scanner sc = new Scanner(System.in);
+        int n = sc.nextInt();
+        int[] a = new int[n];
+        for (int i = 0; i < n; i++) a[i] = sc.nextInt();
+
+        // Precompute powers of 2 up to 2^30 (> 2 * 10^9)
+        long[] powers = new long[31];
+        for (int i = 0; i <= 30; i++) powers[i] = 1L << i;
+
+        Map<Integer, Integer> freq = new HashMap<>();
+        long count = 0;
+
+        for (int num : a) {
+            // Check against ALL 31 powers
+            for (long power : powers) {
+                long complement = power - num;
+
+                // Skip if complement out of valid range
+                if (complement < 1 || complement > 1_000_000_000L) continue;
+
+                count += freq.getOrDefault((int) complement, 0);
+            }
+
+        freq.merge(num, 1, Integer::sum);
+    }
+
+System.out.println(count);
+}
+}
