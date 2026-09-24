@@ -1057,3 +1057,4 @@
 | 146 | [Minimum Additions to Make Valid String](https://leetcode.com/problems/minimum-additions-to-make-valid-string/) | LeetCode | Medium | 23 Sept 2026 | 12:29 am |
 | 147 | [Count Ways with 3 Moves](https://www.geeksforgeeks.org/problems/count-number-of-hops-1587115620/1) | GeeksForGeeks | Easy | 23 Sept 2026 | 09:13 pm |
 | 148 | [Minimum Operations to Reach n](https://www.geeksforgeeks.org/problems/find-optimum-operation4504/1) | GeeksForGeeks | Easy | 23 Sept 2026 | 09:27 pm |
+| 149 | [318A - Even Odds](https://codeforces.com/problemset/problem/318/A) | Codeforces | basic | 24 Sept 2026 | 09:44 am |
