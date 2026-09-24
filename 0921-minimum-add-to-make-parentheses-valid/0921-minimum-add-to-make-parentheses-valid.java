@@ -1,13 +1,13 @@
 class Solution {
     public int minAddToMakeValid(String s) {
-        int openCount=0, closeCount=0;
+        int open=0, close=0;
         for(char c:s.toCharArray()){
-            if(c=='(') openCount++;
+            if(c=='(') open++;
             else{
-                if(openCount >0) openCount--;
-                else closeCount++;
+                if(open >0) open--;
+                else close++;
             }
         }
-        return openCount+closeCount;
+        return open+close;
     }
 }
