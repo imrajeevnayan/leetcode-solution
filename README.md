@@ -485,6 +485,7 @@
 | [1844-replace-all-digits-with-characters](https://github.com/imrajeevnayan/leetcode-solution/tree/main/1844-replace-all-digits-with-characters/) | Easy |
 | [1927-sum-game](https://github.com/imrajeevnayan/leetcode-solution/tree/main/1927-sum-game/) | Medium |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/imrajeevnayan/leetcode-solution/tree/main/1967-number-of-strings-that-appear-as-substrings-in-word/) | Easy |
+| [2129-capitalize-the-title](https://github.com/imrajeevnayan/leetcode-solution/tree/main/2129-capitalize-the-title/) | Easy |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/imrajeevnayan/leetcode-solution/tree/main/2213-longest-substring-of-one-repeating-character/) | Hard |
 | [2325-decode-the-message](https://github.com/imrajeevnayan/leetcode-solution/tree/main/2325-decode-the-message/) | Easy |
 | [2379-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/imrajeevnayan/leetcode-solution/tree/main/2379-minimum-recolors-to-get-k-consecutive-black-blocks/) | Easy |
