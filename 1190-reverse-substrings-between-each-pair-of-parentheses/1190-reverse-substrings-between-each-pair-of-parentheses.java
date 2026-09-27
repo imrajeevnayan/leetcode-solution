@@ -1,31 +1,34 @@
 class Solution {
     public String reverseParentheses(String s) {
-        Stack<Character> stack = new Stack<>();
-        
-        for (char c : s.toCharArray()) {
-            if (c == ')') {
-                // Collect characters until '('
-                StringBuilder sb = new StringBuilder();
-                while (!stack.isEmpty() && stack.peek() != '(') {
-                    sb.append(stack.pop());
-                }
-                // Remove '('
-                stack.pop();
-                // Push reversed substring back
-                for (char ch : sb.toString().toCharArray()) {
-                    stack.push(ch);
-                }
-            } else {
-                stack.push(c);
+
+        Stack<String> stack = new Stack<>();
+        StringBuilder current = new StringBuilder();
+
+        for (char ch : s.toCharArray()) {
+
+            if (ch == '(') {
+                // Current string ko save karo
+                stack.push(current.toString());
+
+                // Naya substring start karo
+                current = new StringBuilder();
+
+            } 
+            else if (ch == ')') {
+                // Current substring reverse karo
+                current.reverse();
+
+                // Previous string ke saath jodo
+                String previous = stack.pop();
+
+                current = new StringBuilder(previous + current);
+            } 
+            else {
+                // Normal character
+                current.append(ch);
             }
         }
-        
-        // Build final result
-        StringBuilder result = new StringBuilder();
-        for (char c : stack) {
-            result.append(c);
-        }
-        
-        return result.toString();
+
+        return current.toString();
     }
 }
