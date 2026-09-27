@@ -284,6 +284,7 @@
 | [1021-remove-outermost-parentheses](https://github.com/imrajeevnayan/leetcode-solution/tree/main/1021-remove-outermost-parentheses/) | Easy |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/imrajeevnayan/leetcode-solution/tree/main/1047-remove-all-adjacent-duplicates-in-string/) | Easy |
 | [1096-brace-expansion-ii](https://github.com/imrajeevnayan/leetcode-solution/tree/main/1096-brace-expansion-ii/) | Hard |
+| [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/imrajeevnayan/leetcode-solution/tree/main/1190-reverse-substrings-between-each-pair-of-parentheses/) | Medium |
 | [1249-minimum-remove-to-make-valid-parentheses](https://github.com/imrajeevnayan/leetcode-solution/tree/main/1249-minimum-remove-to-make-valid-parentheses/) | Medium |
 | [1441-build-an-array-with-stack-operations](https://github.com/imrajeevnayan/leetcode-solution/tree/main/1441-build-an-array-with-stack-operations/) | Medium |
 | [1472-design-browser-history](https://github.com/imrajeevnayan/leetcode-solution/tree/main/1472-design-browser-history/) | Medium |
@@ -473,6 +474,7 @@
 | [1021-remove-outermost-parentheses](https://github.com/imrajeevnayan/leetcode-solution/tree/main/1021-remove-outermost-parentheses/) | Easy |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/imrajeevnayan/leetcode-solution/tree/main/1047-remove-all-adjacent-duplicates-in-string/) | Easy |
 | [1096-brace-expansion-ii](https://github.com/imrajeevnayan/leetcode-solution/tree/main/1096-brace-expansion-ii/) | Hard |
+| [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/imrajeevnayan/leetcode-solution/tree/main/1190-reverse-substrings-between-each-pair-of-parentheses/) | Medium |
 | [1221-split-a-string-in-balanced-strings](https://github.com/imrajeevnayan/leetcode-solution/tree/main/1221-split-a-string-in-balanced-strings/) | Easy |
 | [1249-minimum-remove-to-make-valid-parentheses](https://github.com/imrajeevnayan/leetcode-solution/tree/main/1249-minimum-remove-to-make-valid-parentheses/) | Medium |
 | [1347-minimum-number-of-steps-to-make-two-strings-anagram](https://github.com/imrajeevnayan/leetcode-solution/tree/main/1347-minimum-number-of-steps-to-make-two-strings-anagram/) | Medium |
@@ -716,6 +718,7 @@
 | [0032-longest-valid-parentheses](https://github.com/imrajeevnayan/leetcode-solution/tree/main/0032-longest-valid-parentheses/) | Hard |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/imrajeevnayan/leetcode-solution/tree/main/0921-minimum-add-to-make-parentheses-valid/) | Medium |
 | [1021-remove-outermost-parentheses](https://github.com/imrajeevnayan/leetcode-solution/tree/main/1021-remove-outermost-parentheses/) | Easy |
+| [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/imrajeevnayan/leetcode-solution/tree/main/1190-reverse-substrings-between-each-pair-of-parentheses/) | Medium |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/imrajeevnayan/leetcode-solution/tree/main/1614-maximum-nesting-depth-of-the-parentheses/) | Easy |
 ## Queue
 | Problem Name | Difficulty |
