@@ -6,7 +6,6 @@ class Solution {
             xor ^= i;
             xor ^= nums[i];
         }
-
         return xor;
     }
 }
