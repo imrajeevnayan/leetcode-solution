@@ -10,9 +10,7 @@ public class Solution {
 
         // List B mein same node dhundo
         while (headB != null) {
-            if (set.contains(headB)) {
-                return headB;
-            }
+            if (set.contains(headB)) return headB;
             headB = headB.next;
         }
         return null;
