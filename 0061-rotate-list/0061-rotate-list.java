@@ -1,7 +1,10 @@
 class Solution {
     public ListNode rotateRight(ListNode head, int k) {
-        if (head == null || head.next == null || k == 0) return head;
-        // Step 1: Find length and tail
+        if (head == null || head.next == null || k == 0) {
+            return head;
+        }
+
+        // Find length and last node
         int n = 1;
         ListNode tail = head;
 
@@ -9,24 +12,29 @@ class Solution {
             tail = tail.next;
             n++;
         }
-        // Step 2: Reduce unnecessary rotations
+
+        // Avoid unnecessary rotations
         k = k % n;
-        if (k == 0) return head;
-        // Step 3: Make the list circular
+
+        if (k == 0) {
+            return head;
+        }
+
+        // Make the list circular
         tail.next = head;
 
-        // Step 4: Find new tail
+        // Find new tail
         int steps = n - k;
-
         ListNode newTail = head;
 
         for (int i = 1; i < steps; i++) {
             newTail = newTail.next;
         }
-        // Step 5: New head
+
+        // New head is next of new tail
         ListNode newHead = newTail.next;
 
-        // Step 6: Break the circle
+        // Break the circle
         newTail.next = null;
 
         return newHead;
