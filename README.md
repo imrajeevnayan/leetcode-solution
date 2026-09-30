@@ -454,6 +454,7 @@
 | [0225-implement-stack-using-queues](https://github.com/imrajeevnayan/leetcode-solution/tree/main/0225-implement-stack-using-queues/) | Easy |
 | [0303-range-sum-query-immutable](https://github.com/imrajeevnayan/leetcode-solution/tree/main/0303-range-sum-query-immutable/) | Easy |
 | [0535-encode-and-decode-tinyurl](https://github.com/imrajeevnayan/leetcode-solution/tree/main/0535-encode-and-decode-tinyurl/) | Medium |
+| [0707-design-linked-list](https://github.com/imrajeevnayan/leetcode-solution/tree/main/0707-design-linked-list/) | Medium |
 | [0729-my-calendar-i](https://github.com/imrajeevnayan/leetcode-solution/tree/main/0729-my-calendar-i/) | Medium |
 | [0901-online-stock-span](https://github.com/imrajeevnayan/leetcode-solution/tree/main/0901-online-stock-span/) | Medium |
 | [0981-time-based-key-value-store](https://github.com/imrajeevnayan/leetcode-solution/tree/main/0981-time-based-key-value-store/) | Medium |
@@ -717,6 +718,7 @@
 | [0206-reverse-linked-list](https://github.com/imrajeevnayan/leetcode-solution/tree/main/0206-reverse-linked-list/) | Easy |
 | [0234-palindrome-linked-list](https://github.com/imrajeevnayan/leetcode-solution/tree/main/0234-palindrome-linked-list/) | Easy |
 | [0328-odd-even-linked-list](https://github.com/imrajeevnayan/leetcode-solution/tree/main/0328-odd-even-linked-list/) | Medium |
+| [0707-design-linked-list](https://github.com/imrajeevnayan/leetcode-solution/tree/main/0707-design-linked-list/) | Medium |
 | [0876-middle-of-the-linked-list](https://github.com/imrajeevnayan/leetcode-solution/tree/main/0876-middle-of-the-linked-list/) | Easy |
 | [1472-design-browser-history](https://github.com/imrajeevnayan/leetcode-solution/tree/main/1472-design-browser-history/) | Medium |
 | [1669-merge-in-between-linked-lists](https://github.com/imrajeevnayan/leetcode-solution/tree/main/1669-merge-in-between-linked-lists/) | Medium |
