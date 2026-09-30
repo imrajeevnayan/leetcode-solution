@@ -319,6 +319,7 @@
 | [0257-binary-tree-paths](https://github.com/imrajeevnayan/leetcode-solution/tree/main/0257-binary-tree-paths/) | Easy |
 | [0337-house-robber-iii](https://github.com/imrajeevnayan/leetcode-solution/tree/main/0337-house-robber-iii/) | Medium |
 | [0543-diameter-of-binary-tree](https://github.com/imrajeevnayan/leetcode-solution/tree/main/0543-diameter-of-binary-tree/) | Easy |
+| [0559-maximum-depth-of-n-ary-tree](https://github.com/imrajeevnayan/leetcode-solution/tree/main/0559-maximum-depth-of-n-ary-tree/) | Easy |
 | [0617-merge-two-binary-trees](https://github.com/imrajeevnayan/leetcode-solution/tree/main/0617-merge-two-binary-trees/) | Easy |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/imrajeevnayan/leetcode-solution/tree/main/0653-two-sum-iv-input-is-a-bst/) | Easy |
 | [0654-maximum-binary-tree](https://github.com/imrajeevnayan/leetcode-solution/tree/main/0654-maximum-binary-tree/) | Medium |
@@ -816,6 +817,7 @@
 | [0337-house-robber-iii](https://github.com/imrajeevnayan/leetcode-solution/tree/main/0337-house-robber-iii/) | Medium |
 | [0543-diameter-of-binary-tree](https://github.com/imrajeevnayan/leetcode-solution/tree/main/0543-diameter-of-binary-tree/) | Easy |
 | [0547-number-of-provinces](https://github.com/imrajeevnayan/leetcode-solution/tree/main/0547-number-of-provinces/) | Medium |
+| [0559-maximum-depth-of-n-ary-tree](https://github.com/imrajeevnayan/leetcode-solution/tree/main/0559-maximum-depth-of-n-ary-tree/) | Easy |
 | [0617-merge-two-binary-trees](https://github.com/imrajeevnayan/leetcode-solution/tree/main/0617-merge-two-binary-trees/) | Easy |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/imrajeevnayan/leetcode-solution/tree/main/0653-two-sum-iv-input-is-a-bst/) | Easy |
 | [0684-redundant-connection](https://github.com/imrajeevnayan/leetcode-solution/tree/main/0684-redundant-connection/) | Medium |
@@ -836,6 +838,7 @@
 | [0226-invert-binary-tree](https://github.com/imrajeevnayan/leetcode-solution/tree/main/0226-invert-binary-tree/) | Easy |
 | [0301-remove-invalid-parentheses](https://github.com/imrajeevnayan/leetcode-solution/tree/main/0301-remove-invalid-parentheses/) | Hard |
 | [0547-number-of-provinces](https://github.com/imrajeevnayan/leetcode-solution/tree/main/0547-number-of-provinces/) | Medium |
+| [0559-maximum-depth-of-n-ary-tree](https://github.com/imrajeevnayan/leetcode-solution/tree/main/0559-maximum-depth-of-n-ary-tree/) | Easy |
 | [0617-merge-two-binary-trees](https://github.com/imrajeevnayan/leetcode-solution/tree/main/0617-merge-two-binary-trees/) | Easy |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/imrajeevnayan/leetcode-solution/tree/main/0653-two-sum-iv-input-is-a-bst/) | Easy |
 | [0684-redundant-connection](https://github.com/imrajeevnayan/leetcode-solution/tree/main/0684-redundant-connection/) | Medium |
