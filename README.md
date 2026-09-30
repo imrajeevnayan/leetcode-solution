@@ -150,6 +150,7 @@
 | [0477-total-hamming-distance](https://github.com/imrajeevnayan/leetcode-solution/tree/main/0477-total-hamming-distance/) | Medium |
 | [1310-xor-queries-of-a-subarray](https://github.com/imrajeevnayan/leetcode-solution/tree/main/1310-xor-queries-of-a-subarray/) | Medium |
 | [1386-cinema-seat-allocation](https://github.com/imrajeevnayan/leetcode-solution/tree/main/1386-cinema-seat-allocation/) | Medium |
+| [1611-minimum-one-bit-operations-to-make-integers-zero](https://github.com/imrajeevnayan/leetcode-solution/tree/main/1611-minimum-one-bit-operations-to-make-integers-zero/) | Hard |
 | [1829-maximum-xor-for-each-query](https://github.com/imrajeevnayan/leetcode-solution/tree/main/1829-maximum-xor-for-each-query/) | Medium |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/imrajeevnayan/leetcode-solution/tree/main/1863-sum-of-all-subset-xor-totals/) | Easy |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/imrajeevnayan/leetcode-solution/tree/main/2657-find-the-prefix-common-array-of-two-arrays/) | Medium |
@@ -558,6 +559,7 @@
 | [1175-prime-arrangements](https://github.com/imrajeevnayan/leetcode-solution/tree/main/1175-prime-arrangements/) | Easy |
 | [1323-maximum-69-number](https://github.com/imrajeevnayan/leetcode-solution/tree/main/1323-maximum-69-number/) | Easy |
 | [1563-stone-game-v](https://github.com/imrajeevnayan/leetcode-solution/tree/main/1563-stone-game-v/) | Hard |
+| [1611-minimum-one-bit-operations-to-make-integers-zero](https://github.com/imrajeevnayan/leetcode-solution/tree/main/1611-minimum-one-bit-operations-to-make-integers-zero/) | Hard |
 | [1814-count-nice-pairs-in-an-array](https://github.com/imrajeevnayan/leetcode-solution/tree/main/1814-count-nice-pairs-in-an-array/) | Medium |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/imrajeevnayan/leetcode-solution/tree/main/1863-sum-of-all-subset-xor-totals/) | Easy |
 | [1872-stone-game-viii](https://github.com/imrajeevnayan/leetcode-solution/tree/main/1872-stone-game-viii/) | Hard |
@@ -593,6 +595,7 @@
 | [0918-maximum-sum-circular-subarray](https://github.com/imrajeevnayan/leetcode-solution/tree/main/0918-maximum-sum-circular-subarray/) | Medium |
 | [1137-n-th-tribonacci-number](https://github.com/imrajeevnayan/leetcode-solution/tree/main/1137-n-th-tribonacci-number/) | Easy |
 | [1563-stone-game-v](https://github.com/imrajeevnayan/leetcode-solution/tree/main/1563-stone-game-v/) | Hard |
+| [1611-minimum-one-bit-operations-to-make-integers-zero](https://github.com/imrajeevnayan/leetcode-solution/tree/main/1611-minimum-one-bit-operations-to-make-integers-zero/) | Hard |
 | [1872-stone-game-viii](https://github.com/imrajeevnayan/leetcode-solution/tree/main/1872-stone-game-viii/) | Hard |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/imrajeevnayan/leetcode-solution/tree/main/2267-check-if-there-is-a-valid-parentheses-string-path/) | Hard |
 | [3524-find-x-value-of-array-i](https://github.com/imrajeevnayan/leetcode-solution/tree/main/3524-find-x-value-of-array-i/) | Medium |
@@ -735,6 +738,7 @@
 | [0234-palindrome-linked-list](https://github.com/imrajeevnayan/leetcode-solution/tree/main/0234-palindrome-linked-list/) | Easy |
 | [0394-decode-string](https://github.com/imrajeevnayan/leetcode-solution/tree/main/0394-decode-string/) | Medium |
 | [0509-fibonacci-number](https://github.com/imrajeevnayan/leetcode-solution/tree/main/0509-fibonacci-number/) | Easy |
+| [1611-minimum-one-bit-operations-to-make-integers-zero](https://github.com/imrajeevnayan/leetcode-solution/tree/main/1611-minimum-one-bit-operations-to-make-integers-zero/) | Hard |
 | [2094-finding-3-digit-even-numbers](https://github.com/imrajeevnayan/leetcode-solution/tree/main/2094-finding-3-digit-even-numbers/) | Easy |
 | [3483-unique-3-digit-even-numbers](https://github.com/imrajeevnayan/leetcode-solution/tree/main/3483-unique-3-digit-even-numbers/) | Easy |
 ## Floyd's Cycle Finding Algorithm
@@ -916,6 +920,7 @@
 | [0070-climbing-stairs](https://github.com/imrajeevnayan/leetcode-solution/tree/main/0070-climbing-stairs/) | Easy |
 | [0509-fibonacci-number](https://github.com/imrajeevnayan/leetcode-solution/tree/main/0509-fibonacci-number/) | Easy |
 | [1137-n-th-tribonacci-number](https://github.com/imrajeevnayan/leetcode-solution/tree/main/1137-n-th-tribonacci-number/) | Easy |
+| [1611-minimum-one-bit-operations-to-make-integers-zero](https://github.com/imrajeevnayan/leetcode-solution/tree/main/1611-minimum-one-bit-operations-to-make-integers-zero/) | Hard |
 ## DP on Trees
 | Problem Name | Difficulty |
 | ------- | ------- |
