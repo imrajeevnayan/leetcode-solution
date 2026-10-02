@@ -472,6 +472,7 @@
 | [0003-longest-substring-without-repeating-characters](https://github.com/imrajeevnayan/leetcode-solution/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
 | [0014-longest-common-prefix](https://github.com/imrajeevnayan/leetcode-solution/tree/main/0014-longest-common-prefix/) | Easy |
 | [0020-valid-parentheses](https://github.com/imrajeevnayan/leetcode-solution/tree/main/0020-valid-parentheses/) | Easy |
+| [0022-generate-parentheses](https://github.com/imrajeevnayan/leetcode-solution/tree/main/0022-generate-parentheses/) | Medium |
 | [0032-longest-valid-parentheses](https://github.com/imrajeevnayan/leetcode-solution/tree/main/0032-longest-valid-parentheses/) | Hard |
 | [0043-multiply-strings](https://github.com/imrajeevnayan/leetcode-solution/tree/main/0043-multiply-strings/) | Medium |
 | [0049-group-anagrams](https://github.com/imrajeevnayan/leetcode-solution/tree/main/0049-group-anagrams/) | Medium |
@@ -577,6 +578,7 @@
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0022-generate-parentheses](https://github.com/imrajeevnayan/leetcode-solution/tree/main/0022-generate-parentheses/) | Medium |
 | [0032-longest-valid-parentheses](https://github.com/imrajeevnayan/leetcode-solution/tree/main/0032-longest-valid-parentheses/) | Hard |
 | [0053-maximum-subarray](https://github.com/imrajeevnayan/leetcode-solution/tree/main/0053-maximum-subarray/) | Medium |
 | [0062-unique-paths](https://github.com/imrajeevnayan/leetcode-solution/tree/main/0062-unique-paths/) | Medium |
@@ -756,6 +758,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0020-valid-parentheses](https://github.com/imrajeevnayan/leetcode-solution/tree/main/0020-valid-parentheses/) | Easy |
+| [0022-generate-parentheses](https://github.com/imrajeevnayan/leetcode-solution/tree/main/0022-generate-parentheses/) | Medium |
 | [0032-longest-valid-parentheses](https://github.com/imrajeevnayan/leetcode-solution/tree/main/0032-longest-valid-parentheses/) | Hard |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/imrajeevnayan/leetcode-solution/tree/main/0921-minimum-add-to-make-parentheses-valid/) | Medium |
 | [1021-remove-outermost-parentheses](https://github.com/imrajeevnayan/leetcode-solution/tree/main/1021-remove-outermost-parentheses/) | Easy |
@@ -810,6 +813,7 @@
 ## Backtracking
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0022-generate-parentheses](https://github.com/imrajeevnayan/leetcode-solution/tree/main/0022-generate-parentheses/) | Medium |
 | [0257-binary-tree-paths](https://github.com/imrajeevnayan/leetcode-solution/tree/main/0257-binary-tree-paths/) | Easy |
 | [0301-remove-invalid-parentheses](https://github.com/imrajeevnayan/leetcode-solution/tree/main/0301-remove-invalid-parentheses/) | Hard |
 | [0797-all-paths-from-source-to-target](https://github.com/imrajeevnayan/leetcode-solution/tree/main/0797-all-paths-from-source-to-target/) | Medium |
