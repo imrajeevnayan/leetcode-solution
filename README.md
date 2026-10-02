@@ -513,6 +513,7 @@
 | [1249-minimum-remove-to-make-valid-parentheses](https://github.com/imrajeevnayan/leetcode-solution/tree/main/1249-minimum-remove-to-make-valid-parentheses/) | Medium |
 | [1297-maximum-number-of-occurrences-of-a-substring](https://github.com/imrajeevnayan/leetcode-solution/tree/main/1297-maximum-number-of-occurrences-of-a-substring/) | Medium |
 | [1347-minimum-number-of-steps-to-make-two-strings-anagram](https://github.com/imrajeevnayan/leetcode-solution/tree/main/1347-minimum-number-of-steps-to-make-two-strings-anagram/) | Medium |
+| [1374-generate-a-string-with-characters-that-have-odd-counts](https://github.com/imrajeevnayan/leetcode-solution/tree/main/1374-generate-a-string-with-characters-that-have-odd-counts/) | Easy |
 | [1446-consecutive-characters](https://github.com/imrajeevnayan/leetcode-solution/tree/main/1446-consecutive-characters/) | Easy |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/imrajeevnayan/leetcode-solution/tree/main/1456-maximum-number-of-vowels-in-a-substring-of-given-length/) | Medium |
 | [1528-shuffle-string](https://github.com/imrajeevnayan/leetcode-solution/tree/main/1528-shuffle-string/) | Easy |
