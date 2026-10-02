@@ -495,6 +495,7 @@
 | [0345-reverse-vowels-of-a-string](https://github.com/imrajeevnayan/leetcode-solution/tree/main/0345-reverse-vowels-of-a-string/) | Easy |
 | [0383-ransom-note](https://github.com/imrajeevnayan/leetcode-solution/tree/main/0383-ransom-note/) | Easy |
 | [0394-decode-string](https://github.com/imrajeevnayan/leetcode-solution/tree/main/0394-decode-string/) | Medium |
+| [0434-number-of-segments-in-a-string](https://github.com/imrajeevnayan/leetcode-solution/tree/main/0434-number-of-segments-in-a-string/) | Easy |
 | [0474-ones-and-zeroes](https://github.com/imrajeevnayan/leetcode-solution/tree/main/0474-ones-and-zeroes/) | Medium |
 | [0535-encode-and-decode-tinyurl](https://github.com/imrajeevnayan/leetcode-solution/tree/main/0535-encode-and-decode-tinyurl/) | Medium |
 | [0648-replace-words](https://github.com/imrajeevnayan/leetcode-solution/tree/main/0648-replace-words/) | Medium |
