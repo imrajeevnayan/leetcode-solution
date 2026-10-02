@@ -498,6 +498,7 @@
 | [0434-number-of-segments-in-a-string](https://github.com/imrajeevnayan/leetcode-solution/tree/main/0434-number-of-segments-in-a-string/) | Easy |
 | [0474-ones-and-zeroes](https://github.com/imrajeevnayan/leetcode-solution/tree/main/0474-ones-and-zeroes/) | Medium |
 | [0535-encode-and-decode-tinyurl](https://github.com/imrajeevnayan/leetcode-solution/tree/main/0535-encode-and-decode-tinyurl/) | Medium |
+| [0551-student-attendance-record-i](https://github.com/imrajeevnayan/leetcode-solution/tree/main/0551-student-attendance-record-i/) | Easy |
 | [0648-replace-words](https://github.com/imrajeevnayan/leetcode-solution/tree/main/0648-replace-words/) | Medium |
 | [0680-valid-palindrome-ii](https://github.com/imrajeevnayan/leetcode-solution/tree/main/0680-valid-palindrome-ii/) | Easy |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/imrajeevnayan/leetcode-solution/tree/main/0921-minimum-add-to-make-parentheses-valid/) | Medium |
