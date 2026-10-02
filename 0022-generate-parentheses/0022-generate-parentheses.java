@@ -1,19 +1,29 @@
 class Solution {
     public List<String> generateParenthesis(int n) {
-        List<String> ans = new ArrayList<>();
-        backtrack(ans, "", 0, 0, n);
-        return ans;
+        List<String> result = new ArrayList<>();
+        backtrack(result, new StringBuilder(), 0, 0, n);
+        return result;
     }
-    private void backtrack(List<String> ans, String curr, int open, int close, int n) {
-        if (curr.length() == 2 * n) {
-            ans.add(curr);
+    
+    private void backtrack(List<String> result, StringBuilder current, int open, int close, int max) {
+        // Base Case: Valid combination complete ho gayi
+        if (current.length() == max * 2) {
+            result.add(current.toString());
             return;
         }
-        if (open < n) {
-            backtrack(ans, curr + "(", open + 1, close, n);
+        
+        // Rule 1: '(' tabhi lagao jab count < n ho
+        if (open < max) {
+            current.append('(');
+            backtrack(result, current, open + 1, close, max);
+            current.deleteCharAt(current.length() - 1); // Backtrack (undo)
         }
+        
+        // Rule 2: ')' tabhi lagao jab close < open ho (balance maintain karne ke liye)
         if (close < open) {
-            backtrack(ans, curr + ")", open, close + 1, n);
+            current.append(')');
+            backtrack(result, current, open, close + 1, max);
+            current.deleteCharAt(current.length() - 1); // Backtrack (undo)
         }
     }
 }
