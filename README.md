@@ -104,6 +104,7 @@
 | [1920-build-array-from-permutation](https://github.com/imrajeevnayan/leetcode-solution/tree/main/1920-build-array-from-permutation/) | Easy |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/imrajeevnayan/leetcode-solution/tree/main/1967-number-of-strings-that-appear-as-substrings-in-word/) | Easy |
 | [1991-find-the-middle-index-in-array](https://github.com/imrajeevnayan/leetcode-solution/tree/main/1991-find-the-middle-index-in-array/) | Easy |
+| [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/imrajeevnayan/leetcode-solution/tree/main/2006-count-number-of-pairs-with-absolute-difference-k/) | Easy |
 | [2037-minimum-number-of-moves-to-seat-everyone](https://github.com/imrajeevnayan/leetcode-solution/tree/main/2037-minimum-number-of-moves-to-seat-everyone/) | Easy |
 | [2090-k-radius-subarray-averages](https://github.com/imrajeevnayan/leetcode-solution/tree/main/2090-k-radius-subarray-averages/) | Medium |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/imrajeevnayan/leetcode-solution/tree/main/2091-removing-minimum-and-maximum-from-array/) | Medium |
@@ -229,6 +230,7 @@
 | [1679-max-number-of-k-sum-pairs](https://github.com/imrajeevnayan/leetcode-solution/tree/main/1679-max-number-of-k-sum-pairs/) | Medium |
 | [1726-tuple-with-same-product](https://github.com/imrajeevnayan/leetcode-solution/tree/main/1726-tuple-with-same-product/) | Medium |
 | [1814-count-nice-pairs-in-an-array](https://github.com/imrajeevnayan/leetcode-solution/tree/main/1814-count-nice-pairs-in-an-array/) | Medium |
+| [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/imrajeevnayan/leetcode-solution/tree/main/2006-count-number-of-pairs-with-absolute-difference-k/) | Easy |
 | [2094-finding-3-digit-even-numbers](https://github.com/imrajeevnayan/leetcode-solution/tree/main/2094-finding-3-digit-even-numbers/) | Easy |
 | [2325-decode-the-message](https://github.com/imrajeevnayan/leetcode-solution/tree/main/2325-decode-the-message/) | Easy |
 | [2395-find-subarrays-with-equal-sum](https://github.com/imrajeevnayan/leetcode-solution/tree/main/2395-find-subarrays-with-equal-sum/) | Easy |
@@ -657,6 +659,7 @@
 | [1603-design-parking-system](https://github.com/imrajeevnayan/leetcode-solution/tree/main/1603-design-parking-system/) | Easy |
 | [1726-tuple-with-same-product](https://github.com/imrajeevnayan/leetcode-solution/tree/main/1726-tuple-with-same-product/) | Medium |
 | [1814-count-nice-pairs-in-an-array](https://github.com/imrajeevnayan/leetcode-solution/tree/main/1814-count-nice-pairs-in-an-array/) | Medium |
+| [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/imrajeevnayan/leetcode-solution/tree/main/2006-count-number-of-pairs-with-absolute-difference-k/) | Easy |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/imrajeevnayan/leetcode-solution/tree/main/2529-maximum-count-of-positive-integer-and-negative-integer/) | Easy |
 | [3005-count-elements-with-maximum-frequency](https://github.com/imrajeevnayan/leetcode-solution/tree/main/3005-count-elements-with-maximum-frequency/) | Easy |
 | [3467-transform-array-by-parity](https://github.com/imrajeevnayan/leetcode-solution/tree/main/3467-transform-array-by-parity/) | Easy |
