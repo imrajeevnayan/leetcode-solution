@@ -101,6 +101,7 @@
 | [1829-maximum-xor-for-each-query](https://github.com/imrajeevnayan/leetcode-solution/tree/main/1829-maximum-xor-for-each-query/) | Medium |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/imrajeevnayan/leetcode-solution/tree/main/1863-sum-of-all-subset-xor-totals/) | Easy |
 | [1872-stone-game-viii](https://github.com/imrajeevnayan/leetcode-solution/tree/main/1872-stone-game-viii/) | Hard |
+| [1920-build-array-from-permutation](https://github.com/imrajeevnayan/leetcode-solution/tree/main/1920-build-array-from-permutation/) | Easy |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/imrajeevnayan/leetcode-solution/tree/main/1967-number-of-strings-that-appear-as-substrings-in-word/) | Easy |
 | [1991-find-the-middle-index-in-array](https://github.com/imrajeevnayan/leetcode-solution/tree/main/1991-find-the-middle-index-in-array/) | Easy |
 | [2037-minimum-number-of-moves-to-seat-everyone](https://github.com/imrajeevnayan/leetcode-solution/tree/main/2037-minimum-number-of-moves-to-seat-everyone/) | Easy |
@@ -692,6 +693,7 @@
 | [0867-transpose-matrix](https://github.com/imrajeevnayan/leetcode-solution/tree/main/0867-transpose-matrix/) | Easy |
 | [1441-build-an-array-with-stack-operations](https://github.com/imrajeevnayan/leetcode-solution/tree/main/1441-build-an-array-with-stack-operations/) | Medium |
 | [1603-design-parking-system](https://github.com/imrajeevnayan/leetcode-solution/tree/main/1603-design-parking-system/) | Easy |
+| [1920-build-array-from-permutation](https://github.com/imrajeevnayan/leetcode-solution/tree/main/1920-build-array-from-permutation/) | Easy |
 | [2810-faulty-keyboard](https://github.com/imrajeevnayan/leetcode-solution/tree/main/2810-faulty-keyboard/) | Easy |
 | [2974-minimum-number-game](https://github.com/imrajeevnayan/leetcode-solution/tree/main/2974-minimum-number-game/) | Easy |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/imrajeevnayan/leetcode-solution/tree/main/3069-distribute-elements-into-two-arrays-i/) | Easy |
