@@ -46,6 +46,7 @@
 | [0303-range-sum-query-immutable](https://github.com/imrajeevnayan/leetcode-solution/tree/main/0303-range-sum-query-immutable/) | Easy |
 | [0347-top-k-frequent-elements](https://github.com/imrajeevnayan/leetcode-solution/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [0349-intersection-of-two-arrays](https://github.com/imrajeevnayan/leetcode-solution/tree/main/0349-intersection-of-two-arrays/) | Easy |
+| [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/imrajeevnayan/leetcode-solution/tree/main/0378-kth-smallest-element-in-a-sorted-matrix/) | Medium |
 | [0410-split-array-largest-sum](https://github.com/imrajeevnayan/leetcode-solution/tree/main/0410-split-array-largest-sum/) | Hard |
 | [0474-ones-and-zeroes](https://github.com/imrajeevnayan/leetcode-solution/tree/main/0474-ones-and-zeroes/) | Medium |
 | [0477-total-hamming-distance](https://github.com/imrajeevnayan/leetcode-solution/tree/main/0477-total-hamming-distance/) | Medium |
@@ -263,6 +264,7 @@
 | [0268-missing-number](https://github.com/imrajeevnayan/leetcode-solution/tree/main/0268-missing-number/) | Easy |
 | [0347-top-k-frequent-elements](https://github.com/imrajeevnayan/leetcode-solution/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [0349-intersection-of-two-arrays](https://github.com/imrajeevnayan/leetcode-solution/tree/main/0349-intersection-of-two-arrays/) | Easy |
+| [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/imrajeevnayan/leetcode-solution/tree/main/0378-kth-smallest-element-in-a-sorted-matrix/) | Medium |
 | [0532-k-diff-pairs-in-an-array](https://github.com/imrajeevnayan/leetcode-solution/tree/main/0532-k-diff-pairs-in-an-array/) | Medium |
 | [0786-k-th-smallest-prime-fraction](https://github.com/imrajeevnayan/leetcode-solution/tree/main/0786-k-th-smallest-prime-fraction/) | Medium |
 | [1051-height-checker](https://github.com/imrajeevnayan/leetcode-solution/tree/main/1051-height-checker/) | Easy |
@@ -409,6 +411,7 @@
 | [0278-first-bad-version](https://github.com/imrajeevnayan/leetcode-solution/tree/main/0278-first-bad-version/) | Easy |
 | [0287-find-the-duplicate-number](https://github.com/imrajeevnayan/leetcode-solution/tree/main/0287-find-the-duplicate-number/) | Medium |
 | [0349-intersection-of-two-arrays](https://github.com/imrajeevnayan/leetcode-solution/tree/main/0349-intersection-of-two-arrays/) | Easy |
+| [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/imrajeevnayan/leetcode-solution/tree/main/0378-kth-smallest-element-in-a-sorted-matrix/) | Medium |
 | [0410-split-array-largest-sum](https://github.com/imrajeevnayan/leetcode-solution/tree/main/0410-split-array-largest-sum/) | Hard |
 | [0532-k-diff-pairs-in-an-array](https://github.com/imrajeevnayan/leetcode-solution/tree/main/0532-k-diff-pairs-in-an-array/) | Medium |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/imrajeevnayan/leetcode-solution/tree/main/0653-two-sum-iv-input-is-a-bst/) | Easy |
@@ -819,6 +822,7 @@
 | ------- | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/imrajeevnayan/leetcode-solution/tree/main/0023-merge-k-sorted-lists/) | Hard |
 | [0347-top-k-frequent-elements](https://github.com/imrajeevnayan/leetcode-solution/tree/main/0347-top-k-frequent-elements/) | Medium |
+| [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/imrajeevnayan/leetcode-solution/tree/main/0378-kth-smallest-element-in-a-sorted-matrix/) | Medium |
 | [0786-k-th-smallest-prime-fraction](https://github.com/imrajeevnayan/leetcode-solution/tree/main/0786-k-th-smallest-prime-fraction/) | Medium |
 | [2974-minimum-number-game](https://github.com/imrajeevnayan/leetcode-solution/tree/main/2974-minimum-number-game/) | Easy |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/imrajeevnayan/leetcode-solution/tree/main/3507-minimum-pair-removal-to-sort-array-i/) | Easy |
@@ -937,6 +941,7 @@
 | ------- | ------- |
 | [0054-spiral-matrix](https://github.com/imrajeevnayan/leetcode-solution/tree/main/0054-spiral-matrix/) | Medium |
 | [0200-number-of-islands](https://github.com/imrajeevnayan/leetcode-solution/tree/main/0200-number-of-islands/) | Medium |
+| [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/imrajeevnayan/leetcode-solution/tree/main/0378-kth-smallest-element-in-a-sorted-matrix/) | Medium |
 | [0566-reshape-the-matrix](https://github.com/imrajeevnayan/leetcode-solution/tree/main/0566-reshape-the-matrix/) | Easy |
 | [0733-flood-fill](https://github.com/imrajeevnayan/leetcode-solution/tree/main/0733-flood-fill/) | Easy |
 | [0835-image-overlap](https://github.com/imrajeevnayan/leetcode-solution/tree/main/0835-image-overlap/) | Medium |
