@@ -301,6 +301,7 @@
 | [0394-decode-string](https://github.com/imrajeevnayan/leetcode-solution/tree/main/0394-decode-string/) | Medium |
 | [0496-next-greater-element-i](https://github.com/imrajeevnayan/leetcode-solution/tree/main/0496-next-greater-element-i/) | Easy |
 | [0654-maximum-binary-tree](https://github.com/imrajeevnayan/leetcode-solution/tree/main/0654-maximum-binary-tree/) | Medium |
+| [0678-valid-parenthesis-string](https://github.com/imrajeevnayan/leetcode-solution/tree/main/0678-valid-parenthesis-string/) | Medium |
 | [0739-daily-temperatures](https://github.com/imrajeevnayan/leetcode-solution/tree/main/0739-daily-temperatures/) | Medium |
 | [0901-online-stock-span](https://github.com/imrajeevnayan/leetcode-solution/tree/main/0901-online-stock-span/) | Medium |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/imrajeevnayan/leetcode-solution/tree/main/0921-minimum-add-to-make-parentheses-valid/) | Medium |
@@ -513,6 +514,7 @@
 | [0535-encode-and-decode-tinyurl](https://github.com/imrajeevnayan/leetcode-solution/tree/main/0535-encode-and-decode-tinyurl/) | Medium |
 | [0551-student-attendance-record-i](https://github.com/imrajeevnayan/leetcode-solution/tree/main/0551-student-attendance-record-i/) | Easy |
 | [0648-replace-words](https://github.com/imrajeevnayan/leetcode-solution/tree/main/0648-replace-words/) | Medium |
+| [0678-valid-parenthesis-string](https://github.com/imrajeevnayan/leetcode-solution/tree/main/0678-valid-parenthesis-string/) | Medium |
 | [0680-valid-palindrome-ii](https://github.com/imrajeevnayan/leetcode-solution/tree/main/0680-valid-palindrome-ii/) | Easy |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/imrajeevnayan/leetcode-solution/tree/main/0921-minimum-add-to-make-parentheses-valid/) | Medium |
 | [0929-unique-email-addresses](https://github.com/imrajeevnayan/leetcode-solution/tree/main/0929-unique-email-addresses/) | Easy |
@@ -619,6 +621,7 @@
 | [0410-split-array-largest-sum](https://github.com/imrajeevnayan/leetcode-solution/tree/main/0410-split-array-largest-sum/) | Hard |
 | [0474-ones-and-zeroes](https://github.com/imrajeevnayan/leetcode-solution/tree/main/0474-ones-and-zeroes/) | Medium |
 | [0509-fibonacci-number](https://github.com/imrajeevnayan/leetcode-solution/tree/main/0509-fibonacci-number/) | Easy |
+| [0678-valid-parenthesis-string](https://github.com/imrajeevnayan/leetcode-solution/tree/main/0678-valid-parenthesis-string/) | Medium |
 | [0718-maximum-length-of-repeated-subarray](https://github.com/imrajeevnayan/leetcode-solution/tree/main/0718-maximum-length-of-repeated-subarray/) | Medium |
 | [0740-delete-and-earn](https://github.com/imrajeevnayan/leetcode-solution/tree/main/0740-delete-and-earn/) | Medium |
 | [0746-min-cost-climbing-stairs](https://github.com/imrajeevnayan/leetcode-solution/tree/main/0746-min-cost-climbing-stairs/) | Easy |
@@ -636,6 +639,7 @@
 | ------- | ------- |
 | [0134-gas-station](https://github.com/imrajeevnayan/leetcode-solution/tree/main/0134-gas-station/) | Medium |
 | [0410-split-array-largest-sum](https://github.com/imrajeevnayan/leetcode-solution/tree/main/0410-split-array-largest-sum/) | Hard |
+| [0678-valid-parenthesis-string](https://github.com/imrajeevnayan/leetcode-solution/tree/main/0678-valid-parenthesis-string/) | Medium |
 | [0680-valid-palindrome-ii](https://github.com/imrajeevnayan/leetcode-solution/tree/main/0680-valid-palindrome-ii/) | Easy |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/imrajeevnayan/leetcode-solution/tree/main/0921-minimum-add-to-make-parentheses-valid/) | Medium |
 | [1221-split-a-string-in-balanced-strings](https://github.com/imrajeevnayan/leetcode-solution/tree/main/1221-split-a-string-in-balanced-strings/) | Easy |
@@ -795,6 +799,7 @@
 | [0020-valid-parentheses](https://github.com/imrajeevnayan/leetcode-solution/tree/main/0020-valid-parentheses/) | Easy |
 | [0022-generate-parentheses](https://github.com/imrajeevnayan/leetcode-solution/tree/main/0022-generate-parentheses/) | Medium |
 | [0032-longest-valid-parentheses](https://github.com/imrajeevnayan/leetcode-solution/tree/main/0032-longest-valid-parentheses/) | Hard |
+| [0678-valid-parenthesis-string](https://github.com/imrajeevnayan/leetcode-solution/tree/main/0678-valid-parenthesis-string/) | Medium |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/imrajeevnayan/leetcode-solution/tree/main/0921-minimum-add-to-make-parentheses-valid/) | Medium |
 | [1021-remove-outermost-parentheses](https://github.com/imrajeevnayan/leetcode-solution/tree/main/1021-remove-outermost-parentheses/) | Easy |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/imrajeevnayan/leetcode-solution/tree/main/1111-maximum-nesting-depth-of-two-valid-parentheses-strings/) | Medium |
