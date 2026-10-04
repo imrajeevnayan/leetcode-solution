@@ -49,6 +49,7 @@
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/imrajeevnayan/leetcode-solution/tree/main/0378-kth-smallest-element-in-a-sorted-matrix/) | Medium |
 | [0410-split-array-largest-sum](https://github.com/imrajeevnayan/leetcode-solution/tree/main/0410-split-array-largest-sum/) | Hard |
 | [0454-4sum-ii](https://github.com/imrajeevnayan/leetcode-solution/tree/main/0454-4sum-ii/) | Medium |
+| [0457-circular-array-loop](https://github.com/imrajeevnayan/leetcode-solution/tree/main/0457-circular-array-loop/) | Medium |
 | [0474-ones-and-zeroes](https://github.com/imrajeevnayan/leetcode-solution/tree/main/0474-ones-and-zeroes/) | Medium |
 | [0477-total-hamming-distance](https://github.com/imrajeevnayan/leetcode-solution/tree/main/0477-total-hamming-distance/) | Medium |
 | [0485-max-consecutive-ones](https://github.com/imrajeevnayan/leetcode-solution/tree/main/0485-max-consecutive-ones/) | Easy |
@@ -210,6 +211,7 @@
 | [0349-intersection-of-two-arrays](https://github.com/imrajeevnayan/leetcode-solution/tree/main/0349-intersection-of-two-arrays/) | Easy |
 | [0383-ransom-note](https://github.com/imrajeevnayan/leetcode-solution/tree/main/0383-ransom-note/) | Easy |
 | [0454-4sum-ii](https://github.com/imrajeevnayan/leetcode-solution/tree/main/0454-4sum-ii/) | Medium |
+| [0457-circular-array-loop](https://github.com/imrajeevnayan/leetcode-solution/tree/main/0457-circular-array-loop/) | Medium |
 | [0496-next-greater-element-i](https://github.com/imrajeevnayan/leetcode-solution/tree/main/0496-next-greater-element-i/) | Easy |
 | [0532-k-diff-pairs-in-an-array](https://github.com/imrajeevnayan/leetcode-solution/tree/main/0532-k-diff-pairs-in-an-array/) | Medium |
 | [0535-encode-and-decode-tinyurl](https://github.com/imrajeevnayan/leetcode-solution/tree/main/0535-encode-and-decode-tinyurl/) | Medium |
@@ -744,6 +746,7 @@
 | [0344-reverse-string](https://github.com/imrajeevnayan/leetcode-solution/tree/main/0344-reverse-string/) | Easy |
 | [0345-reverse-vowels-of-a-string](https://github.com/imrajeevnayan/leetcode-solution/tree/main/0345-reverse-vowels-of-a-string/) | Easy |
 | [0349-intersection-of-two-arrays](https://github.com/imrajeevnayan/leetcode-solution/tree/main/0349-intersection-of-two-arrays/) | Easy |
+| [0457-circular-array-loop](https://github.com/imrajeevnayan/leetcode-solution/tree/main/0457-circular-array-loop/) | Medium |
 | [0532-k-diff-pairs-in-an-array](https://github.com/imrajeevnayan/leetcode-solution/tree/main/0532-k-diff-pairs-in-an-array/) | Medium |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/imrajeevnayan/leetcode-solution/tree/main/0653-two-sum-iv-input-is-a-bst/) | Easy |
 | [0680-valid-palindrome-ii](https://github.com/imrajeevnayan/leetcode-solution/tree/main/0680-valid-palindrome-ii/) | Easy |
@@ -796,6 +799,7 @@
 | [0141-linked-list-cycle](https://github.com/imrajeevnayan/leetcode-solution/tree/main/0141-linked-list-cycle/) | Easy |
 | [0142-linked-list-cycle-ii](https://github.com/imrajeevnayan/leetcode-solution/tree/main/0142-linked-list-cycle-ii/) | Medium |
 | [0287-find-the-duplicate-number](https://github.com/imrajeevnayan/leetcode-solution/tree/main/0287-find-the-duplicate-number/) | Medium |
+| [0457-circular-array-loop](https://github.com/imrajeevnayan/leetcode-solution/tree/main/0457-circular-array-loop/) | Medium |
 ## Doubly-Linked List
 | Problem Name | Difficulty |
 | ------- | ------- |
