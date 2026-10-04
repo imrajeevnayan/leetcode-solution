@@ -7,10 +7,7 @@ class Solution {
             count[s.charAt(right) - 'a']++;
 
             // Current window contains a, b and c
-            while (count[0] > 0 &&
-                   count[1] > 0 &&
-                   count[2] > 0) {
-
+            while (count[0] > 0 &&  count[1] > 0 &&  count[2] > 0) {
                 count[s.charAt(left) - 'a']--;
                 left++;
             }
