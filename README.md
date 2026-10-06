@@ -105,6 +105,7 @@
 | [1863-sum-of-all-subset-xor-totals](https://github.com/imrajeevnayan/leetcode-solution/tree/main/1863-sum-of-all-subset-xor-totals/) | Easy |
 | [1872-stone-game-viii](https://github.com/imrajeevnayan/leetcode-solution/tree/main/1872-stone-game-viii/) | Hard |
 | [1920-build-array-from-permutation](https://github.com/imrajeevnayan/leetcode-solution/tree/main/1920-build-array-from-permutation/) | Easy |
+| [1944-number-of-visible-people-in-a-queue](https://github.com/imrajeevnayan/leetcode-solution/tree/main/1944-number-of-visible-people-in-a-queue/) | Hard |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/imrajeevnayan/leetcode-solution/tree/main/1967-number-of-strings-that-appear-as-substrings-in-word/) | Easy |
 | [1991-find-the-middle-index-in-array](https://github.com/imrajeevnayan/leetcode-solution/tree/main/1991-find-the-middle-index-in-array/) | Easy |
 | [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/imrajeevnayan/leetcode-solution/tree/main/2006-count-number-of-pairs-with-absolute-difference-k/) | Easy |
@@ -325,6 +326,7 @@
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/imrajeevnayan/leetcode-solution/tree/main/1475-final-prices-with-a-special-discount-in-a-shop/) | Easy |
 | [1544-make-the-string-great](https://github.com/imrajeevnayan/leetcode-solution/tree/main/1544-make-the-string-great/) | Easy |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/imrajeevnayan/leetcode-solution/tree/main/1614-maximum-nesting-depth-of-the-parentheses/) | Easy |
+| [1944-number-of-visible-people-in-a-queue](https://github.com/imrajeevnayan/leetcode-solution/tree/main/1944-number-of-visible-people-in-a-queue/) | Hard |
 ## Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -364,6 +366,7 @@
 | [0901-online-stock-span](https://github.com/imrajeevnayan/leetcode-solution/tree/main/0901-online-stock-span/) | Medium |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/imrajeevnayan/leetcode-solution/tree/main/1008-construct-binary-search-tree-from-preorder-traversal/) | Medium |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/imrajeevnayan/leetcode-solution/tree/main/1475-final-prices-with-a-special-discount-in-a-shop/) | Easy |
+| [1944-number-of-visible-people-in-a-queue](https://github.com/imrajeevnayan/leetcode-solution/tree/main/1944-number-of-visible-people-in-a-queue/) | Hard |
 ## Binary Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
