@@ -327,6 +327,7 @@
 | [1544-make-the-string-great](https://github.com/imrajeevnayan/leetcode-solution/tree/main/1544-make-the-string-great/) | Easy |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/imrajeevnayan/leetcode-solution/tree/main/1614-maximum-nesting-depth-of-the-parentheses/) | Easy |
 | [1944-number-of-visible-people-in-a-queue](https://github.com/imrajeevnayan/leetcode-solution/tree/main/1944-number-of-visible-people-in-a-queue/) | Hard |
+| [2130-maximum-twin-sum-of-a-linked-list](https://github.com/imrajeevnayan/leetcode-solution/tree/main/2130-maximum-twin-sum-of-a-linked-list/) | Medium |
 ## Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -761,6 +762,7 @@
 | [0876-middle-of-the-linked-list](https://github.com/imrajeevnayan/leetcode-solution/tree/main/0876-middle-of-the-linked-list/) | Easy |
 | [1679-max-number-of-k-sum-pairs](https://github.com/imrajeevnayan/leetcode-solution/tree/main/1679-max-number-of-k-sum-pairs/) | Medium |
 | [1721-swapping-nodes-in-a-linked-list](https://github.com/imrajeevnayan/leetcode-solution/tree/main/1721-swapping-nodes-in-a-linked-list/) | Medium |
+| [2130-maximum-twin-sum-of-a-linked-list](https://github.com/imrajeevnayan/leetcode-solution/tree/main/2130-maximum-twin-sum-of-a-linked-list/) | Medium |
 | [2465-number-of-distinct-averages](https://github.com/imrajeevnayan/leetcode-solution/tree/main/2465-number-of-distinct-averages/) | Easy |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/imrajeevnayan/leetcode-solution/tree/main/2824-count-pairs-whose-sum-is-less-than-target/) | Easy |
 | [3194-minimum-average-of-smallest-and-largest-elements](https://github.com/imrajeevnayan/leetcode-solution/tree/main/3194-minimum-average-of-smallest-and-largest-elements/) | Easy |
@@ -787,6 +789,7 @@
 | [1669-merge-in-between-linked-lists](https://github.com/imrajeevnayan/leetcode-solution/tree/main/1669-merge-in-between-linked-lists/) | Medium |
 | [1721-swapping-nodes-in-a-linked-list](https://github.com/imrajeevnayan/leetcode-solution/tree/main/1721-swapping-nodes-in-a-linked-list/) | Medium |
 | [2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points](https://github.com/imrajeevnayan/leetcode-solution/tree/main/2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points/) | Medium |
+| [2130-maximum-twin-sum-of-a-linked-list](https://github.com/imrajeevnayan/leetcode-solution/tree/main/2130-maximum-twin-sum-of-a-linked-list/) | Medium |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/imrajeevnayan/leetcode-solution/tree/main/3507-minimum-pair-removal-to-sort-array-i/) | Easy |
 ## Recursion
 | Problem Name | Difficulty |
