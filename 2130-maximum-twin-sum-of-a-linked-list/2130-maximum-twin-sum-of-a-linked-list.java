@@ -1,38 +1,42 @@
 class Solution {
+        // Helper function to reverse linked list
+    private ListNode reverseList(ListNode head) {
+        ListNode prev = null;
+        ListNode curr = head;
+        
+        while (curr != null) {
+            ListNode nextNode = curr.next;
+            curr.next = prev;
+            prev = curr;
+            curr = nextNode;
+        }
+        
+        return prev;
+    }
     public int pairSum(ListNode head) {
-        // Step 1: Find the middle of the linked list
-        ListNode slow = head;
-        ListNode fast = head;
+        // Step 1: Middle node dhundo
+        ListNode slow = head, fast = head;
+        
         while (fast != null && fast.next != null) {
             slow = slow.next;
             fast = fast.next.next;
         }
-        // Step 2: Reverse the second half
-        ListNode prev = null;
-
-        while (slow != null) {
-            ListNode next = slow.next;
-            slow.next = prev;
-            prev = slow;
-            slow = next;
-        }
-
-        // Step 3: Compare twin nodes
-        ListNode first = head;
-        ListNode second = prev;
-
+        
+        // Step 2: Second half ko reverse karo (slow ab middle par hai)
+        ListNode secondHalf = reverseList(slow);
+        
+        // Step 3: Dono halves ko compare karke max sum nikalo
+        ListNode firstHalf = head;
         int maxSum = 0;
-
-        while (second != null) {
-
-            int currSum = first.val + second.val;
-
-            maxSum = Math.max(maxSum, currSum);
-
-            first = first.next;
-            second = second.next;
+        
+        while (secondHalf != null) {
+            int currentSum = firstHalf.val + secondHalf.val;
+            maxSum = Math.max(maxSum, currentSum);
+            
+            firstHalf = firstHalf.next;
+            secondHalf = secondHalf.next;
         }
-
+        
         return maxSum;
-    }
+    }    
 }
