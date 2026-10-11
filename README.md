@@ -75,6 +75,7 @@
 | [0867-transpose-matrix](https://github.com/imrajeevnayan/leetcode-solution/tree/main/0867-transpose-matrix/) | Easy |
 | [0904-fruit-into-baskets](https://github.com/imrajeevnayan/leetcode-solution/tree/main/0904-fruit-into-baskets/) | Medium |
 | [0918-maximum-sum-circular-subarray](https://github.com/imrajeevnayan/leetcode-solution/tree/main/0918-maximum-sum-circular-subarray/) | Medium |
+| [0923-3sum-with-multiplicity](https://github.com/imrajeevnayan/leetcode-solution/tree/main/0923-3sum-with-multiplicity/) | Medium |
 | [0929-unique-email-addresses](https://github.com/imrajeevnayan/leetcode-solution/tree/main/0929-unique-email-addresses/) | Easy |
 | [0930-binary-subarrays-with-sum](https://github.com/imrajeevnayan/leetcode-solution/tree/main/0930-binary-subarrays-with-sum/) | Medium |
 | [0992-subarrays-with-k-different-integers](https://github.com/imrajeevnayan/leetcode-solution/tree/main/0992-subarrays-with-k-different-integers/) | Hard |
@@ -225,6 +226,7 @@
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/imrajeevnayan/leetcode-solution/tree/main/0653-two-sum-iv-input-is-a-bst/) | Easy |
 | [0740-delete-and-earn](https://github.com/imrajeevnayan/leetcode-solution/tree/main/0740-delete-and-earn/) | Medium |
 | [0904-fruit-into-baskets](https://github.com/imrajeevnayan/leetcode-solution/tree/main/0904-fruit-into-baskets/) | Medium |
+| [0923-3sum-with-multiplicity](https://github.com/imrajeevnayan/leetcode-solution/tree/main/0923-3sum-with-multiplicity/) | Medium |
 | [0929-unique-email-addresses](https://github.com/imrajeevnayan/leetcode-solution/tree/main/0929-unique-email-addresses/) | Easy |
 | [0930-binary-subarrays-with-sum](https://github.com/imrajeevnayan/leetcode-solution/tree/main/0930-binary-subarrays-with-sum/) | Medium |
 | [0981-time-based-key-value-store](https://github.com/imrajeevnayan/leetcode-solution/tree/main/0981-time-based-key-value-store/) | Medium |
@@ -277,6 +279,7 @@
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/imrajeevnayan/leetcode-solution/tree/main/0378-kth-smallest-element-in-a-sorted-matrix/) | Medium |
 | [0532-k-diff-pairs-in-an-array](https://github.com/imrajeevnayan/leetcode-solution/tree/main/0532-k-diff-pairs-in-an-array/) | Medium |
 | [0786-k-th-smallest-prime-fraction](https://github.com/imrajeevnayan/leetcode-solution/tree/main/0786-k-th-smallest-prime-fraction/) | Medium |
+| [0923-3sum-with-multiplicity](https://github.com/imrajeevnayan/leetcode-solution/tree/main/0923-3sum-with-multiplicity/) | Medium |
 | [1051-height-checker](https://github.com/imrajeevnayan/leetcode-solution/tree/main/1051-height-checker/) | Easy |
 | [1096-brace-expansion-ii](https://github.com/imrajeevnayan/leetcode-solution/tree/main/1096-brace-expansion-ii/) | Hard |
 | [1679-max-number-of-k-sum-pairs](https://github.com/imrajeevnayan/leetcode-solution/tree/main/1679-max-number-of-k-sum-pairs/) | Medium |
@@ -690,6 +693,7 @@
 | ------- | ------- |
 | [0347-top-k-frequent-elements](https://github.com/imrajeevnayan/leetcode-solution/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [0383-ransom-note](https://github.com/imrajeevnayan/leetcode-solution/tree/main/0383-ransom-note/) | Easy |
+| [0923-3sum-with-multiplicity](https://github.com/imrajeevnayan/leetcode-solution/tree/main/0923-3sum-with-multiplicity/) | Medium |
 | [0992-subarrays-with-k-different-integers](https://github.com/imrajeevnayan/leetcode-solution/tree/main/0992-subarrays-with-k-different-integers/) | Hard |
 | [1221-split-a-string-in-balanced-strings](https://github.com/imrajeevnayan/leetcode-solution/tree/main/1221-split-a-string-in-balanced-strings/) | Easy |
 | [1347-minimum-number-of-steps-to-make-two-strings-anagram](https://github.com/imrajeevnayan/leetcode-solution/tree/main/1347-minimum-number-of-steps-to-make-two-strings-anagram/) | Medium |
@@ -773,6 +777,7 @@
 | [0680-valid-palindrome-ii](https://github.com/imrajeevnayan/leetcode-solution/tree/main/0680-valid-palindrome-ii/) | Easy |
 | [0786-k-th-smallest-prime-fraction](https://github.com/imrajeevnayan/leetcode-solution/tree/main/0786-k-th-smallest-prime-fraction/) | Medium |
 | [0876-middle-of-the-linked-list](https://github.com/imrajeevnayan/leetcode-solution/tree/main/0876-middle-of-the-linked-list/) | Easy |
+| [0923-3sum-with-multiplicity](https://github.com/imrajeevnayan/leetcode-solution/tree/main/0923-3sum-with-multiplicity/) | Medium |
 | [1679-max-number-of-k-sum-pairs](https://github.com/imrajeevnayan/leetcode-solution/tree/main/1679-max-number-of-k-sum-pairs/) | Medium |
 | [1721-swapping-nodes-in-a-linked-list](https://github.com/imrajeevnayan/leetcode-solution/tree/main/1721-swapping-nodes-in-a-linked-list/) | Medium |
 | [1750-minimum-length-of-string-after-deleting-similar-ends](https://github.com/imrajeevnayan/leetcode-solution/tree/main/1750-minimum-length-of-string-after-deleting-similar-ends/) | Medium |
