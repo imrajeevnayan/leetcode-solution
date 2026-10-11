@@ -30,6 +30,7 @@
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/imrajeevnayan/leetcode-solution/tree/main/0153-find-minimum-in-rotated-sorted-array/) | Medium |
 | [0162-find-peak-element](https://github.com/imrajeevnayan/leetcode-solution/tree/main/0162-find-peak-element/) | Medium |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/imrajeevnayan/leetcode-solution/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
+| [0169-majority-element](https://github.com/imrajeevnayan/leetcode-solution/tree/main/0169-majority-element/) | Easy |
 | [0189-rotate-array](https://github.com/imrajeevnayan/leetcode-solution/tree/main/0189-rotate-array/) | Medium |
 | [0198-house-robber](https://github.com/imrajeevnayan/leetcode-solution/tree/main/0198-house-robber/) | Medium |
 | [0200-number-of-islands](https://github.com/imrajeevnayan/leetcode-solution/tree/main/0200-number-of-islands/) | Medium |
@@ -208,6 +209,7 @@
 | [0141-linked-list-cycle](https://github.com/imrajeevnayan/leetcode-solution/tree/main/0141-linked-list-cycle/) | Easy |
 | [0142-linked-list-cycle-ii](https://github.com/imrajeevnayan/leetcode-solution/tree/main/0142-linked-list-cycle-ii/) | Medium |
 | [0160-intersection-of-two-linked-lists](https://github.com/imrajeevnayan/leetcode-solution/tree/main/0160-intersection-of-two-linked-lists/) | Easy |
+| [0169-majority-element](https://github.com/imrajeevnayan/leetcode-solution/tree/main/0169-majority-element/) | Easy |
 | [0205-isomorphic-strings](https://github.com/imrajeevnayan/leetcode-solution/tree/main/0205-isomorphic-strings/) | Easy |
 | [0217-contains-duplicate](https://github.com/imrajeevnayan/leetcode-solution/tree/main/0217-contains-duplicate/) | Easy |
 | [0219-contains-duplicate-ii](https://github.com/imrajeevnayan/leetcode-solution/tree/main/0219-contains-duplicate-ii/) | Easy |
@@ -272,6 +274,7 @@
 | [0049-group-anagrams](https://github.com/imrajeevnayan/leetcode-solution/tree/main/0049-group-anagrams/) | Medium |
 | [0075-sort-colors](https://github.com/imrajeevnayan/leetcode-solution/tree/main/0075-sort-colors/) | Medium |
 | [0088-merge-sorted-array](https://github.com/imrajeevnayan/leetcode-solution/tree/main/0088-merge-sorted-array/) | Easy |
+| [0169-majority-element](https://github.com/imrajeevnayan/leetcode-solution/tree/main/0169-majority-element/) | Easy |
 | [0217-contains-duplicate](https://github.com/imrajeevnayan/leetcode-solution/tree/main/0217-contains-duplicate/) | Easy |
 | [0242-valid-anagram](https://github.com/imrajeevnayan/leetcode-solution/tree/main/0242-valid-anagram/) | Easy |
 | [0268-missing-number](https://github.com/imrajeevnayan/leetcode-solution/tree/main/0268-missing-number/) | Easy |
@@ -301,6 +304,7 @@
 | [0004-median-of-two-sorted-arrays](https://github.com/imrajeevnayan/leetcode-solution/tree/main/0004-median-of-two-sorted-arrays/) | Hard |
 | [0023-merge-k-sorted-lists](https://github.com/imrajeevnayan/leetcode-solution/tree/main/0023-merge-k-sorted-lists/) | Hard |
 | [0053-maximum-subarray](https://github.com/imrajeevnayan/leetcode-solution/tree/main/0053-maximum-subarray/) | Medium |
+| [0169-majority-element](https://github.com/imrajeevnayan/leetcode-solution/tree/main/0169-majority-element/) | Easy |
 | [0191-number-of-1-bits](https://github.com/imrajeevnayan/leetcode-solution/tree/main/0191-number-of-1-bits/) | Easy |
 | [0347-top-k-frequent-elements](https://github.com/imrajeevnayan/leetcode-solution/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [0654-maximum-binary-tree](https://github.com/imrajeevnayan/leetcode-solution/tree/main/0654-maximum-binary-tree/) | Medium |
@@ -696,6 +700,7 @@
 ## Counting
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0169-majority-element](https://github.com/imrajeevnayan/leetcode-solution/tree/main/0169-majority-element/) | Easy |
 | [0347-top-k-frequent-elements](https://github.com/imrajeevnayan/leetcode-solution/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [0383-ransom-note](https://github.com/imrajeevnayan/leetcode-solution/tree/main/0383-ransom-note/) | Easy |
 | [0923-3sum-with-multiplicity](https://github.com/imrajeevnayan/leetcode-solution/tree/main/0923-3sum-with-multiplicity/) | Medium |
@@ -1123,6 +1128,10 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [3407-substring-matching-pattern](https://github.com/imrajeevnayan/leetcode-solution/tree/main/3407-substring-matching-pattern/) | Easy |
+## Boyer–Moore Majority Vote Algorithm
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0169-majority-element](https://github.com/imrajeevnayan/leetcode-solution/tree/main/0169-majority-element/) | Easy |
 <!---LeetCode Topics End-->
 | 2 | [Union of Two Sets](https://www.geeksforgeeks.org/problems/union-of-two-arrays3538--171343/1?page=2&category=Hash) | GeeksForGeeks | Easy | 12 Aug 2026 | 05:03 pm |
 | 3 | [Prime Frequencies in Array](https://www.geeksforgeeks.org/problems/numbers-with-prime-frequencies-greater-than-or-equal-to-k5823/1?page=3&category=Hash) | GeeksForGeeks | Easy | 12 Aug 2026 | 05:06 pm |
