@@ -1,45 +1,32 @@
 class Solution {
     public boolean hasMatch(String s, String p) {
-        // Pattern ko '*' ke basis par split karo
-        // Example: "ee*e" -> ["ee", "e"]
-        String[] parts = p.split("\\*", -1); 
+        // 1. Pattern ko '*' se split karo
+        // parts[0] = prefix, parts[1] = suffix
+        String[] parts = p.split("\\*", -1);
         String prefix = parts[0];
         String suffix = parts[1];
         
-        int n = s.length();
-        int preLen = prefix.length();
-        int sufLen = suffix.length();
+        // 2. Edge case: agar pattern sirf "*" hai
+        if (prefix.isEmpty() && suffix.isEmpty()) return true;
         
-        // Edge case: Agar prefix aur suffix dono empty hain ("*")
-        // Toh wo har string ka substring hai (empty string always exists)
-        if (preLen == 0 && sufLen == 0) return true;
-        
-        // String 's' ke har possible starting index ko check karo
-        for (int i = 0; i <= n - preLen; i++) {
-            // Check karo ki kya current position par prefix match ho raha hai?
+        // 3. 's' mein har possible position check karo
+        for (int i = 0; i <= s.length() - prefix.length(); i++) {
+            
+            // Kya yahan prefix match ho raha hai?
             if (s.startsWith(prefix, i)) {
                 
-                // Ab check karo ki kya iske baad kahin suffix bhi fit ho sakta hai?
-                // Suffix kabhi bhi aa sakta hai, bas uski length available honi chahiye
-                // Aur wo prefix ke turant baad ya uske baad kisi jagah aa sakta hai
+                // Prefix mil gaya! Ab check karo ki iske BAAD suffix bhi hai ya nahi
+                // indexOf(suffix, startIndex) exactly yahi karta hai
+                int suffixPos = s.indexOf(suffix, i + prefix.length());
                 
-                // Simple logic: Prefix match milne ke baad, 
-                // remaining string mein suffix dhundo
-                // Note: * zero or more chars allow karta hai, 
-                // toh suffix prefix ke turant baad bhi ho sakta hai
-                
-                int minStartForSuffix = i + preLen;
-                
-                // Remaining string mein suffix dhoondna
-                // startsWith/endWith ya indexOf use kar sakte hain
-                if (s.indexOf(suffix, minStartForSuffix) != -1) {
-                    // Bas itna ensure karo ki suffix puri tarah string ke andar fit ho
-                    // indexOf already boundary handle kar leta hai
+                // Agar suffix mil gaya (position != -1), toh answer TRUE
+                if (suffixPos != -1) {
                     return true;
                 }
             }
         }
         
+        // Kahin bhi valid combination nahi mila
         return false;
     }
 }
