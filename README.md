@@ -559,6 +559,7 @@
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/imrajeevnayan/leetcode-solution/tree/main/1541-minimum-insertions-to-balance-a-parentheses-string/) | Medium |
 | [1544-make-the-string-great](https://github.com/imrajeevnayan/leetcode-solution/tree/main/1544-make-the-string-great/) | Easy |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/imrajeevnayan/leetcode-solution/tree/main/1614-maximum-nesting-depth-of-the-parentheses/) | Easy |
+| [1750-minimum-length-of-string-after-deleting-similar-ends](https://github.com/imrajeevnayan/leetcode-solution/tree/main/1750-minimum-length-of-string-after-deleting-similar-ends/) | Medium |
 | [1769-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/imrajeevnayan/leetcode-solution/tree/main/1769-minimum-number-of-operations-to-move-all-balls-to-each-box/) | Medium |
 | [1844-replace-all-digits-with-characters](https://github.com/imrajeevnayan/leetcode-solution/tree/main/1844-replace-all-digits-with-characters/) | Easy |
 | [1915-number-of-wonderful-substrings](https://github.com/imrajeevnayan/leetcode-solution/tree/main/1915-number-of-wonderful-substrings/) | Medium |
@@ -773,6 +774,7 @@
 | [0876-middle-of-the-linked-list](https://github.com/imrajeevnayan/leetcode-solution/tree/main/0876-middle-of-the-linked-list/) | Easy |
 | [1679-max-number-of-k-sum-pairs](https://github.com/imrajeevnayan/leetcode-solution/tree/main/1679-max-number-of-k-sum-pairs/) | Medium |
 | [1721-swapping-nodes-in-a-linked-list](https://github.com/imrajeevnayan/leetcode-solution/tree/main/1721-swapping-nodes-in-a-linked-list/) | Medium |
+| [1750-minimum-length-of-string-after-deleting-similar-ends](https://github.com/imrajeevnayan/leetcode-solution/tree/main/1750-minimum-length-of-string-after-deleting-similar-ends/) | Medium |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/imrajeevnayan/leetcode-solution/tree/main/2130-maximum-twin-sum-of-a-linked-list/) | Medium |
 | [2465-number-of-distinct-averages](https://github.com/imrajeevnayan/leetcode-solution/tree/main/2465-number-of-distinct-averages/) | Easy |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/imrajeevnayan/leetcode-solution/tree/main/2824-count-pairs-whose-sum-is-less-than-target/) | Easy |
