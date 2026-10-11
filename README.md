@@ -125,6 +125,7 @@
 | [2614-prime-in-diagonal](https://github.com/imrajeevnayan/leetcode-solution/tree/main/2614-prime-in-diagonal/) | Easy |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/imrajeevnayan/leetcode-solution/tree/main/2657-find-the-prefix-common-array-of-two-arrays/) | Medium |
 | [2760-longest-even-odd-subarray-with-threshold](https://github.com/imrajeevnayan/leetcode-solution/tree/main/2760-longest-even-odd-subarray-with-threshold/) | Easy |
+| [2778-sum-of-squares-of-special-elements](https://github.com/imrajeevnayan/leetcode-solution/tree/main/2778-sum-of-squares-of-special-elements/) | Easy |
 | [2798-number-of-employees-who-met-the-target](https://github.com/imrajeevnayan/leetcode-solution/tree/main/2798-number-of-employees-who-met-the-target/) | Easy |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/imrajeevnayan/leetcode-solution/tree/main/2824-count-pairs-whose-sum-is-less-than-target/) | Easy |
 | [2831-find-the-longest-equal-subarray](https://github.com/imrajeevnayan/leetcode-solution/tree/main/2831-find-the-longest-equal-subarray/) | Medium |
@@ -889,6 +890,7 @@
 | [0204-count-primes](https://github.com/imrajeevnayan/leetcode-solution/tree/main/0204-count-primes/) | Medium |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/imrajeevnayan/leetcode-solution/tree/main/1863-sum-of-all-subset-xor-totals/) | Easy |
 | [2094-finding-3-digit-even-numbers](https://github.com/imrajeevnayan/leetcode-solution/tree/main/2094-finding-3-digit-even-numbers/) | Easy |
+| [2778-sum-of-squares-of-special-elements](https://github.com/imrajeevnayan/leetcode-solution/tree/main/2778-sum-of-squares-of-special-elements/) | Easy |
 | [3483-unique-3-digit-even-numbers](https://github.com/imrajeevnayan/leetcode-solution/tree/main/3483-unique-3-digit-even-numbers/) | Easy |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/imrajeevnayan/leetcode-solution/tree/main/3720-lexicographically-smallest-permutation-greater-than-target/) | Medium |
 ## Backtracking
