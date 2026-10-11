@@ -101,6 +101,7 @@
 | [1679-max-number-of-k-sum-pairs](https://github.com/imrajeevnayan/leetcode-solution/tree/main/1679-max-number-of-k-sum-pairs/) | Medium |
 | [1726-tuple-with-same-product](https://github.com/imrajeevnayan/leetcode-solution/tree/main/1726-tuple-with-same-product/) | Medium |
 | [1769-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/imrajeevnayan/leetcode-solution/tree/main/1769-minimum-number-of-operations-to-move-all-balls-to-each-box/) | Medium |
+| [1813-sentence-similarity-iii](https://github.com/imrajeevnayan/leetcode-solution/tree/main/1813-sentence-similarity-iii/) | Medium |
 | [1814-count-nice-pairs-in-an-array](https://github.com/imrajeevnayan/leetcode-solution/tree/main/1814-count-nice-pairs-in-an-array/) | Medium |
 | [1829-maximum-xor-for-each-query](https://github.com/imrajeevnayan/leetcode-solution/tree/main/1829-maximum-xor-for-each-query/) | Medium |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/imrajeevnayan/leetcode-solution/tree/main/1863-sum-of-all-subset-xor-totals/) | Easy |
@@ -565,6 +566,7 @@
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/imrajeevnayan/leetcode-solution/tree/main/1614-maximum-nesting-depth-of-the-parentheses/) | Easy |
 | [1750-minimum-length-of-string-after-deleting-similar-ends](https://github.com/imrajeevnayan/leetcode-solution/tree/main/1750-minimum-length-of-string-after-deleting-similar-ends/) | Medium |
 | [1769-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/imrajeevnayan/leetcode-solution/tree/main/1769-minimum-number-of-operations-to-move-all-balls-to-each-box/) | Medium |
+| [1813-sentence-similarity-iii](https://github.com/imrajeevnayan/leetcode-solution/tree/main/1813-sentence-similarity-iii/) | Medium |
 | [1844-replace-all-digits-with-characters](https://github.com/imrajeevnayan/leetcode-solution/tree/main/1844-replace-all-digits-with-characters/) | Easy |
 | [1915-number-of-wonderful-substrings](https://github.com/imrajeevnayan/leetcode-solution/tree/main/1915-number-of-wonderful-substrings/) | Medium |
 | [1927-sum-game](https://github.com/imrajeevnayan/leetcode-solution/tree/main/1927-sum-game/) | Medium |
@@ -781,6 +783,7 @@
 | [1679-max-number-of-k-sum-pairs](https://github.com/imrajeevnayan/leetcode-solution/tree/main/1679-max-number-of-k-sum-pairs/) | Medium |
 | [1721-swapping-nodes-in-a-linked-list](https://github.com/imrajeevnayan/leetcode-solution/tree/main/1721-swapping-nodes-in-a-linked-list/) | Medium |
 | [1750-minimum-length-of-string-after-deleting-similar-ends](https://github.com/imrajeevnayan/leetcode-solution/tree/main/1750-minimum-length-of-string-after-deleting-similar-ends/) | Medium |
+| [1813-sentence-similarity-iii](https://github.com/imrajeevnayan/leetcode-solution/tree/main/1813-sentence-similarity-iii/) | Medium |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/imrajeevnayan/leetcode-solution/tree/main/2130-maximum-twin-sum-of-a-linked-list/) | Medium |
 | [2465-number-of-distinct-averages](https://github.com/imrajeevnayan/leetcode-solution/tree/main/2465-number-of-distinct-averages/) | Easy |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/imrajeevnayan/leetcode-solution/tree/main/2824-count-pairs-whose-sum-is-less-than-target/) | Easy |
