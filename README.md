@@ -371,6 +371,7 @@
 | [0654-maximum-binary-tree](https://github.com/imrajeevnayan/leetcode-solution/tree/main/0654-maximum-binary-tree/) | Medium |
 | [0700-search-in-a-binary-search-tree](https://github.com/imrajeevnayan/leetcode-solution/tree/main/0700-search-in-a-binary-search-tree/) | Easy |
 | [0834-sum-of-distances-in-tree](https://github.com/imrajeevnayan/leetcode-solution/tree/main/0834-sum-of-distances-in-tree/) | Hard |
+| [0965-univalued-binary-tree](https://github.com/imrajeevnayan/leetcode-solution/tree/main/0965-univalued-binary-tree/) | Easy |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/imrajeevnayan/leetcode-solution/tree/main/1008-construct-binary-search-tree-from-preorder-traversal/) | Medium |
 | [1123-lowest-common-ancestor-of-deepest-leaves](https://github.com/imrajeevnayan/leetcode-solution/tree/main/1123-lowest-common-ancestor-of-deepest-leaves/) | Medium |
 | [1325-delete-leaves-with-a-given-value](https://github.com/imrajeevnayan/leetcode-solution/tree/main/1325-delete-leaves-with-a-given-value/) | Medium |
@@ -410,6 +411,7 @@
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/imrajeevnayan/leetcode-solution/tree/main/0653-two-sum-iv-input-is-a-bst/) | Easy |
 | [0654-maximum-binary-tree](https://github.com/imrajeevnayan/leetcode-solution/tree/main/0654-maximum-binary-tree/) | Medium |
 | [0700-search-in-a-binary-search-tree](https://github.com/imrajeevnayan/leetcode-solution/tree/main/0700-search-in-a-binary-search-tree/) | Easy |
+| [0965-univalued-binary-tree](https://github.com/imrajeevnayan/leetcode-solution/tree/main/0965-univalued-binary-tree/) | Easy |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/imrajeevnayan/leetcode-solution/tree/main/1008-construct-binary-search-tree-from-preorder-traversal/) | Medium |
 | [1123-lowest-common-ancestor-of-deepest-leaves](https://github.com/imrajeevnayan/leetcode-solution/tree/main/1123-lowest-common-ancestor-of-deepest-leaves/) | Medium |
 | [1325-delete-leaves-with-a-given-value](https://github.com/imrajeevnayan/leetcode-solution/tree/main/1325-delete-leaves-with-a-given-value/) | Medium |
@@ -949,6 +951,7 @@
 | [0797-all-paths-from-source-to-target](https://github.com/imrajeevnayan/leetcode-solution/tree/main/0797-all-paths-from-source-to-target/) | Medium |
 | [0834-sum-of-distances-in-tree](https://github.com/imrajeevnayan/leetcode-solution/tree/main/0834-sum-of-distances-in-tree/) | Hard |
 | [0841-keys-and-rooms](https://github.com/imrajeevnayan/leetcode-solution/tree/main/0841-keys-and-rooms/) | Medium |
+| [0965-univalued-binary-tree](https://github.com/imrajeevnayan/leetcode-solution/tree/main/0965-univalued-binary-tree/) | Easy |
 | [1123-lowest-common-ancestor-of-deepest-leaves](https://github.com/imrajeevnayan/leetcode-solution/tree/main/1123-lowest-common-ancestor-of-deepest-leaves/) | Medium |
 | [1325-delete-leaves-with-a-given-value](https://github.com/imrajeevnayan/leetcode-solution/tree/main/1325-delete-leaves-with-a-given-value/) | Medium |
 | [1971-find-if-path-exists-in-graph](https://github.com/imrajeevnayan/leetcode-solution/tree/main/1971-find-if-path-exists-in-graph/) | Easy |
@@ -974,6 +977,7 @@
 | [0785-is-graph-bipartite](https://github.com/imrajeevnayan/leetcode-solution/tree/main/0785-is-graph-bipartite/) | Medium |
 | [0797-all-paths-from-source-to-target](https://github.com/imrajeevnayan/leetcode-solution/tree/main/0797-all-paths-from-source-to-target/) | Medium |
 | [0841-keys-and-rooms](https://github.com/imrajeevnayan/leetcode-solution/tree/main/0841-keys-and-rooms/) | Medium |
+| [0965-univalued-binary-tree](https://github.com/imrajeevnayan/leetcode-solution/tree/main/0965-univalued-binary-tree/) | Easy |
 | [1096-brace-expansion-ii](https://github.com/imrajeevnayan/leetcode-solution/tree/main/1096-brace-expansion-ii/) | Hard |
 | [1123-lowest-common-ancestor-of-deepest-leaves](https://github.com/imrajeevnayan/leetcode-solution/tree/main/1123-lowest-common-ancestor-of-deepest-leaves/) | Medium |
 | [1971-find-if-path-exists-in-graph](https://github.com/imrajeevnayan/leetcode-solution/tree/main/1971-find-if-path-exists-in-graph/) | Easy |
