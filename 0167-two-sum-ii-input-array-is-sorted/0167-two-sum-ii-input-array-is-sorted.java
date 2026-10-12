@@ -1,21 +1,12 @@
 class Solution {
-    public int[] twoSum(int[] nums, int target) {
-        int left = 0;
-        int right = nums.length - 1;
-        
+    public int[] twoSum(int[] numbers, int target) {
+        int left = 0, right = numbers.length - 1;
         while (left < right) {
-            // Use long to prevent integer overflow!
-            long sum = (long) nums[left] + nums[right];
-            
-            if (sum == target) {
-                return new int[]{left + 1, right + 1}; // 1-based
-            } else if (sum < target) {
-                left++;   // bada number chahiye → left aage
-            } else {
-                right--;  // chhota number chahiye → right peeche
-            }
+            int sum = numbers[left] + numbers[right];
+            if (sum == target) return new int[]{left + 1, right + 1}; // 1-based index
+            else if (sum < target) left++;
+            else right--;
         }
-        
-        return new int[]{};
+        return new int[]{-1, -1};
     }
 }
