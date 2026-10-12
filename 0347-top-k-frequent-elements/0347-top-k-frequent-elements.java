@@ -7,10 +7,8 @@ class Solution {
         }
 
         // 2. Max-Heap banao (Zyada frequency wala upar rahega)
-        // Note: Integer.compare use karna safe hai overflow se bachne ke liye
-        PriorityQueue<Integer> pq = new PriorityQueue<>((a, b) -> 
-            Integer.compare(map.get(b), map.get(a))
-        );
+        
+        PriorityQueue<Integer> pq = new PriorityQueue<>((a, b) -> map.get(b) - map.get(a));
         
         pq.addAll(map.keySet());
 
