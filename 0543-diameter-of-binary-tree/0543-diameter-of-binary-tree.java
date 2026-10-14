@@ -1,17 +1,22 @@
 class Solution {
-    int diameter = 0;
-    public int diameterOfBinaryTree(TreeNode root) {
-        height(root);
-        return diameter;
-    }
-    int height(TreeNode root) {
-        if (root == null) return 0;
-        int left = height(root.left);
-        int right = height(root.right);
+    int maxDiameter = 0; // Global variable to track max diameter
 
-        // Current node ke through diameter
-        diameter = Math.max(diameter, left + right);
-        // Height return karo
-        return 1 + Math.max(left, right);
+    public int diameterOfBinaryTree(TreeNode root) {
+        calculateHeight(root);
+        return maxDiameter;
+    }
+    private int calculateHeight(TreeNode node) {
+        if (node == null) return 0;
+        
+        // Left aur Right subtree ki height nikalo
+        int leftH = calculateHeight(node.left);
+        int rightH = calculateHeight(node.right);
+        
+        // Current node par diameter check karo (Left Height + Right Height)
+        // Note: Edges count karne ke liye hum sirf heights add karte hain.
+        maxDiameter = Math.max(maxDiameter, leftH + rightH);
+        
+        // Apne parent ko apni height batao (Max of children + 1)
+        return Math.max(leftH, rightH) + 1;
     }
 }
