@@ -1,18 +1,27 @@
 class Solution {
     public boolean isBalanced(TreeNode root) {
-        return height(root) != -1;
+        // Agar checkHeight -1 return kare, toh tree balanced nahi hai
+        return checkHeight(root) != -1;
     }
-    int height(TreeNode root) {
-        if (root == null) return 0;
-
-        int left = height(root.left);
-        if (left == -1) return -1;
-
-        int right = height(root.right);
-        if (right == -1) return -1;
-
-        if (Math.abs(left - right) > 1) return -1;
-
-        return 1 + Math.max(left, right);
+    
+    private int checkHeight(TreeNode node) {
+        // Base case: Null node ki height 0 hoti hai
+        if (node == null) return 0;
+        
+        // Left subtree ki height check karo
+        int leftH = checkHeight(node.left);
+        if (leftH == -1) return -1; // Agar left already unbalanced hai, toh ruk jao
+        
+        // Right subtree ki height check karo
+        int rightH = checkHeight(node.right);
+        if (rightH == -1) return -1; // Agar right already unbalanced hai, toh ruk jao
+        
+        // Current node par balance check karo
+        if (Math.abs(leftH - rightH) > 1) {
+            return -1; // Unbalanced hai
+        }
+        
+        // Agar balanced hai, toh apni height return karo
+        return Math.max(leftH, rightH) + 1;
     }
 }
