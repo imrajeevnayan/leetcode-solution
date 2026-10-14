@@ -1,6 +1,13 @@
 class Solution {
     public int maxDepth(TreeNode root) {
-        if(root==null)return 0;
-        return 1+ Math.max(maxDepth(root.left),maxDepth(root.right));
+        // Base case: Agar node null hai, toh depth 0 hai
+        if (root == null)  return 0;
+    
+        // Left aur Right subtree ki depth recursively nikalo
+        int leftDepth = maxDepth(root.left);
+        int rightDepth = maxDepth(root.right);
+        
+        // Jo bada ho, usme 1 add karo (current node ke liye)
+        return Math.max(leftDepth, rightDepth) + 1;
     }
 }
