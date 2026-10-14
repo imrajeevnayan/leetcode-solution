@@ -321,6 +321,7 @@
 | [0020-valid-parentheses](https://github.com/imrajeevnayan/leetcode-solution/tree/main/0020-valid-parentheses/) | Easy |
 | [0032-longest-valid-parentheses](https://github.com/imrajeevnayan/leetcode-solution/tree/main/0032-longest-valid-parentheses/) | Hard |
 | [0094-binary-tree-inorder-traversal](https://github.com/imrajeevnayan/leetcode-solution/tree/main/0094-binary-tree-inorder-traversal/) | Easy |
+| [0145-binary-tree-postorder-traversal](https://github.com/imrajeevnayan/leetcode-solution/tree/main/0145-binary-tree-postorder-traversal/) | Easy |
 | [0155-min-stack](https://github.com/imrajeevnayan/leetcode-solution/tree/main/0155-min-stack/) | Medium |
 | [0173-binary-search-tree-iterator](https://github.com/imrajeevnayan/leetcode-solution/tree/main/0173-binary-search-tree-iterator/) | Medium |
 | [0225-implement-stack-using-queues](https://github.com/imrajeevnayan/leetcode-solution/tree/main/0225-implement-stack-using-queues/) | Easy |
@@ -361,6 +362,7 @@
 | [0110-balanced-binary-tree](https://github.com/imrajeevnayan/leetcode-solution/tree/main/0110-balanced-binary-tree/) | Easy |
 | [0112-path-sum](https://github.com/imrajeevnayan/leetcode-solution/tree/main/0112-path-sum/) | Easy |
 | [0124-binary-tree-maximum-path-sum](https://github.com/imrajeevnayan/leetcode-solution/tree/main/0124-binary-tree-maximum-path-sum/) | Hard |
+| [0145-binary-tree-postorder-traversal](https://github.com/imrajeevnayan/leetcode-solution/tree/main/0145-binary-tree-postorder-traversal/) | Easy |
 | [0173-binary-search-tree-iterator](https://github.com/imrajeevnayan/leetcode-solution/tree/main/0173-binary-search-tree-iterator/) | Medium |
 | [0199-binary-tree-right-side-view](https://github.com/imrajeevnayan/leetcode-solution/tree/main/0199-binary-tree-right-side-view/) | Medium |
 | [0226-invert-binary-tree](https://github.com/imrajeevnayan/leetcode-solution/tree/main/0226-invert-binary-tree/) | Easy |
@@ -404,6 +406,7 @@
 | [0110-balanced-binary-tree](https://github.com/imrajeevnayan/leetcode-solution/tree/main/0110-balanced-binary-tree/) | Easy |
 | [0112-path-sum](https://github.com/imrajeevnayan/leetcode-solution/tree/main/0112-path-sum/) | Easy |
 | [0124-binary-tree-maximum-path-sum](https://github.com/imrajeevnayan/leetcode-solution/tree/main/0124-binary-tree-maximum-path-sum/) | Hard |
+| [0145-binary-tree-postorder-traversal](https://github.com/imrajeevnayan/leetcode-solution/tree/main/0145-binary-tree-postorder-traversal/) | Easy |
 | [0173-binary-search-tree-iterator](https://github.com/imrajeevnayan/leetcode-solution/tree/main/0173-binary-search-tree-iterator/) | Medium |
 | [0199-binary-tree-right-side-view](https://github.com/imrajeevnayan/leetcode-solution/tree/main/0199-binary-tree-right-side-view/) | Medium |
 | [0226-invert-binary-tree](https://github.com/imrajeevnayan/leetcode-solution/tree/main/0226-invert-binary-tree/) | Easy |
@@ -945,6 +948,7 @@
 | [0110-balanced-binary-tree](https://github.com/imrajeevnayan/leetcode-solution/tree/main/0110-balanced-binary-tree/) | Easy |
 | [0112-path-sum](https://github.com/imrajeevnayan/leetcode-solution/tree/main/0112-path-sum/) | Easy |
 | [0124-binary-tree-maximum-path-sum](https://github.com/imrajeevnayan/leetcode-solution/tree/main/0124-binary-tree-maximum-path-sum/) | Hard |
+| [0145-binary-tree-postorder-traversal](https://github.com/imrajeevnayan/leetcode-solution/tree/main/0145-binary-tree-postorder-traversal/) | Easy |
 | [0199-binary-tree-right-side-view](https://github.com/imrajeevnayan/leetcode-solution/tree/main/0199-binary-tree-right-side-view/) | Medium |
 | [0200-number-of-islands](https://github.com/imrajeevnayan/leetcode-solution/tree/main/0200-number-of-islands/) | Medium |
 | [0226-invert-binary-tree](https://github.com/imrajeevnayan/leetcode-solution/tree/main/0226-invert-binary-tree/) | Easy |
