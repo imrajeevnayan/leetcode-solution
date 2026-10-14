@@ -228,6 +228,7 @@
 | [0535-encode-and-decode-tinyurl](https://github.com/imrajeevnayan/leetcode-solution/tree/main/0535-encode-and-decode-tinyurl/) | Medium |
 | [0560-subarray-sum-equals-k](https://github.com/imrajeevnayan/leetcode-solution/tree/main/0560-subarray-sum-equals-k/) | Medium |
 | [0648-replace-words](https://github.com/imrajeevnayan/leetcode-solution/tree/main/0648-replace-words/) | Medium |
+| [0652-find-duplicate-subtrees](https://github.com/imrajeevnayan/leetcode-solution/tree/main/0652-find-duplicate-subtrees/) | Medium |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/imrajeevnayan/leetcode-solution/tree/main/0653-two-sum-iv-input-is-a-bst/) | Easy |
 | [0740-delete-and-earn](https://github.com/imrajeevnayan/leetcode-solution/tree/main/0740-delete-and-earn/) | Medium |
 | [0904-fruit-into-baskets](https://github.com/imrajeevnayan/leetcode-solution/tree/main/0904-fruit-into-baskets/) | Medium |
@@ -371,6 +372,7 @@
 | [0559-maximum-depth-of-n-ary-tree](https://github.com/imrajeevnayan/leetcode-solution/tree/main/0559-maximum-depth-of-n-ary-tree/) | Easy |
 | [0617-merge-two-binary-trees](https://github.com/imrajeevnayan/leetcode-solution/tree/main/0617-merge-two-binary-trees/) | Easy |
 | [0623-add-one-row-to-tree](https://github.com/imrajeevnayan/leetcode-solution/tree/main/0623-add-one-row-to-tree/) | Medium |
+| [0652-find-duplicate-subtrees](https://github.com/imrajeevnayan/leetcode-solution/tree/main/0652-find-duplicate-subtrees/) | Medium |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/imrajeevnayan/leetcode-solution/tree/main/0653-two-sum-iv-input-is-a-bst/) | Easy |
 | [0654-maximum-binary-tree](https://github.com/imrajeevnayan/leetcode-solution/tree/main/0654-maximum-binary-tree/) | Medium |
 | [0700-search-in-a-binary-search-tree](https://github.com/imrajeevnayan/leetcode-solution/tree/main/0700-search-in-a-binary-search-tree/) | Easy |
@@ -412,6 +414,7 @@
 | [0543-diameter-of-binary-tree](https://github.com/imrajeevnayan/leetcode-solution/tree/main/0543-diameter-of-binary-tree/) | Easy |
 | [0617-merge-two-binary-trees](https://github.com/imrajeevnayan/leetcode-solution/tree/main/0617-merge-two-binary-trees/) | Easy |
 | [0623-add-one-row-to-tree](https://github.com/imrajeevnayan/leetcode-solution/tree/main/0623-add-one-row-to-tree/) | Medium |
+| [0652-find-duplicate-subtrees](https://github.com/imrajeevnayan/leetcode-solution/tree/main/0652-find-duplicate-subtrees/) | Medium |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/imrajeevnayan/leetcode-solution/tree/main/0653-two-sum-iv-input-is-a-bst/) | Easy |
 | [0654-maximum-binary-tree](https://github.com/imrajeevnayan/leetcode-solution/tree/main/0654-maximum-binary-tree/) | Medium |
 | [0700-search-in-a-binary-search-tree](https://github.com/imrajeevnayan/leetcode-solution/tree/main/0700-search-in-a-binary-search-tree/) | Easy |
@@ -954,6 +957,7 @@
 | [0559-maximum-depth-of-n-ary-tree](https://github.com/imrajeevnayan/leetcode-solution/tree/main/0559-maximum-depth-of-n-ary-tree/) | Easy |
 | [0617-merge-two-binary-trees](https://github.com/imrajeevnayan/leetcode-solution/tree/main/0617-merge-two-binary-trees/) | Easy |
 | [0623-add-one-row-to-tree](https://github.com/imrajeevnayan/leetcode-solution/tree/main/0623-add-one-row-to-tree/) | Medium |
+| [0652-find-duplicate-subtrees](https://github.com/imrajeevnayan/leetcode-solution/tree/main/0652-find-duplicate-subtrees/) | Medium |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/imrajeevnayan/leetcode-solution/tree/main/0653-two-sum-iv-input-is-a-bst/) | Easy |
 | [0684-redundant-connection](https://github.com/imrajeevnayan/leetcode-solution/tree/main/0684-redundant-connection/) | Medium |
 | [0733-flood-fill](https://github.com/imrajeevnayan/leetcode-solution/tree/main/0733-flood-fill/) | Easy |
