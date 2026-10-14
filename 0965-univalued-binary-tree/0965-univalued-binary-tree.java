@@ -5,7 +5,6 @@ class Solution {
         // Root ka value reference ke liye store karo
         return check(root, root.val);
     }
-    
     private boolean check(TreeNode node, int val) {
         // Base case: Agar node null hai, toh wo valid hai
         if (node == null) return true;
