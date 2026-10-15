@@ -132,6 +132,7 @@
 | [2798-number-of-employees-who-met-the-target](https://github.com/imrajeevnayan/leetcode-solution/tree/main/2798-number-of-employees-who-met-the-target/) | Easy |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/imrajeevnayan/leetcode-solution/tree/main/2824-count-pairs-whose-sum-is-less-than-target/) | Easy |
 | [2831-find-the-longest-equal-subarray](https://github.com/imrajeevnayan/leetcode-solution/tree/main/2831-find-the-longest-equal-subarray/) | Medium |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/imrajeevnayan/leetcode-solution/tree/main/2913-subarrays-distinct-element-sum-of-squares-i/) | Easy |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/imrajeevnayan/leetcode-solution/tree/main/2948-make-lexicographically-smallest-array-by-swapping-elements/) | Medium |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/imrajeevnayan/leetcode-solution/tree/main/2958-length-of-longest-subarray-with-at-most-k-frequency/) | Medium |
 | [2974-minimum-number-game](https://github.com/imrajeevnayan/leetcode-solution/tree/main/2974-minimum-number-game/) | Easy |
@@ -257,6 +258,7 @@
 | [2465-number-of-distinct-averages](https://github.com/imrajeevnayan/leetcode-solution/tree/main/2465-number-of-distinct-averages/) | Easy |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/imrajeevnayan/leetcode-solution/tree/main/2657-find-the-prefix-common-array-of-two-arrays/) | Medium |
 | [2831-find-the-longest-equal-subarray](https://github.com/imrajeevnayan/leetcode-solution/tree/main/2831-find-the-longest-equal-subarray/) | Medium |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/imrajeevnayan/leetcode-solution/tree/main/2913-subarrays-distinct-element-sum-of-squares-i/) | Easy |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/imrajeevnayan/leetcode-solution/tree/main/2958-length-of-longest-subarray-with-at-most-k-frequency/) | Medium |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/imrajeevnayan/leetcode-solution/tree/main/2996-smallest-missing-integer-greater-than-sequential-prefix-sum/) | Easy |
 | [3005-count-elements-with-maximum-frequency](https://github.com/imrajeevnayan/leetcode-solution/tree/main/3005-count-elements-with-maximum-frequency/) | Easy |
@@ -618,6 +620,7 @@
 | ------- | ------- |
 | [0729-my-calendar-i](https://github.com/imrajeevnayan/leetcode-solution/tree/main/0729-my-calendar-i/) | Medium |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/imrajeevnayan/leetcode-solution/tree/main/2213-longest-substring-of-one-repeating-character/) | Hard |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/imrajeevnayan/leetcode-solution/tree/main/2913-subarrays-distinct-element-sum-of-squares-i/) | Easy |
 | [3477-fruits-into-baskets-ii](https://github.com/imrajeevnayan/leetcode-solution/tree/main/3477-fruits-into-baskets-ii/) | Easy |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/imrajeevnayan/leetcode-solution/tree/main/3737-count-subarrays-with-majority-element-i/) | Medium |
 ## Ordered Set
@@ -1162,6 +1165,10 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0169-majority-element](https://github.com/imrajeevnayan/leetcode-solution/tree/main/0169-majority-element/) | Easy |
+## Binary Indexed Tree
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/imrajeevnayan/leetcode-solution/tree/main/2913-subarrays-distinct-element-sum-of-squares-i/) | Easy |
 <!---LeetCode Topics End-->
 | 2 | [Union of Two Sets](https://www.geeksforgeeks.org/problems/union-of-two-arrays3538--171343/1?page=2&category=Hash) | GeeksForGeeks | Easy | 12 Aug 2026 | 05:03 pm |
 | 3 | [Prime Frequencies in Array](https://www.geeksforgeeks.org/problems/numbers-with-prime-frequencies-greater-than-or-equal-to-k5823/1?page=3&category=Hash) | GeeksForGeeks | Easy | 12 Aug 2026 | 05:06 pm |
