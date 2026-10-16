@@ -1,20 +1,24 @@
 class Solution {
-    public int findMin(int[] arr) {
-        int left = 0,right = arr.length - 1,ans = Integer.MAX_VALUE;
-        while (left <= right) {
-            int mid = left + (right - left) / 2;
-            if (arr[mid] > arr[right]) {
+    public int findMin(int[] nums) {
+        int low = 0;
+        int high = nums.length - 1;
+        int ans = Integer.MAX_VALUE;
+        
+        while (low <= high) {
+            int mid = low + (high - low) / 2;
+            
+            // Har step par mid ko potential answer maano
+            ans = Math.min(ans, nums[mid]);
+            
+            if (nums[mid] > nums[high]) {
                 // Minimum right side mein hai
-                left = mid + 1;
+                low = mid + 1;
             } else {
-
-                // arr[mid] minimum ka candidate hai
-                ans = Math.min(ans, arr[mid]);
-
-                // Aur chhota left mein ho sakta hai
-                right = mid - 1;
+                // Minimum left side mein hai (mid included)
+                high = mid - 1;
             }
         }
+        
         return ans;
     }
 }
