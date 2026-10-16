@@ -28,6 +28,7 @@
 | [0137-single-number-ii](https://github.com/imrajeevnayan/leetcode-solution/tree/main/0137-single-number-ii/) | Medium |
 | [0152-maximum-product-subarray](https://github.com/imrajeevnayan/leetcode-solution/tree/main/0152-maximum-product-subarray/) | Medium |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/imrajeevnayan/leetcode-solution/tree/main/0153-find-minimum-in-rotated-sorted-array/) | Medium |
+| [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/imrajeevnayan/leetcode-solution/tree/main/0154-find-minimum-in-rotated-sorted-array-ii/) | Hard |
 | [0162-find-peak-element](https://github.com/imrajeevnayan/leetcode-solution/tree/main/0162-find-peak-element/) | Medium |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/imrajeevnayan/leetcode-solution/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
 | [0169-majority-element](https://github.com/imrajeevnayan/leetcode-solution/tree/main/0169-majority-element/) | Easy |
@@ -447,6 +448,7 @@
 | [0098-validate-binary-search-tree](https://github.com/imrajeevnayan/leetcode-solution/tree/main/0098-validate-binary-search-tree/) | Medium |
 | [0099-recover-binary-search-tree](https://github.com/imrajeevnayan/leetcode-solution/tree/main/0099-recover-binary-search-tree/) | Medium |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/imrajeevnayan/leetcode-solution/tree/main/0153-find-minimum-in-rotated-sorted-array/) | Medium |
+| [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/imrajeevnayan/leetcode-solution/tree/main/0154-find-minimum-in-rotated-sorted-array-ii/) | Hard |
 | [0162-find-peak-element](https://github.com/imrajeevnayan/leetcode-solution/tree/main/0162-find-peak-element/) | Medium |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/imrajeevnayan/leetcode-solution/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
 | [0173-binary-search-tree-iterator](https://github.com/imrajeevnayan/leetcode-solution/tree/main/0173-binary-search-tree-iterator/) | Medium |
