@@ -1,57 +1,33 @@
 class Solution {
     public int reachNumber(int target) {
-        // Symmetry handle karna zaroori hai
-        target = Math.abs(target);
+        target = Math.abs(target); // Negative ko positive kar lo
         
-        // Edge case: agar target 0 hai toh 0 steps
-        if (target == 0) return 0;
+        long low = 1, high = target;
+        long k = 0;
 
-        // Binary Search range define karte hain
-        // Low = 1, High = target (kyunki worst case mein target steps lagenge)
-        long low = 1;
-        long high = target; 
-        long k = 0; // Ye store karega wo minimum steps jo target ko cross karein
-
-        // Binary Search loop: Smallest 'k' dhundna hai jahan sum >= target
+        // 1. Binary Search: Minimum 'k' dhundo jahan Sum >= Target
         while (low <= high) {
             long mid = low + (high - low) / 2;
-            
-            // Sum of first 'mid' integers: mid * (mid + 1) / 2
             long sum = mid * (mid + 1) / 2;
 
             if (sum >= target) {
-                k = mid;       // Ye ek potential answer hai
-                high = mid - 1; // Ab chote values check karte hain taaki minimum mile
+                k = mid;
+                high = mid - 1;
             } else {
-                low = mid + 1; // Sum abhi chota hai, bada k
+                low = mid + 1;
             }
         }
 
-        // Ab 'k' wo minimum steps hai jahan humne target ko cross kiya ya touch kiya
+        // 2. Parity Check
         long sum = k * (k + 1) / 2;
         long diff = sum - target;
 
-        // Parity Check:
-        // Agar difference even hai, toh hum kuch steps flip karke exact target pe pahunch sakte hain
         if (diff % 2 == 0) {
-            return (int) k;
+            return (int) k; // Even hai, toh perfect hai
         } 
         
-        // Agar difference odd hai:
-        // Hume extra steps lene padenge jab tak difference even na ho jaye
-        // Note: Har naye step se parity change hoti hai.
-        // Agar k odd hai, toh next step (k+1) even hoga -> diff odd + even = odd (still odd)
-        // Toh hume ek aur step lena padega (k+2) -> diff odd + even + odd = even
-        
-        // Simple rule:
-        // If k is even, next step (k+1) is odd. Odd diff + Odd step = Even diff. So ans = k + 1
-        // If k is odd, next step (k+1) is even. Odd diff + Even step = Odd diff. 
-        // Then step (k+2) is odd. Odd diff + Odd step = Even diff. So ans = k + 2
-        
-        if (k % 2 == 0) {
-            return (int) (k + 1);
-        } else {
-            return (int) (k + 2);
-        }
+        // Odd hai, toh next steps check karo
+        // Rule: Agar k even hai toh +1 step, agar k odd hai toh +2 steps
+        return (k % 2 == 0) ? (int)(k + 1) : (int)(k + 2);
     }
 }
