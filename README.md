@@ -468,6 +468,7 @@
 | [0718-maximum-length-of-repeated-subarray](https://github.com/imrajeevnayan/leetcode-solution/tree/main/0718-maximum-length-of-repeated-subarray/) | Medium |
 | [0729-my-calendar-i](https://github.com/imrajeevnayan/leetcode-solution/tree/main/0729-my-calendar-i/) | Medium |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/imrajeevnayan/leetcode-solution/tree/main/0744-find-smallest-letter-greater-than-target/) | Easy |
+| [0754-reach-a-number](https://github.com/imrajeevnayan/leetcode-solution/tree/main/0754-reach-a-number/) | Medium |
 | [0786-k-th-smallest-prime-fraction](https://github.com/imrajeevnayan/leetcode-solution/tree/main/0786-k-th-smallest-prime-fraction/) | Medium |
 | [0852-peak-index-in-a-mountain-array](https://github.com/imrajeevnayan/leetcode-solution/tree/main/0852-peak-index-in-a-mountain-array/) | Medium |
 | [0981-time-based-key-value-store](https://github.com/imrajeevnayan/leetcode-solution/tree/main/0981-time-based-key-value-store/) | Medium |
@@ -648,6 +649,7 @@
 | [0477-total-hamming-distance](https://github.com/imrajeevnayan/leetcode-solution/tree/main/0477-total-hamming-distance/) | Medium |
 | [0507-perfect-number](https://github.com/imrajeevnayan/leetcode-solution/tree/main/0507-perfect-number/) | Easy |
 | [0509-fibonacci-number](https://github.com/imrajeevnayan/leetcode-solution/tree/main/0509-fibonacci-number/) | Easy |
+| [0754-reach-a-number](https://github.com/imrajeevnayan/leetcode-solution/tree/main/0754-reach-a-number/) | Medium |
 | [0788-rotated-digits](https://github.com/imrajeevnayan/leetcode-solution/tree/main/0788-rotated-digits/) | Medium |
 | [1137-n-th-tribonacci-number](https://github.com/imrajeevnayan/leetcode-solution/tree/main/1137-n-th-tribonacci-number/) | Easy |
 | [1175-prime-arrangements](https://github.com/imrajeevnayan/leetcode-solution/tree/main/1175-prime-arrangements/) | Easy |
