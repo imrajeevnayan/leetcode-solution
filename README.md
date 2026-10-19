@@ -136,6 +136,7 @@
 | [2614-prime-in-diagonal](https://github.com/imrajeevnayan/leetcode-solution/tree/main/2614-prime-in-diagonal/) | Easy |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/imrajeevnayan/leetcode-solution/tree/main/2657-find-the-prefix-common-array-of-two-arrays/) | Medium |
 | [2760-longest-even-odd-subarray-with-threshold](https://github.com/imrajeevnayan/leetcode-solution/tree/main/2760-longest-even-odd-subarray-with-threshold/) | Easy |
+| [2762-continuous-subarrays](https://github.com/imrajeevnayan/leetcode-solution/tree/main/2762-continuous-subarrays/) | Medium |
 | [2778-sum-of-squares-of-special-elements](https://github.com/imrajeevnayan/leetcode-solution/tree/main/2778-sum-of-squares-of-special-elements/) | Easy |
 | [2798-number-of-employees-who-met-the-target](https://github.com/imrajeevnayan/leetcode-solution/tree/main/2798-number-of-employees-who-met-the-target/) | Easy |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/imrajeevnayan/leetcode-solution/tree/main/2824-count-pairs-whose-sum-is-less-than-target/) | Easy |
@@ -527,6 +528,7 @@
 | [2401-longest-nice-subarray](https://github.com/imrajeevnayan/leetcode-solution/tree/main/2401-longest-nice-subarray/) | Medium |
 | [2537-count-the-number-of-good-subarrays](https://github.com/imrajeevnayan/leetcode-solution/tree/main/2537-count-the-number-of-good-subarrays/) | Medium |
 | [2760-longest-even-odd-subarray-with-threshold](https://github.com/imrajeevnayan/leetcode-solution/tree/main/2760-longest-even-odd-subarray-with-threshold/) | Easy |
+| [2762-continuous-subarrays](https://github.com/imrajeevnayan/leetcode-solution/tree/main/2762-continuous-subarrays/) | Medium |
 | [2831-find-the-longest-equal-subarray](https://github.com/imrajeevnayan/leetcode-solution/tree/main/2831-find-the-longest-equal-subarray/) | Medium |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/imrajeevnayan/leetcode-solution/tree/main/2904-shortest-and-lexicographically-smallest-beautiful-string/) | Medium |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/imrajeevnayan/leetcode-solution/tree/main/2958-length-of-longest-subarray-with-at-most-k-frequency/) | Medium |
@@ -655,6 +657,7 @@
 | ------- | ------- |
 | [0729-my-calendar-i](https://github.com/imrajeevnayan/leetcode-solution/tree/main/0729-my-calendar-i/) | Medium |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/imrajeevnayan/leetcode-solution/tree/main/2213-longest-substring-of-one-repeating-character/) | Hard |
+| [2762-continuous-subarrays](https://github.com/imrajeevnayan/leetcode-solution/tree/main/2762-continuous-subarrays/) | Medium |
 | [3477-fruits-into-baskets-ii](https://github.com/imrajeevnayan/leetcode-solution/tree/main/3477-fruits-into-baskets-ii/) | Easy |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/imrajeevnayan/leetcode-solution/tree/main/3507-minimum-pair-removal-to-sort-array-i/) | Easy |
 ## Math
@@ -927,6 +930,7 @@
 | ------- | ------- |
 | [0225-implement-stack-using-queues](https://github.com/imrajeevnayan/leetcode-solution/tree/main/0225-implement-stack-using-queues/) | Easy |
 | [0918-maximum-sum-circular-subarray](https://github.com/imrajeevnayan/leetcode-solution/tree/main/0918-maximum-sum-circular-subarray/) | Medium |
+| [2762-continuous-subarrays](https://github.com/imrajeevnayan/leetcode-solution/tree/main/2762-continuous-subarrays/) | Medium |
 ## Heap (Priority Queue)
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -936,6 +940,7 @@
 | [0451-sort-characters-by-frequency](https://github.com/imrajeevnayan/leetcode-solution/tree/main/0451-sort-characters-by-frequency/) | Medium |
 | [0786-k-th-smallest-prime-fraction](https://github.com/imrajeevnayan/leetcode-solution/tree/main/0786-k-th-smallest-prime-fraction/) | Medium |
 | [2333-minimum-sum-of-squared-difference](https://github.com/imrajeevnayan/leetcode-solution/tree/main/2333-minimum-sum-of-squared-difference/) | Medium |
+| [2762-continuous-subarrays](https://github.com/imrajeevnayan/leetcode-solution/tree/main/2762-continuous-subarrays/) | Medium |
 | [2974-minimum-number-game](https://github.com/imrajeevnayan/leetcode-solution/tree/main/2974-minimum-number-game/) | Easy |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/imrajeevnayan/leetcode-solution/tree/main/3507-minimum-pair-removal-to-sort-array-i/) | Easy |
 ## Combinatorics
@@ -1080,6 +1085,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0918-maximum-sum-circular-subarray](https://github.com/imrajeevnayan/leetcode-solution/tree/main/0918-maximum-sum-circular-subarray/) | Medium |
+| [2762-continuous-subarrays](https://github.com/imrajeevnayan/leetcode-solution/tree/main/2762-continuous-subarrays/) | Medium |
 ## Hash Function
 | Problem Name | Difficulty |
 | ------- | ------- |
