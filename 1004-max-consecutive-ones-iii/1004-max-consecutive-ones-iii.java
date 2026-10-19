@@ -1,16 +1,28 @@
 class Solution {
     public int longestOnes(int[] nums, int k) {
-        int left = 0, zeros = 0, ans = 0;
+         int left = 0;
+        int zeroCount = 0;
+        int maxLen = 0;
 
         for (int right = 0; right < nums.length; right++) {
-            if (nums[right] == 0) zeros++;
+            // Agar 0 mila, toh count badhao
+            if (nums[right] == 0) {
+                zeroCount++;
+            }
 
-            while (zeros > k) {
-                if (nums[left] == 0) zeros--;
+            // Agar zeros ki count k se zyada ho gayi, toh window shrink karo
+            while (zeroCount > k) {
+                if (nums[left] == 0) {
+                    zeroCount--;
+                }
                 left++;
             }
-            ans = Math.max(ans, right - left + 1);
+
+            // Current window ki length calculate karo
+            maxLen = Math.max(maxLen, right - left + 1);
         }
-        return ans;
+
+        return maxLen;
+        
     }
 }
