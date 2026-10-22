@@ -48,6 +48,7 @@
 | [0283-move-zeroes](https://github.com/imrajeevnayan/leetcode-solution/tree/main/0283-move-zeroes/) | Easy |
 | [0287-find-the-duplicate-number](https://github.com/imrajeevnayan/leetcode-solution/tree/main/0287-find-the-duplicate-number/) | Medium |
 | [0303-range-sum-query-immutable](https://github.com/imrajeevnayan/leetcode-solution/tree/main/0303-range-sum-query-immutable/) | Easy |
+| [0318-maximum-product-of-word-lengths](https://github.com/imrajeevnayan/leetcode-solution/tree/main/0318-maximum-product-of-word-lengths/) | Medium |
 | [0347-top-k-frequent-elements](https://github.com/imrajeevnayan/leetcode-solution/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [0349-intersection-of-two-arrays](https://github.com/imrajeevnayan/leetcode-solution/tree/main/0349-intersection-of-two-arrays/) | Easy |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/imrajeevnayan/leetcode-solution/tree/main/0378-kth-smallest-element-in-a-sorted-matrix/) | Medium |
@@ -176,6 +177,7 @@
 | [0260-single-number-iii](https://github.com/imrajeevnayan/leetcode-solution/tree/main/0260-single-number-iii/) | Medium |
 | [0268-missing-number](https://github.com/imrajeevnayan/leetcode-solution/tree/main/0268-missing-number/) | Easy |
 | [0287-find-the-duplicate-number](https://github.com/imrajeevnayan/leetcode-solution/tree/main/0287-find-the-duplicate-number/) | Medium |
+| [0318-maximum-product-of-word-lengths](https://github.com/imrajeevnayan/leetcode-solution/tree/main/0318-maximum-product-of-word-lengths/) | Medium |
 | [0477-total-hamming-distance](https://github.com/imrajeevnayan/leetcode-solution/tree/main/0477-total-hamming-distance/) | Medium |
 | [1177-can-make-palindrome-from-substring](https://github.com/imrajeevnayan/leetcode-solution/tree/main/1177-can-make-palindrome-from-substring/) | Medium |
 | [1310-xor-queries-of-a-subarray](https://github.com/imrajeevnayan/leetcode-solution/tree/main/1310-xor-queries-of-a-subarray/) | Medium |
@@ -588,6 +590,7 @@
 | [0257-binary-tree-paths](https://github.com/imrajeevnayan/leetcode-solution/tree/main/0257-binary-tree-paths/) | Easy |
 | [0290-word-pattern](https://github.com/imrajeevnayan/leetcode-solution/tree/main/0290-word-pattern/) | Easy |
 | [0301-remove-invalid-parentheses](https://github.com/imrajeevnayan/leetcode-solution/tree/main/0301-remove-invalid-parentheses/) | Hard |
+| [0318-maximum-product-of-word-lengths](https://github.com/imrajeevnayan/leetcode-solution/tree/main/0318-maximum-product-of-word-lengths/) | Medium |
 | [0344-reverse-string](https://github.com/imrajeevnayan/leetcode-solution/tree/main/0344-reverse-string/) | Easy |
 | [0345-reverse-vowels-of-a-string](https://github.com/imrajeevnayan/leetcode-solution/tree/main/0345-reverse-vowels-of-a-string/) | Easy |
 | [0383-ransom-note](https://github.com/imrajeevnayan/leetcode-solution/tree/main/0383-ransom-note/) | Easy |
