@@ -617,6 +617,7 @@
 | [1347-minimum-number-of-steps-to-make-two-strings-anagram](https://github.com/imrajeevnayan/leetcode-solution/tree/main/1347-minimum-number-of-steps-to-make-two-strings-anagram/) | Medium |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/imrajeevnayan/leetcode-solution/tree/main/1358-number-of-substrings-containing-all-three-characters/) | Medium |
 | [1374-generate-a-string-with-characters-that-have-odd-counts](https://github.com/imrajeevnayan/leetcode-solution/tree/main/1374-generate-a-string-with-characters-that-have-odd-counts/) | Easy |
+| [1405-longest-happy-string](https://github.com/imrajeevnayan/leetcode-solution/tree/main/1405-longest-happy-string/) | Medium |
 | [1446-consecutive-characters](https://github.com/imrajeevnayan/leetcode-solution/tree/main/1446-consecutive-characters/) | Easy |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/imrajeevnayan/leetcode-solution/tree/main/1456-maximum-number-of-vowels-in-a-substring-of-given-length/) | Medium |
 | [1528-shuffle-string](https://github.com/imrajeevnayan/leetcode-solution/tree/main/1528-shuffle-string/) | Easy |
@@ -747,6 +748,7 @@
 | [1221-split-a-string-in-balanced-strings](https://github.com/imrajeevnayan/leetcode-solution/tree/main/1221-split-a-string-in-balanced-strings/) | Easy |
 | [1323-maximum-69-number](https://github.com/imrajeevnayan/leetcode-solution/tree/main/1323-maximum-69-number/) | Easy |
 | [1386-cinema-seat-allocation](https://github.com/imrajeevnayan/leetcode-solution/tree/main/1386-cinema-seat-allocation/) | Medium |
+| [1405-longest-happy-string](https://github.com/imrajeevnayan/leetcode-solution/tree/main/1405-longest-happy-string/) | Medium |
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/imrajeevnayan/leetcode-solution/tree/main/1541-minimum-insertions-to-balance-a-parentheses-string/) | Medium |
 | [1927-sum-game](https://github.com/imrajeevnayan/leetcode-solution/tree/main/1927-sum-game/) | Medium |
 | [2037-minimum-number-of-moves-to-seat-everyone](https://github.com/imrajeevnayan/leetcode-solution/tree/main/2037-minimum-number-of-moves-to-seat-everyone/) | Easy |
@@ -943,6 +945,7 @@
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/imrajeevnayan/leetcode-solution/tree/main/0378-kth-smallest-element-in-a-sorted-matrix/) | Medium |
 | [0451-sort-characters-by-frequency](https://github.com/imrajeevnayan/leetcode-solution/tree/main/0451-sort-characters-by-frequency/) | Medium |
 | [0786-k-th-smallest-prime-fraction](https://github.com/imrajeevnayan/leetcode-solution/tree/main/0786-k-th-smallest-prime-fraction/) | Medium |
+| [1405-longest-happy-string](https://github.com/imrajeevnayan/leetcode-solution/tree/main/1405-longest-happy-string/) | Medium |
 | [2333-minimum-sum-of-squared-difference](https://github.com/imrajeevnayan/leetcode-solution/tree/main/2333-minimum-sum-of-squared-difference/) | Medium |
 | [2762-continuous-subarrays](https://github.com/imrajeevnayan/leetcode-solution/tree/main/2762-continuous-subarrays/) | Medium |
 | [2974-minimum-number-game](https://github.com/imrajeevnayan/leetcode-solution/tree/main/2974-minimum-number-game/) | Easy |
