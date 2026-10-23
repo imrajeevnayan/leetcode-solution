@@ -42,6 +42,7 @@
 | [0219-contains-duplicate-ii](https://github.com/imrajeevnayan/leetcode-solution/tree/main/0219-contains-duplicate-ii/) | Easy |
 | [0228-summary-ranges](https://github.com/imrajeevnayan/leetcode-solution/tree/main/0228-summary-ranges/) | Easy |
 | [0238-product-of-array-except-self](https://github.com/imrajeevnayan/leetcode-solution/tree/main/0238-product-of-array-except-self/) | Medium |
+| [0239-sliding-window-maximum](https://github.com/imrajeevnayan/leetcode-solution/tree/main/0239-sliding-window-maximum/) | Hard |
 | [0240-search-a-2d-matrix-ii](https://github.com/imrajeevnayan/leetcode-solution/tree/main/0240-search-a-2d-matrix-ii/) | Medium |
 | [0260-single-number-iii](https://github.com/imrajeevnayan/leetcode-solution/tree/main/0260-single-number-iii/) | Medium |
 | [0268-missing-number](https://github.com/imrajeevnayan/leetcode-solution/tree/main/0268-missing-number/) | Easy |
@@ -517,6 +518,7 @@
 | [0003-longest-substring-without-repeating-characters](https://github.com/imrajeevnayan/leetcode-solution/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
 | [0209-minimum-size-subarray-sum](https://github.com/imrajeevnayan/leetcode-solution/tree/main/0209-minimum-size-subarray-sum/) | Medium |
 | [0219-contains-duplicate-ii](https://github.com/imrajeevnayan/leetcode-solution/tree/main/0219-contains-duplicate-ii/) | Easy |
+| [0239-sliding-window-maximum](https://github.com/imrajeevnayan/leetcode-solution/tree/main/0239-sliding-window-maximum/) | Hard |
 | [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/imrajeevnayan/leetcode-solution/tree/main/0395-longest-substring-with-at-least-k-repeating-characters/) | Medium |
 | [0643-maximum-average-subarray-i](https://github.com/imrajeevnayan/leetcode-solution/tree/main/0643-maximum-average-subarray-i/) | Easy |
 | [0713-subarray-product-less-than-k](https://github.com/imrajeevnayan/leetcode-solution/tree/main/0713-subarray-product-less-than-k/) | Medium |
@@ -943,12 +945,14 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0225-implement-stack-using-queues](https://github.com/imrajeevnayan/leetcode-solution/tree/main/0225-implement-stack-using-queues/) | Easy |
+| [0239-sliding-window-maximum](https://github.com/imrajeevnayan/leetcode-solution/tree/main/0239-sliding-window-maximum/) | Hard |
 | [0918-maximum-sum-circular-subarray](https://github.com/imrajeevnayan/leetcode-solution/tree/main/0918-maximum-sum-circular-subarray/) | Medium |
 | [2762-continuous-subarrays](https://github.com/imrajeevnayan/leetcode-solution/tree/main/2762-continuous-subarrays/) | Medium |
 ## Heap (Priority Queue)
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/imrajeevnayan/leetcode-solution/tree/main/0023-merge-k-sorted-lists/) | Hard |
+| [0239-sliding-window-maximum](https://github.com/imrajeevnayan/leetcode-solution/tree/main/0239-sliding-window-maximum/) | Hard |
 | [0347-top-k-frequent-elements](https://github.com/imrajeevnayan/leetcode-solution/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/imrajeevnayan/leetcode-solution/tree/main/0378-kth-smallest-element-in-a-sorted-matrix/) | Medium |
 | [0451-sort-characters-by-frequency](https://github.com/imrajeevnayan/leetcode-solution/tree/main/0451-sort-characters-by-frequency/) | Medium |
@@ -1099,6 +1103,7 @@
 ## Monotonic Queue
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0239-sliding-window-maximum](https://github.com/imrajeevnayan/leetcode-solution/tree/main/0239-sliding-window-maximum/) | Hard |
 | [0918-maximum-sum-circular-subarray](https://github.com/imrajeevnayan/leetcode-solution/tree/main/0918-maximum-sum-circular-subarray/) | Medium |
 | [2762-continuous-subarrays](https://github.com/imrajeevnayan/leetcode-solution/tree/main/2762-continuous-subarrays/) | Medium |
 ## Hash Function
@@ -1233,6 +1238,10 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/imrajeevnayan/leetcode-solution/tree/main/1569-number-of-ways-to-reorder-array-to-get-same-bst/) | Hard |
+## Range Minimum/Maximum Query
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0239-sliding-window-maximum](https://github.com/imrajeevnayan/leetcode-solution/tree/main/0239-sliding-window-maximum/) | Hard |
 <!---LeetCode Topics End-->
 | 2 | [Union of Two Sets](https://www.geeksforgeeks.org/problems/union-of-two-arrays3538--171343/1?page=2&category=Hash) | GeeksForGeeks | Easy | 12 Aug 2026 | 05:03 pm |
 | 3 | [Prime Frequencies in Array](https://www.geeksforgeeks.org/problems/numbers-with-prime-frequencies-greater-than-or-equal-to-k5823/1?page=3&category=Hash) | GeeksForGeeks | Easy | 12 Aug 2026 | 05:06 pm |
