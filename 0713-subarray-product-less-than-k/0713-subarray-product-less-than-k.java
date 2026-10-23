@@ -1,6 +1,7 @@
 class Solution {
     public int numSubarrayProductLessThanK(int[] nums, int k) {
         // Edge case: Agar k <= 1 hai, toh koi bhi positive number ka product 1 se chota nahi ho sakta
+        
         if (k <= 1) return 0;
         
         int left = 0;
