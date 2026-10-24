@@ -625,6 +625,7 @@
 | [1297-maximum-number-of-occurrences-of-a-substring](https://github.com/imrajeevnayan/leetcode-solution/tree/main/1297-maximum-number-of-occurrences-of-a-substring/) | Medium |
 | [1347-minimum-number-of-steps-to-make-two-strings-anagram](https://github.com/imrajeevnayan/leetcode-solution/tree/main/1347-minimum-number-of-steps-to-make-two-strings-anagram/) | Medium |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/imrajeevnayan/leetcode-solution/tree/main/1358-number-of-substrings-containing-all-three-characters/) | Medium |
+| [1360-number-of-days-between-two-dates](https://github.com/imrajeevnayan/leetcode-solution/tree/main/1360-number-of-days-between-two-dates/) | Easy |
 | [1374-generate-a-string-with-characters-that-have-odd-counts](https://github.com/imrajeevnayan/leetcode-solution/tree/main/1374-generate-a-string-with-characters-that-have-odd-counts/) | Easy |
 | [1405-longest-happy-string](https://github.com/imrajeevnayan/leetcode-solution/tree/main/1405-longest-happy-string/) | Medium |
 | [1446-consecutive-characters](https://github.com/imrajeevnayan/leetcode-solution/tree/main/1446-consecutive-characters/) | Easy |
@@ -696,6 +697,7 @@
 | [1175-prime-arrangements](https://github.com/imrajeevnayan/leetcode-solution/tree/main/1175-prime-arrangements/) | Easy |
 | [1323-maximum-69-number](https://github.com/imrajeevnayan/leetcode-solution/tree/main/1323-maximum-69-number/) | Easy |
 | [1352-product-of-the-last-k-numbers](https://github.com/imrajeevnayan/leetcode-solution/tree/main/1352-product-of-the-last-k-numbers/) | Medium |
+| [1360-number-of-days-between-two-dates](https://github.com/imrajeevnayan/leetcode-solution/tree/main/1360-number-of-days-between-two-dates/) | Easy |
 | [1563-stone-game-v](https://github.com/imrajeevnayan/leetcode-solution/tree/main/1563-stone-game-v/) | Hard |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/imrajeevnayan/leetcode-solution/tree/main/1569-number-of-ways-to-reorder-array-to-get-same-bst/) | Hard |
 | [1611-minimum-one-bit-operations-to-make-integers-zero](https://github.com/imrajeevnayan/leetcode-solution/tree/main/1611-minimum-one-bit-operations-to-make-integers-zero/) | Hard |
