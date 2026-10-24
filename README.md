@@ -659,6 +659,7 @@
 | [3498-reverse-degree-of-a-string](https://github.com/imrajeevnayan/leetcode-solution/tree/main/3498-reverse-degree-of-a-string/) | Easy |
 | [3692-majority-frequency-characters](https://github.com/imrajeevnayan/leetcode-solution/tree/main/3692-majority-frequency-characters/) | Easy |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/imrajeevnayan/leetcode-solution/tree/main/3720-lexicographically-smallest-permutation-greater-than-target/) | Medium |
+| [3775-reverse-words-with-same-vowel-count](https://github.com/imrajeevnayan/leetcode-solution/tree/main/3775-reverse-words-with-same-vowel-count/) | Medium |
 | [3794-reverse-string-prefix](https://github.com/imrajeevnayan/leetcode-solution/tree/main/3794-reverse-string-prefix/) | Easy |
 ## Segment Tree
 | Problem Name | Difficulty |
@@ -840,6 +841,7 @@
 | [3477-fruits-into-baskets-ii](https://github.com/imrajeevnayan/leetcode-solution/tree/main/3477-fruits-into-baskets-ii/) | Easy |
 | [3498-reverse-degree-of-a-string](https://github.com/imrajeevnayan/leetcode-solution/tree/main/3498-reverse-degree-of-a-string/) | Easy |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/imrajeevnayan/leetcode-solution/tree/main/3507-minimum-pair-removal-to-sort-array-i/) | Easy |
+| [3775-reverse-words-with-same-vowel-count](https://github.com/imrajeevnayan/leetcode-solution/tree/main/3775-reverse-words-with-same-vowel-count/) | Medium |
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -880,6 +882,7 @@
 | [2465-number-of-distinct-averages](https://github.com/imrajeevnayan/leetcode-solution/tree/main/2465-number-of-distinct-averages/) | Easy |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/imrajeevnayan/leetcode-solution/tree/main/2824-count-pairs-whose-sum-is-less-than-target/) | Easy |
 | [3194-minimum-average-of-smallest-and-largest-elements](https://github.com/imrajeevnayan/leetcode-solution/tree/main/3194-minimum-average-of-smallest-and-largest-elements/) | Easy |
+| [3775-reverse-words-with-same-vowel-count](https://github.com/imrajeevnayan/leetcode-solution/tree/main/3775-reverse-words-with-same-vowel-count/) | Medium |
 | [3794-reverse-string-prefix](https://github.com/imrajeevnayan/leetcode-solution/tree/main/3794-reverse-string-prefix/) | Easy |
 ## Linked List
 | Problem Name | Difficulty |
