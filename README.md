@@ -645,6 +645,7 @@
 | [2213-longest-substring-of-one-repeating-character](https://github.com/imrajeevnayan/leetcode-solution/tree/main/2213-longest-substring-of-one-repeating-character/) | Hard |
 | [2325-decode-the-message](https://github.com/imrajeevnayan/leetcode-solution/tree/main/2325-decode-the-message/) | Easy |
 | [2379-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/imrajeevnayan/leetcode-solution/tree/main/2379-minimum-recolors-to-get-k-consecutive-black-blocks/) | Easy |
+| [2409-count-days-spent-together](https://github.com/imrajeevnayan/leetcode-solution/tree/main/2409-count-days-spent-together/) | Easy |
 | [2559-count-vowel-strings-in-ranges](https://github.com/imrajeevnayan/leetcode-solution/tree/main/2559-count-vowel-strings-in-ranges/) | Medium |
 | [2810-faulty-keyboard](https://github.com/imrajeevnayan/leetcode-solution/tree/main/2810-faulty-keyboard/) | Easy |
 | [2864-maximum-odd-binary-number](https://github.com/imrajeevnayan/leetcode-solution/tree/main/2864-maximum-odd-binary-number/) | Easy |
@@ -707,6 +708,7 @@
 | [1872-stone-game-viii](https://github.com/imrajeevnayan/leetcode-solution/tree/main/1872-stone-game-viii/) | Hard |
 | [1927-sum-game](https://github.com/imrajeevnayan/leetcode-solution/tree/main/1927-sum-game/) | Medium |
 | [2235-add-two-integers](https://github.com/imrajeevnayan/leetcode-solution/tree/main/2235-add-two-integers/) | Easy |
+| [2409-count-days-spent-together](https://github.com/imrajeevnayan/leetcode-solution/tree/main/2409-count-days-spent-together/) | Easy |
 | [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/imrajeevnayan/leetcode-solution/tree/main/2535-difference-between-element-sum-and-digit-sum-of-an-array/) | Easy |
 | [2614-prime-in-diagonal](https://github.com/imrajeevnayan/leetcode-solution/tree/main/2614-prime-in-diagonal/) | Easy |
 | [2864-maximum-odd-binary-number](https://github.com/imrajeevnayan/leetcode-solution/tree/main/2864-maximum-odd-binary-number/) | Easy |
