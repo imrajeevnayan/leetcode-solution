@@ -92,6 +92,7 @@
 | [1023-camelcase-matching](https://github.com/imrajeevnayan/leetcode-solution/tree/main/1023-camelcase-matching/) | Medium |
 | [1051-height-checker](https://github.com/imrajeevnayan/leetcode-solution/tree/main/1051-height-checker/) | Easy |
 | [1177-can-make-palindrome-from-substring](https://github.com/imrajeevnayan/leetcode-solution/tree/main/1177-can-make-palindrome-from-substring/) | Medium |
+| [1254-number-of-closed-islands](https://github.com/imrajeevnayan/leetcode-solution/tree/main/1254-number-of-closed-islands/) | Medium |
 | [1310-xor-queries-of-a-subarray](https://github.com/imrajeevnayan/leetcode-solution/tree/main/1310-xor-queries-of-a-subarray/) | Medium |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/imrajeevnayan/leetcode-solution/tree/main/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold/) | Medium |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/imrajeevnayan/leetcode-solution/tree/main/1351-count-negative-numbers-in-a-sorted-matrix/) | Easy |
@@ -829,6 +830,7 @@
 | [0547-number-of-provinces](https://github.com/imrajeevnayan/leetcode-solution/tree/main/0547-number-of-provinces/) | Medium |
 | [0684-redundant-connection](https://github.com/imrajeevnayan/leetcode-solution/tree/main/0684-redundant-connection/) | Medium |
 | [0785-is-graph-bipartite](https://github.com/imrajeevnayan/leetcode-solution/tree/main/0785-is-graph-bipartite/) | Medium |
+| [1254-number-of-closed-islands](https://github.com/imrajeevnayan/leetcode-solution/tree/main/1254-number-of-closed-islands/) | Medium |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/imrajeevnayan/leetcode-solution/tree/main/1569-number-of-ways-to-reorder-array-to-get-same-bst/) | Hard |
 | [1971-find-if-path-exists-in-graph](https://github.com/imrajeevnayan/leetcode-solution/tree/main/1971-find-if-path-exists-in-graph/) | Easy |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/imrajeevnayan/leetcode-solution/tree/main/2948-make-lexicographically-smallest-array-by-swapping-elements/) | Medium |
@@ -1060,6 +1062,7 @@
 | [0965-univalued-binary-tree](https://github.com/imrajeevnayan/leetcode-solution/tree/main/0965-univalued-binary-tree/) | Easy |
 | [1022-sum-of-root-to-leaf-binary-numbers](https://github.com/imrajeevnayan/leetcode-solution/tree/main/1022-sum-of-root-to-leaf-binary-numbers/) | Easy |
 | [1123-lowest-common-ancestor-of-deepest-leaves](https://github.com/imrajeevnayan/leetcode-solution/tree/main/1123-lowest-common-ancestor-of-deepest-leaves/) | Medium |
+| [1254-number-of-closed-islands](https://github.com/imrajeevnayan/leetcode-solution/tree/main/1254-number-of-closed-islands/) | Medium |
 | [1325-delete-leaves-with-a-given-value](https://github.com/imrajeevnayan/leetcode-solution/tree/main/1325-delete-leaves-with-a-given-value/) | Medium |
 | [1339-maximum-product-of-splitted-binary-tree](https://github.com/imrajeevnayan/leetcode-solution/tree/main/1339-maximum-product-of-splitted-binary-tree/) | Medium |
 | [1971-find-if-path-exists-in-graph](https://github.com/imrajeevnayan/leetcode-solution/tree/main/1971-find-if-path-exists-in-graph/) | Easy |
@@ -1088,6 +1091,7 @@
 | [0965-univalued-binary-tree](https://github.com/imrajeevnayan/leetcode-solution/tree/main/0965-univalued-binary-tree/) | Easy |
 | [1096-brace-expansion-ii](https://github.com/imrajeevnayan/leetcode-solution/tree/main/1096-brace-expansion-ii/) | Hard |
 | [1123-lowest-common-ancestor-of-deepest-leaves](https://github.com/imrajeevnayan/leetcode-solution/tree/main/1123-lowest-common-ancestor-of-deepest-leaves/) | Medium |
+| [1254-number-of-closed-islands](https://github.com/imrajeevnayan/leetcode-solution/tree/main/1254-number-of-closed-islands/) | Medium |
 | [1971-find-if-path-exists-in-graph](https://github.com/imrajeevnayan/leetcode-solution/tree/main/1971-find-if-path-exists-in-graph/) | Easy |
 ## Interactive
 | Problem Name | Difficulty |
@@ -1112,6 +1116,7 @@
 | [0733-flood-fill](https://github.com/imrajeevnayan/leetcode-solution/tree/main/0733-flood-fill/) | Easy |
 | [0835-image-overlap](https://github.com/imrajeevnayan/leetcode-solution/tree/main/0835-image-overlap/) | Medium |
 | [0867-transpose-matrix](https://github.com/imrajeevnayan/leetcode-solution/tree/main/0867-transpose-matrix/) | Easy |
+| [1254-number-of-closed-islands](https://github.com/imrajeevnayan/leetcode-solution/tree/main/1254-number-of-closed-islands/) | Medium |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/imrajeevnayan/leetcode-solution/tree/main/1351-count-negative-numbers-in-a-sorted-matrix/) | Easy |
 | [1572-matrix-diagonal-sum](https://github.com/imrajeevnayan/leetcode-solution/tree/main/1572-matrix-diagonal-sum/) | Easy |
 | [1672-richest-customer-wealth](https://github.com/imrajeevnayan/leetcode-solution/tree/main/1672-richest-customer-wealth/) | Easy |
