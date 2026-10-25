@@ -556,6 +556,7 @@
 | [0175-combine-two-tables](https://github.com/imrajeevnayan/leetcode-solution/tree/main/0175-combine-two-tables/) | Easy |
 | [0176-second-highest-salary](https://github.com/imrajeevnayan/leetcode-solution/tree/main/0176-second-highest-salary/) | Medium |
 | [0177-nth-highest-salary](https://github.com/imrajeevnayan/leetcode-solution/tree/main/0177-nth-highest-salary/) | Medium |
+| [0178-rank-scores](https://github.com/imrajeevnayan/leetcode-solution/tree/main/0178-rank-scores/) | Medium |
 | [0180-consecutive-numbers](https://github.com/imrajeevnayan/leetcode-solution/tree/main/0180-consecutive-numbers/) | Medium |
 | [0181-employees-earning-more-than-their-managers](https://github.com/imrajeevnayan/leetcode-solution/tree/main/0181-employees-earning-more-than-their-managers/) | Easy |
 | [0182-duplicate-emails](https://github.com/imrajeevnayan/leetcode-solution/tree/main/0182-duplicate-emails/) | Easy |
