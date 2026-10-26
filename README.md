@@ -86,6 +86,7 @@
 | [0923-3sum-with-multiplicity](https://github.com/imrajeevnayan/leetcode-solution/tree/main/0923-3sum-with-multiplicity/) | Medium |
 | [0929-unique-email-addresses](https://github.com/imrajeevnayan/leetcode-solution/tree/main/0929-unique-email-addresses/) | Easy |
 | [0930-binary-subarrays-with-sum](https://github.com/imrajeevnayan/leetcode-solution/tree/main/0930-binary-subarrays-with-sum/) | Medium |
+| [0983-minimum-cost-for-tickets](https://github.com/imrajeevnayan/leetcode-solution/tree/main/0983-minimum-cost-for-tickets/) | Medium |
 | [0992-subarrays-with-k-different-integers](https://github.com/imrajeevnayan/leetcode-solution/tree/main/0992-subarrays-with-k-different-integers/) | Hard |
 | [0997-find-the-town-judge](https://github.com/imrajeevnayan/leetcode-solution/tree/main/0997-find-the-town-judge/) | Easy |
 | [1004-max-consecutive-ones-iii](https://github.com/imrajeevnayan/leetcode-solution/tree/main/1004-max-consecutive-ones-iii/) | Medium |
@@ -763,6 +764,7 @@
 | [0788-rotated-digits](https://github.com/imrajeevnayan/leetcode-solution/tree/main/0788-rotated-digits/) | Medium |
 | [0834-sum-of-distances-in-tree](https://github.com/imrajeevnayan/leetcode-solution/tree/main/0834-sum-of-distances-in-tree/) | Hard |
 | [0918-maximum-sum-circular-subarray](https://github.com/imrajeevnayan/leetcode-solution/tree/main/0918-maximum-sum-circular-subarray/) | Medium |
+| [0983-minimum-cost-for-tickets](https://github.com/imrajeevnayan/leetcode-solution/tree/main/0983-minimum-cost-for-tickets/) | Medium |
 | [1137-n-th-tribonacci-number](https://github.com/imrajeevnayan/leetcode-solution/tree/main/1137-n-th-tribonacci-number/) | Easy |
 | [1563-stone-game-v](https://github.com/imrajeevnayan/leetcode-solution/tree/main/1563-stone-game-v/) | Hard |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/imrajeevnayan/leetcode-solution/tree/main/1569-number-of-ways-to-reorder-array-to-get-same-bst/) | Hard |
