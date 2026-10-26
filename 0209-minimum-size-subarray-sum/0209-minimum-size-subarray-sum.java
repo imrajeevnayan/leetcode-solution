@@ -14,7 +14,6 @@ class Solution {
                 left++; // Window shrink karo
             }
         }
-        
         // Agar minLen same hai, toh koi answer nahi mila
         return (minLen == Integer.MAX_VALUE) ? 0 : minLen;
     }
