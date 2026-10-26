@@ -605,6 +605,7 @@
 | [0032-longest-valid-parentheses](https://github.com/imrajeevnayan/leetcode-solution/tree/main/0032-longest-valid-parentheses/) | Hard |
 | [0043-multiply-strings](https://github.com/imrajeevnayan/leetcode-solution/tree/main/0043-multiply-strings/) | Medium |
 | [0049-group-anagrams](https://github.com/imrajeevnayan/leetcode-solution/tree/main/0049-group-anagrams/) | Medium |
+| [0091-decode-ways](https://github.com/imrajeevnayan/leetcode-solution/tree/main/0091-decode-ways/) | Medium |
 | [0125-valid-palindrome](https://github.com/imrajeevnayan/leetcode-solution/tree/main/0125-valid-palindrome/) | Easy |
 | [0151-reverse-words-in-a-string](https://github.com/imrajeevnayan/leetcode-solution/tree/main/0151-reverse-words-in-a-string/) | Medium |
 | [0205-isomorphic-strings](https://github.com/imrajeevnayan/leetcode-solution/tree/main/0205-isomorphic-strings/) | Easy |
@@ -746,6 +747,7 @@
 | [0053-maximum-subarray](https://github.com/imrajeevnayan/leetcode-solution/tree/main/0053-maximum-subarray/) | Medium |
 | [0062-unique-paths](https://github.com/imrajeevnayan/leetcode-solution/tree/main/0062-unique-paths/) | Medium |
 | [0070-climbing-stairs](https://github.com/imrajeevnayan/leetcode-solution/tree/main/0070-climbing-stairs/) | Easy |
+| [0091-decode-ways](https://github.com/imrajeevnayan/leetcode-solution/tree/main/0091-decode-ways/) | Medium |
 | [0124-binary-tree-maximum-path-sum](https://github.com/imrajeevnayan/leetcode-solution/tree/main/0124-binary-tree-maximum-path-sum/) | Hard |
 | [0152-maximum-product-subarray](https://github.com/imrajeevnayan/leetcode-solution/tree/main/0152-maximum-product-subarray/) | Medium |
 | [0198-house-robber](https://github.com/imrajeevnayan/leetcode-solution/tree/main/0198-house-robber/) | Medium |
