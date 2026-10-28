@@ -134,6 +134,7 @@
 | [2094-finding-3-digit-even-numbers](https://github.com/imrajeevnayan/leetcode-solution/tree/main/2094-finding-3-digit-even-numbers/) | Easy |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/imrajeevnayan/leetcode-solution/tree/main/2213-longest-substring-of-one-repeating-character/) | Hard |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/imrajeevnayan/leetcode-solution/tree/main/2267-check-if-there-is-a-valid-parentheses-string-path/) | Hard |
+| [2300-successful-pairs-of-spells-and-potions](https://github.com/imrajeevnayan/leetcode-solution/tree/main/2300-successful-pairs-of-spells-and-potions/) | Medium |
 | [2333-minimum-sum-of-squared-difference](https://github.com/imrajeevnayan/leetcode-solution/tree/main/2333-minimum-sum-of-squared-difference/) | Medium |
 | [2395-find-subarrays-with-equal-sum](https://github.com/imrajeevnayan/leetcode-solution/tree/main/2395-find-subarrays-with-equal-sum/) | Easy |
 | [2401-longest-nice-subarray](https://github.com/imrajeevnayan/leetcode-solution/tree/main/2401-longest-nice-subarray/) | Medium |
@@ -332,6 +333,7 @@
 | [2037-minimum-number-of-moves-to-seat-everyone](https://github.com/imrajeevnayan/leetcode-solution/tree/main/2037-minimum-number-of-moves-to-seat-everyone/) | Easy |
 | [2089-find-target-indices-after-sorting-array](https://github.com/imrajeevnayan/leetcode-solution/tree/main/2089-find-target-indices-after-sorting-array/) | Easy |
 | [2094-finding-3-digit-even-numbers](https://github.com/imrajeevnayan/leetcode-solution/tree/main/2094-finding-3-digit-even-numbers/) | Easy |
+| [2300-successful-pairs-of-spells-and-potions](https://github.com/imrajeevnayan/leetcode-solution/tree/main/2300-successful-pairs-of-spells-and-potions/) | Medium |
 | [2333-minimum-sum-of-squared-difference](https://github.com/imrajeevnayan/leetcode-solution/tree/main/2333-minimum-sum-of-squared-difference/) | Medium |
 | [2465-number-of-distinct-averages](https://github.com/imrajeevnayan/leetcode-solution/tree/main/2465-number-of-distinct-averages/) | Easy |
 | [2545-sort-the-students-by-their-kth-score](https://github.com/imrajeevnayan/leetcode-solution/tree/main/2545-sort-the-students-by-their-kth-score/) | Medium |
@@ -523,6 +525,7 @@
 | [1608-special-array-with-x-elements-greater-than-or-equal-x](https://github.com/imrajeevnayan/leetcode-solution/tree/main/1608-special-array-with-x-elements-greater-than-or-equal-x/) | Easy |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/imrajeevnayan/leetcode-solution/tree/main/1658-minimum-operations-to-reduce-x-to-zero/) | Medium |
 | [2089-find-target-indices-after-sorting-array](https://github.com/imrajeevnayan/leetcode-solution/tree/main/2089-find-target-indices-after-sorting-array/) | Easy |
+| [2300-successful-pairs-of-spells-and-potions](https://github.com/imrajeevnayan/leetcode-solution/tree/main/2300-successful-pairs-of-spells-and-potions/) | Medium |
 | [2333-minimum-sum-of-squared-difference](https://github.com/imrajeevnayan/leetcode-solution/tree/main/2333-minimum-sum-of-squared-difference/) | Medium |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/imrajeevnayan/leetcode-solution/tree/main/2529-maximum-count-of-positive-integer-and-negative-integer/) | Easy |
 | [2560-house-robber-iv](https://github.com/imrajeevnayan/leetcode-solution/tree/main/2560-house-robber-iv/) | Medium |
@@ -910,6 +913,7 @@
 | [1750-minimum-length-of-string-after-deleting-similar-ends](https://github.com/imrajeevnayan/leetcode-solution/tree/main/1750-minimum-length-of-string-after-deleting-similar-ends/) | Medium |
 | [1813-sentence-similarity-iii](https://github.com/imrajeevnayan/leetcode-solution/tree/main/1813-sentence-similarity-iii/) | Medium |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/imrajeevnayan/leetcode-solution/tree/main/2130-maximum-twin-sum-of-a-linked-list/) | Medium |
+| [2300-successful-pairs-of-spells-and-potions](https://github.com/imrajeevnayan/leetcode-solution/tree/main/2300-successful-pairs-of-spells-and-potions/) | Medium |
 | [2465-number-of-distinct-averages](https://github.com/imrajeevnayan/leetcode-solution/tree/main/2465-number-of-distinct-averages/) | Easy |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/imrajeevnayan/leetcode-solution/tree/main/2824-count-pairs-whose-sum-is-less-than-target/) | Easy |
 | [3194-minimum-average-of-smallest-and-largest-elements](https://github.com/imrajeevnayan/leetcode-solution/tree/main/3194-minimum-average-of-smallest-and-largest-elements/) | Easy |
