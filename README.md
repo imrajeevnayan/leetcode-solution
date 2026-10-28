@@ -88,6 +88,7 @@
 | [0923-3sum-with-multiplicity](https://github.com/imrajeevnayan/leetcode-solution/tree/main/0923-3sum-with-multiplicity/) | Medium |
 | [0929-unique-email-addresses](https://github.com/imrajeevnayan/leetcode-solution/tree/main/0929-unique-email-addresses/) | Easy |
 | [0930-binary-subarrays-with-sum](https://github.com/imrajeevnayan/leetcode-solution/tree/main/0930-binary-subarrays-with-sum/) | Medium |
+| [0950-reveal-cards-in-increasing-order](https://github.com/imrajeevnayan/leetcode-solution/tree/main/0950-reveal-cards-in-increasing-order/) | Medium |
 | [0983-minimum-cost-for-tickets](https://github.com/imrajeevnayan/leetcode-solution/tree/main/0983-minimum-cost-for-tickets/) | Medium |
 | [0992-subarrays-with-k-different-integers](https://github.com/imrajeevnayan/leetcode-solution/tree/main/0992-subarrays-with-k-different-integers/) | Hard |
 | [0997-find-the-town-judge](https://github.com/imrajeevnayan/leetcode-solution/tree/main/0997-find-the-town-judge/) | Easy |
@@ -327,6 +328,7 @@
 | [0532-k-diff-pairs-in-an-array](https://github.com/imrajeevnayan/leetcode-solution/tree/main/0532-k-diff-pairs-in-an-array/) | Medium |
 | [0786-k-th-smallest-prime-fraction](https://github.com/imrajeevnayan/leetcode-solution/tree/main/0786-k-th-smallest-prime-fraction/) | Medium |
 | [0923-3sum-with-multiplicity](https://github.com/imrajeevnayan/leetcode-solution/tree/main/0923-3sum-with-multiplicity/) | Medium |
+| [0950-reveal-cards-in-increasing-order](https://github.com/imrajeevnayan/leetcode-solution/tree/main/0950-reveal-cards-in-increasing-order/) | Medium |
 | [1051-height-checker](https://github.com/imrajeevnayan/leetcode-solution/tree/main/1051-height-checker/) | Easy |
 | [1096-brace-expansion-ii](https://github.com/imrajeevnayan/leetcode-solution/tree/main/1096-brace-expansion-ii/) | Hard |
 | [1608-special-array-with-x-elements-greater-than-or-equal-x](https://github.com/imrajeevnayan/leetcode-solution/tree/main/1608-special-array-with-x-elements-greater-than-or-equal-x/) | Easy |
@@ -864,6 +866,7 @@
 | [0054-spiral-matrix](https://github.com/imrajeevnayan/leetcode-solution/tree/main/0054-spiral-matrix/) | Medium |
 | [0566-reshape-the-matrix](https://github.com/imrajeevnayan/leetcode-solution/tree/main/0566-reshape-the-matrix/) | Easy |
 | [0867-transpose-matrix](https://github.com/imrajeevnayan/leetcode-solution/tree/main/0867-transpose-matrix/) | Easy |
+| [0950-reveal-cards-in-increasing-order](https://github.com/imrajeevnayan/leetcode-solution/tree/main/0950-reveal-cards-in-increasing-order/) | Medium |
 | [1441-build-an-array-with-stack-operations](https://github.com/imrajeevnayan/leetcode-solution/tree/main/1441-build-an-array-with-stack-operations/) | Medium |
 | [1603-design-parking-system](https://github.com/imrajeevnayan/leetcode-solution/tree/main/1603-design-parking-system/) | Easy |
 | [1688-count-of-matches-in-tournament](https://github.com/imrajeevnayan/leetcode-solution/tree/main/1688-count-of-matches-in-tournament/) | Easy |
@@ -993,6 +996,7 @@
 | [0239-sliding-window-maximum](https://github.com/imrajeevnayan/leetcode-solution/tree/main/0239-sliding-window-maximum/) | Hard |
 | [0641-design-circular-deque](https://github.com/imrajeevnayan/leetcode-solution/tree/main/0641-design-circular-deque/) | Medium |
 | [0918-maximum-sum-circular-subarray](https://github.com/imrajeevnayan/leetcode-solution/tree/main/0918-maximum-sum-circular-subarray/) | Medium |
+| [0950-reveal-cards-in-increasing-order](https://github.com/imrajeevnayan/leetcode-solution/tree/main/0950-reveal-cards-in-increasing-order/) | Medium |
 | [2762-continuous-subarrays](https://github.com/imrajeevnayan/leetcode-solution/tree/main/2762-continuous-subarrays/) | Medium |
 ## Heap (Priority Queue)
 | Problem Name | Difficulty |
