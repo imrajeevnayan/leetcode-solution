@@ -140,6 +140,7 @@
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/imrajeevnayan/leetcode-solution/tree/main/2267-check-if-there-is-a-valid-parentheses-string-path/) | Hard |
 | [2300-successful-pairs-of-spells-and-potions](https://github.com/imrajeevnayan/leetcode-solution/tree/main/2300-successful-pairs-of-spells-and-potions/) | Medium |
 | [2333-minimum-sum-of-squared-difference](https://github.com/imrajeevnayan/leetcode-solution/tree/main/2333-minimum-sum-of-squared-difference/) | Medium |
+| [2364-count-number-of-bad-pairs](https://github.com/imrajeevnayan/leetcode-solution/tree/main/2364-count-number-of-bad-pairs/) | Medium |
 | [2395-find-subarrays-with-equal-sum](https://github.com/imrajeevnayan/leetcode-solution/tree/main/2395-find-subarrays-with-equal-sum/) | Easy |
 | [2401-longest-nice-subarray](https://github.com/imrajeevnayan/leetcode-solution/tree/main/2401-longest-nice-subarray/) | Medium |
 | [2465-number-of-distinct-averages](https://github.com/imrajeevnayan/leetcode-solution/tree/main/2465-number-of-distinct-averages/) | Easy |
@@ -291,6 +292,7 @@
 | [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/imrajeevnayan/leetcode-solution/tree/main/2006-count-number-of-pairs-with-absolute-difference-k/) | Easy |
 | [2094-finding-3-digit-even-numbers](https://github.com/imrajeevnayan/leetcode-solution/tree/main/2094-finding-3-digit-even-numbers/) | Easy |
 | [2325-decode-the-message](https://github.com/imrajeevnayan/leetcode-solution/tree/main/2325-decode-the-message/) | Easy |
+| [2364-count-number-of-bad-pairs](https://github.com/imrajeevnayan/leetcode-solution/tree/main/2364-count-number-of-bad-pairs/) | Medium |
 | [2395-find-subarrays-with-equal-sum](https://github.com/imrajeevnayan/leetcode-solution/tree/main/2395-find-subarrays-with-equal-sum/) | Easy |
 | [2465-number-of-distinct-averages](https://github.com/imrajeevnayan/leetcode-solution/tree/main/2465-number-of-distinct-averages/) | Easy |
 | [2537-count-the-number-of-good-subarrays](https://github.com/imrajeevnayan/leetcode-solution/tree/main/2537-count-the-number-of-good-subarrays/) | Medium |
@@ -744,6 +746,7 @@
 | [1872-stone-game-viii](https://github.com/imrajeevnayan/leetcode-solution/tree/main/1872-stone-game-viii/) | Hard |
 | [1927-sum-game](https://github.com/imrajeevnayan/leetcode-solution/tree/main/1927-sum-game/) | Medium |
 | [2235-add-two-integers](https://github.com/imrajeevnayan/leetcode-solution/tree/main/2235-add-two-integers/) | Easy |
+| [2364-count-number-of-bad-pairs](https://github.com/imrajeevnayan/leetcode-solution/tree/main/2364-count-number-of-bad-pairs/) | Medium |
 | [2409-count-days-spent-together](https://github.com/imrajeevnayan/leetcode-solution/tree/main/2409-count-days-spent-together/) | Easy |
 | [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/imrajeevnayan/leetcode-solution/tree/main/2535-difference-between-element-sum-and-digit-sum-of-an-array/) | Easy |
 | [2614-prime-in-diagonal](https://github.com/imrajeevnayan/leetcode-solution/tree/main/2614-prime-in-diagonal/) | Easy |
@@ -836,6 +839,7 @@
 | [1726-tuple-with-same-product](https://github.com/imrajeevnayan/leetcode-solution/tree/main/1726-tuple-with-same-product/) | Medium |
 | [1814-count-nice-pairs-in-an-array](https://github.com/imrajeevnayan/leetcode-solution/tree/main/1814-count-nice-pairs-in-an-array/) | Medium |
 | [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/imrajeevnayan/leetcode-solution/tree/main/2006-count-number-of-pairs-with-absolute-difference-k/) | Easy |
+| [2364-count-number-of-bad-pairs](https://github.com/imrajeevnayan/leetcode-solution/tree/main/2364-count-number-of-bad-pairs/) | Medium |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/imrajeevnayan/leetcode-solution/tree/main/2529-maximum-count-of-positive-integer-and-negative-integer/) | Easy |
 | [3005-count-elements-with-maximum-frequency](https://github.com/imrajeevnayan/leetcode-solution/tree/main/3005-count-elements-with-maximum-frequency/) | Easy |
 | [3467-transform-array-by-parity](https://github.com/imrajeevnayan/leetcode-solution/tree/main/3467-transform-array-by-parity/) | Easy |
