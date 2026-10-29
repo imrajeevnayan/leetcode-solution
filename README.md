@@ -142,6 +142,7 @@
 | [2395-find-subarrays-with-equal-sum](https://github.com/imrajeevnayan/leetcode-solution/tree/main/2395-find-subarrays-with-equal-sum/) | Easy |
 | [2401-longest-nice-subarray](https://github.com/imrajeevnayan/leetcode-solution/tree/main/2401-longest-nice-subarray/) | Medium |
 | [2465-number-of-distinct-averages](https://github.com/imrajeevnayan/leetcode-solution/tree/main/2465-number-of-distinct-averages/) | Easy |
+| [2482-difference-between-ones-and-zeros-in-row-and-column](https://github.com/imrajeevnayan/leetcode-solution/tree/main/2482-difference-between-ones-and-zeros-in-row-and-column/) | Medium |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/imrajeevnayan/leetcode-solution/tree/main/2529-maximum-count-of-positive-integer-and-negative-integer/) | Easy |
 | [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/imrajeevnayan/leetcode-solution/tree/main/2535-difference-between-element-sum-and-digit-sum-of-an-array/) | Easy |
 | [2537-count-the-number-of-good-subarrays](https://github.com/imrajeevnayan/leetcode-solution/tree/main/2537-count-the-number-of-good-subarrays/) | Medium |
@@ -877,6 +878,7 @@
 | [1603-design-parking-system](https://github.com/imrajeevnayan/leetcode-solution/tree/main/1603-design-parking-system/) | Easy |
 | [1688-count-of-matches-in-tournament](https://github.com/imrajeevnayan/leetcode-solution/tree/main/1688-count-of-matches-in-tournament/) | Easy |
 | [1920-build-array-from-permutation](https://github.com/imrajeevnayan/leetcode-solution/tree/main/1920-build-array-from-permutation/) | Easy |
+| [2482-difference-between-ones-and-zeros-in-row-and-column](https://github.com/imrajeevnayan/leetcode-solution/tree/main/2482-difference-between-ones-and-zeros-in-row-and-column/) | Medium |
 | [2810-faulty-keyboard](https://github.com/imrajeevnayan/leetcode-solution/tree/main/2810-faulty-keyboard/) | Easy |
 | [2974-minimum-number-game](https://github.com/imrajeevnayan/leetcode-solution/tree/main/2974-minimum-number-game/) | Easy |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/imrajeevnayan/leetcode-solution/tree/main/3069-distribute-elements-into-two-arrays-i/) | Easy |
@@ -1163,6 +1165,7 @@
 | [1572-matrix-diagonal-sum](https://github.com/imrajeevnayan/leetcode-solution/tree/main/1572-matrix-diagonal-sum/) | Easy |
 | [1672-richest-customer-wealth](https://github.com/imrajeevnayan/leetcode-solution/tree/main/1672-richest-customer-wealth/) | Easy |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/imrajeevnayan/leetcode-solution/tree/main/2267-check-if-there-is-a-valid-parentheses-string-path/) | Hard |
+| [2482-difference-between-ones-and-zeros-in-row-and-column](https://github.com/imrajeevnayan/leetcode-solution/tree/main/2482-difference-between-ones-and-zeros-in-row-and-column/) | Medium |
 | [2545-sort-the-students-by-their-kth-score](https://github.com/imrajeevnayan/leetcode-solution/tree/main/2545-sort-the-students-by-their-kth-score/) | Medium |
 | [2614-prime-in-diagonal](https://github.com/imrajeevnayan/leetcode-solution/tree/main/2614-prime-in-diagonal/) | Easy |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/imrajeevnayan/leetcode-solution/tree/main/3619-count-islands-with-total-value-divisible-by-k/) | Medium |
