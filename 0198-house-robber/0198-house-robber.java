@@ -1,6 +1,5 @@
 class Solution {
     public int amount(int[] nums, int i, int[] dp) {
-        // Base Case: Agar index array se bahar chala gaya, toh 0 return karo
         if (i >= nums.length) return 0;
         
         // Memoization Step: Agar pehle se calculate hai, toh direct return karo
