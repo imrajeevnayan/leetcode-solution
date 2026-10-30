@@ -115,6 +115,7 @@
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/imrajeevnayan/leetcode-solution/tree/main/1569-number-of-ways-to-reorder-array-to-get-same-bst/) | Hard |
 | [1572-matrix-diagonal-sum](https://github.com/imrajeevnayan/leetcode-solution/tree/main/1572-matrix-diagonal-sum/) | Easy |
 | [1608-special-array-with-x-elements-greater-than-or-equal-x](https://github.com/imrajeevnayan/leetcode-solution/tree/main/1608-special-array-with-x-elements-greater-than-or-equal-x/) | Easy |
+| [1637-widest-vertical-area-between-two-points-containing-no-points](https://github.com/imrajeevnayan/leetcode-solution/tree/main/1637-widest-vertical-area-between-two-points-containing-no-points/) | Easy |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/imrajeevnayan/leetcode-solution/tree/main/1658-minimum-operations-to-reduce-x-to-zero/) | Medium |
 | [1672-richest-customer-wealth](https://github.com/imrajeevnayan/leetcode-solution/tree/main/1672-richest-customer-wealth/) | Easy |
 | [1679-max-number-of-k-sum-pairs](https://github.com/imrajeevnayan/leetcode-solution/tree/main/1679-max-number-of-k-sum-pairs/) | Medium |
@@ -339,6 +340,7 @@
 | [1051-height-checker](https://github.com/imrajeevnayan/leetcode-solution/tree/main/1051-height-checker/) | Easy |
 | [1096-brace-expansion-ii](https://github.com/imrajeevnayan/leetcode-solution/tree/main/1096-brace-expansion-ii/) | Hard |
 | [1608-special-array-with-x-elements-greater-than-or-equal-x](https://github.com/imrajeevnayan/leetcode-solution/tree/main/1608-special-array-with-x-elements-greater-than-or-equal-x/) | Easy |
+| [1637-widest-vertical-area-between-two-points-containing-no-points](https://github.com/imrajeevnayan/leetcode-solution/tree/main/1637-widest-vertical-area-between-two-points-containing-no-points/) | Easy |
 | [1679-max-number-of-k-sum-pairs](https://github.com/imrajeevnayan/leetcode-solution/tree/main/1679-max-number-of-k-sum-pairs/) | Medium |
 | [2037-minimum-number-of-moves-to-seat-everyone](https://github.com/imrajeevnayan/leetcode-solution/tree/main/2037-minimum-number-of-moves-to-seat-everyone/) | Easy |
 | [2089-find-target-indices-after-sorting-array](https://github.com/imrajeevnayan/leetcode-solution/tree/main/2089-find-target-indices-after-sorting-array/) | Easy |
