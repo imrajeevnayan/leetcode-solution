@@ -345,6 +345,7 @@
 | [2037-minimum-number-of-moves-to-seat-everyone](https://github.com/imrajeevnayan/leetcode-solution/tree/main/2037-minimum-number-of-moves-to-seat-everyone/) | Easy |
 | [2089-find-target-indices-after-sorting-array](https://github.com/imrajeevnayan/leetcode-solution/tree/main/2089-find-target-indices-after-sorting-array/) | Easy |
 | [2094-finding-3-digit-even-numbers](https://github.com/imrajeevnayan/leetcode-solution/tree/main/2094-finding-3-digit-even-numbers/) | Easy |
+| [2160-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/imrajeevnayan/leetcode-solution/tree/main/2160-minimum-sum-of-four-digit-number-after-splitting-digits/) | Easy |
 | [2300-successful-pairs-of-spells-and-potions](https://github.com/imrajeevnayan/leetcode-solution/tree/main/2300-successful-pairs-of-spells-and-potions/) | Medium |
 | [2333-minimum-sum-of-squared-difference](https://github.com/imrajeevnayan/leetcode-solution/tree/main/2333-minimum-sum-of-squared-difference/) | Medium |
 | [2465-number-of-distinct-averages](https://github.com/imrajeevnayan/leetcode-solution/tree/main/2465-number-of-distinct-averages/) | Easy |
@@ -749,6 +750,7 @@
 | [1863-sum-of-all-subset-xor-totals](https://github.com/imrajeevnayan/leetcode-solution/tree/main/1863-sum-of-all-subset-xor-totals/) | Easy |
 | [1872-stone-game-viii](https://github.com/imrajeevnayan/leetcode-solution/tree/main/1872-stone-game-viii/) | Hard |
 | [1927-sum-game](https://github.com/imrajeevnayan/leetcode-solution/tree/main/1927-sum-game/) | Medium |
+| [2160-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/imrajeevnayan/leetcode-solution/tree/main/2160-minimum-sum-of-four-digit-number-after-splitting-digits/) | Easy |
 | [2235-add-two-integers](https://github.com/imrajeevnayan/leetcode-solution/tree/main/2235-add-two-integers/) | Easy |
 | [2364-count-number-of-bad-pairs](https://github.com/imrajeevnayan/leetcode-solution/tree/main/2364-count-number-of-bad-pairs/) | Medium |
 | [2409-count-days-spent-together](https://github.com/imrajeevnayan/leetcode-solution/tree/main/2409-count-days-spent-together/) | Easy |
@@ -817,6 +819,7 @@
 | [1927-sum-game](https://github.com/imrajeevnayan/leetcode-solution/tree/main/1927-sum-game/) | Medium |
 | [2037-minimum-number-of-moves-to-seat-everyone](https://github.com/imrajeevnayan/leetcode-solution/tree/main/2037-minimum-number-of-moves-to-seat-everyone/) | Easy |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/imrajeevnayan/leetcode-solution/tree/main/2091-removing-minimum-and-maximum-from-array/) | Medium |
+| [2160-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/imrajeevnayan/leetcode-solution/tree/main/2160-minimum-sum-of-four-digit-number-after-splitting-digits/) | Easy |
 | [2333-minimum-sum-of-squared-difference](https://github.com/imrajeevnayan/leetcode-solution/tree/main/2333-minimum-sum-of-squared-difference/) | Medium |
 | [2405-optimal-partition-of-string](https://github.com/imrajeevnayan/leetcode-solution/tree/main/2405-optimal-partition-of-string/) | Medium |
 | [2560-house-robber-iv](https://github.com/imrajeevnayan/leetcode-solution/tree/main/2560-house-robber-iv/) | Medium |
