@@ -24,6 +24,7 @@
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/imrajeevnayan/leetcode-solution/tree/main/0081-search-in-rotated-sorted-array-ii/) | Medium |
 | [0088-merge-sorted-array](https://github.com/imrajeevnayan/leetcode-solution/tree/main/0088-merge-sorted-array/) | Easy |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/imrajeevnayan/leetcode-solution/tree/main/0105-construct-binary-tree-from-preorder-and-inorder-traversal/) | Medium |
+| [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/imrajeevnayan/leetcode-solution/tree/main/0106-construct-binary-tree-from-inorder-and-postorder-traversal/) | Medium |
 | [0128-longest-consecutive-sequence](https://github.com/imrajeevnayan/leetcode-solution/tree/main/0128-longest-consecutive-sequence/) | Medium |
 | [0134-gas-station](https://github.com/imrajeevnayan/leetcode-solution/tree/main/0134-gas-station/) | Medium |
 | [0136-single-number](https://github.com/imrajeevnayan/leetcode-solution/tree/main/0136-single-number/) | Easy |
@@ -246,6 +247,7 @@
 | [0003-longest-substring-without-repeating-characters](https://github.com/imrajeevnayan/leetcode-solution/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
 | [0049-group-anagrams](https://github.com/imrajeevnayan/leetcode-solution/tree/main/0049-group-anagrams/) | Medium |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/imrajeevnayan/leetcode-solution/tree/main/0105-construct-binary-tree-from-preorder-and-inorder-traversal/) | Medium |
+| [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/imrajeevnayan/leetcode-solution/tree/main/0106-construct-binary-tree-from-inorder-and-postorder-traversal/) | Medium |
 | [0128-longest-consecutive-sequence](https://github.com/imrajeevnayan/leetcode-solution/tree/main/0128-longest-consecutive-sequence/) | Medium |
 | [0141-linked-list-cycle](https://github.com/imrajeevnayan/leetcode-solution/tree/main/0141-linked-list-cycle/) | Easy |
 | [0142-linked-list-cycle-ii](https://github.com/imrajeevnayan/leetcode-solution/tree/main/0142-linked-list-cycle-ii/) | Medium |
@@ -368,6 +370,7 @@
 | [0023-merge-k-sorted-lists](https://github.com/imrajeevnayan/leetcode-solution/tree/main/0023-merge-k-sorted-lists/) | Hard |
 | [0053-maximum-subarray](https://github.com/imrajeevnayan/leetcode-solution/tree/main/0053-maximum-subarray/) | Medium |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/imrajeevnayan/leetcode-solution/tree/main/0105-construct-binary-tree-from-preorder-and-inorder-traversal/) | Medium |
+| [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/imrajeevnayan/leetcode-solution/tree/main/0106-construct-binary-tree-from-inorder-and-postorder-traversal/) | Medium |
 | [0169-majority-element](https://github.com/imrajeevnayan/leetcode-solution/tree/main/0169-majority-element/) | Easy |
 | [0191-number-of-1-bits](https://github.com/imrajeevnayan/leetcode-solution/tree/main/0191-number-of-1-bits/) | Easy |
 | [0240-search-a-2d-matrix-ii](https://github.com/imrajeevnayan/leetcode-solution/tree/main/0240-search-a-2d-matrix-ii/) | Medium |
@@ -424,6 +427,7 @@
 | [0102-binary-tree-level-order-traversal](https://github.com/imrajeevnayan/leetcode-solution/tree/main/0102-binary-tree-level-order-traversal/) | Medium |
 | [0104-maximum-depth-of-binary-tree](https://github.com/imrajeevnayan/leetcode-solution/tree/main/0104-maximum-depth-of-binary-tree/) | Easy |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/imrajeevnayan/leetcode-solution/tree/main/0105-construct-binary-tree-from-preorder-and-inorder-traversal/) | Medium |
+| [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/imrajeevnayan/leetcode-solution/tree/main/0106-construct-binary-tree-from-inorder-and-postorder-traversal/) | Medium |
 | [0110-balanced-binary-tree](https://github.com/imrajeevnayan/leetcode-solution/tree/main/0110-balanced-binary-tree/) | Easy |
 | [0112-path-sum](https://github.com/imrajeevnayan/leetcode-solution/tree/main/0112-path-sum/) | Easy |
 | [0124-binary-tree-maximum-path-sum](https://github.com/imrajeevnayan/leetcode-solution/tree/main/0124-binary-tree-maximum-path-sum/) | Hard |
@@ -473,6 +477,7 @@
 | [0102-binary-tree-level-order-traversal](https://github.com/imrajeevnayan/leetcode-solution/tree/main/0102-binary-tree-level-order-traversal/) | Medium |
 | [0104-maximum-depth-of-binary-tree](https://github.com/imrajeevnayan/leetcode-solution/tree/main/0104-maximum-depth-of-binary-tree/) | Easy |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/imrajeevnayan/leetcode-solution/tree/main/0105-construct-binary-tree-from-preorder-and-inorder-traversal/) | Medium |
+| [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/imrajeevnayan/leetcode-solution/tree/main/0106-construct-binary-tree-from-inorder-and-postorder-traversal/) | Medium |
 | [0110-balanced-binary-tree](https://github.com/imrajeevnayan/leetcode-solution/tree/main/0110-balanced-binary-tree/) | Easy |
 | [0112-path-sum](https://github.com/imrajeevnayan/leetcode-solution/tree/main/0112-path-sum/) | Easy |
 | [0124-binary-tree-maximum-path-sum](https://github.com/imrajeevnayan/leetcode-solution/tree/main/0124-binary-tree-maximum-path-sum/) | Hard |
