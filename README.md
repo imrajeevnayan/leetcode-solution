@@ -189,6 +189,7 @@
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/imrajeevnayan/leetcode-solution/tree/main/3702-longest-subsequence-with-non-zero-bitwise-xor/) | Medium |
 | [3718-smallest-missing-multiple-of-k](https://github.com/imrajeevnayan/leetcode-solution/tree/main/3718-smallest-missing-multiple-of-k/) | Easy |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/imrajeevnayan/leetcode-solution/tree/main/3727-maximum-alternating-sum-of-squares/) | Medium |
+| [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/imrajeevnayan/leetcode-solution/tree/main/3736-minimum-moves-to-equal-array-elements-iii/) | Easy |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/imrajeevnayan/leetcode-solution/tree/main/3737-count-subarrays-with-majority-element-i/) | Medium |
 | [3898-find-the-degree-of-each-vertex](https://github.com/imrajeevnayan/leetcode-solution/tree/main/3898-find-the-degree-of-each-vertex/) | Easy |
 | [3942-minimum-operations-to-sort-a-permutation](https://github.com/imrajeevnayan/leetcode-solution/tree/main/3942-minimum-operations-to-sort-a-permutation/) | Medium |
@@ -781,6 +782,7 @@
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/imrajeevnayan/leetcode-solution/tree/main/3550-smallest-index-with-digit-sum-equal-to-index/) | Easy |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/imrajeevnayan/leetcode-solution/tree/main/3622-check-divisibility-by-digit-sum-and-product/) | Easy |
 | [3723-maximize-sum-of-squares-of-digits](https://github.com/imrajeevnayan/leetcode-solution/tree/main/3723-maximize-sum-of-squares-of-digits/) | Medium |
+| [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/imrajeevnayan/leetcode-solution/tree/main/3736-minimum-moves-to-equal-array-elements-iii/) | Easy |
 | [3945-digit-frequency-score](https://github.com/imrajeevnayan/leetcode-solution/tree/main/3945-digit-frequency-score/) | Easy |
 ## Dynamic Programming
 | Problem Name | Difficulty |
