@@ -182,6 +182,7 @@
 | [3471-find-the-largest-almost-missing-integer](https://github.com/imrajeevnayan/leetcode-solution/tree/main/3471-find-the-largest-almost-missing-integer/) | Easy |
 | [3477-fruits-into-baskets-ii](https://github.com/imrajeevnayan/leetcode-solution/tree/main/3477-fruits-into-baskets-ii/) | Easy |
 | [3483-unique-3-digit-even-numbers](https://github.com/imrajeevnayan/leetcode-solution/tree/main/3483-unique-3-digit-even-numbers/) | Easy |
+| [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/imrajeevnayan/leetcode-solution/tree/main/3505-minimum-operations-to-make-elements-within-k-subarrays-equal/) | Hard |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/imrajeevnayan/leetcode-solution/tree/main/3507-minimum-pair-removal-to-sort-array-i/) | Easy |
 | [3524-find-x-value-of-array-i](https://github.com/imrajeevnayan/leetcode-solution/tree/main/3524-find-x-value-of-array-i/) | Medium |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/imrajeevnayan/leetcode-solution/tree/main/3550-smallest-index-with-digit-sum-equal-to-index/) | Easy |
@@ -318,6 +319,7 @@
 | [3162-find-the-number-of-good-pairs-i](https://github.com/imrajeevnayan/leetcode-solution/tree/main/3162-find-the-number-of-good-pairs-i/) | Easy |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/imrajeevnayan/leetcode-solution/tree/main/3471-find-the-largest-almost-missing-integer/) | Easy |
 | [3483-unique-3-digit-even-numbers](https://github.com/imrajeevnayan/leetcode-solution/tree/main/3483-unique-3-digit-even-numbers/) | Easy |
+| [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/imrajeevnayan/leetcode-solution/tree/main/3505-minimum-operations-to-make-elements-within-k-subarrays-equal/) | Hard |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/imrajeevnayan/leetcode-solution/tree/main/3507-minimum-pair-removal-to-sort-array-i/) | Easy |
 | [3692-majority-frequency-characters](https://github.com/imrajeevnayan/leetcode-solution/tree/main/3692-majority-frequency-characters/) | Easy |
 | [3718-smallest-missing-multiple-of-k](https://github.com/imrajeevnayan/leetcode-solution/tree/main/3718-smallest-missing-multiple-of-k/) | Easy |
@@ -595,6 +597,7 @@
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/imrajeevnayan/leetcode-solution/tree/main/2904-shortest-and-lexicographically-smallest-beautiful-string/) | Medium |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/imrajeevnayan/leetcode-solution/tree/main/2958-length-of-longest-subarray-with-at-most-k-frequency/) | Medium |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/imrajeevnayan/leetcode-solution/tree/main/3090-maximum-length-substring-with-two-occurrences/) | Easy |
+| [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/imrajeevnayan/leetcode-solution/tree/main/3505-minimum-operations-to-make-elements-within-k-subarrays-equal/) | Hard |
 ## Database
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -782,6 +785,7 @@
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/imrajeevnayan/leetcode-solution/tree/main/3116-kth-smallest-amount-with-single-denomination-combination/) | Hard |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/imrajeevnayan/leetcode-solution/tree/main/3432-count-partitions-with-even-sum-difference/) | Easy |
 | [3461-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/imrajeevnayan/leetcode-solution/tree/main/3461-check-if-digits-are-equal-in-string-after-operations-i/) | Easy |
+| [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/imrajeevnayan/leetcode-solution/tree/main/3505-minimum-operations-to-make-elements-within-k-subarrays-equal/) | Hard |
 | [3524-find-x-value-of-array-i](https://github.com/imrajeevnayan/leetcode-solution/tree/main/3524-find-x-value-of-array-i/) | Medium |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/imrajeevnayan/leetcode-solution/tree/main/3550-smallest-index-with-digit-sum-equal-to-index/) | Easy |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/imrajeevnayan/leetcode-solution/tree/main/3622-check-divisibility-by-digit-sum-and-product/) | Easy |
@@ -820,6 +824,7 @@
 | [1872-stone-game-viii](https://github.com/imrajeevnayan/leetcode-solution/tree/main/1872-stone-game-viii/) | Hard |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/imrajeevnayan/leetcode-solution/tree/main/2267-check-if-there-is-a-valid-parentheses-string-path/) | Hard |
 | [2560-house-robber-iv](https://github.com/imrajeevnayan/leetcode-solution/tree/main/2560-house-robber-iv/) | Medium |
+| [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/imrajeevnayan/leetcode-solution/tree/main/3505-minimum-operations-to-make-elements-within-k-subarrays-equal/) | Hard |
 | [3524-find-x-value-of-array-i](https://github.com/imrajeevnayan/leetcode-solution/tree/main/3524-find-x-value-of-array-i/) | Medium |
 | [3665-twisted-mirror-path-count](https://github.com/imrajeevnayan/leetcode-solution/tree/main/3665-twisted-mirror-path-count/) | Medium |
 ## Greedy
@@ -1060,6 +1065,7 @@
 | [2333-minimum-sum-of-squared-difference](https://github.com/imrajeevnayan/leetcode-solution/tree/main/2333-minimum-sum-of-squared-difference/) | Medium |
 | [2762-continuous-subarrays](https://github.com/imrajeevnayan/leetcode-solution/tree/main/2762-continuous-subarrays/) | Medium |
 | [2974-minimum-number-game](https://github.com/imrajeevnayan/leetcode-solution/tree/main/2974-minimum-number-game/) | Easy |
+| [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/imrajeevnayan/leetcode-solution/tree/main/3505-minimum-operations-to-make-elements-within-k-subarrays-equal/) | Hard |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/imrajeevnayan/leetcode-solution/tree/main/3507-minimum-pair-removal-to-sort-array-i/) | Easy |
 ## Combinatorics
 | Problem Name | Difficulty |
