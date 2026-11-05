@@ -108,6 +108,7 @@
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/imrajeevnayan/leetcode-solution/tree/main/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold/) | Medium |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/imrajeevnayan/leetcode-solution/tree/main/1351-count-negative-numbers-in-a-sorted-matrix/) | Easy |
 | [1352-product-of-the-last-k-numbers](https://github.com/imrajeevnayan/leetcode-solution/tree/main/1352-product-of-the-last-k-numbers/) | Medium |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/imrajeevnayan/leetcode-solution/tree/main/1385-find-the-distance-value-between-two-arrays/) | Easy |
 | [1386-cinema-seat-allocation](https://github.com/imrajeevnayan/leetcode-solution/tree/main/1386-cinema-seat-allocation/) | Medium |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/imrajeevnayan/leetcode-solution/tree/main/1423-maximum-points-you-can-obtain-from-cards/) | Medium |
 | [1441-build-an-array-with-stack-operations](https://github.com/imrajeevnayan/leetcode-solution/tree/main/1441-build-an-array-with-stack-operations/) | Medium |
@@ -351,6 +352,7 @@
 | [0950-reveal-cards-in-increasing-order](https://github.com/imrajeevnayan/leetcode-solution/tree/main/0950-reveal-cards-in-increasing-order/) | Medium |
 | [1051-height-checker](https://github.com/imrajeevnayan/leetcode-solution/tree/main/1051-height-checker/) | Easy |
 | [1096-brace-expansion-ii](https://github.com/imrajeevnayan/leetcode-solution/tree/main/1096-brace-expansion-ii/) | Hard |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/imrajeevnayan/leetcode-solution/tree/main/1385-find-the-distance-value-between-two-arrays/) | Easy |
 | [1561-maximum-number-of-coins-you-can-get](https://github.com/imrajeevnayan/leetcode-solution/tree/main/1561-maximum-number-of-coins-you-can-get/) | Medium |
 | [1608-special-array-with-x-elements-greater-than-or-equal-x](https://github.com/imrajeevnayan/leetcode-solution/tree/main/1608-special-array-with-x-elements-greater-than-or-equal-x/) | Easy |
 | [1637-widest-vertical-area-between-two-points-containing-no-points](https://github.com/imrajeevnayan/leetcode-solution/tree/main/1637-widest-vertical-area-between-two-points-containing-no-points/) | Easy |
@@ -554,6 +556,7 @@
 | [1004-max-consecutive-ones-iii](https://github.com/imrajeevnayan/leetcode-solution/tree/main/1004-max-consecutive-ones-iii/) | Medium |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/imrajeevnayan/leetcode-solution/tree/main/1008-construct-binary-search-tree-from-preorder-traversal/) | Medium |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/imrajeevnayan/leetcode-solution/tree/main/1351-count-negative-numbers-in-a-sorted-matrix/) | Easy |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/imrajeevnayan/leetcode-solution/tree/main/1385-find-the-distance-value-between-two-arrays/) | Easy |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/imrajeevnayan/leetcode-solution/tree/main/1569-number-of-ways-to-reorder-array-to-get-same-bst/) | Hard |
 | [1608-special-array-with-x-elements-greater-than-or-equal-x](https://github.com/imrajeevnayan/leetcode-solution/tree/main/1608-special-array-with-x-elements-greater-than-or-equal-x/) | Easy |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/imrajeevnayan/leetcode-solution/tree/main/1658-minimum-operations-to-reduce-x-to-zero/) | Medium |
@@ -965,6 +968,7 @@
 | [0876-middle-of-the-linked-list](https://github.com/imrajeevnayan/leetcode-solution/tree/main/0876-middle-of-the-linked-list/) | Easy |
 | [0923-3sum-with-multiplicity](https://github.com/imrajeevnayan/leetcode-solution/tree/main/0923-3sum-with-multiplicity/) | Medium |
 | [1023-camelcase-matching](https://github.com/imrajeevnayan/leetcode-solution/tree/main/1023-camelcase-matching/) | Medium |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/imrajeevnayan/leetcode-solution/tree/main/1385-find-the-distance-value-between-two-arrays/) | Easy |
 | [1679-max-number-of-k-sum-pairs](https://github.com/imrajeevnayan/leetcode-solution/tree/main/1679-max-number-of-k-sum-pairs/) | Medium |
 | [1721-swapping-nodes-in-a-linked-list](https://github.com/imrajeevnayan/leetcode-solution/tree/main/1721-swapping-nodes-in-a-linked-list/) | Medium |
 | [1750-minimum-length-of-string-after-deleting-similar-ends](https://github.com/imrajeevnayan/leetcode-solution/tree/main/1750-minimum-length-of-string-after-deleting-similar-ends/) | Medium |
