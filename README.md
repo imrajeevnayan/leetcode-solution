@@ -104,6 +104,7 @@
 | [1177-can-make-palindrome-from-substring](https://github.com/imrajeevnayan/leetcode-solution/tree/main/1177-can-make-palindrome-from-substring/) | Medium |
 | [1207-unique-number-of-occurrences](https://github.com/imrajeevnayan/leetcode-solution/tree/main/1207-unique-number-of-occurrences/) | Easy |
 | [1254-number-of-closed-islands](https://github.com/imrajeevnayan/leetcode-solution/tree/main/1254-number-of-closed-islands/) | Medium |
+| [1267-count-servers-that-communicate](https://github.com/imrajeevnayan/leetcode-solution/tree/main/1267-count-servers-that-communicate/) | Medium |
 | [1282-group-the-people-given-the-group-size-they-belong-to](https://github.com/imrajeevnayan/leetcode-solution/tree/main/1282-group-the-people-given-the-group-size-they-belong-to/) | Medium |
 | [1310-xor-queries-of-a-subarray](https://github.com/imrajeevnayan/leetcode-solution/tree/main/1310-xor-queries-of-a-subarray/) | Medium |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/imrajeevnayan/leetcode-solution/tree/main/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold/) | Medium |
@@ -882,6 +883,7 @@
 | [0923-3sum-with-multiplicity](https://github.com/imrajeevnayan/leetcode-solution/tree/main/0923-3sum-with-multiplicity/) | Medium |
 | [0992-subarrays-with-k-different-integers](https://github.com/imrajeevnayan/leetcode-solution/tree/main/0992-subarrays-with-k-different-integers/) | Hard |
 | [1221-split-a-string-in-balanced-strings](https://github.com/imrajeevnayan/leetcode-solution/tree/main/1221-split-a-string-in-balanced-strings/) | Easy |
+| [1267-count-servers-that-communicate](https://github.com/imrajeevnayan/leetcode-solution/tree/main/1267-count-servers-that-communicate/) | Medium |
 | [1347-minimum-number-of-steps-to-make-two-strings-anagram](https://github.com/imrajeevnayan/leetcode-solution/tree/main/1347-minimum-number-of-steps-to-make-two-strings-anagram/) | Medium |
 | [1603-design-parking-system](https://github.com/imrajeevnayan/leetcode-solution/tree/main/1603-design-parking-system/) | Easy |
 | [1726-tuple-with-same-product](https://github.com/imrajeevnayan/leetcode-solution/tree/main/1726-tuple-with-same-product/) | Medium |
@@ -916,6 +918,7 @@
 | [0684-redundant-connection](https://github.com/imrajeevnayan/leetcode-solution/tree/main/0684-redundant-connection/) | Medium |
 | [0785-is-graph-bipartite](https://github.com/imrajeevnayan/leetcode-solution/tree/main/0785-is-graph-bipartite/) | Medium |
 | [1254-number-of-closed-islands](https://github.com/imrajeevnayan/leetcode-solution/tree/main/1254-number-of-closed-islands/) | Medium |
+| [1267-count-servers-that-communicate](https://github.com/imrajeevnayan/leetcode-solution/tree/main/1267-count-servers-that-communicate/) | Medium |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/imrajeevnayan/leetcode-solution/tree/main/1569-number-of-ways-to-reorder-array-to-get-same-bst/) | Hard |
 | [1971-find-if-path-exists-in-graph](https://github.com/imrajeevnayan/leetcode-solution/tree/main/1971-find-if-path-exists-in-graph/) | Easy |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/imrajeevnayan/leetcode-solution/tree/main/2948-make-lexicographically-smallest-array-by-swapping-elements/) | Medium |
@@ -1160,6 +1163,7 @@
 | [1022-sum-of-root-to-leaf-binary-numbers](https://github.com/imrajeevnayan/leetcode-solution/tree/main/1022-sum-of-root-to-leaf-binary-numbers/) | Easy |
 | [1123-lowest-common-ancestor-of-deepest-leaves](https://github.com/imrajeevnayan/leetcode-solution/tree/main/1123-lowest-common-ancestor-of-deepest-leaves/) | Medium |
 | [1254-number-of-closed-islands](https://github.com/imrajeevnayan/leetcode-solution/tree/main/1254-number-of-closed-islands/) | Medium |
+| [1267-count-servers-that-communicate](https://github.com/imrajeevnayan/leetcode-solution/tree/main/1267-count-servers-that-communicate/) | Medium |
 | [1325-delete-leaves-with-a-given-value](https://github.com/imrajeevnayan/leetcode-solution/tree/main/1325-delete-leaves-with-a-given-value/) | Medium |
 | [1339-maximum-product-of-splitted-binary-tree](https://github.com/imrajeevnayan/leetcode-solution/tree/main/1339-maximum-product-of-splitted-binary-tree/) | Medium |
 | [1971-find-if-path-exists-in-graph](https://github.com/imrajeevnayan/leetcode-solution/tree/main/1971-find-if-path-exists-in-graph/) | Easy |
@@ -1191,6 +1195,7 @@
 | [1096-brace-expansion-ii](https://github.com/imrajeevnayan/leetcode-solution/tree/main/1096-brace-expansion-ii/) | Hard |
 | [1123-lowest-common-ancestor-of-deepest-leaves](https://github.com/imrajeevnayan/leetcode-solution/tree/main/1123-lowest-common-ancestor-of-deepest-leaves/) | Medium |
 | [1254-number-of-closed-islands](https://github.com/imrajeevnayan/leetcode-solution/tree/main/1254-number-of-closed-islands/) | Medium |
+| [1267-count-servers-that-communicate](https://github.com/imrajeevnayan/leetcode-solution/tree/main/1267-count-servers-that-communicate/) | Medium |
 | [1971-find-if-path-exists-in-graph](https://github.com/imrajeevnayan/leetcode-solution/tree/main/1971-find-if-path-exists-in-graph/) | Easy |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/imrajeevnayan/leetcode-solution/tree/main/3619-count-islands-with-total-value-divisible-by-k/) | Medium |
 ## Interactive
@@ -1218,6 +1223,7 @@
 | [0867-transpose-matrix](https://github.com/imrajeevnayan/leetcode-solution/tree/main/0867-transpose-matrix/) | Easy |
 | [0909-snakes-and-ladders](https://github.com/imrajeevnayan/leetcode-solution/tree/main/0909-snakes-and-ladders/) | Medium |
 | [1254-number-of-closed-islands](https://github.com/imrajeevnayan/leetcode-solution/tree/main/1254-number-of-closed-islands/) | Medium |
+| [1267-count-servers-that-communicate](https://github.com/imrajeevnayan/leetcode-solution/tree/main/1267-count-servers-that-communicate/) | Medium |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/imrajeevnayan/leetcode-solution/tree/main/1351-count-negative-numbers-in-a-sorted-matrix/) | Easy |
 | [1572-matrix-diagonal-sum](https://github.com/imrajeevnayan/leetcode-solution/tree/main/1572-matrix-diagonal-sum/) | Easy |
 | [1672-richest-customer-wealth](https://github.com/imrajeevnayan/leetcode-solution/tree/main/1672-richest-customer-wealth/) | Easy |
