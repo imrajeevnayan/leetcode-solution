@@ -474,6 +474,7 @@
 | [0700-search-in-a-binary-search-tree](https://github.com/imrajeevnayan/leetcode-solution/tree/main/0700-search-in-a-binary-search-tree/) | Easy |
 | [0834-sum-of-distances-in-tree](https://github.com/imrajeevnayan/leetcode-solution/tree/main/0834-sum-of-distances-in-tree/) | Hard |
 | [0965-univalued-binary-tree](https://github.com/imrajeevnayan/leetcode-solution/tree/main/0965-univalued-binary-tree/) | Easy |
+| [0988-smallest-string-starting-from-leaf](https://github.com/imrajeevnayan/leetcode-solution/tree/main/0988-smallest-string-starting-from-leaf/) | Medium |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/imrajeevnayan/leetcode-solution/tree/main/1008-construct-binary-search-tree-from-preorder-traversal/) | Medium |
 | [1022-sum-of-root-to-leaf-binary-numbers](https://github.com/imrajeevnayan/leetcode-solution/tree/main/1022-sum-of-root-to-leaf-binary-numbers/) | Easy |
 | [1123-lowest-common-ancestor-of-deepest-leaves](https://github.com/imrajeevnayan/leetcode-solution/tree/main/1123-lowest-common-ancestor-of-deepest-leaves/) | Medium |
@@ -522,6 +523,7 @@
 | [0654-maximum-binary-tree](https://github.com/imrajeevnayan/leetcode-solution/tree/main/0654-maximum-binary-tree/) | Medium |
 | [0700-search-in-a-binary-search-tree](https://github.com/imrajeevnayan/leetcode-solution/tree/main/0700-search-in-a-binary-search-tree/) | Easy |
 | [0965-univalued-binary-tree](https://github.com/imrajeevnayan/leetcode-solution/tree/main/0965-univalued-binary-tree/) | Easy |
+| [0988-smallest-string-starting-from-leaf](https://github.com/imrajeevnayan/leetcode-solution/tree/main/0988-smallest-string-starting-from-leaf/) | Medium |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/imrajeevnayan/leetcode-solution/tree/main/1008-construct-binary-search-tree-from-preorder-traversal/) | Medium |
 | [1022-sum-of-root-to-leaf-binary-numbers](https://github.com/imrajeevnayan/leetcode-solution/tree/main/1022-sum-of-root-to-leaf-binary-numbers/) | Easy |
 | [1123-lowest-common-ancestor-of-deepest-leaves](https://github.com/imrajeevnayan/leetcode-solution/tree/main/1123-lowest-common-ancestor-of-deepest-leaves/) | Medium |
@@ -696,6 +698,7 @@
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/imrajeevnayan/leetcode-solution/tree/main/0921-minimum-add-to-make-parentheses-valid/) | Medium |
 | [0929-unique-email-addresses](https://github.com/imrajeevnayan/leetcode-solution/tree/main/0929-unique-email-addresses/) | Easy |
 | [0981-time-based-key-value-store](https://github.com/imrajeevnayan/leetcode-solution/tree/main/0981-time-based-key-value-store/) | Medium |
+| [0988-smallest-string-starting-from-leaf](https://github.com/imrajeevnayan/leetcode-solution/tree/main/0988-smallest-string-starting-from-leaf/) | Medium |
 | [1021-remove-outermost-parentheses](https://github.com/imrajeevnayan/leetcode-solution/tree/main/1021-remove-outermost-parentheses/) | Easy |
 | [1023-camelcase-matching](https://github.com/imrajeevnayan/leetcode-solution/tree/main/1023-camelcase-matching/) | Medium |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/imrajeevnayan/leetcode-solution/tree/main/1047-remove-all-adjacent-duplicates-in-string/) | Easy |
@@ -1141,6 +1144,7 @@
 | [0257-binary-tree-paths](https://github.com/imrajeevnayan/leetcode-solution/tree/main/0257-binary-tree-paths/) | Easy |
 | [0301-remove-invalid-parentheses](https://github.com/imrajeevnayan/leetcode-solution/tree/main/0301-remove-invalid-parentheses/) | Hard |
 | [0797-all-paths-from-source-to-target](https://github.com/imrajeevnayan/leetcode-solution/tree/main/0797-all-paths-from-source-to-target/) | Medium |
+| [0988-smallest-string-starting-from-leaf](https://github.com/imrajeevnayan/leetcode-solution/tree/main/0988-smallest-string-starting-from-leaf/) | Medium |
 | [1096-brace-expansion-ii](https://github.com/imrajeevnayan/leetcode-solution/tree/main/1096-brace-expansion-ii/) | Hard |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/imrajeevnayan/leetcode-solution/tree/main/1863-sum-of-all-subset-xor-totals/) | Easy |
 ## Depth-First Search
@@ -1178,6 +1182,7 @@
 | [0834-sum-of-distances-in-tree](https://github.com/imrajeevnayan/leetcode-solution/tree/main/0834-sum-of-distances-in-tree/) | Hard |
 | [0841-keys-and-rooms](https://github.com/imrajeevnayan/leetcode-solution/tree/main/0841-keys-and-rooms/) | Medium |
 | [0965-univalued-binary-tree](https://github.com/imrajeevnayan/leetcode-solution/tree/main/0965-univalued-binary-tree/) | Easy |
+| [0988-smallest-string-starting-from-leaf](https://github.com/imrajeevnayan/leetcode-solution/tree/main/0988-smallest-string-starting-from-leaf/) | Medium |
 | [1022-sum-of-root-to-leaf-binary-numbers](https://github.com/imrajeevnayan/leetcode-solution/tree/main/1022-sum-of-root-to-leaf-binary-numbers/) | Easy |
 | [1123-lowest-common-ancestor-of-deepest-leaves](https://github.com/imrajeevnayan/leetcode-solution/tree/main/1123-lowest-common-ancestor-of-deepest-leaves/) | Medium |
 | [1254-number-of-closed-islands](https://github.com/imrajeevnayan/leetcode-solution/tree/main/1254-number-of-closed-islands/) | Medium |
