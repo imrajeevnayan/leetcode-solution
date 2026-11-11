@@ -812,6 +812,7 @@
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/imrajeevnayan/leetcode-solution/tree/main/3622-check-divisibility-by-digit-sum-and-product/) | Easy |
 | [3723-maximize-sum-of-squares-of-digits](https://github.com/imrajeevnayan/leetcode-solution/tree/main/3723-maximize-sum-of-squares-of-digits/) | Medium |
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/imrajeevnayan/leetcode-solution/tree/main/3736-minimum-moves-to-equal-array-elements-iii/) | Easy |
+| [3789-minimum-cost-to-acquire-required-items](https://github.com/imrajeevnayan/leetcode-solution/tree/main/3789-minimum-cost-to-acquire-required-items/) | Medium |
 | [3945-digit-frequency-score](https://github.com/imrajeevnayan/leetcode-solution/tree/main/3945-digit-frequency-score/) | Easy |
 ## Dynamic Programming
 | Problem Name | Difficulty |
@@ -882,6 +883,7 @@
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/imrajeevnayan/leetcode-solution/tree/main/3720-lexicographically-smallest-permutation-greater-than-target/) | Medium |
 | [3723-maximize-sum-of-squares-of-digits](https://github.com/imrajeevnayan/leetcode-solution/tree/main/3723-maximize-sum-of-squares-of-digits/) | Medium |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/imrajeevnayan/leetcode-solution/tree/main/3727-maximum-alternating-sum-of-squares/) | Medium |
+| [3789-minimum-cost-to-acquire-required-items](https://github.com/imrajeevnayan/leetcode-solution/tree/main/3789-minimum-cost-to-acquire-required-items/) | Medium |
 ## Merge Sort
 | Problem Name | Difficulty |
 | ------- | ------- |
