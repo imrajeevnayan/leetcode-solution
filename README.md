@@ -183,6 +183,7 @@
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/imrajeevnayan/leetcode-solution/tree/main/2996-smallest-missing-integer-greater-than-sequential-prefix-sum/) | Easy |
 | [3005-count-elements-with-maximum-frequency](https://github.com/imrajeevnayan/leetcode-solution/tree/main/3005-count-elements-with-maximum-frequency/) | Easy |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/imrajeevnayan/leetcode-solution/tree/main/3069-distribute-elements-into-two-arrays-i/) | Easy |
+| [3105-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/imrajeevnayan/leetcode-solution/tree/main/3105-longest-strictly-increasing-or-strictly-decreasing-subarray/) | Easy |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/imrajeevnayan/leetcode-solution/tree/main/3116-kth-smallest-amount-with-single-denomination-combination/) | Hard |
 | [3162-find-the-number-of-good-pairs-i](https://github.com/imrajeevnayan/leetcode-solution/tree/main/3162-find-the-number-of-good-pairs-i/) | Easy |
 | [3194-minimum-average-of-smallest-and-largest-elements](https://github.com/imrajeevnayan/leetcode-solution/tree/main/3194-minimum-average-of-smallest-and-largest-elements/) | Easy |
