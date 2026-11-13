@@ -105,6 +105,7 @@
 | [1023-camelcase-matching](https://github.com/imrajeevnayan/leetcode-solution/tree/main/1023-camelcase-matching/) | Medium |
 | [1029-two-city-scheduling](https://github.com/imrajeevnayan/leetcode-solution/tree/main/1029-two-city-scheduling/) | Medium |
 | [1051-height-checker](https://github.com/imrajeevnayan/leetcode-solution/tree/main/1051-height-checker/) | Easy |
+| [1095-find-in-mountain-array](https://github.com/imrajeevnayan/leetcode-solution/tree/main/1095-find-in-mountain-array/) | Hard |
 | [1177-can-make-palindrome-from-substring](https://github.com/imrajeevnayan/leetcode-solution/tree/main/1177-can-make-palindrome-from-substring/) | Medium |
 | [1207-unique-number-of-occurrences](https://github.com/imrajeevnayan/leetcode-solution/tree/main/1207-unique-number-of-occurrences/) | Easy |
 | [1254-number-of-closed-islands](https://github.com/imrajeevnayan/leetcode-solution/tree/main/1254-number-of-closed-islands/) | Medium |
@@ -590,6 +591,7 @@
 | [0981-time-based-key-value-store](https://github.com/imrajeevnayan/leetcode-solution/tree/main/0981-time-based-key-value-store/) | Medium |
 | [1004-max-consecutive-ones-iii](https://github.com/imrajeevnayan/leetcode-solution/tree/main/1004-max-consecutive-ones-iii/) | Medium |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/imrajeevnayan/leetcode-solution/tree/main/1008-construct-binary-search-tree-from-preorder-traversal/) | Medium |
+| [1095-find-in-mountain-array](https://github.com/imrajeevnayan/leetcode-solution/tree/main/1095-find-in-mountain-array/) | Hard |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/imrajeevnayan/leetcode-solution/tree/main/1351-count-negative-numbers-in-a-sorted-matrix/) | Easy |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/imrajeevnayan/leetcode-solution/tree/main/1385-find-the-distance-value-between-two-arrays/) | Easy |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/imrajeevnayan/leetcode-solution/tree/main/1569-number-of-ways-to-reorder-array-to-get-same-bst/) | Hard |
@@ -1257,6 +1259,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0278-first-bad-version](https://github.com/imrajeevnayan/leetcode-solution/tree/main/0278-first-bad-version/) | Easy |
+| [1095-find-in-mountain-array](https://github.com/imrajeevnayan/leetcode-solution/tree/main/1095-find-in-mountain-array/) | Hard |
 ## Minimax
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -1306,6 +1309,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0852-peak-index-in-a-mountain-array](https://github.com/imrajeevnayan/leetcode-solution/tree/main/0852-peak-index-in-a-mountain-array/) | Medium |
+| [1095-find-in-mountain-array](https://github.com/imrajeevnayan/leetcode-solution/tree/main/1095-find-in-mountain-array/) | Hard |
 ## Newton's Method
 | Problem Name | Difficulty |
 | ------- | ------- |
