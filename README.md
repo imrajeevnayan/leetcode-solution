@@ -89,6 +89,7 @@
 | [0835-image-overlap](https://github.com/imrajeevnayan/leetcode-solution/tree/main/0835-image-overlap/) | Medium |
 | [0852-peak-index-in-a-mountain-array](https://github.com/imrajeevnayan/leetcode-solution/tree/main/0852-peak-index-in-a-mountain-array/) | Medium |
 | [0867-transpose-matrix](https://github.com/imrajeevnayan/leetcode-solution/tree/main/0867-transpose-matrix/) | Easy |
+| [0888-fair-candy-swap](https://github.com/imrajeevnayan/leetcode-solution/tree/main/0888-fair-candy-swap/) | Easy |
 | [0904-fruit-into-baskets](https://github.com/imrajeevnayan/leetcode-solution/tree/main/0904-fruit-into-baskets/) | Medium |
 | [0909-snakes-and-ladders](https://github.com/imrajeevnayan/leetcode-solution/tree/main/0909-snakes-and-ladders/) | Medium |
 | [0918-maximum-sum-circular-subarray](https://github.com/imrajeevnayan/leetcode-solution/tree/main/0918-maximum-sum-circular-subarray/) | Medium |
@@ -292,6 +293,7 @@
 | [0652-find-duplicate-subtrees](https://github.com/imrajeevnayan/leetcode-solution/tree/main/0652-find-duplicate-subtrees/) | Medium |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/imrajeevnayan/leetcode-solution/tree/main/0653-two-sum-iv-input-is-a-bst/) | Easy |
 | [0740-delete-and-earn](https://github.com/imrajeevnayan/leetcode-solution/tree/main/0740-delete-and-earn/) | Medium |
+| [0888-fair-candy-swap](https://github.com/imrajeevnayan/leetcode-solution/tree/main/0888-fair-candy-swap/) | Easy |
 | [0904-fruit-into-baskets](https://github.com/imrajeevnayan/leetcode-solution/tree/main/0904-fruit-into-baskets/) | Medium |
 | [0923-3sum-with-multiplicity](https://github.com/imrajeevnayan/leetcode-solution/tree/main/0923-3sum-with-multiplicity/) | Medium |
 | [0929-unique-email-addresses](https://github.com/imrajeevnayan/leetcode-solution/tree/main/0929-unique-email-addresses/) | Easy |
@@ -363,6 +365,7 @@
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/imrajeevnayan/leetcode-solution/tree/main/0462-minimum-moves-to-equal-array-elements-ii/) | Medium |
 | [0532-k-diff-pairs-in-an-array](https://github.com/imrajeevnayan/leetcode-solution/tree/main/0532-k-diff-pairs-in-an-array/) | Medium |
 | [0786-k-th-smallest-prime-fraction](https://github.com/imrajeevnayan/leetcode-solution/tree/main/0786-k-th-smallest-prime-fraction/) | Medium |
+| [0888-fair-candy-swap](https://github.com/imrajeevnayan/leetcode-solution/tree/main/0888-fair-candy-swap/) | Easy |
 | [0923-3sum-with-multiplicity](https://github.com/imrajeevnayan/leetcode-solution/tree/main/0923-3sum-with-multiplicity/) | Medium |
 | [0950-reveal-cards-in-increasing-order](https://github.com/imrajeevnayan/leetcode-solution/tree/main/0950-reveal-cards-in-increasing-order/) | Medium |
 | [1029-two-city-scheduling](https://github.com/imrajeevnayan/leetcode-solution/tree/main/1029-two-city-scheduling/) | Medium |
@@ -583,6 +586,7 @@
 | [0754-reach-a-number](https://github.com/imrajeevnayan/leetcode-solution/tree/main/0754-reach-a-number/) | Medium |
 | [0786-k-th-smallest-prime-fraction](https://github.com/imrajeevnayan/leetcode-solution/tree/main/0786-k-th-smallest-prime-fraction/) | Medium |
 | [0852-peak-index-in-a-mountain-array](https://github.com/imrajeevnayan/leetcode-solution/tree/main/0852-peak-index-in-a-mountain-array/) | Medium |
+| [0888-fair-candy-swap](https://github.com/imrajeevnayan/leetcode-solution/tree/main/0888-fair-candy-swap/) | Easy |
 | [0981-time-based-key-value-store](https://github.com/imrajeevnayan/leetcode-solution/tree/main/0981-time-based-key-value-store/) | Medium |
 | [1004-max-consecutive-ones-iii](https://github.com/imrajeevnayan/leetcode-solution/tree/main/1004-max-consecutive-ones-iii/) | Medium |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/imrajeevnayan/leetcode-solution/tree/main/1008-construct-binary-search-tree-from-preorder-traversal/) | Medium |
