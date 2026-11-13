@@ -573,6 +573,7 @@
 | [0436-find-right-interval](https://github.com/imrajeevnayan/leetcode-solution/tree/main/0436-find-right-interval/) | Medium |
 | [0532-k-diff-pairs-in-an-array](https://github.com/imrajeevnayan/leetcode-solution/tree/main/0532-k-diff-pairs-in-an-array/) | Medium |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/imrajeevnayan/leetcode-solution/tree/main/0653-two-sum-iv-input-is-a-bst/) | Easy |
+| [0668-kth-smallest-number-in-multiplication-table](https://github.com/imrajeevnayan/leetcode-solution/tree/main/0668-kth-smallest-number-in-multiplication-table/) | Hard |
 | [0700-search-in-a-binary-search-tree](https://github.com/imrajeevnayan/leetcode-solution/tree/main/0700-search-in-a-binary-search-tree/) | Easy |
 | [0704-binary-search](https://github.com/imrajeevnayan/leetcode-solution/tree/main/0704-binary-search/) | Easy |
 | [0713-subarray-product-less-than-k](https://github.com/imrajeevnayan/leetcode-solution/tree/main/0713-subarray-product-less-than-k/) | Medium |
@@ -801,6 +802,7 @@
 | [0477-total-hamming-distance](https://github.com/imrajeevnayan/leetcode-solution/tree/main/0477-total-hamming-distance/) | Medium |
 | [0507-perfect-number](https://github.com/imrajeevnayan/leetcode-solution/tree/main/0507-perfect-number/) | Easy |
 | [0509-fibonacci-number](https://github.com/imrajeevnayan/leetcode-solution/tree/main/0509-fibonacci-number/) | Easy |
+| [0668-kth-smallest-number-in-multiplication-table](https://github.com/imrajeevnayan/leetcode-solution/tree/main/0668-kth-smallest-number-in-multiplication-table/) | Hard |
 | [0754-reach-a-number](https://github.com/imrajeevnayan/leetcode-solution/tree/main/0754-reach-a-number/) | Medium |
 | [0788-rotated-digits](https://github.com/imrajeevnayan/leetcode-solution/tree/main/0788-rotated-digits/) | Medium |
 | [1137-n-th-tribonacci-number](https://github.com/imrajeevnayan/leetcode-solution/tree/main/1137-n-th-tribonacci-number/) | Easy |
