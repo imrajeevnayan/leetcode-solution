@@ -487,6 +487,7 @@
 | [1123-lowest-common-ancestor-of-deepest-leaves](https://github.com/imrajeevnayan/leetcode-solution/tree/main/1123-lowest-common-ancestor-of-deepest-leaves/) | Medium |
 | [1325-delete-leaves-with-a-given-value](https://github.com/imrajeevnayan/leetcode-solution/tree/main/1325-delete-leaves-with-a-given-value/) | Medium |
 | [1339-maximum-product-of-splitted-binary-tree](https://github.com/imrajeevnayan/leetcode-solution/tree/main/1339-maximum-product-of-splitted-binary-tree/) | Medium |
+| [1448-count-good-nodes-in-binary-tree](https://github.com/imrajeevnayan/leetcode-solution/tree/main/1448-count-good-nodes-in-binary-tree/) | Medium |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/imrajeevnayan/leetcode-solution/tree/main/1569-number-of-ways-to-reorder-array-to-get-same-bst/) | Hard |
 ## Monotonic Stack
 | Problem Name | Difficulty |
@@ -539,6 +540,7 @@
 | [1123-lowest-common-ancestor-of-deepest-leaves](https://github.com/imrajeevnayan/leetcode-solution/tree/main/1123-lowest-common-ancestor-of-deepest-leaves/) | Medium |
 | [1325-delete-leaves-with-a-given-value](https://github.com/imrajeevnayan/leetcode-solution/tree/main/1325-delete-leaves-with-a-given-value/) | Medium |
 | [1339-maximum-product-of-splitted-binary-tree](https://github.com/imrajeevnayan/leetcode-solution/tree/main/1339-maximum-product-of-splitted-binary-tree/) | Medium |
+| [1448-count-good-nodes-in-binary-tree](https://github.com/imrajeevnayan/leetcode-solution/tree/main/1448-count-good-nodes-in-binary-tree/) | Medium |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/imrajeevnayan/leetcode-solution/tree/main/1569-number-of-ways-to-reorder-array-to-get-same-bst/) | Hard |
 ## Cartesian Tree
 | Problem Name | Difficulty |
@@ -1211,6 +1213,7 @@
 | [1267-count-servers-that-communicate](https://github.com/imrajeevnayan/leetcode-solution/tree/main/1267-count-servers-that-communicate/) | Medium |
 | [1325-delete-leaves-with-a-given-value](https://github.com/imrajeevnayan/leetcode-solution/tree/main/1325-delete-leaves-with-a-given-value/) | Medium |
 | [1339-maximum-product-of-splitted-binary-tree](https://github.com/imrajeevnayan/leetcode-solution/tree/main/1339-maximum-product-of-splitted-binary-tree/) | Medium |
+| [1448-count-good-nodes-in-binary-tree](https://github.com/imrajeevnayan/leetcode-solution/tree/main/1448-count-good-nodes-in-binary-tree/) | Medium |
 | [1971-find-if-path-exists-in-graph](https://github.com/imrajeevnayan/leetcode-solution/tree/main/1971-find-if-path-exists-in-graph/) | Easy |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/imrajeevnayan/leetcode-solution/tree/main/3619-count-islands-with-total-value-divisible-by-k/) | Medium |
 ## Breadth-First Search
@@ -1241,6 +1244,7 @@
 | [1123-lowest-common-ancestor-of-deepest-leaves](https://github.com/imrajeevnayan/leetcode-solution/tree/main/1123-lowest-common-ancestor-of-deepest-leaves/) | Medium |
 | [1254-number-of-closed-islands](https://github.com/imrajeevnayan/leetcode-solution/tree/main/1254-number-of-closed-islands/) | Medium |
 | [1267-count-servers-that-communicate](https://github.com/imrajeevnayan/leetcode-solution/tree/main/1267-count-servers-that-communicate/) | Medium |
+| [1448-count-good-nodes-in-binary-tree](https://github.com/imrajeevnayan/leetcode-solution/tree/main/1448-count-good-nodes-in-binary-tree/) | Medium |
 | [1971-find-if-path-exists-in-graph](https://github.com/imrajeevnayan/leetcode-solution/tree/main/1971-find-if-path-exists-in-graph/) | Easy |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/imrajeevnayan/leetcode-solution/tree/main/3619-count-islands-with-total-value-divisible-by-k/) | Medium |
 ## Interactive
