@@ -671,6 +671,7 @@
 | [1795-rearrange-products-table](https://github.com/imrajeevnayan/leetcode-solution/tree/main/1795-rearrange-products-table/) | Easy |
 | [1873-calculate-special-bonus](https://github.com/imrajeevnayan/leetcode-solution/tree/main/1873-calculate-special-bonus/) | Easy |
 | [3220-odd-and-even-transactions](https://github.com/imrajeevnayan/leetcode-solution/tree/main/3220-odd-and-even-transactions/) | Medium |
+| [3421-find-students-who-improved](https://github.com/imrajeevnayan/leetcode-solution/tree/main/3421-find-students-who-improved/) | Medium |
 | [3475-dna-pattern-recognition](https://github.com/imrajeevnayan/leetcode-solution/tree/main/3475-dna-pattern-recognition/) | Medium |
 ## Design
 | Problem Name | Difficulty |
