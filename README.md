@@ -165,6 +165,7 @@
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/imrajeevnayan/leetcode-solution/tree/main/2529-maximum-count-of-positive-integer-and-negative-integer/) | Easy |
 | [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/imrajeevnayan/leetcode-solution/tree/main/2535-difference-between-element-sum-and-digit-sum-of-an-array/) | Easy |
 | [2537-count-the-number-of-good-subarrays](https://github.com/imrajeevnayan/leetcode-solution/tree/main/2537-count-the-number-of-good-subarrays/) | Medium |
+| [2540-minimum-common-value](https://github.com/imrajeevnayan/leetcode-solution/tree/main/2540-minimum-common-value/) | Easy |
 | [2545-sort-the-students-by-their-kth-score](https://github.com/imrajeevnayan/leetcode-solution/tree/main/2545-sort-the-students-by-their-kth-score/) | Medium |
 | [2559-count-vowel-strings-in-ranges](https://github.com/imrajeevnayan/leetcode-solution/tree/main/2559-count-vowel-strings-in-ranges/) | Medium |
 | [2560-house-robber-iv](https://github.com/imrajeevnayan/leetcode-solution/tree/main/2560-house-robber-iv/) | Medium |
@@ -326,6 +327,7 @@
 | [2405-optimal-partition-of-string](https://github.com/imrajeevnayan/leetcode-solution/tree/main/2405-optimal-partition-of-string/) | Medium |
 | [2465-number-of-distinct-averages](https://github.com/imrajeevnayan/leetcode-solution/tree/main/2465-number-of-distinct-averages/) | Easy |
 | [2537-count-the-number-of-good-subarrays](https://github.com/imrajeevnayan/leetcode-solution/tree/main/2537-count-the-number-of-good-subarrays/) | Medium |
+| [2540-minimum-common-value](https://github.com/imrajeevnayan/leetcode-solution/tree/main/2540-minimum-common-value/) | Easy |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/imrajeevnayan/leetcode-solution/tree/main/2657-find-the-prefix-common-array-of-two-arrays/) | Medium |
 | [2747-count-zero-request-servers](https://github.com/imrajeevnayan/leetcode-solution/tree/main/2747-count-zero-request-servers/) | Medium |
 | [2831-find-the-longest-equal-subarray](https://github.com/imrajeevnayan/leetcode-solution/tree/main/2831-find-the-longest-equal-subarray/) | Medium |
@@ -603,6 +605,7 @@
 | [2300-successful-pairs-of-spells-and-potions](https://github.com/imrajeevnayan/leetcode-solution/tree/main/2300-successful-pairs-of-spells-and-potions/) | Medium |
 | [2333-minimum-sum-of-squared-difference](https://github.com/imrajeevnayan/leetcode-solution/tree/main/2333-minimum-sum-of-squared-difference/) | Medium |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/imrajeevnayan/leetcode-solution/tree/main/2529-maximum-count-of-positive-integer-and-negative-integer/) | Easy |
+| [2540-minimum-common-value](https://github.com/imrajeevnayan/leetcode-solution/tree/main/2540-minimum-common-value/) | Easy |
 | [2560-house-robber-iv](https://github.com/imrajeevnayan/leetcode-solution/tree/main/2560-house-robber-iv/) | Medium |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/imrajeevnayan/leetcode-solution/tree/main/2824-count-pairs-whose-sum-is-less-than-target/) | Easy |
 | [2831-find-the-longest-equal-subarray](https://github.com/imrajeevnayan/leetcode-solution/tree/main/2831-find-the-longest-equal-subarray/) | Medium |
@@ -1035,6 +1038,7 @@
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/imrajeevnayan/leetcode-solution/tree/main/2130-maximum-twin-sum-of-a-linked-list/) | Medium |
 | [2300-successful-pairs-of-spells-and-potions](https://github.com/imrajeevnayan/leetcode-solution/tree/main/2300-successful-pairs-of-spells-and-potions/) | Medium |
 | [2465-number-of-distinct-averages](https://github.com/imrajeevnayan/leetcode-solution/tree/main/2465-number-of-distinct-averages/) | Easy |
+| [2540-minimum-common-value](https://github.com/imrajeevnayan/leetcode-solution/tree/main/2540-minimum-common-value/) | Easy |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/imrajeevnayan/leetcode-solution/tree/main/2824-count-pairs-whose-sum-is-less-than-target/) | Easy |
 | [3194-minimum-average-of-smallest-and-largest-elements](https://github.com/imrajeevnayan/leetcode-solution/tree/main/3194-minimum-average-of-smallest-and-largest-elements/) | Easy |
 | [3775-reverse-words-with-same-vowel-count](https://github.com/imrajeevnayan/leetcode-solution/tree/main/3775-reverse-words-with-same-vowel-count/) | Medium |
