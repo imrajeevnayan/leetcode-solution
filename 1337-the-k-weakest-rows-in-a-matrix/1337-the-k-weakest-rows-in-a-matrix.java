@@ -1,0 +1,44 @@
+class Solution {
+    public int[] kWeakestRows(int[][] mat, int k) {
+        int m = mat.length;
+
+        int[][] rows = new int[m][2];
+
+        for (int i = 0; i < m; i++) {
+            rows[i][0] = countSoldiers(mat[i]); // soldier count
+            rows[i][1] = i;                     // row index
+        }
+
+        Arrays.sort(rows, (a, b) -> {
+            if (a[0] == b[0]) {
+                return a[1] - b[1];
+            }
+            return a[0] - b[0];
+        });
+
+        int[] ans = new int[k];
+        for (int i = 0; i < k; i++) {
+            ans[i] = rows[i][1];
+        }
+
+        return ans;
+    }
+
+    private int countSoldiers(int[] row) {
+        int low = 0, high = row.length - 1;
+        int soldiers = 0;
+
+        while (low <= high) {
+            int mid = low + (high - low) / 2;
+
+            if (row[mid] == 1) {
+                soldiers = mid + 1;
+                low = mid + 1;
+            } else {
+                high = mid - 1;
+            }
+        }
+
+        return soldiers;
+    }
+}
