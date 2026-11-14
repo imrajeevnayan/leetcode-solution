@@ -113,6 +113,7 @@
 | [1267-count-servers-that-communicate](https://github.com/imrajeevnayan/leetcode-solution/tree/main/1267-count-servers-that-communicate/) | Medium |
 | [1282-group-the-people-given-the-group-size-they-belong-to](https://github.com/imrajeevnayan/leetcode-solution/tree/main/1282-group-the-people-given-the-group-size-they-belong-to/) | Medium |
 | [1310-xor-queries-of-a-subarray](https://github.com/imrajeevnayan/leetcode-solution/tree/main/1310-xor-queries-of-a-subarray/) | Medium |
+| [1337-the-k-weakest-rows-in-a-matrix](https://github.com/imrajeevnayan/leetcode-solution/tree/main/1337-the-k-weakest-rows-in-a-matrix/) | Easy |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/imrajeevnayan/leetcode-solution/tree/main/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold/) | Medium |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/imrajeevnayan/leetcode-solution/tree/main/1351-count-negative-numbers-in-a-sorted-matrix/) | Easy |
 | [1352-product-of-the-last-k-numbers](https://github.com/imrajeevnayan/leetcode-solution/tree/main/1352-product-of-the-last-k-numbers/) | Medium |
@@ -377,6 +378,7 @@
 | [1029-two-city-scheduling](https://github.com/imrajeevnayan/leetcode-solution/tree/main/1029-two-city-scheduling/) | Medium |
 | [1051-height-checker](https://github.com/imrajeevnayan/leetcode-solution/tree/main/1051-height-checker/) | Easy |
 | [1096-brace-expansion-ii](https://github.com/imrajeevnayan/leetcode-solution/tree/main/1096-brace-expansion-ii/) | Hard |
+| [1337-the-k-weakest-rows-in-a-matrix](https://github.com/imrajeevnayan/leetcode-solution/tree/main/1337-the-k-weakest-rows-in-a-matrix/) | Easy |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/imrajeevnayan/leetcode-solution/tree/main/1385-find-the-distance-value-between-two-arrays/) | Easy |
 | [1561-maximum-number-of-coins-you-can-get](https://github.com/imrajeevnayan/leetcode-solution/tree/main/1561-maximum-number-of-coins-you-can-get/) | Medium |
 | [1608-special-array-with-x-elements-greater-than-or-equal-x](https://github.com/imrajeevnayan/leetcode-solution/tree/main/1608-special-array-with-x-elements-greater-than-or-equal-x/) | Easy |
@@ -598,6 +600,7 @@
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/imrajeevnayan/leetcode-solution/tree/main/1008-construct-binary-search-tree-from-preorder-traversal/) | Medium |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/imrajeevnayan/leetcode-solution/tree/main/1011-capacity-to-ship-packages-within-d-days/) | Medium |
 | [1095-find-in-mountain-array](https://github.com/imrajeevnayan/leetcode-solution/tree/main/1095-find-in-mountain-array/) | Hard |
+| [1337-the-k-weakest-rows-in-a-matrix](https://github.com/imrajeevnayan/leetcode-solution/tree/main/1337-the-k-weakest-rows-in-a-matrix/) | Easy |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/imrajeevnayan/leetcode-solution/tree/main/1351-count-negative-numbers-in-a-sorted-matrix/) | Easy |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/imrajeevnayan/leetcode-solution/tree/main/1385-find-the-distance-value-between-two-arrays/) | Easy |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/imrajeevnayan/leetcode-solution/tree/main/1569-number-of-ways-to-reorder-array-to-get-same-bst/) | Hard |
@@ -1133,6 +1136,7 @@
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/imrajeevnayan/leetcode-solution/tree/main/0378-kth-smallest-element-in-a-sorted-matrix/) | Medium |
 | [0451-sort-characters-by-frequency](https://github.com/imrajeevnayan/leetcode-solution/tree/main/0451-sort-characters-by-frequency/) | Medium |
 | [0786-k-th-smallest-prime-fraction](https://github.com/imrajeevnayan/leetcode-solution/tree/main/0786-k-th-smallest-prime-fraction/) | Medium |
+| [1337-the-k-weakest-rows-in-a-matrix](https://github.com/imrajeevnayan/leetcode-solution/tree/main/1337-the-k-weakest-rows-in-a-matrix/) | Easy |
 | [1405-longest-happy-string](https://github.com/imrajeevnayan/leetcode-solution/tree/main/1405-longest-happy-string/) | Medium |
 | [1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/imrajeevnayan/leetcode-solution/tree/main/1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit/) | Medium |
 | [1606-find-servers-that-handled-most-number-of-requests](https://github.com/imrajeevnayan/leetcode-solution/tree/main/1606-find-servers-that-handled-most-number-of-requests/) | Hard |
@@ -1291,6 +1295,7 @@
 | [0909-snakes-and-ladders](https://github.com/imrajeevnayan/leetcode-solution/tree/main/0909-snakes-and-ladders/) | Medium |
 | [1254-number-of-closed-islands](https://github.com/imrajeevnayan/leetcode-solution/tree/main/1254-number-of-closed-islands/) | Medium |
 | [1267-count-servers-that-communicate](https://github.com/imrajeevnayan/leetcode-solution/tree/main/1267-count-servers-that-communicate/) | Medium |
+| [1337-the-k-weakest-rows-in-a-matrix](https://github.com/imrajeevnayan/leetcode-solution/tree/main/1337-the-k-weakest-rows-in-a-matrix/) | Easy |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/imrajeevnayan/leetcode-solution/tree/main/1351-count-negative-numbers-in-a-sorted-matrix/) | Easy |
 | [1572-matrix-diagonal-sum](https://github.com/imrajeevnayan/leetcode-solution/tree/main/1572-matrix-diagonal-sum/) | Easy |
 | [1672-richest-customer-wealth](https://github.com/imrajeevnayan/leetcode-solution/tree/main/1672-richest-customer-wealth/) | Easy |
