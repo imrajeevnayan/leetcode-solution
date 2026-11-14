@@ -667,6 +667,7 @@
 | [0511-game-play-analysis-i](https://github.com/imrajeevnayan/leetcode-solution/tree/main/0511-game-play-analysis-i/) | Easy |
 | [1050-actors-and-directors-who-cooperated-at-least-three-times](https://github.com/imrajeevnayan/leetcode-solution/tree/main/1050-actors-and-directors-who-cooperated-at-least-three-times/) | Easy |
 | [1517-find-users-with-valid-e-mails](https://github.com/imrajeevnayan/leetcode-solution/tree/main/1517-find-users-with-valid-e-mails/) | Easy |
+| [1729-find-followers-count](https://github.com/imrajeevnayan/leetcode-solution/tree/main/1729-find-followers-count/) | Easy |
 | [1795-rearrange-products-table](https://github.com/imrajeevnayan/leetcode-solution/tree/main/1795-rearrange-products-table/) | Easy |
 | [1873-calculate-special-bonus](https://github.com/imrajeevnayan/leetcode-solution/tree/main/1873-calculate-special-bonus/) | Easy |
 | [3220-odd-and-even-transactions](https://github.com/imrajeevnayan/leetcode-solution/tree/main/3220-odd-and-even-transactions/) | Medium |
