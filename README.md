@@ -125,6 +125,7 @@
 | [1472-design-browser-history](https://github.com/imrajeevnayan/leetcode-solution/tree/main/1472-design-browser-history/) | Medium |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/imrajeevnayan/leetcode-solution/tree/main/1475-final-prices-with-a-special-discount-in-a-shop/) | Easy |
 | [1480-running-sum-of-1d-array](https://github.com/imrajeevnayan/leetcode-solution/tree/main/1480-running-sum-of-1d-array/) | Easy |
+| [1524-number-of-sub-arrays-with-odd-sum](https://github.com/imrajeevnayan/leetcode-solution/tree/main/1524-number-of-sub-arrays-with-odd-sum/) | Medium |
 | [1528-shuffle-string](https://github.com/imrajeevnayan/leetcode-solution/tree/main/1528-shuffle-string/) | Easy |
 | [1561-maximum-number-of-coins-you-can-get](https://github.com/imrajeevnayan/leetcode-solution/tree/main/1561-maximum-number-of-coins-you-can-get/) | Medium |
 | [1563-stone-game-v](https://github.com/imrajeevnayan/leetcode-solution/tree/main/1563-stone-game-v/) | Hard |
@@ -254,6 +255,7 @@
 | [1352-product-of-the-last-k-numbers](https://github.com/imrajeevnayan/leetcode-solution/tree/main/1352-product-of-the-last-k-numbers/) | Medium |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/imrajeevnayan/leetcode-solution/tree/main/1423-maximum-points-you-can-obtain-from-cards/) | Medium |
 | [1480-running-sum-of-1d-array](https://github.com/imrajeevnayan/leetcode-solution/tree/main/1480-running-sum-of-1d-array/) | Easy |
+| [1524-number-of-sub-arrays-with-odd-sum](https://github.com/imrajeevnayan/leetcode-solution/tree/main/1524-number-of-sub-arrays-with-odd-sum/) | Medium |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/imrajeevnayan/leetcode-solution/tree/main/1658-minimum-operations-to-reduce-x-to-zero/) | Medium |
 | [1769-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/imrajeevnayan/leetcode-solution/tree/main/1769-minimum-number-of-operations-to-move-all-balls-to-each-box/) | Medium |
 | [1829-maximum-xor-for-each-query](https://github.com/imrajeevnayan/leetcode-solution/tree/main/1829-maximum-xor-for-each-query/) | Medium |
@@ -829,6 +831,7 @@
 | [1323-maximum-69-number](https://github.com/imrajeevnayan/leetcode-solution/tree/main/1323-maximum-69-number/) | Easy |
 | [1352-product-of-the-last-k-numbers](https://github.com/imrajeevnayan/leetcode-solution/tree/main/1352-product-of-the-last-k-numbers/) | Medium |
 | [1360-number-of-days-between-two-dates](https://github.com/imrajeevnayan/leetcode-solution/tree/main/1360-number-of-days-between-two-dates/) | Easy |
+| [1524-number-of-sub-arrays-with-odd-sum](https://github.com/imrajeevnayan/leetcode-solution/tree/main/1524-number-of-sub-arrays-with-odd-sum/) | Medium |
 | [1561-maximum-number-of-coins-you-can-get](https://github.com/imrajeevnayan/leetcode-solution/tree/main/1561-maximum-number-of-coins-you-can-get/) | Medium |
 | [1563-stone-game-v](https://github.com/imrajeevnayan/leetcode-solution/tree/main/1563-stone-game-v/) | Hard |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/imrajeevnayan/leetcode-solution/tree/main/1569-number-of-ways-to-reorder-array-to-get-same-bst/) | Hard |
@@ -883,6 +886,7 @@
 | [0918-maximum-sum-circular-subarray](https://github.com/imrajeevnayan/leetcode-solution/tree/main/0918-maximum-sum-circular-subarray/) | Medium |
 | [0983-minimum-cost-for-tickets](https://github.com/imrajeevnayan/leetcode-solution/tree/main/0983-minimum-cost-for-tickets/) | Medium |
 | [1137-n-th-tribonacci-number](https://github.com/imrajeevnayan/leetcode-solution/tree/main/1137-n-th-tribonacci-number/) | Easy |
+| [1524-number-of-sub-arrays-with-odd-sum](https://github.com/imrajeevnayan/leetcode-solution/tree/main/1524-number-of-sub-arrays-with-odd-sum/) | Medium |
 | [1563-stone-game-v](https://github.com/imrajeevnayan/leetcode-solution/tree/main/1563-stone-game-v/) | Hard |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/imrajeevnayan/leetcode-solution/tree/main/1569-number-of-ways-to-reorder-array-to-get-same-bst/) | Hard |
 | [1611-minimum-one-bit-operations-to-make-integers-zero](https://github.com/imrajeevnayan/leetcode-solution/tree/main/1611-minimum-one-bit-operations-to-make-integers-zero/) | Hard |
