@@ -668,6 +668,7 @@
 | [0181-employees-earning-more-than-their-managers](https://github.com/imrajeevnayan/leetcode-solution/tree/main/0181-employees-earning-more-than-their-managers/) | Easy |
 | [0182-duplicate-emails](https://github.com/imrajeevnayan/leetcode-solution/tree/main/0182-duplicate-emails/) | Easy |
 | [0183-customers-who-never-order](https://github.com/imrajeevnayan/leetcode-solution/tree/main/0183-customers-who-never-order/) | Easy |
+| [0196-delete-duplicate-emails](https://github.com/imrajeevnayan/leetcode-solution/tree/main/0196-delete-duplicate-emails/) | Easy |
 | [0511-game-play-analysis-i](https://github.com/imrajeevnayan/leetcode-solution/tree/main/0511-game-play-analysis-i/) | Easy |
 | [1050-actors-and-directors-who-cooperated-at-least-three-times](https://github.com/imrajeevnayan/leetcode-solution/tree/main/1050-actors-and-directors-who-cooperated-at-least-three-times/) | Easy |
 | [1517-find-users-with-valid-e-mails](https://github.com/imrajeevnayan/leetcode-solution/tree/main/1517-find-users-with-valid-e-mails/) | Easy |
