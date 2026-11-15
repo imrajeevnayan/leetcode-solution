@@ -500,6 +500,7 @@
 | [1123-lowest-common-ancestor-of-deepest-leaves](https://github.com/imrajeevnayan/leetcode-solution/tree/main/1123-lowest-common-ancestor-of-deepest-leaves/) | Medium |
 | [1325-delete-leaves-with-a-given-value](https://github.com/imrajeevnayan/leetcode-solution/tree/main/1325-delete-leaves-with-a-given-value/) | Medium |
 | [1339-maximum-product-of-splitted-binary-tree](https://github.com/imrajeevnayan/leetcode-solution/tree/main/1339-maximum-product-of-splitted-binary-tree/) | Medium |
+| [1372-longest-zigzag-path-in-a-binary-tree](https://github.com/imrajeevnayan/leetcode-solution/tree/main/1372-longest-zigzag-path-in-a-binary-tree/) | Medium |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/imrajeevnayan/leetcode-solution/tree/main/1448-count-good-nodes-in-binary-tree/) | Medium |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/imrajeevnayan/leetcode-solution/tree/main/1569-number-of-ways-to-reorder-array-to-get-same-bst/) | Hard |
 ## Monotonic Stack
@@ -553,6 +554,7 @@
 | [1123-lowest-common-ancestor-of-deepest-leaves](https://github.com/imrajeevnayan/leetcode-solution/tree/main/1123-lowest-common-ancestor-of-deepest-leaves/) | Medium |
 | [1325-delete-leaves-with-a-given-value](https://github.com/imrajeevnayan/leetcode-solution/tree/main/1325-delete-leaves-with-a-given-value/) | Medium |
 | [1339-maximum-product-of-splitted-binary-tree](https://github.com/imrajeevnayan/leetcode-solution/tree/main/1339-maximum-product-of-splitted-binary-tree/) | Medium |
+| [1372-longest-zigzag-path-in-a-binary-tree](https://github.com/imrajeevnayan/leetcode-solution/tree/main/1372-longest-zigzag-path-in-a-binary-tree/) | Medium |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/imrajeevnayan/leetcode-solution/tree/main/1448-count-good-nodes-in-binary-tree/) | Medium |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/imrajeevnayan/leetcode-solution/tree/main/1569-number-of-ways-to-reorder-array-to-get-same-bst/) | Hard |
 ## Cartesian Tree
@@ -886,6 +888,7 @@
 | [0918-maximum-sum-circular-subarray](https://github.com/imrajeevnayan/leetcode-solution/tree/main/0918-maximum-sum-circular-subarray/) | Medium |
 | [0983-minimum-cost-for-tickets](https://github.com/imrajeevnayan/leetcode-solution/tree/main/0983-minimum-cost-for-tickets/) | Medium |
 | [1137-n-th-tribonacci-number](https://github.com/imrajeevnayan/leetcode-solution/tree/main/1137-n-th-tribonacci-number/) | Easy |
+| [1372-longest-zigzag-path-in-a-binary-tree](https://github.com/imrajeevnayan/leetcode-solution/tree/main/1372-longest-zigzag-path-in-a-binary-tree/) | Medium |
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/imrajeevnayan/leetcode-solution/tree/main/1524-number-of-sub-arrays-with-odd-sum/) | Medium |
 | [1563-stone-game-v](https://github.com/imrajeevnayan/leetcode-solution/tree/main/1563-stone-game-v/) | Hard |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/imrajeevnayan/leetcode-solution/tree/main/1569-number-of-ways-to-reorder-array-to-get-same-bst/) | Hard |
@@ -1240,6 +1243,7 @@
 | [1267-count-servers-that-communicate](https://github.com/imrajeevnayan/leetcode-solution/tree/main/1267-count-servers-that-communicate/) | Medium |
 | [1325-delete-leaves-with-a-given-value](https://github.com/imrajeevnayan/leetcode-solution/tree/main/1325-delete-leaves-with-a-given-value/) | Medium |
 | [1339-maximum-product-of-splitted-binary-tree](https://github.com/imrajeevnayan/leetcode-solution/tree/main/1339-maximum-product-of-splitted-binary-tree/) | Medium |
+| [1372-longest-zigzag-path-in-a-binary-tree](https://github.com/imrajeevnayan/leetcode-solution/tree/main/1372-longest-zigzag-path-in-a-binary-tree/) | Medium |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/imrajeevnayan/leetcode-solution/tree/main/1448-count-good-nodes-in-binary-tree/) | Medium |
 | [1971-find-if-path-exists-in-graph](https://github.com/imrajeevnayan/leetcode-solution/tree/main/1971-find-if-path-exists-in-graph/) | Easy |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/imrajeevnayan/leetcode-solution/tree/main/3619-count-islands-with-total-value-divisible-by-k/) | Medium |
@@ -1350,6 +1354,7 @@
 | [0543-diameter-of-binary-tree](https://github.com/imrajeevnayan/leetcode-solution/tree/main/0543-diameter-of-binary-tree/) | Easy |
 | [0834-sum-of-distances-in-tree](https://github.com/imrajeevnayan/leetcode-solution/tree/main/0834-sum-of-distances-in-tree/) | Hard |
 | [1123-lowest-common-ancestor-of-deepest-leaves](https://github.com/imrajeevnayan/leetcode-solution/tree/main/1123-lowest-common-ancestor-of-deepest-leaves/) | Medium |
+| [1372-longest-zigzag-path-in-a-binary-tree](https://github.com/imrajeevnayan/leetcode-solution/tree/main/1372-longest-zigzag-path-in-a-binary-tree/) | Medium |
 ## Binary Lifting
 | Problem Name | Difficulty |
 | ------- | ------- |
