@@ -68,6 +68,7 @@
 | [0474-ones-and-zeroes](https://github.com/imrajeevnayan/leetcode-solution/tree/main/0474-ones-and-zeroes/) | Medium |
 | [0477-total-hamming-distance](https://github.com/imrajeevnayan/leetcode-solution/tree/main/0477-total-hamming-distance/) | Medium |
 | [0485-max-consecutive-ones](https://github.com/imrajeevnayan/leetcode-solution/tree/main/0485-max-consecutive-ones/) | Easy |
+| [0494-target-sum](https://github.com/imrajeevnayan/leetcode-solution/tree/main/0494-target-sum/) | Medium |
 | [0496-next-greater-element-i](https://github.com/imrajeevnayan/leetcode-solution/tree/main/0496-next-greater-element-i/) | Easy |
 | [0532-k-diff-pairs-in-an-array](https://github.com/imrajeevnayan/leetcode-solution/tree/main/0532-k-diff-pairs-in-an-array/) | Medium |
 | [0560-subarray-sum-equals-k](https://github.com/imrajeevnayan/leetcode-solution/tree/main/0560-subarray-sum-equals-k/) | Medium |
@@ -889,6 +890,7 @@
 | [0410-split-array-largest-sum](https://github.com/imrajeevnayan/leetcode-solution/tree/main/0410-split-array-largest-sum/) | Hard |
 | [0435-non-overlapping-intervals](https://github.com/imrajeevnayan/leetcode-solution/tree/main/0435-non-overlapping-intervals/) | Medium |
 | [0474-ones-and-zeroes](https://github.com/imrajeevnayan/leetcode-solution/tree/main/0474-ones-and-zeroes/) | Medium |
+| [0494-target-sum](https://github.com/imrajeevnayan/leetcode-solution/tree/main/0494-target-sum/) | Medium |
 | [0509-fibonacci-number](https://github.com/imrajeevnayan/leetcode-solution/tree/main/0509-fibonacci-number/) | Easy |
 | [0678-valid-parenthesis-string](https://github.com/imrajeevnayan/leetcode-solution/tree/main/0678-valid-parenthesis-string/) | Medium |
 | [0718-maximum-length-of-repeated-subarray](https://github.com/imrajeevnayan/leetcode-solution/tree/main/0718-maximum-length-of-repeated-subarray/) | Medium |
@@ -1215,6 +1217,7 @@
 | [0022-generate-parentheses](https://github.com/imrajeevnayan/leetcode-solution/tree/main/0022-generate-parentheses/) | Medium |
 | [0257-binary-tree-paths](https://github.com/imrajeevnayan/leetcode-solution/tree/main/0257-binary-tree-paths/) | Easy |
 | [0301-remove-invalid-parentheses](https://github.com/imrajeevnayan/leetcode-solution/tree/main/0301-remove-invalid-parentheses/) | Hard |
+| [0494-target-sum](https://github.com/imrajeevnayan/leetcode-solution/tree/main/0494-target-sum/) | Medium |
 | [0797-all-paths-from-source-to-target](https://github.com/imrajeevnayan/leetcode-solution/tree/main/0797-all-paths-from-source-to-target/) | Medium |
 | [0988-smallest-string-starting-from-leaf](https://github.com/imrajeevnayan/leetcode-solution/tree/main/0988-smallest-string-starting-from-leaf/) | Medium |
 | [1096-brace-expansion-ii](https://github.com/imrajeevnayan/leetcode-solution/tree/main/1096-brace-expansion-ii/) | Hard |
@@ -1459,10 +1462,12 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0474-ones-and-zeroes](https://github.com/imrajeevnayan/leetcode-solution/tree/main/0474-ones-and-zeroes/) | Medium |
+| [0494-target-sum](https://github.com/imrajeevnayan/leetcode-solution/tree/main/0494-target-sum/) | Medium |
 ## 0-1 Knapsack
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0474-ones-and-zeroes](https://github.com/imrajeevnayan/leetcode-solution/tree/main/0474-ones-and-zeroes/) | Medium |
+| [0494-target-sum](https://github.com/imrajeevnayan/leetcode-solution/tree/main/0494-target-sum/) | Medium |
 ## String Matching
 | Problem Name | Difficulty |
 | ------- | ------- |
