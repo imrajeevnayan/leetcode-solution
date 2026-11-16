@@ -774,6 +774,7 @@
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/imrajeevnayan/leetcode-solution/tree/main/1967-number-of-strings-that-appear-as-substrings-in-word/) | Easy |
 | [2129-capitalize-the-title](https://github.com/imrajeevnayan/leetcode-solution/tree/main/2129-capitalize-the-title/) | Easy |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/imrajeevnayan/leetcode-solution/tree/main/2213-longest-substring-of-one-repeating-character/) | Hard |
+| [2243-calculate-digit-sum-of-a-string](https://github.com/imrajeevnayan/leetcode-solution/tree/main/2243-calculate-digit-sum-of-a-string/) | Easy |
 | [2325-decode-the-message](https://github.com/imrajeevnayan/leetcode-solution/tree/main/2325-decode-the-message/) | Easy |
 | [2379-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/imrajeevnayan/leetcode-solution/tree/main/2379-minimum-recolors-to-get-k-consecutive-black-blocks/) | Easy |
 | [2405-optimal-partition-of-string](https://github.com/imrajeevnayan/leetcode-solution/tree/main/2405-optimal-partition-of-string/) | Medium |
@@ -1008,6 +1009,7 @@
 | [1606-find-servers-that-handled-most-number-of-requests](https://github.com/imrajeevnayan/leetcode-solution/tree/main/1606-find-servers-that-handled-most-number-of-requests/) | Hard |
 | [1688-count-of-matches-in-tournament](https://github.com/imrajeevnayan/leetcode-solution/tree/main/1688-count-of-matches-in-tournament/) | Easy |
 | [1920-build-array-from-permutation](https://github.com/imrajeevnayan/leetcode-solution/tree/main/1920-build-array-from-permutation/) | Easy |
+| [2243-calculate-digit-sum-of-a-string](https://github.com/imrajeevnayan/leetcode-solution/tree/main/2243-calculate-digit-sum-of-a-string/) | Easy |
 | [2482-difference-between-ones-and-zeros-in-row-and-column](https://github.com/imrajeevnayan/leetcode-solution/tree/main/2482-difference-between-ones-and-zeros-in-row-and-column/) | Medium |
 | [2810-faulty-keyboard](https://github.com/imrajeevnayan/leetcode-solution/tree/main/2810-faulty-keyboard/) | Easy |
 | [2974-minimum-number-game](https://github.com/imrajeevnayan/leetcode-solution/tree/main/2974-minimum-number-game/) | Easy |
