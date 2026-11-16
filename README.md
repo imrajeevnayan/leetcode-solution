@@ -160,6 +160,7 @@
 | [2213-longest-substring-of-one-repeating-character](https://github.com/imrajeevnayan/leetcode-solution/tree/main/2213-longest-substring-of-one-repeating-character/) | Hard |
 | [2221-find-triangular-sum-of-an-array](https://github.com/imrajeevnayan/leetcode-solution/tree/main/2221-find-triangular-sum-of-an-array/) | Medium |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/imrajeevnayan/leetcode-solution/tree/main/2267-check-if-there-is-a-valid-parentheses-string-path/) | Hard |
+| [2293-min-max-game](https://github.com/imrajeevnayan/leetcode-solution/tree/main/2293-min-max-game/) | Easy |
 | [2300-successful-pairs-of-spells-and-potions](https://github.com/imrajeevnayan/leetcode-solution/tree/main/2300-successful-pairs-of-spells-and-potions/) | Medium |
 | [2333-minimum-sum-of-squared-difference](https://github.com/imrajeevnayan/leetcode-solution/tree/main/2333-minimum-sum-of-squared-difference/) | Medium |
 | [2364-count-number-of-bad-pairs](https://github.com/imrajeevnayan/leetcode-solution/tree/main/2364-count-number-of-bad-pairs/) | Medium |
@@ -1013,6 +1014,7 @@
 | [1920-build-array-from-permutation](https://github.com/imrajeevnayan/leetcode-solution/tree/main/1920-build-array-from-permutation/) | Easy |
 | [2221-find-triangular-sum-of-an-array](https://github.com/imrajeevnayan/leetcode-solution/tree/main/2221-find-triangular-sum-of-an-array/) | Medium |
 | [2243-calculate-digit-sum-of-a-string](https://github.com/imrajeevnayan/leetcode-solution/tree/main/2243-calculate-digit-sum-of-a-string/) | Easy |
+| [2293-min-max-game](https://github.com/imrajeevnayan/leetcode-solution/tree/main/2293-min-max-game/) | Easy |
 | [2482-difference-between-ones-and-zeros-in-row-and-column](https://github.com/imrajeevnayan/leetcode-solution/tree/main/2482-difference-between-ones-and-zeros-in-row-and-column/) | Medium |
 | [2810-faulty-keyboard](https://github.com/imrajeevnayan/leetcode-solution/tree/main/2810-faulty-keyboard/) | Easy |
 | [2974-minimum-number-game](https://github.com/imrajeevnayan/leetcode-solution/tree/main/2974-minimum-number-game/) | Easy |
