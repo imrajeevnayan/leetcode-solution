@@ -158,6 +158,7 @@
 | [2094-finding-3-digit-even-numbers](https://github.com/imrajeevnayan/leetcode-solution/tree/main/2094-finding-3-digit-even-numbers/) | Easy |
 | [2176-count-equal-and-divisible-pairs-in-an-array](https://github.com/imrajeevnayan/leetcode-solution/tree/main/2176-count-equal-and-divisible-pairs-in-an-array/) | Easy |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/imrajeevnayan/leetcode-solution/tree/main/2213-longest-substring-of-one-repeating-character/) | Hard |
+| [2221-find-triangular-sum-of-an-array](https://github.com/imrajeevnayan/leetcode-solution/tree/main/2221-find-triangular-sum-of-an-array/) | Medium |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/imrajeevnayan/leetcode-solution/tree/main/2267-check-if-there-is-a-valid-parentheses-string-path/) | Hard |
 | [2300-successful-pairs-of-spells-and-potions](https://github.com/imrajeevnayan/leetcode-solution/tree/main/2300-successful-pairs-of-spells-and-potions/) | Medium |
 | [2333-minimum-sum-of-squared-difference](https://github.com/imrajeevnayan/leetcode-solution/tree/main/2333-minimum-sum-of-squared-difference/) | Medium |
@@ -850,6 +851,7 @@
 | [1872-stone-game-viii](https://github.com/imrajeevnayan/leetcode-solution/tree/main/1872-stone-game-viii/) | Hard |
 | [1927-sum-game](https://github.com/imrajeevnayan/leetcode-solution/tree/main/1927-sum-game/) | Medium |
 | [2160-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/imrajeevnayan/leetcode-solution/tree/main/2160-minimum-sum-of-four-digit-number-after-splitting-digits/) | Easy |
+| [2221-find-triangular-sum-of-an-array](https://github.com/imrajeevnayan/leetcode-solution/tree/main/2221-find-triangular-sum-of-an-array/) | Medium |
 | [2235-add-two-integers](https://github.com/imrajeevnayan/leetcode-solution/tree/main/2235-add-two-integers/) | Easy |
 | [2364-count-number-of-bad-pairs](https://github.com/imrajeevnayan/leetcode-solution/tree/main/2364-count-number-of-bad-pairs/) | Medium |
 | [2409-count-days-spent-together](https://github.com/imrajeevnayan/leetcode-solution/tree/main/2409-count-days-spent-together/) | Easy |
@@ -1009,6 +1011,7 @@
 | [1606-find-servers-that-handled-most-number-of-requests](https://github.com/imrajeevnayan/leetcode-solution/tree/main/1606-find-servers-that-handled-most-number-of-requests/) | Hard |
 | [1688-count-of-matches-in-tournament](https://github.com/imrajeevnayan/leetcode-solution/tree/main/1688-count-of-matches-in-tournament/) | Easy |
 | [1920-build-array-from-permutation](https://github.com/imrajeevnayan/leetcode-solution/tree/main/1920-build-array-from-permutation/) | Easy |
+| [2221-find-triangular-sum-of-an-array](https://github.com/imrajeevnayan/leetcode-solution/tree/main/2221-find-triangular-sum-of-an-array/) | Medium |
 | [2243-calculate-digit-sum-of-a-string](https://github.com/imrajeevnayan/leetcode-solution/tree/main/2243-calculate-digit-sum-of-a-string/) | Easy |
 | [2482-difference-between-ones-and-zeros-in-row-and-column](https://github.com/imrajeevnayan/leetcode-solution/tree/main/2482-difference-between-ones-and-zeros-in-row-and-column/) | Medium |
 | [2810-faulty-keyboard](https://github.com/imrajeevnayan/leetcode-solution/tree/main/2810-faulty-keyboard/) | Easy |
@@ -1172,12 +1175,14 @@
 | [0062-unique-paths](https://github.com/imrajeevnayan/leetcode-solution/tree/main/0062-unique-paths/) | Medium |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/imrajeevnayan/leetcode-solution/tree/main/1569-number-of-ways-to-reorder-array-to-get-same-bst/) | Hard |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/imrajeevnayan/leetcode-solution/tree/main/1863-sum-of-all-subset-xor-totals/) | Easy |
+| [2221-find-triangular-sum-of-an-array](https://github.com/imrajeevnayan/leetcode-solution/tree/main/2221-find-triangular-sum-of-an-array/) | Medium |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/imrajeevnayan/leetcode-solution/tree/main/3116-kth-smallest-amount-with-single-denomination-combination/) | Hard |
 | [3461-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/imrajeevnayan/leetcode-solution/tree/main/3461-check-if-digits-are-equal-in-string-after-operations-i/) | Easy |
 ## Number Theory
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0204-count-primes](https://github.com/imrajeevnayan/leetcode-solution/tree/main/0204-count-primes/) | Medium |
+| [2221-find-triangular-sum-of-an-array](https://github.com/imrajeevnayan/leetcode-solution/tree/main/2221-find-triangular-sum-of-an-array/) | Medium |
 | [2614-prime-in-diagonal](https://github.com/imrajeevnayan/leetcode-solution/tree/main/2614-prime-in-diagonal/) | Easy |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/imrajeevnayan/leetcode-solution/tree/main/3116-kth-smallest-amount-with-single-denomination-combination/) | Hard |
 | [3461-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/imrajeevnayan/leetcode-solution/tree/main/3461-check-if-digits-are-equal-in-string-after-operations-i/) | Easy |
