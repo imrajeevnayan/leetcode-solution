@@ -786,6 +786,7 @@
 | [2810-faulty-keyboard](https://github.com/imrajeevnayan/leetcode-solution/tree/main/2810-faulty-keyboard/) | Easy |
 | [2864-maximum-odd-binary-number](https://github.com/imrajeevnayan/leetcode-solution/tree/main/2864-maximum-odd-binary-number/) | Easy |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/imrajeevnayan/leetcode-solution/tree/main/2904-shortest-and-lexicographically-smallest-beautiful-string/) | Medium |
+| [2914-minimum-number-of-changes-to-make-binary-string-beautiful](https://github.com/imrajeevnayan/leetcode-solution/tree/main/2914-minimum-number-of-changes-to-make-binary-string-beautiful/) | Medium |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/imrajeevnayan/leetcode-solution/tree/main/3090-maximum-length-substring-with-two-occurrences/) | Easy |
 | [3110-score-of-a-string](https://github.com/imrajeevnayan/leetcode-solution/tree/main/3110-score-of-a-string/) | Easy |
 | [3330-find-the-original-typed-string-i](https://github.com/imrajeevnayan/leetcode-solution/tree/main/3330-find-the-original-typed-string-i/) | Easy |
