@@ -176,6 +176,7 @@
 | [2545-sort-the-students-by-their-kth-score](https://github.com/imrajeevnayan/leetcode-solution/tree/main/2545-sort-the-students-by-their-kth-score/) | Medium |
 | [2559-count-vowel-strings-in-ranges](https://github.com/imrajeevnayan/leetcode-solution/tree/main/2559-count-vowel-strings-in-ranges/) | Medium |
 | [2560-house-robber-iv](https://github.com/imrajeevnayan/leetcode-solution/tree/main/2560-house-robber-iv/) | Medium |
+| [2567-minimum-score-by-changing-two-elements](https://github.com/imrajeevnayan/leetcode-solution/tree/main/2567-minimum-score-by-changing-two-elements/) | Medium |
 | [2614-prime-in-diagonal](https://github.com/imrajeevnayan/leetcode-solution/tree/main/2614-prime-in-diagonal/) | Easy |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/imrajeevnayan/leetcode-solution/tree/main/2657-find-the-prefix-common-array-of-two-arrays/) | Medium |
 | [2747-count-zero-request-servers](https://github.com/imrajeevnayan/leetcode-solution/tree/main/2747-count-zero-request-servers/) | Medium |
@@ -398,6 +399,7 @@
 | [2333-minimum-sum-of-squared-difference](https://github.com/imrajeevnayan/leetcode-solution/tree/main/2333-minimum-sum-of-squared-difference/) | Medium |
 | [2465-number-of-distinct-averages](https://github.com/imrajeevnayan/leetcode-solution/tree/main/2465-number-of-distinct-averages/) | Easy |
 | [2545-sort-the-students-by-their-kth-score](https://github.com/imrajeevnayan/leetcode-solution/tree/main/2545-sort-the-students-by-their-kth-score/) | Medium |
+| [2567-minimum-score-by-changing-two-elements](https://github.com/imrajeevnayan/leetcode-solution/tree/main/2567-minimum-score-by-changing-two-elements/) | Medium |
 | [2747-count-zero-request-servers](https://github.com/imrajeevnayan/leetcode-solution/tree/main/2747-count-zero-request-servers/) | Medium |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/imrajeevnayan/leetcode-solution/tree/main/2824-count-pairs-whose-sum-is-less-than-target/) | Easy |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/imrajeevnayan/leetcode-solution/tree/main/2948-make-lexicographically-smallest-array-by-swapping-elements/) | Medium |
@@ -945,6 +947,7 @@
 | [2333-minimum-sum-of-squared-difference](https://github.com/imrajeevnayan/leetcode-solution/tree/main/2333-minimum-sum-of-squared-difference/) | Medium |
 | [2405-optimal-partition-of-string](https://github.com/imrajeevnayan/leetcode-solution/tree/main/2405-optimal-partition-of-string/) | Medium |
 | [2560-house-robber-iv](https://github.com/imrajeevnayan/leetcode-solution/tree/main/2560-house-robber-iv/) | Medium |
+| [2567-minimum-score-by-changing-two-elements](https://github.com/imrajeevnayan/leetcode-solution/tree/main/2567-minimum-score-by-changing-two-elements/) | Medium |
 | [2864-maximum-odd-binary-number](https://github.com/imrajeevnayan/leetcode-solution/tree/main/2864-maximum-odd-binary-number/) | Easy |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/imrajeevnayan/leetcode-solution/tree/main/3720-lexicographically-smallest-permutation-greater-than-target/) | Medium |
 | [3723-maximize-sum-of-squares-of-digits](https://github.com/imrajeevnayan/leetcode-solution/tree/main/3723-maximize-sum-of-squares-of-digits/) | Medium |
