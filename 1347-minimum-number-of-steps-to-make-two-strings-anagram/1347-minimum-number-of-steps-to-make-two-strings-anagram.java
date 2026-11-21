@@ -9,9 +9,7 @@ class Solution {
         int steps = 0;
 
         for (int x : count) {
-            if (x > 0) {
-                steps += x;
-            }
+            if (x > 0) steps += x;
         }
         return steps;
     }
