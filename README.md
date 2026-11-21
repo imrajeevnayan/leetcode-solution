@@ -200,6 +200,7 @@
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/imrajeevnayan/leetcode-solution/tree/main/3116-kth-smallest-amount-with-single-denomination-combination/) | Hard |
 | [3162-find-the-number-of-good-pairs-i](https://github.com/imrajeevnayan/leetcode-solution/tree/main/3162-find-the-number-of-good-pairs-i/) | Easy |
 | [3194-minimum-average-of-smallest-and-largest-elements](https://github.com/imrajeevnayan/leetcode-solution/tree/main/3194-minimum-average-of-smallest-and-largest-elements/) | Easy |
+| [3331-find-subtree-sizes-after-changes](https://github.com/imrajeevnayan/leetcode-solution/tree/main/3331-find-subtree-sizes-after-changes/) | Medium |
 | [3354-make-array-elements-equal-to-zero](https://github.com/imrajeevnayan/leetcode-solution/tree/main/3354-make-array-elements-equal-to-zero/) | Easy |
 | [3364-minimum-positive-sum-subarray](https://github.com/imrajeevnayan/leetcode-solution/tree/main/3364-minimum-positive-sum-subarray/) | Easy |
 | [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/imrajeevnayan/leetcode-solution/tree/main/3420-count-non-decreasing-subarrays-after-k-operations/) | Hard |
@@ -349,6 +350,7 @@
 | [3005-count-elements-with-maximum-frequency](https://github.com/imrajeevnayan/leetcode-solution/tree/main/3005-count-elements-with-maximum-frequency/) | Easy |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/imrajeevnayan/leetcode-solution/tree/main/3090-maximum-length-substring-with-two-occurrences/) | Easy |
 | [3162-find-the-number-of-good-pairs-i](https://github.com/imrajeevnayan/leetcode-solution/tree/main/3162-find-the-number-of-good-pairs-i/) | Easy |
+| [3331-find-subtree-sizes-after-changes](https://github.com/imrajeevnayan/leetcode-solution/tree/main/3331-find-subtree-sizes-after-changes/) | Medium |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/imrajeevnayan/leetcode-solution/tree/main/3471-find-the-largest-almost-missing-integer/) | Easy |
 | [3483-unique-3-digit-even-numbers](https://github.com/imrajeevnayan/leetcode-solution/tree/main/3483-unique-3-digit-even-numbers/) | Easy |
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/imrajeevnayan/leetcode-solution/tree/main/3505-minimum-operations-to-make-elements-within-k-subarrays-equal/) | Hard |
@@ -514,6 +516,7 @@
 | [1372-longest-zigzag-path-in-a-binary-tree](https://github.com/imrajeevnayan/leetcode-solution/tree/main/1372-longest-zigzag-path-in-a-binary-tree/) | Medium |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/imrajeevnayan/leetcode-solution/tree/main/1448-count-good-nodes-in-binary-tree/) | Medium |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/imrajeevnayan/leetcode-solution/tree/main/1569-number-of-ways-to-reorder-array-to-get-same-bst/) | Hard |
+| [3331-find-subtree-sizes-after-changes](https://github.com/imrajeevnayan/leetcode-solution/tree/main/3331-find-subtree-sizes-after-changes/) | Medium |
 ## Monotonic Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -799,6 +802,7 @@
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/imrajeevnayan/leetcode-solution/tree/main/3090-maximum-length-substring-with-two-occurrences/) | Easy |
 | [3110-score-of-a-string](https://github.com/imrajeevnayan/leetcode-solution/tree/main/3110-score-of-a-string/) | Easy |
 | [3330-find-the-original-typed-string-i](https://github.com/imrajeevnayan/leetcode-solution/tree/main/3330-find-the-original-typed-string-i/) | Easy |
+| [3331-find-subtree-sizes-after-changes](https://github.com/imrajeevnayan/leetcode-solution/tree/main/3331-find-subtree-sizes-after-changes/) | Medium |
 | [3340-check-balanced-string](https://github.com/imrajeevnayan/leetcode-solution/tree/main/3340-check-balanced-string/) | Easy |
 | [3407-substring-matching-pattern](https://github.com/imrajeevnayan/leetcode-solution/tree/main/3407-substring-matching-pattern/) | Easy |
 | [3461-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/imrajeevnayan/leetcode-solution/tree/main/3461-check-if-digits-are-equal-in-string-after-operations-i/) | Easy |
@@ -1283,6 +1287,7 @@
 | [1372-longest-zigzag-path-in-a-binary-tree](https://github.com/imrajeevnayan/leetcode-solution/tree/main/1372-longest-zigzag-path-in-a-binary-tree/) | Medium |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/imrajeevnayan/leetcode-solution/tree/main/1448-count-good-nodes-in-binary-tree/) | Medium |
 | [1971-find-if-path-exists-in-graph](https://github.com/imrajeevnayan/leetcode-solution/tree/main/1971-find-if-path-exists-in-graph/) | Easy |
+| [3331-find-subtree-sizes-after-changes](https://github.com/imrajeevnayan/leetcode-solution/tree/main/3331-find-subtree-sizes-after-changes/) | Medium |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/imrajeevnayan/leetcode-solution/tree/main/3619-count-islands-with-total-value-divisible-by-k/) | Medium |
 ## Breadth-First Search
 | Problem Name | Difficulty |
