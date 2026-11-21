@@ -333,6 +333,7 @@
 | [1915-number-of-wonderful-substrings](https://github.com/imrajeevnayan/leetcode-solution/tree/main/1915-number-of-wonderful-substrings/) | Medium |
 | [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/imrajeevnayan/leetcode-solution/tree/main/2006-count-number-of-pairs-with-absolute-difference-k/) | Easy |
 | [2094-finding-3-digit-even-numbers](https://github.com/imrajeevnayan/leetcode-solution/tree/main/2094-finding-3-digit-even-numbers/) | Easy |
+| [2186-minimum-number-of-steps-to-make-two-strings-anagram-ii](https://github.com/imrajeevnayan/leetcode-solution/tree/main/2186-minimum-number-of-steps-to-make-two-strings-anagram-ii/) | Medium |
 | [2325-decode-the-message](https://github.com/imrajeevnayan/leetcode-solution/tree/main/2325-decode-the-message/) | Easy |
 | [2364-count-number-of-bad-pairs](https://github.com/imrajeevnayan/leetcode-solution/tree/main/2364-count-number-of-bad-pairs/) | Medium |
 | [2395-find-subarrays-with-equal-sum](https://github.com/imrajeevnayan/leetcode-solution/tree/main/2395-find-subarrays-with-equal-sum/) | Easy |
@@ -793,6 +794,7 @@
 | [1927-sum-game](https://github.com/imrajeevnayan/leetcode-solution/tree/main/1927-sum-game/) | Medium |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/imrajeevnayan/leetcode-solution/tree/main/1967-number-of-strings-that-appear-as-substrings-in-word/) | Easy |
 | [2129-capitalize-the-title](https://github.com/imrajeevnayan/leetcode-solution/tree/main/2129-capitalize-the-title/) | Easy |
+| [2186-minimum-number-of-steps-to-make-two-strings-anagram-ii](https://github.com/imrajeevnayan/leetcode-solution/tree/main/2186-minimum-number-of-steps-to-make-two-strings-anagram-ii/) | Medium |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/imrajeevnayan/leetcode-solution/tree/main/2213-longest-substring-of-one-repeating-character/) | Hard |
 | [2243-calculate-digit-sum-of-a-string](https://github.com/imrajeevnayan/leetcode-solution/tree/main/2243-calculate-digit-sum-of-a-string/) | Easy |
 | [2325-decode-the-message](https://github.com/imrajeevnayan/leetcode-solution/tree/main/2325-decode-the-message/) | Easy |
@@ -990,6 +992,7 @@
 | [1726-tuple-with-same-product](https://github.com/imrajeevnayan/leetcode-solution/tree/main/1726-tuple-with-same-product/) | Medium |
 | [1814-count-nice-pairs-in-an-array](https://github.com/imrajeevnayan/leetcode-solution/tree/main/1814-count-nice-pairs-in-an-array/) | Medium |
 | [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/imrajeevnayan/leetcode-solution/tree/main/2006-count-number-of-pairs-with-absolute-difference-k/) | Easy |
+| [2186-minimum-number-of-steps-to-make-two-strings-anagram-ii](https://github.com/imrajeevnayan/leetcode-solution/tree/main/2186-minimum-number-of-steps-to-make-two-strings-anagram-ii/) | Medium |
 | [2364-count-number-of-bad-pairs](https://github.com/imrajeevnayan/leetcode-solution/tree/main/2364-count-number-of-bad-pairs/) | Medium |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/imrajeevnayan/leetcode-solution/tree/main/2529-maximum-count-of-positive-integer-and-negative-integer/) | Easy |
 | [2981-find-longest-special-substring-that-occurs-thrice-i](https://github.com/imrajeevnayan/leetcode-solution/tree/main/2981-find-longest-special-substring-that-occurs-thrice-i/) | Medium |
