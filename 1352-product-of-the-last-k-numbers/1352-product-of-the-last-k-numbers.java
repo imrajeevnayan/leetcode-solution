@@ -8,22 +8,18 @@ class ProductOfNumbers {
     }
 
     public void add(int num) {
-
         if (num == 0) {
-            // zero aaya to sab reset
             prefix.clear();
             prefix.add(1);
         } else {
-            int last = prefix.get(prefix.size() - 1);
-            prefix.add(last * num);
+            prefix.add(prefix.get(prefix.size() - 1) * num);
         }
     }
 
     public int getProduct(int k) {
-
         int n = prefix.size();
 
-        // agar last k elements me zero hai
+        // If k is larger than numbers stored after last zero
         if (k >= n) {
             return 0;
         }
