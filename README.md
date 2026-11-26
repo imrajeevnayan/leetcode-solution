@@ -890,6 +890,7 @@
 | [2614-prime-in-diagonal](https://github.com/imrajeevnayan/leetcode-solution/tree/main/2614-prime-in-diagonal/) | Easy |
 | [2864-maximum-odd-binary-number](https://github.com/imrajeevnayan/leetcode-solution/tree/main/2864-maximum-odd-binary-number/) | Easy |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/imrajeevnayan/leetcode-solution/tree/main/3116-kth-smallest-amount-with-single-denomination-combination/) | Hard |
+| [3360-stone-removal-game](https://github.com/imrajeevnayan/leetcode-solution/tree/main/3360-stone-removal-game/) | Easy |
 | [3411-maximum-subarray-with-equal-products](https://github.com/imrajeevnayan/leetcode-solution/tree/main/3411-maximum-subarray-with-equal-products/) | Easy |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/imrajeevnayan/leetcode-solution/tree/main/3432-count-partitions-with-even-sum-difference/) | Easy |
 | [3461-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/imrajeevnayan/leetcode-solution/tree/main/3461-check-if-digits-are-equal-in-string-after-operations-i/) | Easy |
@@ -1056,6 +1057,7 @@
 | [2974-minimum-number-game](https://github.com/imrajeevnayan/leetcode-solution/tree/main/2974-minimum-number-game/) | Easy |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/imrajeevnayan/leetcode-solution/tree/main/3069-distribute-elements-into-two-arrays-i/) | Easy |
 | [3354-make-array-elements-equal-to-zero](https://github.com/imrajeevnayan/leetcode-solution/tree/main/3354-make-array-elements-equal-to-zero/) | Easy |
+| [3360-stone-removal-game](https://github.com/imrajeevnayan/leetcode-solution/tree/main/3360-stone-removal-game/) | Easy |
 | [3461-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/imrajeevnayan/leetcode-solution/tree/main/3461-check-if-digits-are-equal-in-string-after-operations-i/) | Easy |
 | [3477-fruits-into-baskets-ii](https://github.com/imrajeevnayan/leetcode-solution/tree/main/3477-fruits-into-baskets-ii/) | Easy |
 | [3498-reverse-degree-of-a-string](https://github.com/imrajeevnayan/leetcode-solution/tree/main/3498-reverse-degree-of-a-string/) | Easy |
