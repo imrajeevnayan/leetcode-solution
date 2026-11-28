@@ -226,6 +226,7 @@
 | [3934-smallest-unique-subarray](https://github.com/imrajeevnayan/leetcode-solution/tree/main/3934-smallest-unique-subarray/) | Hard |
 | [3942-minimum-operations-to-sort-a-permutation](https://github.com/imrajeevnayan/leetcode-solution/tree/main/3942-minimum-operations-to-sort-a-permutation/) | Medium |
 | [3946-maximum-number-of-items-from-sale-i](https://github.com/imrajeevnayan/leetcode-solution/tree/main/3946-maximum-number-of-items-from-sale-i/) | Medium |
+| [3947-maximum-number-of-items-from-sale-ii](https://github.com/imrajeevnayan/leetcode-solution/tree/main/3947-maximum-number-of-items-from-sale-ii/) | Medium |
 ## Bit Manipulation
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -420,6 +421,7 @@
 | [3194-minimum-average-of-smallest-and-largest-elements](https://github.com/imrajeevnayan/leetcode-solution/tree/main/3194-minimum-average-of-smallest-and-largest-elements/) | Easy |
 | [3467-transform-array-by-parity](https://github.com/imrajeevnayan/leetcode-solution/tree/main/3467-transform-array-by-parity/) | Easy |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/imrajeevnayan/leetcode-solution/tree/main/3727-maximum-alternating-sum-of-squares/) | Medium |
+| [3947-maximum-number-of-items-from-sale-ii](https://github.com/imrajeevnayan/leetcode-solution/tree/main/3947-maximum-number-of-items-from-sale-ii/) | Medium |
 ## Divide and Conquer
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -982,6 +984,7 @@
 | [3727-maximum-alternating-sum-of-squares](https://github.com/imrajeevnayan/leetcode-solution/tree/main/3727-maximum-alternating-sum-of-squares/) | Medium |
 | [3789-minimum-cost-to-acquire-required-items](https://github.com/imrajeevnayan/leetcode-solution/tree/main/3789-minimum-cost-to-acquire-required-items/) | Medium |
 | [3946-maximum-number-of-items-from-sale-i](https://github.com/imrajeevnayan/leetcode-solution/tree/main/3946-maximum-number-of-items-from-sale-i/) | Medium |
+| [3947-maximum-number-of-items-from-sale-ii](https://github.com/imrajeevnayan/leetcode-solution/tree/main/3947-maximum-number-of-items-from-sale-ii/) | Medium |
 ## Merge Sort
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -1214,6 +1217,7 @@
 | [2974-minimum-number-game](https://github.com/imrajeevnayan/leetcode-solution/tree/main/2974-minimum-number-game/) | Easy |
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/imrajeevnayan/leetcode-solution/tree/main/3505-minimum-operations-to-make-elements-within-k-subarrays-equal/) | Hard |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/imrajeevnayan/leetcode-solution/tree/main/3507-minimum-pair-removal-to-sort-array-i/) | Easy |
+| [3947-maximum-number-of-items-from-sale-ii](https://github.com/imrajeevnayan/leetcode-solution/tree/main/3947-maximum-number-of-items-from-sale-ii/) | Medium |
 ## Combinatorics
 | Problem Name | Difficulty |
 | ------- | ------- |
